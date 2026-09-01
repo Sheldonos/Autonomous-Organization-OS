@@ -1,0 +1,27 @@
+{
+  "pocket": "procureos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-purchase-order-specialist",
+    "procurement-contract-handoff-specialist",
+    "procurement-manage-purchase-orders",
+    "procurement-purchase-order-change-triage",
+    "procurement-three-way-match-resolution",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-monitor-supplier-performance",
+    "procurement-off-contract-spend-analysis",
+    "procurement-invoice-exception-analysis",
+    "procurement-draft-and-negotiate-contract",
+    "procurement-purchase-approval-routing",
+    "procurement-purchase-requisition-compliance",
+    "procurement-contract-renewal-readiness",
+    "procurement-price-variance-investigation",
+    "procurement-contract-obligation-extraction",
+    "sales-procurement-onboarding",
+    "supply-chain-inbound-receiving",
+    "supply-chain-purchase-order-management"
+  ]
+}

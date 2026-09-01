@@ -1,0 +1,27 @@
+{
+  "pocket": "workforceos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-map-occupational-competencies",
+    "education-support-career-transition",
+    "agency-operations-engagement-closeout",
+    "ibm-bob-ads-setup",
+    "watsonx-ai-credential-requirements",
+    "people-benefits-enrollment-readiness",
+    "people-employee-relations-evidence",
+    "people-leave-case-preparation",
+    "people-mobility-case-readiness",
+    "people-onboarding-readiness-assessment",
+    "people-ethics-training-completion-review",
+    "people-accommodation-handoff-preparation",
+    "people-exit-readiness-check",
+    "automation-secrets-credential-reviewer",
+    "people-learning-development",
+    "people-performance-management",
+    "people-learning-needs-analysis",
+    "people-offboarding-workforce-transition",
+    "education-manage-credentials-records",
+    "people-headcount-control-check"
+  ]
+}

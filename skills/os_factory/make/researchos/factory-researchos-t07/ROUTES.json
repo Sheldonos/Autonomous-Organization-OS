@@ -1,0 +1,27 @@
+{
+  "pocket": "researchos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "research-search-strategy-design",
+    "research-living-review-monitoring",
+    "research-protocol-preregistration",
+    "research-question-framing",
+    "research-certainty-assessment",
+    "research-data-extraction",
+    "research-evidence-mapping",
+    "research-evidence-retrieval",
+    "research-evidence-to-decision",
+    "research-meta-analysis",
+    "research-qualitative-synthesis",
+    "research-risk-of-bias-appraisal",
+    "research-screening-and-selection",
+    "research-synthesis-method-selection",
+    "research-transparent-reporting",
+    "data-strategy-analytics-insight-synthesis",
+    "intelligence-collect-source-metadata",
+    "intelligence-discover-public-sources",
+    "intelligence-evaluate-source-credibility",
+    "intelligence-preserve-data-provenance"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "pocket": "mandaos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Target discovery Team",
+      "stage": 1,
+      "responsibility": "Target discovery",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Strategic screen Team",
+      "stage": 2,
+      "responsibility": "Strategic screen",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Approach & NDA Team",
+      "stage": 3,
+      "responsibility": "Approach & NDA",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Diligence Team",
+      "stage": 4,
+      "responsibility": "Diligence",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Valuation & synergy Team",
+      "stage": 5,
+      "responsibility": "Valuation & synergy",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Risk & approvals Team",
+      "stage": 6,
+      "responsibility": "Risk & approvals",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Transaction planning Team",
+      "stage": 7,
+      "responsibility": "Transaction planning",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Integration handoff Team",
+      "stage": 8,
+      "responsibility": "Integration handoff",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

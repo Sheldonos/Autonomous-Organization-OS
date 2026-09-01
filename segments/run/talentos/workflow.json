@@ -1,0 +1,53 @@
+{
+  "pocket": "talentos",
+  "stages": [
+    {
+      "order": 1,
+      "name": "Strategic workforce demand",
+      "team_id": "t01",
+      "gate": "assurance"
+    },
+    {
+      "order": 2,
+      "name": "Capability inventory",
+      "team_id": "t02",
+      "gate": "assurance"
+    },
+    {
+      "order": 3,
+      "name": "Gap analysis",
+      "team_id": "t03",
+      "gate": "assurance"
+    },
+    {
+      "order": 4,
+      "name": "Build/buy/borrow/automate decision",
+      "team_id": "t04",
+      "gate": "assurance"
+    },
+    {
+      "order": 5,
+      "name": "Development & mobility",
+      "team_id": "t05",
+      "gate": "assurance"
+    },
+    {
+      "order": 6,
+      "name": "Performance",
+      "team_id": "t06",
+      "gate": "assurance"
+    },
+    {
+      "order": 7,
+      "name": "Succession",
+      "team_id": "t07",
+      "gate": "assurance"
+    },
+    {
+      "order": 8,
+      "name": "Workforce outcomes",
+      "team_id": "t08",
+      "gate": "assurance"
+    }
+  ]
+}

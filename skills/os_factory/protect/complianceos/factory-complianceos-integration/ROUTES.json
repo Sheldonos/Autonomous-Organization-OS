@@ -1,0 +1,27 @@
+{
+  "pocket": "complianceos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "enterprise-loop-budget-controller",
+    "government-prioritize-public-investments",
+    "ibm-sales-ext-platform-incident-response",
+    "enterprise-skill-runtime-backing-auditor",
+    "enterprise-use-case-satisfaction-auditor",
+    "enterprise-human-remediation-instruction",
+    "ibm-sales-ext-platform-workflow-change-control",
+    "ibm-sales-ext-policy-region-residency",
+    "ibm-sales-ext-workflow-dead-letter-triage",
+    "ibm-sales-ext-workflow-idempotency-reconcile",
+    "ibm-sales-ext-workflow-retry-backoff",
+    "ibm-sales-ext-workflow-state-manager",
+    "sound-post",
+    "continuity_logic_audit",
+    "dialogue_voice_audit",
+    "genre_tone_audit",
+    "premise_theme_audit",
+    "revision_regression_audit",
+    "scene_function_audit",
+    "screen_direction_axis_control"
+  ]
+}

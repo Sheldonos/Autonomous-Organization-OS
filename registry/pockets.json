@@ -1,0 +1,2062 @@
+{
+  "acceleratoros": {
+    "id": "acceleratoros",
+    "title": "AcceleratorOS",
+    "segment": "learn",
+    "mission": "Operate venture or talent accelerators from cohort sourcing through curriculum, mentorship, milestones, demo, and alumni outcomes.",
+    "keywords": [
+      "accelerator",
+      "cohort",
+      "startup program",
+      "mentor",
+      "demo day",
+      "curriculum",
+      "founder",
+      "incubator",
+      "milestone"
+    ],
+    "workflow": [
+      "Program thesis",
+      "Cohort sourcing",
+      "Selection",
+      "Curriculum & mentor matching",
+      "Milestones",
+      "Office hours & interventions",
+      "Demo/placement",
+      "Alumni outcomes"
+    ],
+    "handoffs": [
+      "ventureos",
+      "learningos",
+      "dealos",
+      "fundraiseos"
+    ],
+    "connectors": [
+      "applications",
+      "lms",
+      "crm",
+      "calendar",
+      "analytics"
+    ],
+    "aliases": []
+  },
+  "agencyos": {
+    "id": "agencyos",
+    "title": "AgencyOS",
+    "segment": "create",
+    "mission": "Run a multi-client creative, marketing, product, or technology agency from pipeline through delivery, margin, and retention.",
+    "keywords": [
+      "agency",
+      "client services",
+      "campaign",
+      "creative",
+      "account management",
+      "retainer",
+      "scope",
+      "delivery",
+      "utilization",
+      "margin"
+    ],
+    "workflow": [
+      "Pipeline & qualification",
+      "Discovery",
+      "Scope & pricing",
+      "Staffing",
+      "Delivery",
+      "Client review",
+      "Billing & margin",
+      "Retention & expansion"
+    ],
+    "handoffs": [
+      "dealos",
+      "consultingos",
+      "pmoos",
+      "brandos",
+      "revenueos"
+    ],
+    "connectors": [
+      "crm",
+      "project_mgmt",
+      "time_tracking",
+      "billing",
+      "asset_store"
+    ],
+    "aliases": []
+  },
+  "bidos": {
+    "id": "bidos",
+    "title": "BidOS",
+    "segment": "sell",
+    "mission": "Find and win structured opportunities such as RFPs, RFIs, RFQs, grants, prizes, and procurement competitions.",
+    "keywords": [
+      "rfp",
+      "rfi",
+      "rfq",
+      "bid",
+      "proposal",
+      "tender",
+      "procurement",
+      "compliance matrix",
+      "submission",
+      "award",
+      "grant",
+      "response"
+    ],
+    "workflow": [
+      "Opportunity intake",
+      "Eligibility & fit",
+      "Requirement extraction",
+      "Compliance matrix",
+      "Solution & win strategy",
+      "Pricing & approvals",
+      "Submission assembly",
+      "Submission & follow-up",
+      "Award transition"
+    ],
+    "handoffs": [
+      "dealos",
+      "researchos",
+      "pricingos",
+      "legalos",
+      "grantos"
+    ],
+    "connectors": [
+      "opportunity_feeds",
+      "document_store",
+      "calendar",
+      "crm",
+      "e_signature"
+    ],
+    "aliases": []
+  },
+  "boardos": {
+    "id": "boardos",
+    "title": "BoardOS",
+    "segment": "run",
+    "mission": "Prepare board governance, decision materials, action tracking, risk visibility, and institutional memory.",
+    "keywords": [
+      "board",
+      "governance",
+      "director",
+      "committee",
+      "minutes",
+      "resolution",
+      "board packet",
+      "decision",
+      "oversight"
+    ],
+    "workflow": [
+      "Agenda & governance calendar",
+      "Information request",
+      "Board packet",
+      "Risk & performance synthesis",
+      "Decision preparation",
+      "Meeting/minutes",
+      "Action tracking",
+      "Governance archive"
+    ],
+    "handoffs": [
+      "executiveos",
+      "enterpriseos",
+      "riskos",
+      "capitalos"
+    ],
+    "connectors": [
+      "calendar",
+      "document_store",
+      "e_signature",
+      "analytics"
+    ],
+    "aliases": []
+  },
+  "brandos": {
+    "id": "brandos",
+    "title": "BrandOS",
+    "segment": "create",
+    "mission": "Maintain brand positioning, identity, messaging, asset governance, campaigns, and brand performance.",
+    "keywords": [
+      "brand",
+      "positioning",
+      "identity",
+      "messaging",
+      "creative",
+      "campaign",
+      "design system",
+      "guidelines",
+      "reputation",
+      "communications"
+    ],
+    "workflow": [
+      "Brand intelligence",
+      "Positioning",
+      "Messaging system",
+      "Identity & asset governance",
+      "Campaign briefs",
+      "Creative QA",
+      "Distribution",
+      "Brand measurement"
+    ],
+    "handoffs": [
+      "mediaos",
+      "creatoros",
+      "revenueos",
+      "agencyos"
+    ],
+    "connectors": [
+      "asset_store",
+      "social",
+      "marketing_automation",
+      "analytics",
+      "document_store"
+    ],
+    "aliases": []
+  },
+  "buildos": {
+    "id": "buildos",
+    "title": "BuildOS",
+    "segment": "make",
+    "mission": "Translate product intent into secure, tested, deployed, observable software and digital systems.",
+    "keywords": [
+      "engineering",
+      "software",
+      "developer",
+      "architecture",
+      "product",
+      "frontend",
+      "backend",
+      "api",
+      "database",
+      "devops",
+      "sre",
+      "qa",
+      "testing",
+      "release",
+      "deployment"
+    ],
+    "workflow": [
+      "Product requirements",
+      "Architecture",
+      "Work decomposition",
+      "Implementation",
+      "Automated testing",
+      "Security review",
+      "Release & deployment",
+      "Telemetry & repair"
+    ],
+    "handoffs": [
+      "securityos",
+      "launchos",
+      "pmoos",
+      "researchos"
+    ],
+    "connectors": [
+      "code_host",
+      "ci_cd",
+      "cloud",
+      "observability",
+      "artifact_registry",
+      "issue_tracker"
+    ],
+    "aliases": []
+  },
+  "capitalos": {
+    "id": "capitalos",
+    "title": "CapitalOS",
+    "segment": "invest",
+    "mission": "Operate investment research and portfolio intelligence from thesis through diligence, IC decision, and monitoring.",
+    "keywords": [
+      "investment",
+      "capital",
+      "portfolio",
+      "valuation",
+      "financial model",
+      "diligence",
+      "equity",
+      "market",
+      "returns",
+      "investment committee"
+    ],
+    "workflow": [
+      "Mandate & thesis",
+      "Market screen",
+      "Company/asset research",
+      "Financial model",
+      "Diligence",
+      "Scenario & risk",
+      "IC memo",
+      "Portfolio monitoring"
+    ],
+    "handoffs": [
+      "researchos",
+      "riskos",
+      "corpdevos",
+      "fundos"
+    ],
+    "connectors": [
+      "market_data",
+      "financial_data",
+      "document_store",
+      "portfolio_system",
+      "data_warehouse"
+    ],
+    "aliases": []
+  },
+  "commerceos": {
+    "id": "commerceos",
+    "title": "CommerceOS",
+    "segment": "sell",
+    "mission": "Select, source, price, merchandise, sell, fulfill, and retain customers around products and digital commerce.",
+    "keywords": [
+      "commerce",
+      "ecommerce",
+      "retail",
+      "product",
+      "sku",
+      "merchandising",
+      "storefront",
+      "conversion",
+      "fulfillment",
+      "inventory",
+      "shop",
+      "checkout"
+    ],
+    "workflow": [
+      "Market & product discovery",
+      "Sourcing",
+      "Unit economics & pricing",
+      "Catalog & storefront",
+      "Content & acquisition",
+      "Conversion optimization",
+      "Fulfillment",
+      "Retention & merchandising loop"
+    ],
+    "handoffs": [
+      "supplyos",
+      "pricingos",
+      "revenueos",
+      "creatoros",
+      "brandos"
+    ],
+    "connectors": [
+      "storefront",
+      "payments",
+      "erp",
+      "inventory",
+      "analytics",
+      "marketing_automation"
+    ],
+    "aliases": []
+  },
+  "complianceos": {
+    "id": "complianceos",
+    "title": "ComplianceOS",
+    "segment": "protect",
+    "mission": "Translate obligations into controls, evidence, monitoring, remediation, attestations, and audit-ready reporting.",
+    "keywords": [
+      "compliance",
+      "control",
+      "regulation",
+      "evidence",
+      "audit",
+      "attestation",
+      "policy",
+      "obligation",
+      "monitoring",
+      "remediation"
+    ],
+    "workflow": [
+      "Obligation inventory",
+      "Control mapping",
+      "Evidence plan",
+      "Continuous monitoring",
+      "Exception detection",
+      "Remediation",
+      "Testing/attestation",
+      "Audit package"
+    ],
+    "handoffs": [
+      "riskos",
+      "legalos",
+      "securityos"
+    ],
+    "connectors": [
+      "grc",
+      "document_store",
+      "ticketing",
+      "identity",
+      "data_warehouse"
+    ],
+    "aliases": []
+  },
+  "consultingos": {
+    "id": "consultingos",
+    "title": "ConsultingOS",
+    "segment": "make",
+    "mission": "Run evidence-driven consulting engagements from discovery through implementation and outcome measurement.",
+    "keywords": [
+      "consulting",
+      "professional services",
+      "discovery",
+      "workshop",
+      "assessment",
+      "benchmark",
+      "recommendation",
+      "implementation",
+      "client",
+      "engagement",
+      "transformation"
+    ],
+    "workflow": [
+      "Engagement charter",
+      "Discovery",
+      "Data & interview intake",
+      "Diagnosis",
+      "Benchmarking",
+      "Solution design",
+      "Executive deliverable",
+      "Implementation PMO",
+      "Outcome measurement"
+    ],
+    "handoffs": [
+      "researchos",
+      "pmoos",
+      "buildos",
+      "revenueos"
+    ],
+    "connectors": [
+      "document_store",
+      "calendar",
+      "email",
+      "data_warehouse",
+      "project_mgmt"
+    ],
+    "aliases": []
+  },
+  "corpdevos": {
+    "id": "corpdevos",
+    "title": "CorpDevOS",
+    "segment": "invest",
+    "mission": "Evaluate and execute build/buy/partner/invest strategies for corporate growth and strategic capability acquisition.",
+    "keywords": [
+      "corporate development",
+      "corpdev",
+      "acquisition",
+      "investment",
+      "strategic partnership",
+      "build buy partner",
+      "synergy",
+      "target"
+    ],
+    "workflow": [
+      "Strategic gap",
+      "Build/buy/partner/invest analysis",
+      "Target universe",
+      "Screening",
+      "Diligence",
+      "Synergy & valuation",
+      "Executive decision",
+      "Transaction/partner handoff"
+    ],
+    "handoffs": [
+      "mandaos",
+      "capitalos",
+      "partnershipos",
+      "researchos"
+    ],
+    "connectors": [
+      "market_data",
+      "crm",
+      "document_store",
+      "financial_data"
+    ],
+    "aliases": []
+  },
+  "creatoros": {
+    "id": "creatoros",
+    "title": "CreatorOS",
+    "segment": "create",
+    "mission": "Turn a creator, artist, expert, or audience into a coordinated content, partnership, product, community, and revenue business.",
+    "keywords": [
+      "creator",
+      "influencer",
+      "artist",
+      "content",
+      "social",
+      "audience",
+      "sponsorship",
+      "merchandise",
+      "community",
+      "brand deal",
+      "licensing"
+    ],
+    "workflow": [
+      "Identity & audience intelligence",
+      "Editorial/content system",
+      "Production",
+      "Publishing",
+      "Audience growth",
+      "Partnerships",
+      "Products/commerce",
+      "Community",
+      "Revenue analytics"
+    ],
+    "handoffs": [
+      "mediaos",
+      "brandos",
+      "commerceos",
+      "dealos",
+      "revenueos"
+    ],
+    "connectors": [
+      "social",
+      "analytics",
+      "storefront",
+      "email",
+      "crm",
+      "asset_store"
+    ],
+    "aliases": []
+  },
+  "customeros": {
+    "id": "customeros",
+    "title": "CustomerOS",
+    "segment": "sell",
+    "mission": "Coordinate customer onboarding, service, success, adoption, retention, renewal, and expansion.",
+    "keywords": [
+      "customer",
+      "onboarding",
+      "success",
+      "support",
+      "adoption",
+      "retention",
+      "renewal",
+      "health score",
+      "experience",
+      "voice of customer"
+    ],
+    "workflow": [
+      "Customer intake",
+      "Onboarding",
+      "Adoption plan",
+      "Health monitoring",
+      "Support & issue resolution",
+      "Value realization",
+      "Renewal",
+      "Expansion & advocacy"
+    ],
+    "handoffs": [
+      "revenueos",
+      "dealos",
+      "buildos",
+      "customeros"
+    ],
+    "connectors": [
+      "crm",
+      "support_desk",
+      "product_analytics",
+      "billing",
+      "email"
+    ],
+    "aliases": []
+  },
+  "dealos": {
+    "id": "dealos",
+    "title": "DealOS",
+    "segment": "sell",
+    "mission": "Discover, qualify, pursue, negotiate, close, and operationalize profitable commercial opportunities.",
+    "keywords": [
+      "deal",
+      "opportunity",
+      "sales",
+      "lead",
+      "account",
+      "pipeline",
+      "proposal",
+      "negotiation",
+      "contract",
+      "outreach",
+      "partnership",
+      "close",
+      "revenue"
+    ],
+    "workflow": [
+      "Opportunity discovery",
+      "Qualification & scoring",
+      "Account research",
+      "Offer & solution fit",
+      "Outreach / response",
+      "Proposal & negotiation",
+      "Approval & close",
+      "Billing, relationship memory & expansion"
+    ],
+    "handoffs": [
+      "researchos",
+      "bidos",
+      "revenueos",
+      "consultingos",
+      "legalos",
+      "executiveos"
+    ],
+    "connectors": [
+      "gmail",
+      "google_calendar",
+      "google_drive",
+      "supabase",
+      "hunter",
+      "sam_gov",
+      "usaspending",
+      "docusign",
+      "stripe",
+      "n8n"
+    ],
+    "aliases": [
+      "deal os"
+    ]
+  },
+  "educationos": {
+    "id": "educationos",
+    "title": "EducationOS",
+    "segment": "learn",
+    "mission": "Operate personalized education from curriculum and instruction through assessment, mastery, safety, credentialing, and progression.",
+    "keywords": [
+      "education",
+      "learning",
+      "curriculum",
+      "student",
+      "teacher",
+      "assessment",
+      "mastery",
+      "lesson",
+      "pedagogy",
+      "credential",
+      "tutor"
+    ],
+    "workflow": [
+      "Learner/context intake",
+      "Curriculum mapping",
+      "Learning path",
+      "Instruction",
+      "Practice & feedback",
+      "Assessment",
+      "Mastery update",
+      "Credential/evidence",
+      "Progression & safety review"
+    ],
+    "handoffs": [
+      "learningos",
+      "universityos",
+      "workforceos"
+    ],
+    "connectors": [
+      "lms",
+      "sis",
+      "content_store",
+      "credentialing",
+      "analytics"
+    ],
+    "aliases": []
+  },
+  "enterpriseos": {
+    "id": "enterpriseos",
+    "title": "EnterpriseOS",
+    "segment": "run",
+    "mission": "Act as the federation control plane that senses organizational state, decomposes objectives, routes work, governs execution, and measures outcomes.",
+    "keywords": [
+      "enterprise",
+      "organization",
+      "operating model",
+      "strategy",
+      "portfolio",
+      "process",
+      "governance",
+      "orchestration",
+      "transformation",
+      "business capability"
+    ],
+    "workflow": [
+      "Organizational sensing",
+      "Objective decomposition",
+      "Capability & gap mapping",
+      "Pocket/team routing",
+      "Plan & approval graph",
+      "Execution coordination",
+      "Read-back verification",
+      "Outcome telemetry",
+      "Continuous improvement"
+    ],
+    "handoffs": [
+      "ventureos",
+      "researchos",
+      "buildos",
+      "innovationos",
+      "launchos",
+      "consultingos",
+      "patenttoproductos",
+      "labos",
+      "dealos",
+      "revenueos",
+      "bidos",
+      "commerceos",
+      "partnershipos",
+      "pricingos",
+      "customeros",
+      "grantos"
+    ],
+    "connectors": [
+      "erp",
+      "crm",
+      "hris",
+      "data_warehouse",
+      "identity",
+      "document_store",
+      "event_bus",
+      "observability"
+    ],
+    "aliases": []
+  },
+  "eventos": {
+    "id": "eventos",
+    "title": "EventOS",
+    "segment": "create",
+    "mission": "Design and operate events from concept and economics through speakers, sponsors, attendees, production, and post-event monetization.",
+    "keywords": [
+      "event",
+      "conference",
+      "speaker",
+      "sponsor",
+      "attendee",
+      "venue",
+      "production",
+      "ticket",
+      "agenda",
+      "experience"
+    ],
+    "workflow": [
+      "Event concept & economics",
+      "Venue/date",
+      "Program & speakers",
+      "Sponsors & partners",
+      "Audience acquisition",
+      "Production plan",
+      "Live operations",
+      "Follow-up & content",
+      "Event P&L learning"
+    ],
+    "handoffs": [
+      "dealos",
+      "brandos",
+      "mediaos",
+      "revenueos"
+    ],
+    "connectors": [
+      "ticketing",
+      "crm",
+      "email",
+      "calendar",
+      "payments",
+      "production_mgmt"
+    ],
+    "aliases": []
+  },
+  "executiveos": {
+    "id": "executiveos",
+    "title": "ExecutiveOS",
+    "segment": "run",
+    "mission": "Maintain executive situational awareness, decision queues, delegation, follow-through, and organizational memory.",
+    "keywords": [
+      "executive",
+      "chief of staff",
+      "decision",
+      "briefing",
+      "calendar",
+      "meeting",
+      "priority",
+      "delegation",
+      "strategy",
+      "leadership",
+      "board"
+    ],
+    "workflow": [
+      "Overnight/periodic sensing",
+      "Priority triage",
+      "Decision queue",
+      "Meeting intelligence",
+      "Delegation",
+      "Follow-up",
+      "Risk & commitment tracking",
+      "Executive brief"
+    ],
+    "handoffs": [
+      "enterpriseos",
+      "boardos",
+      "pmoos",
+      "researchos"
+    ],
+    "connectors": [
+      "email",
+      "calendar",
+      "documents",
+      "crm",
+      "analytics",
+      "project_mgmt"
+    ],
+    "aliases": []
+  },
+  "franchiseos": {
+    "id": "franchiseos",
+    "title": "FranchiseOS",
+    "segment": "run",
+    "mission": "Design, sell, launch, govern, and optimize a repeatable franchise operating network.",
+    "keywords": [
+      "franchise",
+      "franchisee",
+      "territory",
+      "royalty",
+      "operations manual",
+      "unit economics",
+      "location",
+      "brand standard"
+    ],
+    "workflow": [
+      "Franchise model",
+      "Unit economics",
+      "Territory strategy",
+      "Franchisee qualification",
+      "Agreement",
+      "Site/opening",
+      "Operating compliance",
+      "Performance & expansion"
+    ],
+    "handoffs": [
+      "dealos",
+      "brandos",
+      "propertyos",
+      "legalos",
+      "commerceos"
+    ],
+    "connectors": [
+      "crm",
+      "payments",
+      "document_store",
+      "analytics",
+      "training"
+    ],
+    "aliases": []
+  },
+  "fundos": {
+    "id": "fundos",
+    "title": "FundOS",
+    "segment": "invest",
+    "mission": "Operate fund intelligence and administration around mandate, pipeline, portfolio, reporting, and governance.",
+    "keywords": [
+      "fund",
+      "portfolio",
+      "limited partner",
+      "lp",
+      "investment committee",
+      "capital call",
+      "distribution",
+      "nav",
+      "fund reporting",
+      "asset management"
+    ],
+    "workflow": [
+      "Mandate & policy",
+      "Pipeline",
+      "Diligence & IC",
+      "Portfolio construction",
+      "Monitoring",
+      "Valuation/NAV support",
+      "LP reporting",
+      "Governance & audit"
+    ],
+    "handoffs": [
+      "capitalos",
+      "complianceos",
+      "fundraiseos"
+    ],
+    "connectors": [
+      "portfolio_system",
+      "fund_admin",
+      "financial_data",
+      "document_store"
+    ],
+    "aliases": []
+  },
+  "fundraiseos": {
+    "id": "fundraiseos",
+    "title": "FundraiseOS",
+    "segment": "invest",
+    "mission": "Plan and execute capital raising from investor thesis and targeting through diligence, commitments, and relationship management.",
+    "keywords": [
+      "fundraising",
+      "investor",
+      "capital raise",
+      "pitch",
+      "lp",
+      "vc",
+      "angel",
+      "data room",
+      "commitment",
+      "term sheet"
+    ],
+    "workflow": [
+      "Raise strategy",
+      "Investor universe",
+      "Materials & data room",
+      "Outreach",
+      "Meeting pipeline",
+      "Diligence responses",
+      "Terms & commitments",
+      "Close & investor relations"
+    ],
+    "handoffs": [
+      "dealos",
+      "capitalos",
+      "legalos"
+    ],
+    "connectors": [
+      "crm",
+      "email",
+      "calendar",
+      "virtual_data_room",
+      "e_signature"
+    ],
+    "aliases": []
+  },
+  "grantos": {
+    "id": "grantos",
+    "title": "GrantOS",
+    "segment": "sell",
+    "mission": "Discover, qualify, assemble, submit, manage, and report on grant opportunities.",
+    "keywords": [
+      "grant",
+      "funding opportunity",
+      "application",
+      "proposal",
+      "funder",
+      "eligibility",
+      "submission",
+      "award",
+      "reporting",
+      "nonprofit",
+      "research funding"
+    ],
+    "workflow": [
+      "Opportunity discovery",
+      "Eligibility",
+      "Funder research",
+      "Requirement matrix",
+      "Narrative & budget",
+      "Internal approvals",
+      "Submission",
+      "Award setup",
+      "Compliance reporting"
+    ],
+    "handoffs": [
+      "bidos",
+      "researchos",
+      "fundraiseos",
+      "complianceos"
+    ],
+    "connectors": [
+      "grant_feeds",
+      "document_store",
+      "calendar",
+      "finance",
+      "e_signature"
+    ],
+    "aliases": []
+  },
+  "innovationos": {
+    "id": "innovationos",
+    "title": "InnovationOS",
+    "segment": "make",
+    "mission": "Continuously discover, evaluate, incubate, and scale strategic innovations.",
+    "keywords": [
+      "innovation",
+      "emerging",
+      "technology",
+      "idea",
+      "portfolio",
+      "experiment",
+      "prototype",
+      "strategy",
+      "future",
+      "trend",
+      "discovery"
+    ],
+    "workflow": [
+      "Signal sensing",
+      "Opportunity thesis",
+      "Strategic fit scoring",
+      "Experiment design",
+      "Prototype",
+      "Evidence review",
+      "Portfolio decision",
+      "Scale or sunset"
+    ],
+    "handoffs": [
+      "researchos",
+      "ventureos",
+      "buildos",
+      "capitalos"
+    ],
+    "connectors": [
+      "web_research",
+      "patent_data",
+      "document_store",
+      "analytics"
+    ],
+    "aliases": []
+  },
+  "labos": {
+    "id": "labos",
+    "title": "LabOS",
+    "segment": "make",
+    "mission": "Operate R&D programs with hypotheses, experiments, evidence, reproducibility, and portfolio decisions.",
+    "keywords": [
+      "research",
+      "laboratory",
+      "experiment",
+      "hypothesis",
+      "scientific",
+      "r&d",
+      "reproducibility",
+      "dataset",
+      "protocol",
+      "evaluation"
+    ],
+    "workflow": [
+      "Research question",
+      "Protocol & safety review",
+      "Experiment planning",
+      "Execution tracking",
+      "Data capture",
+      "Analysis",
+      "Replication & critique",
+      "Research decision & knowledge capture"
+    ],
+    "handoffs": [
+      "researchos",
+      "innovationos",
+      "patentos"
+    ],
+    "connectors": [
+      "lab_data",
+      "notebook",
+      "document_store",
+      "data_warehouse"
+    ],
+    "aliases": []
+  },
+  "launchos": {
+    "id": "launchos",
+    "title": "LaunchOS",
+    "segment": "make",
+    "mission": "Coordinate a cross-functional product, service, or market launch from readiness through post-launch learning.",
+    "keywords": [
+      "launch",
+      "release",
+      "go-to-market",
+      "campaign",
+      "readiness",
+      "product",
+      "marketing",
+      "sales enablement",
+      "rollout",
+      "adoption"
+    ],
+    "workflow": [
+      "Launch charter",
+      "Dependency map",
+      "Readiness gates",
+      "Enablement & assets",
+      "Channel activation",
+      "Release coordination",
+      "Launch monitoring",
+      "Post-launch learning"
+    ],
+    "handoffs": [
+      "buildos",
+      "revenueos",
+      "brandos",
+      "customeros"
+    ],
+    "connectors": [
+      "project_mgmt",
+      "analytics",
+      "crm",
+      "marketing_automation",
+      "code_host"
+    ],
+    "aliases": []
+  },
+  "learningos": {
+    "id": "learningos",
+    "title": "LearningOS",
+    "segment": "learn",
+    "mission": "Provide the shared lifelong-learning and adaptive mastery layer across school, university, workforce, and self-directed learning.",
+    "keywords": [
+      "learning",
+      "adaptive",
+      "mastery",
+      "skill graph",
+      "learner",
+      "assessment",
+      "tutor",
+      "credential",
+      "personalized",
+      "progress"
+    ],
+    "workflow": [
+      "Learner graph",
+      "Goal/construct map",
+      "Adaptive path",
+      "Learning interaction",
+      "Evidence capture",
+      "Mastery inference",
+      "Intervention",
+      "Credential & next-step routing"
+    ],
+    "handoffs": [
+      "educationos",
+      "universityos",
+      "workforceos",
+      "talentos"
+    ],
+    "connectors": [
+      "lms",
+      "content_store",
+      "credentialing",
+      "analytics",
+      "identity"
+    ],
+    "aliases": []
+  },
+  "legalos": {
+    "id": "legalos",
+    "title": "LegalOS",
+    "segment": "protect",
+    "mission": "Coordinate legal operations, research, contracts, matters, obligations, and approvals with human legal authority preserved.",
+    "keywords": [
+      "legal",
+      "contract",
+      "matter",
+      "clause",
+      "counsel",
+      "agreement",
+      "obligation",
+      "litigation",
+      "policy",
+      "legal research"
+    ],
+    "workflow": [
+      "Matter intake",
+      "Issue spotting",
+      "Research",
+      "Draft/markup",
+      "Review & negotiation",
+      "Approval/signature",
+      "Obligation tracking",
+      "Matter close & knowledge"
+    ],
+    "handoffs": [
+      "complianceos",
+      "riskos",
+      "dealos",
+      "procureos"
+    ],
+    "connectors": [
+      "contract_repository",
+      "document_store",
+      "e_signature",
+      "matter_mgmt"
+    ],
+    "aliases": []
+  },
+  "mandaos": {
+    "id": "mandaos",
+    "title": "M&A OS",
+    "segment": "invest",
+    "mission": "Manage merger and acquisition workflows from target discovery through diligence, transaction planning, and integration handoff.",
+    "keywords": [
+      "merger",
+      "acquisition",
+      "m&a",
+      "target",
+      "diligence",
+      "valuation",
+      "synergy",
+      "transaction",
+      "integration",
+      "deal room"
+    ],
+    "workflow": [
+      "Target discovery",
+      "Strategic screen",
+      "Approach & NDA",
+      "Diligence",
+      "Valuation & synergy",
+      "Risk & approvals",
+      "Transaction planning",
+      "Integration handoff"
+    ],
+    "handoffs": [
+      "corpdevos",
+      "capitalos",
+      "legalos",
+      "pmoos"
+    ],
+    "connectors": [
+      "virtual_data_room",
+      "financial_data",
+      "document_store",
+      "project_mgmt"
+    ],
+    "aliases": []
+  },
+  "mediaos": {
+    "id": "mediaos",
+    "title": "MediaOS",
+    "segment": "create",
+    "mission": "Operate a publication from signal detection and reporting through multi-format distribution, audience learning, and monetization.",
+    "keywords": [
+      "media",
+      "news",
+      "editorial",
+      "article",
+      "newsletter",
+      "publication",
+      "journalism",
+      "content",
+      "audience",
+      "distribution",
+      "fact check"
+    ],
+    "workflow": [
+      "Signal detection",
+      "Editorial prioritization",
+      "Research & fact check",
+      "Story construction",
+      "Format adaptation",
+      "Publishing",
+      "Distribution",
+      "Audience analytics",
+      "Monetization learning"
+    ],
+    "handoffs": [
+      "researchos",
+      "brandos",
+      "creatoros",
+      "revenueos"
+    ],
+    "connectors": [
+      "news_feeds",
+      "cms",
+      "social",
+      "newsletter",
+      "analytics",
+      "ad_platform"
+    ],
+    "aliases": []
+  },
+  "partnershipos": {
+    "id": "partnershipos",
+    "title": "PartnershipOS",
+    "segment": "sell",
+    "mission": "Build and operate partner ecosystems, alliances, co-sell motions, and strategic collaborations.",
+    "keywords": [
+      "partner",
+      "partnership",
+      "alliance",
+      "ecosystem",
+      "co-sell",
+      "channel",
+      "joint venture",
+      "integration partner",
+      "strategic relationship"
+    ],
+    "workflow": [
+      "Partner thesis",
+      "Partner universe",
+      "Fit & value exchange",
+      "Outreach",
+      "Joint plan",
+      "Agreement & enablement",
+      "Co-sell execution",
+      "Partner performance & renewal"
+    ],
+    "handoffs": [
+      "dealos",
+      "legalos",
+      "revenueos",
+      "corpdevos"
+    ],
+    "connectors": [
+      "crm",
+      "partner_portal",
+      "email",
+      "calendar",
+      "document_store"
+    ],
+    "aliases": []
+  },
+  "patentos": {
+    "id": "patentos",
+    "title": "PatentOS",
+    "segment": "protect",
+    "mission": "Manage invention intake, prior-art and landscape research, prosecution support, portfolio intelligence, and IP obligations.",
+    "keywords": [
+      "patent",
+      "prior art",
+      "invention",
+      "intellectual property",
+      "claims",
+      "prosecution",
+      "trademark",
+      "ip portfolio"
+    ],
+    "workflow": [
+      "Invention intake",
+      "Prior-art research",
+      "Claim/landscape analysis",
+      "Disclosure package",
+      "Counsel handoff",
+      "Prosecution tracking",
+      "Portfolio review",
+      "License/renewal obligations"
+    ],
+    "handoffs": [
+      "patenttoproductos",
+      "legalos",
+      "researchos"
+    ],
+    "connectors": [
+      "patent_data",
+      "document_store",
+      "matter_mgmt"
+    ],
+    "aliases": []
+  },
+  "patenttoproductos": {
+    "id": "patenttoproductos",
+    "title": "Patent-to-ProductOS",
+    "segment": "make",
+    "mission": "Find valuable intellectual property and convert it into validated products, licenses, ventures, or partnerships.",
+    "keywords": [
+      "patent",
+      "intellectual property",
+      "invention",
+      "license",
+      "commercialization",
+      "technology transfer",
+      "product",
+      "market",
+      "prior art"
+    ],
+    "workflow": [
+      "IP discovery",
+      "Claim and landscape review",
+      "Market mapping",
+      "Commercial fit",
+      "Prototype or license strategy",
+      "Partner discovery",
+      "Deal structure",
+      "Commercialization tracking"
+    ],
+    "handoffs": [
+      "patentos",
+      "researchos",
+      "ventureos",
+      "partnershipos",
+      "dealos"
+    ],
+    "connectors": [
+      "patent_data",
+      "web_research",
+      "document_store",
+      "crm"
+    ],
+    "aliases": []
+  },
+  "pmoos": {
+    "id": "pmoos",
+    "title": "PMO OS",
+    "segment": "run",
+    "mission": "Translate strategy into portfolios, programs, projects, dependencies, risks, decisions, and measurable outcomes.",
+    "keywords": [
+      "pmo",
+      "project",
+      "program",
+      "portfolio",
+      "milestone",
+      "dependency",
+      "risk",
+      "delivery",
+      "schedule",
+      "resource",
+      "status"
+    ],
+    "workflow": [
+      "Portfolio intake",
+      "Prioritization",
+      "Program planning",
+      "Dependency & resource map",
+      "Execution tracking",
+      "Risk/issues",
+      "Decision & escalation",
+      "Benefits realization"
+    ],
+    "handoffs": [
+      "enterpriseos",
+      "executiveos",
+      "buildos"
+    ],
+    "connectors": [
+      "project_mgmt",
+      "calendar",
+      "finance",
+      "document_store",
+      "analytics"
+    ],
+    "aliases": []
+  },
+  "pricingos": {
+    "id": "pricingos",
+    "title": "PricingOS",
+    "segment": "sell",
+    "mission": "Design and continuously improve pricing, packaging, discounting, and monetization using evidence and guardrails.",
+    "keywords": [
+      "pricing",
+      "price",
+      "packaging",
+      "discount",
+      "monetization",
+      "unit economics",
+      "willingness to pay",
+      "margin",
+      "revenue management"
+    ],
+    "workflow": [
+      "Value metric",
+      "Segmentation",
+      "Competitive benchmark",
+      "Economics",
+      "Package architecture",
+      "Price testing",
+      "Discount guardrails",
+      "Performance monitoring"
+    ],
+    "handoffs": [
+      "revenueos",
+      "commerceos",
+      "dealos",
+      "capitalos"
+    ],
+    "connectors": [
+      "analytics",
+      "billing",
+      "crm",
+      "data_warehouse"
+    ],
+    "aliases": []
+  },
+  "procureos": {
+    "id": "procureos",
+    "title": "ProcureOS",
+    "segment": "run",
+    "mission": "Turn internal needs into governed sourcing, competitive procurement, negotiation, purchase, and supplier performance.",
+    "keywords": [
+      "procurement",
+      "source",
+      "sourcing",
+      "purchase",
+      "rfp",
+      "vendor",
+      "supplier",
+      "negotiation",
+      "spend",
+      "purchase order",
+      "procure-to-pay"
+    ],
+    "workflow": [
+      "Need & specification",
+      "Spend analysis",
+      "Supplier discovery",
+      "RFI/RFP",
+      "Evaluation",
+      "Risk & negotiation",
+      "Contract & purchase",
+      "Supplier performance",
+      "Renewal"
+    ],
+    "handoffs": [
+      "vendoros",
+      "legalos",
+      "riskos",
+      "supplyos"
+    ],
+    "connectors": [
+      "erp",
+      "procurement_suite",
+      "supplier_data",
+      "document_store",
+      "e_signature"
+    ],
+    "aliases": []
+  },
+  "propertyos": {
+    "id": "propertyos",
+    "title": "PropertyOS",
+    "segment": "run",
+    "mission": "Operate real-estate opportunities and portfolios from underwriting through diligence, leasing, operations, and disposition.",
+    "keywords": [
+      "real estate",
+      "property",
+      "lease",
+      "underwriting",
+      "facility",
+      "asset",
+      "tenant",
+      "acquisition",
+      "disposition",
+      "occupancy"
+    ],
+    "workflow": [
+      "Market & asset discovery",
+      "Underwriting",
+      "Diligence",
+      "Acquisition/lease decision",
+      "Asset operations",
+      "Tenant/occupancy",
+      "Capital planning",
+      "Disposition/renewal"
+    ],
+    "handoffs": [
+      "capitalos",
+      "legalos",
+      "procureos",
+      "riskos"
+    ],
+    "connectors": [
+      "property_data",
+      "finance",
+      "document_store",
+      "work_order",
+      "crm"
+    ],
+    "aliases": []
+  },
+  "recruitos": {
+    "id": "recruitos",
+    "title": "RecruitOS",
+    "segment": "run",
+    "mission": "Operate recruiting from demand and sourcing through assessment, offer, onboarding transition, and funnel learning.",
+    "keywords": [
+      "recruit",
+      "hiring",
+      "candidate",
+      "sourcing",
+      "interview",
+      "assessment",
+      "offer",
+      "ats",
+      "job",
+      "talent acquisition"
+    ],
+    "workflow": [
+      "Requisition",
+      "Sourcing strategy",
+      "Candidate discovery",
+      "Screening",
+      "Assessment",
+      "Interview loop",
+      "Offer approvals",
+      "Onboarding handoff",
+      "Funnel analytics"
+    ],
+    "handoffs": [
+      "talentos",
+      "workforceos"
+    ],
+    "connectors": [
+      "ats",
+      "calendar",
+      "email",
+      "assessment",
+      "hris"
+    ],
+    "aliases": []
+  },
+  "researchos": {
+    "id": "researchos",
+    "title": "ResearchOS",
+    "segment": "make",
+    "mission": "Convert questions into evidence-grounded findings, scenarios, decisions, and reusable knowledge.",
+    "keywords": [
+      "research",
+      "analysis",
+      "analyst",
+      "evidence",
+      "intelligence",
+      "market",
+      "competitive",
+      "benchmark",
+      "experiment",
+      "literature",
+      "synthesis",
+      "decision"
+    ],
+    "workflow": [
+      "Question decomposition",
+      "Source plan",
+      "Evidence collection",
+      "Source quality & contradiction review",
+      "Analysis & modeling",
+      "Scenario simulation",
+      "Synthesis",
+      "Decision packet & provenance"
+    ],
+    "handoffs": [
+      "capitalos",
+      "ventureos",
+      "consultingos"
+    ],
+    "connectors": [
+      "web_research",
+      "document_store",
+      "data_warehouse",
+      "notebook"
+    ],
+    "aliases": []
+  },
+  "revenueos": {
+    "id": "revenueos",
+    "title": "RevenueOS",
+    "segment": "sell",
+    "mission": "Operate the full revenue engine from ICP and demand through sales, onboarding, retention, and expansion.",
+    "keywords": [
+      "revenue",
+      "sales",
+      "marketing",
+      "growth",
+      "pipeline",
+      "lead",
+      "account",
+      "demand",
+      "customer success",
+      "retention",
+      "renewal",
+      "expansion",
+      "forecast"
+    ],
+    "workflow": [
+      "Market & ICP",
+      "Positioning & offers",
+      "Demand generation",
+      "Lead/account intelligence",
+      "Pipeline execution",
+      "Onboarding",
+      "Customer success",
+      "Expansion & retention",
+      "Revenue learning loop"
+    ],
+    "handoffs": [
+      "dealos",
+      "pricingos",
+      "customeros",
+      "brandos",
+      "creatoros"
+    ],
+    "connectors": [
+      "crm",
+      "marketing_automation",
+      "email",
+      "calendar",
+      "analytics",
+      "billing"
+    ],
+    "aliases": []
+  },
+  "riskos": {
+    "id": "riskos",
+    "title": "RiskOS",
+    "segment": "protect",
+    "mission": "Maintain enterprise risk intelligence, scenarios, treatment plans, controls, ownership, and escalation.",
+    "keywords": [
+      "risk",
+      "risk management",
+      "scenario",
+      "control",
+      "mitigation",
+      "resilience",
+      "exposure",
+      "kris",
+      "business continuity"
+    ],
+    "workflow": [
+      "Risk identification",
+      "Assessment",
+      "Scenario analysis",
+      "Treatment decision",
+      "Control assignment",
+      "Monitoring",
+      "Escalation",
+      "Review & closure"
+    ],
+    "handoffs": [
+      "complianceos",
+      "securityos",
+      "enterpriseos"
+    ],
+    "connectors": [
+      "grc",
+      "analytics",
+      "document_store",
+      "event_bus"
+    ],
+    "aliases": []
+  },
+  "securityos": {
+    "id": "securityos",
+    "title": "SecurityOS",
+    "segment": "protect",
+    "mission": "Continuously reduce cyber risk through asset visibility, detection, investigation, remediation, validation, and governance.",
+    "keywords": [
+      "security",
+      "cyber",
+      "vulnerability",
+      "threat",
+      "soc",
+      "incident",
+      "iam",
+      "cloud security",
+      "appsec",
+      "red team",
+      "detection",
+      "response"
+    ],
+    "workflow": [
+      "Asset & identity inventory",
+      "Attack surface & risk",
+      "Detection engineering",
+      "Monitoring",
+      "Investigation",
+      "Containment/remediation",
+      "Validation",
+      "Control evidence & learning"
+    ],
+    "handoffs": [
+      "riskos",
+      "complianceos",
+      "buildos"
+    ],
+    "connectors": [
+      "siem",
+      "edr",
+      "iam",
+      "cloud_security",
+      "vulnerability_scanner",
+      "ticketing"
+    ],
+    "aliases": []
+  },
+  "studioos": {
+    "id": "studioos",
+    "title": "StudioOS",
+    "segment": "create",
+    "mission": "Operate audiovisual and entertainment production from concept and IP through production, post, distribution, and franchise learning.",
+    "keywords": [
+      "film",
+      "studio",
+      "script",
+      "screenplay",
+      "production",
+      "video",
+      "animation",
+      "casting",
+      "post production",
+      "distribution",
+      "story"
+    ],
+    "workflow": [
+      "Concept/IP",
+      "Development",
+      "Script/story",
+      "Pre-production",
+      "Production",
+      "Post-production",
+      "Quality review",
+      "Distribution",
+      "Audience/franchise learning"
+    ],
+    "handoffs": [
+      "mediaos",
+      "creatoros",
+      "brandos",
+      "revenueos"
+    ],
+    "connectors": [
+      "asset_store",
+      "production_mgmt",
+      "editing_pipeline",
+      "distribution",
+      "analytics"
+    ],
+    "aliases": []
+  },
+  "supplyos": {
+    "id": "supplyos",
+    "title": "SupplyOS",
+    "segment": "run",
+    "mission": "Coordinate demand, sourcing, supply planning, inventory, logistics, exceptions, and service levels.",
+    "keywords": [
+      "supply chain",
+      "supply",
+      "demand planning",
+      "inventory",
+      "logistics",
+      "warehouse",
+      "supplier",
+      "forecast",
+      "fulfillment",
+      "transportation"
+    ],
+    "workflow": [
+      "Demand signal",
+      "Supply plan",
+      "Sourcing alignment",
+      "Inventory policy",
+      "Logistics plan",
+      "Execution",
+      "Exception control tower",
+      "Service & cost optimization"
+    ],
+    "handoffs": [
+      "procureos",
+      "vendoros",
+      "commerceos",
+      "riskos"
+    ],
+    "connectors": [
+      "erp",
+      "wms",
+      "tms",
+      "supplier_network",
+      "analytics"
+    ],
+    "aliases": []
+  },
+  "talentos": {
+    "id": "talentos",
+    "title": "TalentOS",
+    "segment": "run",
+    "mission": "Align workforce capabilities to strategy through planning, mobility, performance, development, automation, and hiring decisions.",
+    "keywords": [
+      "talent",
+      "workforce",
+      "people",
+      "skills",
+      "performance",
+      "mobility",
+      "employee",
+      "career",
+      "succession",
+      "workforce planning",
+      "hr"
+    ],
+    "workflow": [
+      "Strategic workforce demand",
+      "Capability inventory",
+      "Gap analysis",
+      "Build/buy/borrow/automate decision",
+      "Development & mobility",
+      "Performance",
+      "Succession",
+      "Workforce outcomes"
+    ],
+    "handoffs": [
+      "recruitos",
+      "workforceos",
+      "enterpriseos"
+    ],
+    "connectors": [
+      "hris",
+      "ats",
+      "lms",
+      "survey",
+      "analytics"
+    ],
+    "aliases": []
+  },
+  "universityos": {
+    "id": "universityos",
+    "title": "UniversityOS",
+    "segment": "learn",
+    "mission": "Operate higher-education academic and learner workflows across programs, courses, advising, projects, credentials, and outcomes.",
+    "keywords": [
+      "university",
+      "college",
+      "higher education",
+      "course",
+      "faculty",
+      "student",
+      "academic",
+      "program",
+      "advising",
+      "credential",
+      "registrar"
+    ],
+    "workflow": [
+      "Program architecture",
+      "Admissions/intake handoff",
+      "Course & faculty planning",
+      "Learning delivery",
+      "Assessment & advising",
+      "Projects/research",
+      "Credentialing",
+      "Career/outcomes"
+    ],
+    "handoffs": [
+      "learningos",
+      "educationos",
+      "workforceos"
+    ],
+    "connectors": [
+      "sis",
+      "lms",
+      "calendar",
+      "credentialing",
+      "career_services"
+    ],
+    "aliases": []
+  },
+  "vendoros": {
+    "id": "vendoros",
+    "title": "VendorOS",
+    "segment": "run",
+    "mission": "Manage third-party vendors from onboarding and risk through performance, obligations, renewal, and exit.",
+    "keywords": [
+      "vendor",
+      "supplier",
+      "third party",
+      "contract",
+      "sla",
+      "performance",
+      "renewal",
+      "risk",
+      "onboarding",
+      "offboarding"
+    ],
+    "workflow": [
+      "Vendor intake",
+      "Due diligence",
+      "Onboarding",
+      "Obligation & SLA setup",
+      "Performance monitoring",
+      "Risk review",
+      "Renewal decision",
+      "Exit & knowledge transfer"
+    ],
+    "handoffs": [
+      "procureos",
+      "legalos",
+      "riskos"
+    ],
+    "connectors": [
+      "vendor_mgmt",
+      "erp",
+      "contract_repository",
+      "risk_platform"
+    ],
+    "aliases": []
+  },
+  "ventureos": {
+    "id": "ventureos",
+    "title": "VentureOS",
+    "segment": "make",
+    "mission": "Turn an opportunity or thesis into a validated, launched, measurable company or business line.",
+    "keywords": [
+      "venture",
+      "startup",
+      "business model",
+      "market",
+      "product",
+      "strategy",
+      "validation",
+      "go-to-market",
+      "fundraising",
+      "unit economics",
+      "customer discovery"
+    ],
+    "workflow": [
+      "Thesis & opportunity framing",
+      "Market and customer discovery",
+      "Business model & economics",
+      "Validation experiments",
+      "Product definition",
+      "Build coordination",
+      "Launch & GTM",
+      "Capital and operating cadence"
+    ],
+    "handoffs": [
+      "researchos",
+      "buildos",
+      "revenueos",
+      "capitalos",
+      "legalos",
+      "launchos"
+    ],
+    "connectors": [
+      "web_research",
+      "crm",
+      "analytics",
+      "code_host",
+      "payments",
+      "document_store"
+    ],
+    "aliases": []
+  },
+  "workforceos": {
+    "id": "workforceos",
+    "title": "WorkforceOS",
+    "segment": "learn",
+    "mission": "Continuously map employee capabilities to roles, learning, projects, credentials, and internal mobility.",
+    "keywords": [
+      "workforce",
+      "skills",
+      "upskill",
+      "reskill",
+      "training",
+      "career",
+      "employee learning",
+      "competency",
+      "capability",
+      "credential"
+    ],
+    "workflow": [
+      "Role/capability graph",
+      "Employee skill evidence",
+      "Gap analysis",
+      "Learning plan",
+      "Practice/project placement",
+      "Assessment",
+      "Credential",
+      "Mobility & workforce feedback"
+    ],
+    "handoffs": [
+      "talentos",
+      "learningos",
+      "recruitos"
+    ],
+    "connectors": [
+      "hris",
+      "lms",
+      "project_mgmt",
+      "credentialing",
+      "analytics"
+    ],
+    "aliases": []
+  }
+}

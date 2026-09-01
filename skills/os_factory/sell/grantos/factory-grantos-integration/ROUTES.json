@@ -1,0 +1,27 @@
+{
+  "pocket": "grantos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "government-grant-writer",
+    "government-manage-public-sector-risks",
+    "government-manage-user-needs",
+    "government-govern-change-requests",
+    "government-regulatory-analyst",
+    "government-stakeholder-engagement-specialist",
+    "government-transition-to-operations",
+    "ibm-bob-ads-audit",
+    "full-stack-app-developer",
+    "ibm-bob-ads-attribution",
+    "government-manage-grants-lifecycle",
+    "ibm-sales-scale-058",
+    "eos-risk-reporting",
+    "cio-application-architecture",
+    "cio-application-criticality-classification",
+    "cio-application-lifecycle-risk",
+    "cio-application-modernization",
+    "cio-application-portfolio-management",
+    "cio-application-retirement-consolidation",
+    "cio-application-security-governance"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "brandos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "creative-graphic-design-advisor",
+    "ibm-bob-ads-create",
+    "creative-brand-designer",
+    "creative-brand-narrative-specialist",
+    "creative-campaign-creative-strategist",
+    "creative-visual-identity-specialist",
+    "rspkt-web-designer",
+    "design-prepare-design-handoff",
+    "design-qa-specialist",
+    "ibm-bob-ads-x",
+    "marketing-ad-creative-strategist",
+    "ibm-bob-ads-reddit",
+    "ibm-bob-ads-youtube",
+    "color-finishing",
+    "creative-art-director",
+    "creative-concept-developer",
+    "creative-copywriter",
+    "creative-naming-strategist",
+    "creative-orchestrator",
+    "creative-reviewer"
+  ]
+}

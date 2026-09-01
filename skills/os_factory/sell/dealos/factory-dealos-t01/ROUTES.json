@@ -1,0 +1,27 @@
+{
+  "pocket": "dealos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "revenue-opportunity-qualification",
+    "sales-expansion-opportunity-analyst",
+    "sales-lead-discovery-specialist",
+    "sales-opportunity-qualification-analyst",
+    "sales-business-discovery-specialist",
+    "sales-contact-discovery-specialist",
+    "sales-discovery-call-planner",
+    "sales-discovery-evidence-synthesizer",
+    "sales-discovery-strategist",
+    "sales-financial-discovery-specialist",
+    "sales-operational-discovery-specialist",
+    "sales-technical-discovery-specialist",
+    "ibm-sales-scale-037",
+    "tls-discovery-call-strategist-agent",
+    "tls-mvs-opportunity-qualifier-agent",
+    "ibm-sales-000",
+    "sales-opportunity-qualification",
+    "sales-stage-governance",
+    "sales-discovery-problem-framing",
+    "ibm-sales-scale-072"
+  ]
+}

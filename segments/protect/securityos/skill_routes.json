@@ -1,0 +1,1067 @@
+{
+  "schema_version": "2.0",
+  "pocket": "securityos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 94,
+  "skills": [
+    {
+      "slug": "cybersecurity-incident-response-coordination",
+      "score": 126,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Incident Response Coordination** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-incident-response-coordination`, `incident-response-coordination`, or the corresponding professional workflow: Security monitoring and detection engineering | define telemetry requirements, detection logic, alert triage, escalation thresholds, and tuning based on validated threat scenarios | SOC, platform/logging teams, incident response, threat intelligence, privacy, and service owners"
+    },
+    {
+      "slug": "cybersecurity-security-detection-engineering",
+      "score": 126,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Detection Engineering** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-detection-engineering`, `security-detection-engineering`, or the corresponding professional workflow: Security monitoring and detection engineering | define telemetry requirements, detection logic, alert triage, escalation thresholds, and tuning based on validated threat scenarios | SOC, platform/logging teams, incident response, threat intelligence, privacy, and service owners"
+    },
+    {
+      "slug": "cybersecurity-cyber-crisis-management",
+      "score": 115,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cyber Crisis Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cyber-crisis-management`, `cyber-crisis-management`, or the corresponding professional workflow: Incident response and cyber-crisis management | prepare and exercise playbooks, classify incidents, preserve evidence, contain/eradicate/recover, coordinate notifications, and conduct lessons learned | incident commander, SOC, IT operations, legal, privacy, communications, executives, regulators, law enforcement, and affected customers"
+    },
+    {
+      "slug": "cybersecurity-audit-evidence-management",
+      "score": 110,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Audit Evidence Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-audit-evidence-management`, `audit-evidence-management`, or the corresponding professional workflow: Vulnerability and exposure management | collect scan and threat-intelligence evidence, validate severity and exploitability, prioritize remediation, compensate where needed, and verify closure | infrastructure/application owners, SOC, threat intelligence, patch/change management, and risk owners"
+    },
+    {
+      "slug": "cybersecurity-vulnerability-exposure-management",
+      "score": 110,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Vulnerability Exposure Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-vulnerability-exposure-management`, `vulnerability-exposure-management`, or the corresponding professional workflow: Vulnerability and exposure management | collect scan and threat-intelligence evidence, validate severity and exploitability, prioritize remediation, compensate where needed, and verify closure | infrastructure/application owners, SOC, threat intelligence, patch/change management, and risk owners"
+    },
+    {
+      "slug": "cybersecurity-supply-chain-cyber-risk",
+      "score": 96,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Supply Chain Cyber Risk** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-supply-chain-cyber-risk`, `supply-chain-cyber-risk`, or the corresponding professional workflow: Third-party and supply-chain cyber-risk management | tier suppliers, perform due diligence, set security requirements and incident clauses, monitor material changes, and manage exit/contingency plans | procurement, vendor management, legal, privacy, business owners, architecture, and suppliers"
+    },
+    {
+      "slug": "cybersecurity-cyber-risk-assessment",
+      "score": 94,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cyber Risk Assessment** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cyber-risk-assessment`, `cyber-risk-assessment`, or the corresponding professional workflow: Cyber-risk identification and assessment | inventory assets, data, services, dependencies, threats, vulnerabilities, likelihood, impact, and control gaps, then prioritize treatment | asset owners, risk owners, security architecture, business continuity, and finance"
+    },
+    {
+      "slug": "cybersecurity-security-control-assessment",
+      "score": 94,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Control Assessment** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-control-assessment`, `security-control-assessment`, or the corresponding professional workflow: Cyber-risk identification and assessment | inventory assets, data, services, dependencies, threats, vulnerabilities, likelihood, impact, and control gaps, then prioritize treatment | asset owners, risk owners, security architecture, business continuity, and finance"
+    },
+    {
+      "slug": "cyber-resilience-threat-intelligence-synthesis",
+      "score": 89,
+      "domain": "shared-execution",
+      "description": "Synthesize approved threat intelligence into a scoped risk and detection review packet. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Threat Intelligence Capability Director."
+    },
+    {
+      "slug": "cybersecurity-zero-trust-architecture-review",
+      "score": 88,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Zero Trust Architecture Review** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-zero-trust-architecture-review`, `zero-trust-architecture-review`, or the corresponding professional workflow: Security architecture and zero-trust design review | define trust boundaries, identity/device/data enforcement points, segmentation, and secure access patterns for a proposed system or change | enterprise architects, IAM, network/platform engineering, privacy, application owners, and change advisory board"
+    },
+    {
+      "slug": "cybersecurity-identity-access-governance",
+      "score": 85,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Identity Access Governance** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-identity-access-governance`, `identity-access-governance`, or the corresponding professional workflow: Identity and access governance | establish joiner-mover-leaver, authentication, privileged access, entitlement review, and segregation-of-duties processes | HR, IAM operations, application/data owners, internal audit, and legal/compliance"
+    },
+    {
+      "slug": "cybersecurity-cloud-security-analyst",
+      "score": 83,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Cloud Security Analyst role: cloud security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-cloud-security-architect",
+      "score": 83,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Cloud Security Architect role: cloud security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-incident-response-analyst",
+      "score": 82,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Incident Response Analyst role: incident response; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-detection-engineer",
+      "score": 82,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Detection Engineer role: security detection; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cyber-resilience-vulnerability-validation",
+      "score": 81,
+      "domain": "shared-execution",
+      "description": "Validate vulnerability evidence, affected assets, exploit context, and owner routing. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Vulnerability Management Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-cloud-configuration-review",
+      "score": 79,
+      "domain": "shared-execution",
+      "description": "Review cloud configuration evidence against approved policy and route exceptions. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Cloud Security Capability Director."
+    },
+    {
+      "slug": "cybersecurity-control-selection",
+      "score": 77,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Control Selection** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-control-selection`, `control-selection`, or the corresponding professional workflow: Control selection and risk treatment planning | select proportionate administrative, technical, and physical safeguards"
+    },
+    {
+      "slug": "cybersecurity-risk-treatment-planning",
+      "score": 77,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Risk Treatment Planning** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-risk-treatment-planning`, `risk-treatment-planning`, or the corresponding professional workflow: Control selection and risk treatment planning | select proportionate administrative, technical, and physical safeguards"
+    },
+    {
+      "slug": "cybersecurity-security-awareness-management",
+      "score": 77,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Awareness Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-awareness-management`, `security-awareness-management`, or the corresponding professional workflow: Security awareness and workforce risk management | identify role-based training and insider-risk safeguards, measure completion and behavior, and escalate material noncompliance | HR, learning teams, legal, privacy, managers, insider-risk, and security operations"
+    },
+    {
+      "slug": "security-threat-review",
+      "score": 76,
+      "domain": "security",
+      "description": "Review source ingestion, archives, URLs, subprocesses, secrets, project isolation, hooks and external-job authorization for P0 threats."
+    },
+    {
+      "slug": "cybersecurity-cybersecurity-governance",
+      "score": 74,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cybersecurity Governance** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cybersecurity-governance`, `cybersecurity-governance`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "cybersecurity-resilience-recovery-validation",
+      "score": 74,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Resilience Recovery Validation** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-resilience-recovery-validation`, `resilience-recovery-validation`, or the corresponding professional workflow: Resilience, recovery, and continuity validation | map critical services and recovery objectives, test backups/failover/tabletops, assess dependencies, and update continuity plans | business continuity, disaster recovery, infrastructure, application owners, suppliers, executives, and emergency management"
+    },
+    {
+      "slug": "cybersecurity-security-policy-management",
+      "score": 74,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Policy Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-policy-management`, `security-policy-management`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "cybersecurity-security-risk-analyst",
+      "score": 74,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Risk Analyst role: security risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cyber-resilience-compliance-evidence-compilation",
+      "score": 73,
+      "domain": "shared-execution",
+      "description": "Compile security compliance evidence, gaps, and control-owner review tasks. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Governance Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-security-risk-register-update",
+      "score": 73,
+      "domain": "shared-execution",
+      "description": "Prepare security risk-register update evidence, treatment options, and owners. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Governance Capability Director."
+    },
+    {
+      "slug": "cybersecurity-application-security-specialist",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Application Security Specialist role: application security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-chief-information-security-officer-advisor",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Chief Information Security Officer Advisor role: chief information security officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-defensive-security-tester",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Defensive Security Tester role: defensive security tester; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-detection-rule-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Detection Rule Analyst role: detection rule; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-endpoint-security-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Endpoint Security Analyst role: endpoint security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-enterprise-security-architect",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Enterprise Security Architect role: enterprise security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-iam-specialist",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the IAM Specialist role: iam; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-network-security-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Network Security Analyst role: network security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-product-security-specialist",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Product Security Specialist role: product security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-architect",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Architect role: security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-architecture-reviewer",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Architecture Reviewer role: security architecture; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-automation-engineer",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Automation Engineer role: security automation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-awareness-specialist",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Awareness Specialist role: security awareness; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-compliance-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Compliance Analyst role: security compliance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-configuration-reviewer",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Configuration Reviewer role: security configuration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-controls-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Controls Analyst role: security controls; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-evidence-auditor",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Evidence Auditor role: security evidence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-operations-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Operations Analyst role: security operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-security-policy-writer",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Policy Writer role: security policy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-soc-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the SOC Analyst role: soc; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-third-party-security-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Third-Party Security Analyst role: third-party security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-threat-intelligence-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Threat Intelligence Analyst role: threat intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-threat-modeling-specialist",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Threat Modeling Specialist role: threat modeling; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-vulnerability-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Vulnerability Analyst role: vulnerability; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-vulnerability-prioritization-analyst",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Vulnerability Prioritization Analyst role: vulnerability prioritization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cyber-resilience-certificate-lifecycle-monitoring",
+      "score": 70,
+      "domain": "shared-execution",
+      "description": "Monitor certificate lifecycle signals and create controlled renewal cases. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Identity Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-encryption-coverage-review",
+      "score": 70,
+      "domain": "shared-execution",
+      "description": "Assess encryption coverage evidence and remediation gaps. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Data Protection Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-endpoint-health-assessment",
+      "score": 70,
+      "domain": "shared-execution",
+      "description": "Assess endpoint security health evidence, coverage, and remediation exceptions. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Endpoint Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-third-party-cyber-risk",
+      "score": 70,
+      "domain": "shared-execution",
+      "description": "Compile third-party cyber-risk evidence, obligations, and review priorities. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Third-Party Cyber Risk Capability Director."
+    },
+    {
+      "slug": "ibm-career-security-security-engineer",
+      "score": 68,
+      "domain": "security",
+      "description": "IBM-aligned Security Engineer specialist. Use for Security work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-security-security-specialist",
+      "score": 68,
+      "domain": "security",
+      "description": "IBM-aligned Security Specialist specialist. Use for Security work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "cyber-resilience-crisis-coordination-case",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Coordinate crisis case evidence, decision log, roles, and communication dependencies. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Crisis Management Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-cyber-resilience-assessment",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Assess cyber-resilience readiness, recovery dependencies, and test evidence. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Resilience and Recovery Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-data-loss-case-preparation",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Prepare data-loss prevention case evidence, classification, and owner escalation. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Data Protection Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-disaster-recovery-exercise-pack",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Prepare disaster-recovery exercise evidence, scenario, outcomes, and follow-up actions. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Resilience and Recovery Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-fraud-security-collaboration",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Prepare cross-functional fraud and security evidence packet for accountable investigators. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Operations Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-identity-access-anomaly",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Analyze identity-access anomalies and prepare controlled review cases. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Identity Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-phishing-evidence-triage",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Compile phishing evidence, impacted users, and safe response routing. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Operations Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-privacy-breach-intake",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Classify potential privacy breach intake and route evidence to qualified privacy and security owners. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Data Protection Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-security-alert-triage",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Triage security alerts with source, scope, confidence, and escalation evidence. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Operations Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-security-awareness-exception",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Review security-awareness completion exceptions and follow-up routing. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Governance Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-security-incident-case",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Create a controlled security incident case with timeline, evidence, and command routing. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Incident Response Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-soar-action-draft",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Draft a SOAR response action for authorized approval; do not execute containment. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Operations Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-visitor-access-anomaly",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Prepare visitor-access anomaly evidence for authorized security review. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Physical Security Capability Director."
+    },
+    {
+      "slug": "cybersecurity-attack-surface-analyst",
+      "score": 66,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Attack Surface Analyst role: attack surface; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cyber-resilience-badge-access-exception",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Review badge-access exceptions without granting or revoking access. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Physical Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-forensics-preservation-readiness",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Assess digital-forensics preservation readiness and chain-of-custody requirements. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Incident Response Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-physical-security-event-triage",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Triage physical-security events with safety, privacy, and command routing requirements. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Physical Security Capability Director."
+    },
+    {
+      "slug": "cybersecurity-siem-engineering-specialist",
+      "score": 63,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the SIEM Engineering Specialist role: siem engineering; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "automation-assure-business-continuity",
+      "score": 62,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Assure Business Continuity** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-assure-business-continuity`, `assure-business-continuity`, or the corresponding professional workflow: incident-problem-and-continuity-management | decide incident severity, containment, business workaround, problem root cause, recovery priority, and continuity invocation | handoff to service management, security incident response, business continuity, vendors, and executive risk owners"
+    },
+    {
+      "slug": "cybersecurity-digital-forensics-analyst",
+      "score": 60,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Digital Forensics Analyst role: digital forensics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-grc-analyst",
+      "score": 60,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the GRC Analyst role: grc; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-malware-analysis-advisor",
+      "score": 60,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Malware Analysis Advisor role: malware analysis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-orchestrator",
+      "score": 60,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Cybersecurity Orchestrator role: cybersecurity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-penetration-testing-planner",
+      "score": 60,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Penetration Testing Planner role: penetration testing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-secure-code-reviewer",
+      "score": 60,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Secure Code Reviewer role: secure code; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-zero-trust-architect",
+      "score": 60,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Zero Trust Architect role: zero trust; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-sales-ext-platform-incident-response",
+      "score": 57,
+      "domain": "shared-execution",
+      "description": "Coordinate containment, evidence preservation, token/access revocation, work-item quarantine, owner notification, remediation, and re-enable decision for AI/workflow incidents. Use when the IBM Sales control mode selects capability `platform-governance.incident-response` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "healthcare-breach-response-coordination",
+      "score": 56,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Breach Response Coordination** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-breach-response-coordination`, `breach-response-coordination`, or the corresponding professional workflow: breach-response-and-notification | triage suspected privacy or security incidents, preserve evidence, assess reportability and affected parties, and coordinate notification deadlines | privacy/security officer, incident response, legal, executive leadership, regulators"
+    },
+    {
+      "slug": "cio-cloud-security-governance",
+      "score": 52,
+      "domain": "shared-execution",
+      "description": "CIO Cloud Security Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-incident-response-governance",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "CIO Incident Response Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "design-assess-privacy-by-design",
+      "score": 51,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Assess Privacy By Design** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-assess-privacy-by-design`, `assess-privacy-by-design`, or the corresponding professional workflow: Validate privacy, security, and data flows by design | identify personal-data processing, lawful/organizational constraints, minimization, consent/notice, retention, access, and threat implications before implementation | privacy officer, security, legal, data governance, engineering"
+    },
+    {
+      "slug": "engineering-delivery-performance-improvement",
+      "score": 51,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Delivery Performance Improvement** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-delivery-performance-improvement`, `delivery-performance-improvement`, or the corresponding professional workflow: Learn and improve delivery | analyze delivery/reliability measures, incident reviews, customer feedback, and escaped defects to select improvement experiments | engineering leadership, product, operations, security, and organizational learning/quality functions"
+    },
+    {
+      "slug": "grc-ai-governance-specialist",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the AI Governance Specialist role: ai governance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-ai-risk-analyst",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the AI Risk Analyst role: ai risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-data-governance-specialist",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Data Governance Specialist role: data governance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-enterprise-risk-analyst",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Enterprise Risk Analyst role: enterprise risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-governance-reviewer",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Governance Reviewer role: governance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-model-risk-analyst",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Model Risk Analyst role: model risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-operational-risk-analyst",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Operational Risk Analyst role: operational risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-records-governance-specialist",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Records Governance Specialist role: records governance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-technology-risk-analyst",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Technology Risk Analyst role: technology risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-third-party-risk-analyst",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Third-Party Risk Analyst role: third-party risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "automation-govern-access-and-data",
+      "score": 48,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Govern Access And Data** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-govern-access-and-data`, `govern-access-and-data`, or the corresponding professional workflow: access-data-and-records-governance | decide least-privilege access, data minimization, classification, retention/deletion, logging, evidence preservation, and third-party data handling | handoff to IAM, privacy, security operations, records/legal, and audit"
+    },
+    {
+      "slug": "chief-of-staff-organizational-sensing",
+      "score": 48,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Organizational Sensing** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-organizational-sensing`, `organizational-sensing`, or the corresponding professional workflow: Organizational sensing and issue triage | collect signals from leaders and operating data, classify urgency/impact, identify root owner, and recommend response options | principal, HR, risk, security, legal, business owners"
+    },
+    {
+      "slug": "cio-it-budget-variance",
+      "score": 48,
+      "domain": "cio-it",
+      "description": "CIO IT Budget Variance for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-budgeting",
+      "score": 48,
+      "domain": "cio-it",
+      "description": "CIO IT Budgeting for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-forecasting",
+      "score": 48,
+      "domain": "cio-it",
+      "description": "CIO IT Forecasting for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-organization-design",
+      "score": 48,
+      "domain": "cio-it",
+      "description": "CIO IT Organization Design for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-role-planning",
+      "score": 48,
+      "domain": "cio-it",
+      "description": "CIO IT Role Planning for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-unit-economics",
+      "score": 48,
+      "domain": "cio-it",
+      "description": "CIO IT Unit Economics for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "engineering-observability-incident-response",
+      "score": 48,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Observability Incident Response** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-observability-incident-response`, `observability-incident-response`, or the corresponding professional workflow: Operate, observe, and respond | define service objectives, monitor health and business signals, triage incidents, and decide mitigation or rollback | SRE/operations, developers, incident commander, support, and customer communications"
+    },
+    {
+      "slug": "grc-audit-specialist",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Audit Specialist role: audit; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-compliance-analyst",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Compliance Analyst role: compliance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-controls-designer",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Controls Designer role: controls; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-controls-tester",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Controls Tester role: controls tester; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-data-protection-specialist",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Data Protection Specialist role: data protection; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-evidence-collection-specialist",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Evidence Collection Specialist role: evidence collection; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-internal-audit-analyst",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Internal Audit Analyst role: internal audit; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-orchestrator",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the GRC Orchestrator role: grc; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-policy-management-specialist",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Policy Management Specialist role: policy management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-privacy-analyst",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Privacy Analyst role: privacy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-privacy-officer-advisor",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Privacy Officer Advisor role: privacy officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-regulatory-compliance-specialist",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Regulatory Compliance Specialist role: regulatory compliance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-responsible-ai-reviewer",
+      "score": 48,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Responsible AI Reviewer role: responsible ai; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-career-cloud-cloud-data-engineer",
+      "score": 48,
+      "domain": "cloud",
+      "description": "IBM-aligned Cloud Data Engineer specialist. Use for Cloud work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-cloud-cloud-platform-architect",
+      "score": 48,
+      "domain": "cloud",
+      "description": "IBM-aligned Cloud Platform Architect specialist. Use for Cloud work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-cloud-infrastructure-specialist",
+      "score": 48,
+      "domain": "cloud",
+      "description": "IBM-aligned Infrastructure Specialist specialist. Use for Cloud work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-cloud-technical-architect",
+      "score": 48,
+      "domain": "cloud",
+      "description": "IBM-aligned Technical Architect specialist. Use for Cloud work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-software-engineering-front-end-developer",
+      "score": 48,
+      "domain": "software-engineering",
+      "description": "IBM-aligned Front End Developer specialist. Use for Software Engineering work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-software-engineering-full-stack-developer",
+      "score": 48,
+      "domain": "software-engineering",
+      "description": "IBM-aligned Full Stack Developer specialist. Use for Software Engineering work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-software-engineering-software-engineer",
+      "score": 48,
+      "domain": "software-engineering",
+      "description": "IBM-aligned Software Engineer specialist. Use for Software Engineering work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-software-engineering-test-engineer",
+      "score": 48,
+      "domain": "software-engineering",
+      "description": "IBM-aligned Test Engineer specialist. Use for Software Engineering work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "supply-chain-traceability-recall-response",
+      "score": 45,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Traceability Recall Response** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-traceability-recall-response`, `traceability-recall-response`, or the corresponding professional workflow: Traceability, recall, and incident response | preserve chain-of-custody and event records, identify affected lots/locations, quarantine, notify authorized parties, and document disposition | Quality, regulatory/legal, suppliers, logistics, customers, public authorities"
+    },
+    {
+      "slug": "cio-application-security-governance",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "CIO Application Security Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-iam-governance",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "CIO IAM Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-security-architecture-review",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "CIO Security Architecture Review for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-security-regulatory-alignment",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "CIO Security Regulatory Alignment for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-soc-operating-review",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "CIO SOC Operating Review for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-third-party-cyber-risk",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "CIO Third Party Cyber Risk for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-vulnerability-management-governance",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "CIO Vulnerability Management Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "healthcare-vendor-business-associate-governance",
+      "score": 40,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Vendor Business Associate Governance** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-vendor-business-associate-governance`, `vendor-business-associate-governance`, or the corresponding professional workflow: vendor-and-business-associate-governance | assess third-party access and service risk, execute appropriate agreements, define security/privacy obligations, and monitor performance | procurement, privacy/security, legal, compliance, vendor owner"
+    },
+    {
+      "slug": "automation-workflow-security-reviewer",
+      "score": 37,
+      "domain": "automation",
+      "description": "Use for automation work requiring the Workflow Security Reviewer role: workflow security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cio-ai-security",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO AI Security for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-incident-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Incident Management for Service Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-major-incident-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Major Incident Management for Service Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "engineering-incident-postmortem-preparation",
+      "score": 37,
+      "domain": "engineering",
+      "description": "Prepare incident postmortem evidence, timeline, contributing factors, and follow-up ownership. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Engineering Intelligence Capability Director."
+    },
+    {
+      "slug": "healthcare-ephi-security-risk-assessment",
+      "score": 37,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **EPHI Security Risk Assessment** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-ephi-security-risk-assessment`, `ephi-security-risk-assessment`, or the corresponding professional workflow: security-risk-assessment | identify ePHI assets, threats, vulnerabilities, likelihood/impact, and mitigating safeguards across administrative, physical, and technical domains | security officer, IT, compliance, business-associate owners"
+    },
+    {
+      "slug": "healthcare-healthcare-compliance-risk-assessment",
+      "score": 37,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Healthcare Compliance Risk Assessment** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-healthcare-compliance-risk-assessment`, `healthcare-compliance-risk-assessment`, or the corresponding professional workflow: security-risk-assessment | identify ePHI assets, threats, vulnerabilities, likelihood/impact, and mitigating safeguards across administrative, physical, and technical domains | security officer, IT, compliance, business-associate owners"
+    },
+    {
+      "slug": "ibm-sales-ext-platform-tool-security-assess",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Assess a proposed MCP, API, connector, or tool for ownership, authentication, operations allowlist, data handling, tenant isolation, logging, rate limits, and action safety. Use when the IBM Sales control mode selects capability `platform-governance.tool-security-assess` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "it-incident-triage-preparation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Prepare incident triage evidence, impact, service context, and escalation path. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the IT Service Operations Capability Director."
+    },
+    {
+      "slug": "process-incident-to-recovery",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Process Incident To Recovery for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "sales-competitor-response-simulator",
+      "score": 37,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Competitor Response Simulator role: competitor response simulator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-procurement-response-strategist",
+      "score": 37,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Procurement Response Strategist role: procurement response; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-rfp-response-strategist",
+      "score": 37,
+      "domain": "sales",
+      "description": "Use for sales work requiring the RFP Response Strategist role: rfp response; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-security-solution-architect",
+      "score": 37,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Security Solution Architect role: security solution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "watsonx-governance-incident-exception",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance Incident Exception for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "revenue-rfp-response-evidence",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Compile RFP response evidence, source citations, and review dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal Enablement Capability Director."
+    },
+    {
+      "slug": "tls-ai-drift-detection-escalation-agent",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires AI performance monitoring and human-in-the-loop management for TLS agent quality assurance, especially when the user expects the work product of an AI operations specialist or model monitoring analyst."
+    },
+    {
+      "slug": "customer-service-major-incident-customer-update",
+      "score": 31,
+      "domain": "customer-success",
+      "description": "Draft a reviewed major-incident customer update from approved incident facts. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Escalation and Complaint Management Capability Director."
+    },
+    {
+      "slug": "automation-manage-automation-incidents",
+      "score": 29,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Manage Automation Incidents** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-manage-automation-incidents`, `manage-automation-incidents`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "cio-ma-cybersecurity-assessment",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "CIO MA Cybersecurity Assessment for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "investment-cybersecurity-due-diligence-analyst",
+      "score": 26,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Cybersecurity Due Diligence Analyst role: cybersecurity due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    }
+  ],
+  "primary_accountable": [
+    "cio-ai-security",
+    "cio-application-security-governance",
+    "cio-cloud-security-governance",
+    "cio-iam-governance",
+    "cio-incident-management",
+    "cio-incident-response-governance",
+    "cio-major-incident-management",
+    "cio-security-regulatory-alignment",
+    "cio-soc-operating-review",
+    "cio-vulnerability-management-governance",
+    "cyber-resilience-badge-access-exception",
+    "cyber-resilience-certificate-lifecycle-monitoring",
+    "cyber-resilience-cloud-configuration-review",
+    "cyber-resilience-compliance-evidence-compilation",
+    "cyber-resilience-crisis-coordination-case",
+    "cyber-resilience-cyber-resilience-assessment",
+    "cyber-resilience-data-loss-case-preparation",
+    "cyber-resilience-disaster-recovery-exercise-pack",
+    "cyber-resilience-encryption-coverage-review",
+    "cyber-resilience-endpoint-health-assessment",
+    "cyber-resilience-forensics-preservation-readiness",
+    "cyber-resilience-fraud-security-collaboration",
+    "cyber-resilience-identity-access-anomaly",
+    "cyber-resilience-phishing-evidence-triage",
+    "cyber-resilience-physical-security-event-triage",
+    "cyber-resilience-privacy-breach-intake",
+    "cyber-resilience-security-alert-triage",
+    "cyber-resilience-security-awareness-exception",
+    "cyber-resilience-security-incident-case",
+    "cyber-resilience-security-risk-register-update",
+    "cyber-resilience-soar-action-draft",
+    "cyber-resilience-third-party-cyber-risk",
+    "cyber-resilience-threat-intelligence-synthesis",
+    "cyber-resilience-visitor-access-anomaly",
+    "cyber-resilience-vulnerability-validation",
+    "cybersecurity-application-security-specialist",
+    "cybersecurity-attack-surface-analyst",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-chief-information-security-officer-advisor",
+    "cybersecurity-cloud-security-analyst",
+    "cybersecurity-cloud-security-architect",
+    "cybersecurity-control-selection",
+    "cybersecurity-cyber-crisis-management",
+    "cybersecurity-defensive-security-tester",
+    "cybersecurity-detection-rule-analyst",
+    "cybersecurity-digital-forensics-analyst",
+    "cybersecurity-endpoint-security-analyst",
+    "cybersecurity-enterprise-security-architect",
+    "cybersecurity-grc-analyst",
+    "cybersecurity-iam-specialist",
+    "cybersecurity-identity-access-governance",
+    "cybersecurity-incident-response-analyst",
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-malware-analysis-advisor",
+    "cybersecurity-network-security-analyst",
+    "cybersecurity-orchestrator",
+    "cybersecurity-product-security-specialist",
+    "cybersecurity-risk-treatment-planning",
+    "cybersecurity-secure-code-reviewer",
+    "cybersecurity-security-architect",
+    "cybersecurity-security-architecture-reviewer",
+    "cybersecurity-security-automation-engineer",
+    "cybersecurity-security-awareness-management",
+    "cybersecurity-security-awareness-specialist",
+    "cybersecurity-security-compliance-analyst",
+    "cybersecurity-security-configuration-reviewer",
+    "cybersecurity-security-controls-analyst",
+    "cybersecurity-security-detection-engineer",
+    "cybersecurity-security-detection-engineering",
+    "cybersecurity-security-evidence-auditor",
+    "cybersecurity-security-operations-analyst",
+    "cybersecurity-security-policy-writer",
+    "cybersecurity-security-risk-analyst",
+    "cybersecurity-siem-engineering-specialist",
+    "cybersecurity-soc-analyst",
+    "cybersecurity-supply-chain-cyber-risk",
+    "cybersecurity-third-party-security-analyst",
+    "cybersecurity-threat-intelligence-analyst",
+    "cybersecurity-threat-modeling-specialist",
+    "cybersecurity-vulnerability-analyst",
+    "cybersecurity-vulnerability-exposure-management",
+    "cybersecurity-vulnerability-prioritization-analyst",
+    "cybersecurity-zero-trust-architect",
+    "cybersecurity-zero-trust-architecture-review",
+    "ibm-career-cloud-cloud-data-engineer",
+    "ibm-career-cloud-cloud-platform-architect",
+    "ibm-career-cloud-infrastructure-specialist",
+    "ibm-career-cloud-technical-architect",
+    "ibm-career-security-security-engineer",
+    "ibm-career-security-security-specialist",
+    "ibm-sales-ext-platform-tool-security-assess",
+    "security-threat-review",
+    "tls-ai-drift-detection-escalation-agent",
+    "watsonx-governance-incident-exception"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

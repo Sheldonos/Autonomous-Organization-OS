@@ -1,0 +1,27 @@
+{
+  "pocket": "consultingos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "healthcare-data-analyst",
+    "knowledge-work-document-intake-specialist",
+    "shared-execution-data-transformation-specialist",
+    "tsc-requirements-refiner",
+    "tsc-solution-architect",
+    "agency-operations-engagement-closeout",
+    "healthcare-cms-quality-measure-reporting",
+    "research-data-extraction",
+    "research-evidence-mapping",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "ibm-career-consulting-business-transformation-consultant",
+    "data-strategy-model-risk-assessment-prep",
+    "data-strategy-data-product-assessment",
+    "data-strategy-knowledge-refresh-assessment",
+    "ibm-sales-scale-050",
+    "tsc-technical-spec-writer",
+    "hazard-insurance-comparer",
+    "ibm-bob-ads-setup",
+    "it-cmdb-quality-assessment"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "patenttoproductos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "lemos-strategy-playbook",
+    "ibm-pre-apm-001",
+    "ibm-pre-sa-001",
+    "eos-product-market-discovery",
+    "product-customer-problem-discovery",
+    "eos-product-customer-discovery",
+    "ibm-bob-production-readiness-agent",
+    "ibm-sales-ext-marketing-attribution-review",
+    "ibm-sales-ext-marketing-campaign-event",
+    "marketing-partner-marketing-readiness",
+    "ibm-pre-008",
+    "ibm-pre-atl-004",
+    "demand-architect",
+    "ibm-pre-001",
+    "ibm-pre-003",
+    "ibm-pre-004",
+    "ibm-pre-006",
+    "ibm-pre-009",
+    "ibm-pre-010",
+    "ibm-pre-apm-002"
+  ]
+}

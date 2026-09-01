@@ -1,0 +1,1034 @@
+{
+  "schema_version": "2.0",
+  "pocket": "talentos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 61,
+  "skills": [
+    {
+      "slug": "people-succession-mobility-planning",
+      "score": 118,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Succession Mobility Planning** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-succession-mobility-planning`, `succession-mobility-planning`, or the corresponding professional workflow: succession, mobility, and retention planning | identify critical roles and talent risks, evaluate readiness and potential with validated criteria, and approve development or movement plans | business leadership, HRBP, talent review panel, employee, diversity/equity reviewers"
+    },
+    {
+      "slug": "people-mobility-case-readiness",
+      "score": 112,
+      "domain": "people",
+      "description": "Assess employee mobility case readiness, policy, immigration, tax, and manager dependencies. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Employee Lifecycle Operations Capability Director."
+    },
+    {
+      "slug": "people-succession-risk-evidence",
+      "score": 112,
+      "domain": "people",
+      "description": "Compile succession-risk evidence and dependency considerations for talent review. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Performance and Talent Growth Capability Director."
+    },
+    {
+      "slug": "people-learning-needs-analysis",
+      "score": 107,
+      "domain": "people",
+      "description": "Analyze learning needs from approved role, skill, and performance inputs. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Learning and Capability Development Capability Director."
+    },
+    {
+      "slug": "people-offboarding-workforce-transition",
+      "score": 107,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Offboarding Workforce Transition** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-offboarding-workforce-transition`, `offboarding-workforce-transition`, or the corresponding professional workflow: offboarding and workforce-transition management | decide voluntary/involuntary exit steps, notice and final-pay requirements, access closure, records retention, knowledge transfer, and exit feedback | manager, HR, payroll, IT/security, facilities, legal, employee or representative"
+    },
+    {
+      "slug": "people-workforce-plan-variance",
+      "score": 105,
+      "domain": "people",
+      "description": "Analyze workforce-plan variance, headcount assumptions, and unresolved decisions. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Workforce Planning Capability Director."
+    },
+    {
+      "slug": "people-job-architecture",
+      "score": 103,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Job Architecture** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-job-architecture`, `job-architecture`, or the corresponding professional workflow: workforce planning and job architecture | decide capability demand, role scope, workforce mix, and priority based on business strategy and evidence"
+    },
+    {
+      "slug": "people-workforce-planning",
+      "score": 103,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Workforce Planning** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-workforce-planning`, `workforce-planning`, or the corresponding professional workflow: workforce planning and job architecture | decide capability demand, role scope, workforce mix, and priority based on business strategy and evidence"
+    },
+    {
+      "slug": "people-headcount-control-check",
+      "score": 102,
+      "domain": "people",
+      "description": "Check headcount request evidence against approved plan, budget, and authorization. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Workforce Planning Capability Director."
+    },
+    {
+      "slug": "people-requisition-management",
+      "score": 102,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Requisition Management** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-requisition-management`, `requisition-management`, or the corresponding professional workflow: talent acquisition and requisition management | decide whether a role is approved, define objective requirements, sourcing strategy, selection stages, and hiring recommendation | hiring manager, recruiter, interview panel, HR/legal, finance"
+    },
+    {
+      "slug": "people-structured-selection",
+      "score": 102,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Structured Selection** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-structured-selection`, `structured-selection`, or the corresponding professional workflow: talent acquisition and requisition management | decide whether a role is approved, define objective requirements, sourcing strategy, selection stages, and hiring recommendation | hiring manager, recruiter, interview panel, HR/legal, finance"
+    },
+    {
+      "slug": "people-accommodation-handoff-preparation",
+      "score": 101,
+      "domain": "people",
+      "description": "Prepare a confidential accommodation handoff for qualified human review. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Employee Lifecycle Operations Capability Director."
+    },
+    {
+      "slug": "people-benefits-enrollment-readiness",
+      "score": 101,
+      "domain": "people",
+      "description": "Assess benefits enrollment readiness, eligibility evidence, and missing actions. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Employee Lifecycle Operations Capability Director."
+    },
+    {
+      "slug": "people-employee-relations-evidence",
+      "score": 101,
+      "domain": "people",
+      "description": "Compile employee-relations case evidence with need-to-know privacy boundaries. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Employee Relations and Ethics Capability Director."
+    },
+    {
+      "slug": "people-engagement-trend-synthesis",
+      "score": 101,
+      "domain": "people",
+      "description": "Synthesize engagement trends with sample, privacy, and interpretation limits. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Performance and Talent Growth Capability Director."
+    },
+    {
+      "slug": "people-exit-readiness-check",
+      "score": 101,
+      "domain": "people",
+      "description": "Assess exit readiness across access, payroll, knowledge transfer, and legal hold dependencies. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Employee Lifecycle Operations Capability Director."
+    },
+    {
+      "slug": "people-hr-data-quality-remediation",
+      "score": 101,
+      "domain": "people",
+      "description": "Identify HR data-quality issues and create steward remediation cases. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the People Governance Capability Director."
+    },
+    {
+      "slug": "people-leave-case-preparation",
+      "score": 101,
+      "domain": "people",
+      "description": "Prepare leave administration case evidence while protecting sensitive personal data. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Employee Lifecycle Operations Capability Director."
+    },
+    {
+      "slug": "people-onboarding-readiness-assessment",
+      "score": 101,
+      "domain": "people",
+      "description": "Assess onboarding readiness, required records, equipment, access, and manager dependencies. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Employee Lifecycle Operations Capability Director."
+    },
+    {
+      "slug": "people-performance-checkin-preparation",
+      "score": 101,
+      "domain": "people",
+      "description": "Prepare performance check-in evidence, goals, and review prompts without rating employees. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Performance and Talent Growth Capability Director."
+    },
+    {
+      "slug": "people-learning-development",
+      "score": 99,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Learning Development** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-learning-development`, `learning-development`, or the corresponding professional workflow: performance and development management | set measurable goals, gather multi-source evidence, calibrate ratings, plan development, and handle performance concerns | employee, manager, HRBP, learning team, calibration committee"
+    },
+    {
+      "slug": "people-performance-management",
+      "score": 99,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Performance Management** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-performance-management`, `performance-management`, or the corresponding professional workflow: performance and development management | set measurable goals, gather multi-source evidence, calibrate ratings, plan development, and handle performance concerns | employee, manager, HRBP, learning team, calibration committee"
+    },
+    {
+      "slug": "people-absence-accommodation-management",
+      "score": 96,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Absence Accommodation Management** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-absence-accommodation-management`, `absence-accommodation-management`, or the corresponding professional workflow: absence, accommodations, and wellbeing management | assess documentation and eligibility, coordinate reasonable accommodation or leave process, protect confidentiality, and manage return-to-work | employee, manager, occupational health/provider, benefits/leave administrator, HR/legal"
+    },
+    {
+      "slug": "people-employee-records-governance",
+      "score": 96,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Employee Records Governance** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-employee-records-governance`, `employee-records-governance`, or the corresponding professional workflow: employee data and records administration | determine lawful purpose, data classification, access rights, retention, corrections, and audit trail for personnel records | HR operations, privacy/security, payroll, legal, employee"
+    },
+    {
+      "slug": "people-employee-relations-investigations",
+      "score": 96,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Employee Relations Investigations** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-employee-relations-investigations`, `employee-relations-investigations`, or the corresponding professional workflow: employee relations, grievance, and investigations | triage concern, preserve impartiality and evidence, determine investigation scope, recommend proportionate action, and protect against retaliation | employee, HR/ER investigator, manager, legal, ethics/compliance, union or works council where applicable"
+    },
+    {
+      "slug": "people-skill-profile-quality-check",
+      "score": 93,
+      "domain": "people",
+      "description": "Check workforce skill-profile quality, evidence, freshness, and ownership. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Learning and Capability Development Capability Director."
+    },
+    {
+      "slug": "people-candidate-screening-preparation",
+      "score": 90,
+      "domain": "people",
+      "description": "Prepare candidate evidence against approved job criteria for human review only. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Talent Acquisition Operations Capability Director."
+    },
+    {
+      "slug": "people-contingent-worker-compliance",
+      "score": 90,
+      "domain": "people",
+      "description": "Review contingent-worker lifecycle evidence for classification, access, and engagement controls. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Contingent Workforce Operations Capability Director."
+    },
+    {
+      "slug": "people-dei-metric-evidence",
+      "score": 90,
+      "domain": "people",
+      "description": "Compile DEI metric evidence with definition, privacy, and permitted-use controls. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the People Governance Capability Director."
+    },
+    {
+      "slug": "people-ethics-training-completion-review",
+      "score": 90,
+      "domain": "people",
+      "description": "Review ethics-training completion evidence and route exception follow-up. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the People Governance Capability Director."
+    },
+    {
+      "slug": "people-interview-coordination-readiness",
+      "score": 90,
+      "domain": "people",
+      "description": "Assess interview coordination readiness, interviewer roles, accommodations, and candidate communications. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Talent Acquisition Operations Capability Director."
+    },
+    {
+      "slug": "people-offer-approval-preparation",
+      "score": 90,
+      "domain": "people",
+      "description": "Prepare offer approval evidence, policy checks, and required approver routing. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Talent Acquisition Operations Capability Director."
+    },
+    {
+      "slug": "people-payroll-exception-triage",
+      "score": 90,
+      "domain": "people",
+      "description": "Triage payroll exceptions and compile time, policy, and owner evidence. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Payroll and Time Administration Capability Director."
+    },
+    {
+      "slug": "people-people-policy-query-triage",
+      "score": 90,
+      "domain": "people",
+      "description": "Classify people-policy questions and route authoritative response drafts. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the People Governance Capability Director."
+    },
+    {
+      "slug": "people-requisition-quality-review",
+      "score": 90,
+      "domain": "people",
+      "description": "Review job requisition completeness, approval, role design, and workforce-plan alignment. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Talent Acquisition Operations Capability Director."
+    },
+    {
+      "slug": "people-time-attendance-exception",
+      "score": 90,
+      "domain": "people",
+      "description": "Analyze time-and-attendance exceptions for authorized review. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Payroll and Time Administration Capability Director."
+    },
+    {
+      "slug": "people-candidate-assessment",
+      "score": 88,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Candidate Assessment** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-candidate-assessment`, `candidate-assessment`, or the corresponding professional workflow: candidate assessment and selection | apply consistent job-related criteria, document evidence, check accommodations and conflicts, and escalate exceptions | recruiter, hiring manager, panel, HR/EEO or legal reviewer"
+    },
+    {
+      "slug": "people-workforce-planning-specialist",
+      "score": 88,
+      "domain": "people",
+      "description": "Use for people work requiring the Workforce Planning Specialist role: workforce planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-compensation-benefits-operations",
+      "score": 85,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Compensation Benefits Operations** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-compensation-benefits-operations`, `compensation-benefits-operations`, or the corresponding professional workflow: compensation, benefits, and payroll operations | decide pay-band placement, eligibility, deductions, leave/benefit enrollment, time approval, and exception handling under applicable policy and law | compensation/benefits, payroll, finance, managers, employee, legal"
+    },
+    {
+      "slug": "people-onboarding-administration",
+      "score": 85,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Onboarding Administration** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-onboarding-administration`, `onboarding-administration`, or the corresponding professional workflow: onboarding and employment administration | decide readiness for start, access, policy acknowledgements, required training, payroll/benefits enrollment, and probation milestones | new hire, manager, HR operations, IT/security, payroll, facilities"
+    },
+    {
+      "slug": "people-payroll-time-validation",
+      "score": 85,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Payroll Time Validation** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-payroll-time-validation`, `payroll-time-validation`, or the corresponding professional workflow: compensation, benefits, and payroll operations | decide pay-band placement, eligibility, deductions, leave/benefit enrollment, time approval, and exception handling under applicable policy and law | compensation/benefits, payroll, finance, managers, employee, legal"
+    },
+    {
+      "slug": "people-career-development-advisor",
+      "score": 79,
+      "domain": "people",
+      "description": "Use for people work requiring the Career Development Advisor role: career development; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-succession-planning-specialist",
+      "score": 79,
+      "domain": "people",
+      "description": "Use for people work requiring the Succession Planning Specialist role: succession planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-workforce-strategy-analyst",
+      "score": 79,
+      "domain": "people",
+      "description": "Use for people work requiring the Workforce Strategy Analyst role: workforce strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-employee-engagement-analyst",
+      "score": 76,
+      "domain": "people",
+      "description": "Use for people work requiring the Employee Engagement Analyst role: employee engagement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-employee-experience-specialist",
+      "score": 76,
+      "domain": "people",
+      "description": "Use for people work requiring the Employee Experience Specialist role: employee experience; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-employee-relations-support-specialist",
+      "score": 76,
+      "domain": "people",
+      "description": "Use for people work requiring the Employee Relations Support Specialist role: employee relations support; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-hr-compliance-reviewer",
+      "score": 76,
+      "domain": "people",
+      "description": "Use for people work requiring the HR Compliance Reviewer role: hr compliance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-hr-policy-specialist",
+      "score": 76,
+      "domain": "people",
+      "description": "Use for people work requiring the HR Policy Specialist role: hr policy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-performance-management-specialist",
+      "score": 76,
+      "domain": "people",
+      "description": "Use for people work requiring the Performance Management Specialist role: performance management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-performance-review-writer",
+      "score": 76,
+      "domain": "people",
+      "description": "Use for people work requiring the Performance Review Writer role: performance review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-talent-acquisition-strategist",
+      "score": 76,
+      "domain": "people",
+      "description": "Use for people work requiring the Talent Acquisition Strategist role: talent acquisition; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-learning-and-development-specialist",
+      "score": 68,
+      "domain": "people",
+      "description": "Use for people work requiring the Learning & Development Specialist role: learning & development; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-operations-resource-capacity-planning",
+      "score": 65,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Resource Capacity Planning** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-resource-capacity-planning`, `resource-capacity-planning`, or the corresponding professional workflow: resource-and-capacity-planning | decide staffing mix, skills, availability, utilization targets, subcontractor needs, and escalation coverage | handoff from portfolio/resource manager to engagement manager, practice leads, HR/talent, and approved suppliers"
+    },
+    {
+      "slug": "people-analytics-specialist",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the People Analytics Specialist role: people analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-benefits-analyst",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Benefits Analyst role: benefits; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-candidate-evaluation-specialist",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Candidate Evaluation Specialist role: candidate evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-candidate-research-specialist",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Candidate Research Specialist role: candidate research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-chro-advisor",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the CHRO Advisor role: chro; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-compensation-analyst",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Compensation Analyst role: compensation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-interview-designer",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Interview Designer role: interview; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-interview-question-specialist",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Interview Question Specialist role: interview question; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-job-architecture-specialist",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Job Architecture Specialist role: job architecture; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-job-description-writer",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Job Description Writer role: job description; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-onboarding-specialist",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Onboarding Specialist role: onboarding; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-orchestrator",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the People Orchestrator role: people; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-organizational-design-specialist",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Organizational Design Specialist role: organizational design; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-recruiter",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Recruiter role: recruiter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-resume-screening-specialist",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Resume Screening Specialist role: resume screening; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-retention-analyst",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Retention Analyst role: retention; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-training-designer",
+      "score": 65,
+      "domain": "people",
+      "description": "Use for people work requiring the Training Designer role: training; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "education-support-career-transition",
+      "score": 62,
+      "domain": "education",
+      "description": "Perform the bounded professional capability **Support Career Transition** for the **Education and Workforce Learning** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `education-support-career-transition`, `support-career-transition`, or the corresponding professional workflow: workforce-transition-and-placement | connect graduates to career navigation, work-based learning, interviews, employers, placement services, or further education based on verified skills and learner consent"
+    },
+    {
+      "slug": "cio-technology-succession-planning",
+      "score": 57,
+      "domain": "shared-execution",
+      "description": "CIO Technology Succession Planning for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "education-analyze-learning-needs",
+      "score": 57,
+      "domain": "education",
+      "description": "Perform the bounded professional capability **Analyze Learning Needs** for the **Education and Workforce Learning** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `education-analyze-learning-needs`, `analyze-learning-needs`, or the corresponding professional workflow: learning-needs-analysis | determine target learner, performance gap, business/learning outcomes, constraints, and evidence required"
+    },
+    {
+      "slug": "chief-of-staff-principal-transition-handoff",
+      "score": 51,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Principal Transition Handoff** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-principal-transition-handoff`, `principal-transition-handoff`, or the corresponding professional workflow: Principal transition and continuity | document operating preferences, open commitments, authorities, stakeholder map, and succession handoff while avoiding undocumented shadow governance | outgoing/incoming principal, successor COS, HR, legal, executive assistant, key functional owners"
+    },
+    {
+      "slug": "cio-technology-skills-gap-analysis",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "CIO Technology Skills Gap Analysis for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cybersecurity-security-awareness-management",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Awareness Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-awareness-management`, `security-awareness-management`, or the corresponding professional workflow: Security awareness and workforce risk management | identify role-based training and insider-risk safeguards, measure completion and behavior, and escalate material noncompliance | HR, learning teams, legal, privacy, managers, insider-risk, and security operations"
+    },
+    {
+      "slug": "education-map-occupational-competencies",
+      "score": 51,
+      "domain": "education",
+      "description": "Perform the bounded professional capability **Map Occupational Competencies** for the **Education and Workforce Learning** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `education-map-occupational-competencies`, `map-occupational-competencies`, or the corresponding professional workflow: competency-and-occupational-analysis | map job tasks, skills, knowledge, credentials, and labor-market requirements using occupational and competency frameworks"
+    },
+    {
+      "slug": "cio-technology-talent-strategy",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Talent Strategy for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-role-planning",
+      "score": 46,
+      "domain": "cio-it",
+      "description": "CIO IT Role Planning for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-workforce-capacity-planning",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "CIO Workforce Capacity Planning for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-workforce-planning",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "Eos Workforce Planning for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "automation-baseline-process-performance",
+      "score": 43,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Baseline Process Performance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-baseline-process-performance`, `baseline-process-performance`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-improve-process-performance",
+      "score": 43,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Improve Process Performance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-improve-process-performance`, `improve-process-performance`, or the corresponding professional workflow: performance-and-conformance-improvement | decide corrective action, redesign, retraining/configuration change, capacity adjustment, or retirement using KPI trends, incidents, and process-mining/conformance evidence | handoff to continuous-improvement lead, process owner, architecture, and governance board"
+    },
+    {
+      "slug": "chief-of-staff-cross-functional-initiative-coordination",
+      "score": 43,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Cross Functional Initiative Coordination** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-cross-functional-initiative-coordination`, `cross-functional-initiative-coordination`, or the corresponding professional workflow: Cross-functional strategic initiative delivery | charter an initiative, resolve dependencies, track risks/issues, and escalate slippage without absorbing line ownership | initiative sponsor, PMO, product/technology, finance, HR, external partners"
+    },
+    {
+      "slug": "chief-of-staff-stakeholder-engagement-planning",
+      "score": 43,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Stakeholder Engagement Planning** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-stakeholder-engagement-planning`, `stakeholder-engagement-planning`, or the corresponding professional workflow: Stakeholder and relationship orchestration | map stakeholders, tailor engagement sequence, manage sensitive briefings, and distinguish alignment from authorization | principal, communications, government affairs, customers/partners, people leaders"
+    },
+    {
+      "slug": "construction-project-controls-reporting",
+      "score": 43,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Controls Reporting** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-controls-reporting`, `project-controls-reporting`, or the corresponding professional workflow: project controls and performance reporting | maintain a common data set for scope, cost, schedule, progress, forecasts, risks, decisions, and stakeholder-specific reporting cadence | project manager, project controls, finance, sponsor, contractors, resource managers"
+    },
+    {
+      "slug": "education-design-curriculum",
+      "score": 43,
+      "domain": "education",
+      "description": "Perform the bounded professional capability **Design Curriculum** for the **Education and Workforce Learning** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `education-design-curriculum`, `design-curriculum`, or the corresponding professional workflow: curriculum-and-course-design | sequence measurable outcomes, content, practice, assessments, and delivery modes"
+    },
+    {
+      "slug": "education-design-validate-assessments",
+      "score": 43,
+      "domain": "education",
+      "description": "Perform the bounded professional capability **Design Validate Assessments** for the **Education and Workforce Learning** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `education-design-validate-assessments`, `design-validate-assessments`, or the corresponding professional workflow: curriculum-and-course-design | sequence measurable outcomes, content, practice, assessments, and delivery modes"
+    },
+    {
+      "slug": "education-develop-learning-content",
+      "score": 43,
+      "domain": "education",
+      "description": "Perform the bounded professional capability **Develop Learning Content** for the **Education and Workforce Learning** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `education-develop-learning-content`, `develop-learning-content`, or the corresponding professional workflow: learning-content-development | author, adapt, version, and peer-review lessons, guides, simulations, and instructor materials"
+    },
+    {
+      "slug": "finance-driver-based-budgeting",
+      "score": 43,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Driver Based Budgeting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-driver-based-budgeting`, `driver-based-budgeting`, or the corresponding professional workflow: Annual operating planning and budgeting | set the planning calendar, collect driver-based operating inputs, challenge assumptions, consolidate budgets, and obtain approval | handoff among FP&A, business-unit finance, HR, sales, operations, and executive approvers"
+    },
+    {
+      "slug": "government-manage-grants-lifecycle",
+      "score": 43,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Manage Grants Lifecycle** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-manage-grants-lifecycle`, `manage-grants-lifecycle`, or the corresponding professional workflow: grants lifecycle administration | design funding opportunity, assess applications, make documented award decisions, monitor performance, and close out awards | grants officers, program officials, finance, recipients, audit/oversight bodies"
+    },
+    {
+      "slug": "healthcare-cms-quality-measure-reporting",
+      "score": 43,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Cms Quality Measure Reporting** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-cms-quality-measure-reporting`, `cms-quality-measure-reporting`, or the corresponding professional workflow: quality-measurement-and-reporting | select applicable CMS measures, define data specifications, validate denominators/numerators, analyze performance, and submit or attest through approved channels | quality department, data/analytics, clinical owners, CMS or other program administrator"
+    },
+    {
+      "slug": "marketing-budget-pacing-analysis",
+      "score": 43,
+      "domain": "marketing",
+      "description": "Analyze campaign budget pacing against approved plan and performance evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "product-product-analytics",
+      "score": 43,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Analytics** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-analytics`, `product-analytics`, or the corresponding professional workflow: measure-product-performance-and-learning | decide whether outcomes, adoption, retention, value, cost, and risk justify iteration, investment, remediation, or retirement | handoff to analytics, finance, customer success, engineering, operations, and portfolio governance"
+    },
+    {
+      "slug": "agentic-systems-architect",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Design and implement a hierarchical agent architecture for the management of autonomous sub-agents. This skill provides the blueprint for creating a scalable and self-managing workforce, including protocols for communication, task allocation, and performance evaluation. Use when building or upgrading your agent management system."
+    },
+    {
+      "slug": "ibm-career-enterprise-operations-talent-acquisition-partner",
+      "score": 42,
+      "domain": "enterprise-operations",
+      "description": "IBM-aligned Talent Acquisition Partner specialist. Use for Enterprise Operations work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "business-development-alliance-management",
+      "score": 40,
+      "domain": "business-development",
+      "description": "Design, govern and improve strategic alliances with joint value, roles, GTM motions, economics and performance evidence. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-executive-communications-control",
+      "score": 40,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Executive Communications Control** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-executive-communications-control`, `executive-communications-control`, or the corresponding professional workflow: Executive communications and message control | develop briefs, talking points, Q&A, announcements, and approval routes while separating fact, recommendation, and commitment | principal, communications, legal, HR, investor/government relations"
+    },
+    {
+      "slug": "chief-of-staff-organizational-sensing",
+      "score": 40,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Organizational Sensing** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-organizational-sensing`, `organizational-sensing`, or the corresponding professional workflow: Organizational sensing and issue triage | collect signals from leaders and operating data, classify urgency/impact, identify root owner, and recommend response options | principal, HR, risk, security, legal, business owners"
+    },
+    {
+      "slug": "construction-commissioning-turnover",
+      "score": 40,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Commissioning Turnover** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-commissioning-turnover`, `commissioning-turnover`, or the corresponding professional workflow: commissioning, turnover, and closeout | complete punch lists, functional performance testing, commissioning, training, as-builts, O&M manuals, warranties, permits, final inspections, lessons learned, and post-occupancy transition | commissioning authority, contractor, design team, owner/facilities operations, authorities having jurisdiction"
+    },
+    {
+      "slug": "cybersecurity-identity-access-governance",
+      "score": 40,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Identity Access Governance** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-identity-access-governance`, `identity-access-governance`, or the corresponding professional workflow: Identity and access governance | establish joiner-mover-leaver, authentication, privileged access, entitlement review, and segregation-of-duties processes | HR, IAM operations, application/data owners, internal audit, and legal/compliance"
+    },
+    {
+      "slug": "design-define-service-measures",
+      "score": 40,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Define Service Measures** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-define-service-measures`, `define-service-measures`, or the corresponding professional workflow: Launch, measure, and continuously improve the service | define outcome and performance measures, instrument the service, monitor reliability and inclusion, review feedback/incidents, and run controlled improvements | product owner, service operations, analytics, support, governance board"
+    },
+    {
+      "slug": "engineering-delivery-performance-improvement",
+      "score": 40,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Delivery Performance Improvement** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-delivery-performance-improvement`, `delivery-performance-improvement`, or the corresponding professional workflow: Learn and improve delivery | analyze delivery/reliability measures, incident reviews, customer feedback, and escaped defects to select improvement experiments | engineering leadership, product, operations, security, and organizational learning/quality functions"
+    },
+    {
+      "slug": "government-measure-benefits-and-performance",
+      "score": 40,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Measure Benefits And Performance** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-measure-benefits-and-performance`, `measure-benefits-and-performance`, or the corresponding professional workflow: benefits, performance, and post-implementation evaluation | define measures, collect reliable outcome/impact data, compare with baseline, realize benefits, and capture lessons | benefits owners, analysts, finance, policy evaluators, audit, portfolio governance"
+    },
+    {
+      "slug": "legal-contract-performance-monitoring",
+      "score": 40,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Performance Monitoring** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-performance-monitoring`, `contract-performance-monitoring`, or the corresponding professional workflow: contract-performance-and-compliance-monitoring | compare performance evidence, invoices, KPIs, change requests, incidents, and nonconformance against contractual remedies and controls | handoff to contract administrator, vendor manager, finance, operations, legal, and executive risk owner"
+    },
+    {
+      "slug": "procurement-monitor-supplier-performance",
+      "score": 40,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Monitor Supplier Performance** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-monitor-supplier-performance`, `monitor-supplier-performance`, or the corresponding professional workflow: supplier-performance-and-relationship-management | set governance cadence, KPIs, service reviews, corrective actions, collaboration model, and escalation path proportional to supplier criticality | handoff to contract manager, service owner, supplier account team, risk/compliance, and executive sponsor"
+    },
+    {
+      "slug": "supply-chain-supplier-performance-management",
+      "score": 40,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supplier Performance Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supplier-performance-management`, `supplier-performance-management`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "supply-chain-supply-chain-performance-improvement",
+      "score": 40,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Chain Performance Improvement** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-chain-performance-improvement`, `supply-chain-performance-improvement`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "casting-performance-development",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Develop casting breakdowns, audition materials and evidence-based evaluation plans while preserving human hiring, consent and accessibility authority."
+    },
+    {
+      "slug": "cio-hr-systems-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Hr Systems Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "engineering-performance-regression-analysis",
+      "score": 37,
+      "domain": "engineering",
+      "description": "Analyze performance regression evidence, baselines, affected flows, and test gaps. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "eos-skills-development",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Skills Development for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-succession-planning",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Succession Planning for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-bob-skills-implementation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "A comprehensive orchestration package that integrates 38 specialized skills into a cohesive IBM Project Bob environment. Use this skill when you need to understand how the 38 distinct skills (covering enterprise strategy, software development, creative direction, and UI/UX) fit together into a hierarchical agentic architecture. It provides the routing logic for complex, multi-stage workflows like \"Idea to IPO\" or \"Enterprise Deal Execution\"."
+    },
+    {
+      "slug": "marketing-channel-performance-synthesis",
+      "score": 37,
+      "domain": "marketing",
+      "description": "Synthesize channel performance with attribution caveats and actionable hypotheses. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Measurement Capability Director."
+    },
+    {
+      "slug": "customer-service-workforce-schedule-exception",
+      "score": 34,
+      "domain": "customer-success",
+      "description": "Prepare contact-center workforce schedule exception evidence for owner approval. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Contact Center Operations Capability Director."
+    },
+    {
+      "slug": "eos-business-performance-review",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Business Performance Review for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-employee-experience",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Employee Experience for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-employee-offboarding",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Employee Offboarding for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-employee-onboarding",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Employee Onboarding for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-partner-performance",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Partner Performance for Partnerships / Ecosystem. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-performance-management",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Performance Management for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supplier-performance",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Supplier Performance for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-workforce-analytics",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Workforce Analytics for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "motion-performance-planning",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Plan motion and performance with physics, anatomy, interaction, camera-motion and temporal-risk constraints."
+    },
+    {
+      "slug": "procurement-supplier-performance-scorecard",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Produce a supplier performance scorecard with source evidence and metric caveats. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "watsonx-ai-cost-performance",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Watsonx AI Cost Performance for watsonx.ai. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "engineering-performance-engineer",
+      "score": 31,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Performance Engineer role: performance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-career-ai-watsonx-ai-engineer-watsonx",
+      "score": 31,
+      "domain": "ai-watsonx",
+      "description": "IBM-aligned AI Engineer watsonx specialist. Use for AI and watsonx work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-ai-watsonx-backend-developer-watsonx",
+      "score": 31,
+      "domain": "ai-watsonx",
+      "description": "IBM-aligned Backend Developer watsonx specialist. Use for AI and watsonx work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-cloud-cloud-data-engineer",
+      "score": 31,
+      "domain": "cloud",
+      "description": "IBM-aligned Cloud Data Engineer specialist. Use for Cloud work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-cloud-cloud-platform-architect",
+      "score": 31,
+      "domain": "cloud",
+      "description": "IBM-aligned Cloud Platform Architect specialist. Use for Cloud work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-cloud-infrastructure-specialist",
+      "score": 31,
+      "domain": "cloud",
+      "description": "IBM-aligned Infrastructure Specialist specialist. Use for Cloud work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-cloud-technical-architect",
+      "score": 31,
+      "domain": "cloud",
+      "description": "IBM-aligned Technical Architect specialist. Use for Cloud work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-consulting-business-transformation-consultant",
+      "score": 31,
+      "domain": "consulting",
+      "description": "IBM-aligned Business Transformation Consultant specialist. Use for Consulting work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-consulting-industry-consultant",
+      "score": 31,
+      "domain": "consulting",
+      "description": "IBM-aligned Industry Consultant specialist. Use for Consulting work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-consulting-oracle-consultant",
+      "score": 31,
+      "domain": "consulting",
+      "description": "IBM-aligned Oracle Consultant specialist. Use for Consulting work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-consulting-salesforce-consultant",
+      "score": 31,
+      "domain": "consulting",
+      "description": "IBM-aligned Salesforce Consultant specialist. Use for Consulting work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-consulting-sap-consultant",
+      "score": 31,
+      "domain": "consulting",
+      "description": "IBM-aligned SAP Consultant specialist. Use for Consulting work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-data-analytics-data-analyst",
+      "score": 31,
+      "domain": "data-analytics",
+      "description": "IBM-aligned Data Analyst specialist. Use for Data and Analytics work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-design-ux-service-designer",
+      "score": 31,
+      "domain": "design-ux",
+      "description": "IBM-aligned Service Designer specialist. Use for Design and UX work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-design-ux-ux-designer",
+      "score": 31,
+      "domain": "design-ux",
+      "description": "IBM-aligned UX Designer specialist. Use for Design and UX work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-research-advisory-data-scientist-ibm-quantum",
+      "score": 31,
+      "domain": "research",
+      "description": "IBM-aligned Advisory Data Scientist - IBM Quantum specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-research-artificial-intelligence-researcher",
+      "score": 31,
+      "domain": "research",
+      "description": "IBM-aligned Artificial Intelligence Researcher specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-research-cloud-research-scientist",
+      "score": 31,
+      "domain": "research",
+      "description": "IBM-aligned Cloud Research Scientist specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-research-quantum-research-scientist",
+      "score": 31,
+      "domain": "research",
+      "description": "IBM-aligned Quantum Research Scientist specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-sales-brand-technical-sales-specialist",
+      "score": 31,
+      "domain": "sales",
+      "description": "IBM-aligned Brand Technical Sales Specialist specialist. Use for Sales work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-sales-partner-technical-specialist",
+      "score": 31,
+      "domain": "sales",
+      "description": "IBM-aligned Partner Technical Specialist specialist. Use for Sales work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-sales-technology-sales-leader",
+      "score": 31,
+      "domain": "sales",
+      "description": "IBM-aligned Technology Sales Leader specialist. Use for Sales work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-sales-territory-sales-specialist",
+      "score": 31,
+      "domain": "sales",
+      "description": "IBM-aligned Territory Sales Specialist specialist. Use for Sales work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-modes-to-skills",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Converts all IBM BOB selling modes (ibm-pre-*, ibm-eng-*, ibm-qua-*, ibm-des-*, ibm-pro-*, ibm-neg-*, ibm-clo-*, ibm-dep-*, ibm-ado-*, ibm-exp-*, ibm-met-*, ibm-fw-*, ibm-sdr-workflow-*, ibm-atl-*) into standalone SKILL.md files under ~/.bob/skills/, preserving every field \u2014 roleDefinition, customInstructions, whenToUse, and groups \u2014 without any dilution. Use when asked to \"convert IBM modes to skills\", \"create skills from IBM modes\", or \"run the IBM modes conversion script\"."
+    },
+    {
+      "slug": "marketing-performance-marketing-analyst",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Performance Marketing Analyst role: performance marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "performance_objective_design",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Performance Objective Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "performance_prompting",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Performance Prompting specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "procurement-supplier-performance-analyst",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Performance Analyst role: supplier performance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cyber-resilience-threat-intelligence-synthesis",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Synthesize approved threat intelligence into a scoped risk and detection review packet. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Threat Intelligence Capability Director."
+    },
+    {
+      "slug": "procurement-three-way-match-resolution",
+      "score": 23,
+      "domain": "procurement",
+      "description": "Reconcile purchase order, receipt, and invoice evidence for unresolved matches. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Payables and Procurement Capability Director."
+    },
+    {
+      "slug": "cybersecurity-threat-intelligence-analyst",
+      "score": 20,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Threat Intelligence Analyst role: threat intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-threat-modeling-specialist",
+      "score": 20,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Threat Modeling Specialist role: threat modeling; produces evidence-backed artifacts with validation and structured handoffs."
+    }
+  ],
+  "primary_accountable": [
+    "agentic-systems-architect",
+    "casting-performance-development",
+    "cio-technology-succession-planning",
+    "cio-workforce-capacity-planning",
+    "eos-succession-planning",
+    "eos-workforce-planning",
+    "people-absence-accommodation-management",
+    "people-accommodation-handoff-preparation",
+    "people-analytics-specialist",
+    "people-benefits-analyst",
+    "people-benefits-enrollment-readiness",
+    "people-career-development-advisor",
+    "people-chro-advisor",
+    "people-compensation-analyst",
+    "people-compensation-benefits-operations",
+    "people-contingent-worker-compliance",
+    "people-dei-metric-evidence",
+    "people-employee-engagement-analyst",
+    "people-employee-experience-specialist",
+    "people-employee-records-governance",
+    "people-employee-relations-evidence",
+    "people-employee-relations-investigations",
+    "people-employee-relations-support-specialist",
+    "people-engagement-trend-synthesis",
+    "people-ethics-training-completion-review",
+    "people-exit-readiness-check",
+    "people-headcount-control-check",
+    "people-hr-compliance-reviewer",
+    "people-hr-data-quality-remediation",
+    "people-hr-policy-specialist",
+    "people-learning-and-development-specialist",
+    "people-learning-development",
+    "people-learning-needs-analysis",
+    "people-leave-case-preparation",
+    "people-mobility-case-readiness",
+    "people-offboarding-workforce-transition",
+    "people-onboarding-administration",
+    "people-orchestrator",
+    "people-organizational-design-specialist",
+    "people-payroll-exception-triage",
+    "people-payroll-time-validation",
+    "people-people-policy-query-triage",
+    "people-performance-checkin-preparation",
+    "people-performance-management",
+    "people-performance-management-specialist",
+    "people-performance-review-writer",
+    "people-recruiter",
+    "people-retention-analyst",
+    "people-skill-profile-quality-check",
+    "people-succession-mobility-planning",
+    "people-succession-planning-specialist",
+    "people-succession-risk-evidence",
+    "people-time-attendance-exception",
+    "people-training-designer",
+    "people-workforce-plan-variance",
+    "people-workforce-planning-specialist",
+    "people-workforce-strategy-analyst",
+    "performance_objective_design",
+    "performance_prompting",
+    "shot-specification",
+    "tsc-modernization-value-analyst"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

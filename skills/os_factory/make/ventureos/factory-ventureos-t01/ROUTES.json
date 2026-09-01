@@ -1,0 +1,27 @@
+{
+  "pocket": "ventureos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "product-opportunity-analyst",
+    "startups-opportunity-discovery-analyst",
+    "ibm-pre-003",
+    "ibm-pre-atl-003",
+    "product-go-to-market-planning",
+    "product-roadmap-planning",
+    "startups-business-model-specialist",
+    "startups-startup-gtm-strategist",
+    "product-customer-problem-discovery",
+    "startups-founder-market-fit-analyst",
+    "startups-fundraising-strategist",
+    "startups-market-validation-specialist",
+    "startups-orchestrator",
+    "startups-startup-financial-modeler",
+    "startups-startup-growth-strategist",
+    "startups-startup-orchestrator",
+    "startups-venture-risk-critic",
+    "startups-venture-strategist",
+    "product-customer-interview-specialist",
+    "product-discovery-specialist"
+  ]
+}

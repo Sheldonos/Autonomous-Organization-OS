@@ -1,0 +1,27 @@
+{
+  "pocket": "procureos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-purchase-order-change-triage",
+    "procurement-three-way-match-resolution",
+    "procurement-demand-intake-qualification",
+    "procurement-invoice-exception-analysis",
+    "procurement-supplier-performance-scorecard",
+    "procurement-draft-and-negotiate-contract",
+    "procurement-manage-solicitation",
+    "procurement-purchase-approval-routing",
+    "procurement-purchase-requisition-compliance",
+    "procurement-supplier-diversity-certification",
+    "procurement-supplier-esg-evidence-review",
+    "procurement-category-opportunity-analysis",
+    "sales-procurement-onboarding",
+    "procurement-supplier-risk-analyst",
+    "procurement-vendor-evaluation-specialist",
+    "procurement-compliance-reviewer",
+    "cio-technology-vendor-evaluation",
+    "cio-technology-vendor-risk",
+    "source-intake-rights",
+    "supply-chain-supplier-due-diligence"
+  ]
+}

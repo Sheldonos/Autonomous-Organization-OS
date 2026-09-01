@@ -1,0 +1,12 @@
+{
+  "pocket": "launchos",
+  "required_or_optional_classes": [
+    "project_mgmt",
+    "analytics",
+    "crm",
+    "marketing_automation",
+    "code_host"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

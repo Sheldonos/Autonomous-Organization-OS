@@ -1,0 +1,27 @@
+{
+  "pocket": "labos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-021",
+    "research-protocol-preregistration",
+    "research-living-review-monitoring",
+    "research-data-extraction",
+    "research-evidence-mapping",
+    "research-question-framing",
+    "research-search-strategy-design",
+    "product-experiment-design",
+    "research-certainty-assessment",
+    "research-evidence-retrieval",
+    "research-evidence-to-decision",
+    "research-meta-analysis",
+    "research-qualitative-synthesis",
+    "research-risk-of-bias-appraisal",
+    "research-screening-and-selection",
+    "research-synthesis-method-selection",
+    "research-transparent-reporting",
+    "product-privacy-by-design-review",
+    "product-prototype-validation",
+    "quantum-research-orchestrator"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "pmoos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "construction-construction-safety-escalation",
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "construction-project-controls-reporting",
+    "agency-operations-resource-capacity-planning",
+    "construction-preconstruction-mobilization",
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "agency-operations-delivery-status-control",
+    "construction-project-charter-planning",
+    "program-management-decision-log-manager",
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "operations-production-schedule-exception",
+    "agency-operations-privacy-data-handling",
+    "agency-operations-records-retention-management",
+    "program-management-program-governance",
+    "construction-field-coordination",
+    "construction-quality-inspection-management",
+    "real-estate-capital-project-delivery",
+    "data-strategy-portfolio-roadmap-synthesis"
+  ]
+}

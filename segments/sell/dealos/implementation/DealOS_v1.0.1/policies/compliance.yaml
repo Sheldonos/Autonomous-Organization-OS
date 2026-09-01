@@ -1,0 +1,23 @@
+version: 1
+federal:
+  contingent_fee_enabled: false
+  kickbacks_prohibited: true
+  fabricated_eligibility_prohibited: true
+  human_signature_required: true
+
+financial:
+  autonomous_money_movement: false
+  autonomous_refunds: false
+  autonomous_payouts: false
+  unknown_bank_change: red
+
+claims:
+  require_evidence_for_capabilities: true
+  require_evidence_for_certifications: true
+  require_evidence_for_past_performance: true
+  no_invented_metrics: true
+
+privacy:
+  minimize_data_shared_to_models: true
+  secrets_never_in_prompts: true
+  respect_suppression_requests: true

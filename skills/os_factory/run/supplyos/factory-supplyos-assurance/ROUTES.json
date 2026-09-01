@@ -1,0 +1,27 @@
+{
+  "pocket": "supplyos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "supply-chain-order-fulfillment",
+    "supply-chain-transportation-management",
+    "operations-supplier-eta-exception",
+    "supply-chain-reverse-logistics",
+    "operations-order-promise-readiness",
+    "operations-demand-forecast-exception",
+    "operations-warehouse-exception-triage",
+    "supply-chain-supplier-due-diligence",
+    "supply-chain-supplier-performance-management",
+    "supply-chain-traceability-recall-response",
+    "operations-inventory-health-review",
+    "operations-logistics-disruption-case",
+    "operations-return-material-authorization-prep",
+    "operations-stockout-risk-monitoring",
+    "supply-chain-procurement-sourcing",
+    "operations-capacity-constraint-analysis",
+    "supply-chain-production-scheduling",
+    "operations-customs-document-readiness",
+    "supply-chain-risk-analyst",
+    "supply-chain-supply-chain-performance-improvement"
+  ]
+}

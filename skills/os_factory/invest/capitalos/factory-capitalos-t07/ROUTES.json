@@ -1,0 +1,27 @@
+{
+  "pocket": "capitalos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "investment-memo-writer",
+    "real-estate-investment-memo-writer",
+    "investment-market-due-diligence-analyst",
+    "finance-capital-allocation",
+    "institutional-investment-playbook",
+    "investment-financial-due-diligence-analyst",
+    "real-estate-portfolio-strategy",
+    "investment-committee-analyst",
+    "investment-committee-critic",
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator",
+    "investment-operational-due-diligence-analyst",
+    "investment-technology-due-diligence-analyst",
+    "finance-business-case-appraisal",
+    "finance-equity-research-analyst",
+    "finance-liquidity-planning",
+    "finance-market-research-analyst",
+    "finance-rolling-forecasting",
+    "finance-working-capital-analysis"
+  ]
+}

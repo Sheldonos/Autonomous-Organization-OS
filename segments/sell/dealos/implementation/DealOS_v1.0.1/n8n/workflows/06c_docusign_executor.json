@@ -1,0 +1,173 @@
+{
+  "name": "DealOS 06c - DocuSign Executor",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 2
+            }
+          ]
+        }
+      },
+      "id": "sched",
+      "name": "Every 2 Minutes",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "url": "={{$env.DEALOS_INTERNAL_URL + \"/actions/next?action_type=docusign_template_envelope&limit=10\"}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-DealOS-Key",
+              "value": "={{$env.DEALOS_API_KEY}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "get",
+      "name": "Get Actions",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        220,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "return ($json.items || []).map(x=>({json:x}));"
+      },
+      "id": "expand",
+      "name": "Expand",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        440,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.DEALOS_INTERNAL_URL + \"/integrations/docusign/template-envelope\"}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-DealOS-Key",
+              "value": "={{$env.DEALOS_API_KEY}}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "contentType": "raw",
+        "rawContentType": "application/json",
+        "body": "={{JSON.stringify($json.payload)}}",
+        "options": {}
+      },
+      "id": "exec",
+      "name": "Create DocuSign Envelope",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        670,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.DEALOS_INTERNAL_URL + \"/actions/\" + $(\"Expand\").item.json.id + \"/complete\"}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-DealOS-Key",
+              "value": "={{$env.DEALOS_API_KEY}}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "contentType": "raw",
+        "rawContentType": "application/json",
+        "body": "={{JSON.stringify($json)}}",
+        "options": {}
+      },
+      "id": "done",
+      "name": "Complete",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        900,
+        0
+      ]
+    }
+  ],
+  "connections": {
+    "Every 2 Minutes": {
+      "main": [
+        [
+          {
+            "node": "Get Actions",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Actions": {
+      "main": [
+        [
+          {
+            "node": "Expand",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Expand": {
+      "main": [
+        [
+          {
+            "node": "Create DocuSign Envelope",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create DocuSign Envelope": {
+      "main": [
+        [
+          {
+            "node": "Complete",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "versionId": "00000000-0000-0000-0000-000000000003",
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "tags": []
+}

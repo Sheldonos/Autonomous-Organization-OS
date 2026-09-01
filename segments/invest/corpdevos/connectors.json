@@ -1,0 +1,11 @@
+{
+  "pocket": "corpdevos",
+  "required_or_optional_classes": [
+    "market_data",
+    "crm",
+    "document_store",
+    "financial_data"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

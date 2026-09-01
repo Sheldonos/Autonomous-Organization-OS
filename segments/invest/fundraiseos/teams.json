@@ -1,0 +1,74 @@
+{
+  "pocket": "fundraiseos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Raise strategy Team",
+      "stage": 1,
+      "responsibility": "Raise strategy",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Investor universe Team",
+      "stage": 2,
+      "responsibility": "Investor universe",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Materials & data room Team",
+      "stage": 3,
+      "responsibility": "Materials & data room",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Outreach Team",
+      "stage": 4,
+      "responsibility": "Outreach",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Meeting pipeline Team",
+      "stage": 5,
+      "responsibility": "Meeting pipeline",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Diligence responses Team",
+      "stage": 6,
+      "responsibility": "Diligence responses",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Terms & commitments Team",
+      "stage": 7,
+      "responsibility": "Terms & commitments",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Close & investor relations Team",
+      "stage": 8,
+      "responsibility": "Close & investor relations",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

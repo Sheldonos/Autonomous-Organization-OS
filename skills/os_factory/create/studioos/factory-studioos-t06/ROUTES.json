@@ -1,0 +1,27 @@
+{
+  "pocket": "studioos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-post-production-planner",
+    "slack-standup-summarizer",
+    "media-content-capture",
+    "media-post-production-editing",
+    "script-to-film-production",
+    "feature-film-production",
+    "media-distribution-packaging",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "ai-media-orchestrator",
+    "book-to-film-adaptation",
+    "music-video-production",
+    "media-accessibility-localization",
+    "media-creative-briefing",
+    "media-mastering-quality-control",
+    "media-provenance-tracking",
+    "rspkt-web-designer",
+    "media-editorial-fact-checking",
+    "media-media-asset-management",
+    "media-production-coordinator"
+  ]
+}

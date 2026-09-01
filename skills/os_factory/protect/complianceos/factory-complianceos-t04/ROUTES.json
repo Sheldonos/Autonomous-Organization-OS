@@ -1,0 +1,27 @@
+{
+  "pocket": "complianceos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering",
+    "legal-contract-performance-monitoring",
+    "enterprise-loop-budget-controller",
+    "cross-domain-outcome-verifier",
+    "ibm-career-security-security-engineer",
+    "ibm-career-security-security-specialist",
+    "research-living-review-monitoring",
+    "finance-covenant-monitoring",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-identity-access-governance",
+    "legal-risk-audit-finding-remediation",
+    "grc-audit-specialist",
+    "grc-compliance-analyst",
+    "grc-internal-audit-analyst",
+    "grc-policy-management-specialist",
+    "grc-regulatory-compliance-specialist",
+    "government-measure-benefits-and-performance",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment"
+  ]
+}

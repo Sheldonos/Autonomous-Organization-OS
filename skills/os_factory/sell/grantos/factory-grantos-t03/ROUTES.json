@@ -1,0 +1,27 @@
+{
+  "pocket": "grantos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "government-grant-research-specialist",
+    "ibm-pro-011",
+    "government-manage-grants-lifecycle",
+    "research-data-extraction",
+    "research-evidence-mapping",
+    "ibm-exp-001",
+    "ibm-pro-001",
+    "ibm-pro-002",
+    "ibm-pro-004",
+    "ibm-pro-005",
+    "ibm-pro-006",
+    "ibm-pro-007",
+    "ibm-pro-008",
+    "ibm-pro-009",
+    "ibm-pro-010",
+    "ibm-pro-apm-001",
+    "ibm-pro-atl-001",
+    "ibm-pro-cp-001",
+    "ibm-pro-cp-002",
+    "ibm-pro-sa-001"
+  ]
+}

@@ -1,0 +1,1006 @@
+{
+  "schema_version": "2.0",
+  "pocket": "bidos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 33,
+  "skills": [
+    {
+      "slug": "sales-contract-approval",
+      "score": 107,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Contract Approval** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-contract-approval`, `contract-approval`, or the corresponding professional workflow: bid-rfp-and-proposal-management | decide bid/no-bid, compliance matrix, response strategy, pricing narrative, references, and approval path | hand off controlled proposal package to proposal manager, SMEs, pricing, legal, contracts, and authorized approvers"
+    },
+    {
+      "slug": "sales-proposal-management",
+      "score": 107,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Proposal Management** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-proposal-management`, `proposal-management`, or the corresponding professional workflow: bid-rfp-and-proposal-management | decide bid/no-bid, compliance matrix, response strategy, pricing narrative, references, and approval path | hand off controlled proposal package to proposal manager, SMEs, pricing, legal, contracts, and authorized approvers"
+    },
+    {
+      "slug": "ibm-pro-011",
+      "score": 79,
+      "domain": "shared-execution",
+      "description": "Activate this mode for rfp compliance matrix within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "government-manage-grants-lifecycle",
+      "score": 71,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Manage Grants Lifecycle** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-manage-grants-lifecycle`, `manage-grants-lifecycle`, or the corresponding professional workflow: grants lifecycle administration | design funding opportunity, assess applications, make documented award decisions, monitor performance, and close out awards | grants officers, program officials, finance, recipients, audit/oversight bodies"
+    },
+    {
+      "slug": "government-grant-research-specialist",
+      "score": 68,
+      "domain": "government",
+      "description": "Use for government work requiring the Grant Research Specialist role: grant research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-grant-writer",
+      "score": 68,
+      "domain": "government",
+      "description": "Use for government work requiring the Grant Writer role: grant; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-procurement-specialist",
+      "score": 68,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Procurement Specialist role: government procurement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-sales-scale-058",
+      "score": 68,
+      "domain": "shared-execution",
+      "description": "Build a traceable compliance matrix mapping RFP or proposal requirements to approved evidence, owners, response status, gaps, and review state. Use when IBM Sales selects `commercial.compliance-matrix` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "sales-procurement-response-strategist",
+      "score": 67,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Procurement Response Strategist role: procurement response; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-rfp-response-strategist",
+      "score": 67,
+      "domain": "sales",
+      "description": "Use for sales work requiring the RFP Response Strategist role: rfp response; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-administer-procurement",
+      "score": 65,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Administer Procurement** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-administer-procurement`, `administer-procurement`, or the corresponding professional workflow: acquisition planning and procurement | determine make/buy, procurement route, competition, specifications, evaluation criteria, and contract controls | contracting authority, commercial/legal, finance, suppliers, probity and oversight bodies"
+    },
+    {
+      "slug": "ibm-pro-010",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Activate this mode for rfp response framework within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review, ..."
+    },
+    {
+      "slug": "sales-procurement-onboarding",
+      "score": 64,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Procurement Onboarding** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-procurement-onboarding`, `procurement-onboarding`, or the corresponding professional workflow: procurement-and-vendor-onboarding | decide how the customer\u2019s tender, evaluation, due diligence, supplier onboarding, and purchase-order process will be satisfied | hand off required evidence and negotiated commitments to customer procurement, vendor management, finance, and delivery"
+    },
+    {
+      "slug": "government-public-sector-compliance-reviewer",
+      "score": 60,
+      "domain": "government",
+      "description": "Use for government work requiring the Public-Sector Compliance Reviewer role: public-sector compliance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-public-sector-solution-strategist",
+      "score": 60,
+      "domain": "government",
+      "description": "Use for government work requiring the Public-Sector Solution Strategist role: public-sector solution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-bid-no-bid",
+      "score": 59,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Bid No Bid** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-bid-no-bid`, `bid-no-bid`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "sales-competitive-strategy",
+      "score": 59,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Competitive Strategy** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-competitive-strategy`, `competitive-strategy`, or the corresponding professional workflow: competitive-and-risk-strategy | decide differentiation, competitive posture, red-team risks, win themes, and claims that can be substantiated | hand off battlecard and risk register to account leadership, product marketing, executives, and bid team"
+    },
+    {
+      "slug": "government-assess-privacy-and-security",
+      "score": 57,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Assess Privacy And Security** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-assess-privacy-and-security`, `assess-privacy-and-security`, or the corresponding professional workflow: solution quality, verification, and validation | inspect deliverables, test against design and acceptance criteria, validate against user need, and manage defects | QA, test teams, users, security/privacy/accessibility reviewers, product owner"
+    },
+    {
+      "slug": "government-budget-analyst",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Budget Analyst role: government budget; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-community-impact-analyst",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Community Impact Analyst role: community impact; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-contract-analyst",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Contract Analyst role: government contract; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-legislative-analyst",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Legislative Analyst role: legislative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-manage-public-sector-risks",
+      "score": 57,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Manage Public Sector Risks** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-manage-public-sector-risks`, `manage-public-sector-risks`, or the corresponding professional workflow: requirements and user-needs management | elicit, prioritize, baseline, and trace user, stakeholder, statutory, and operational requirements | service users, policy teams, delivery teams, accessibility specialists, solution architects"
+    },
+    {
+      "slug": "government-manage-user-needs",
+      "score": 57,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Manage User Needs** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-manage-user-needs`, `manage-user-needs`, or the corresponding professional workflow: requirements and user-needs management | elicit, prioritize, baseline, and trace user, stakeholder, statutory, and operational requirements | service users, policy teams, delivery teams, accessibility specialists, solution architects"
+    },
+    {
+      "slug": "government-orchestrator",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Orchestrator role: government; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-policy-impact-analyst",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Policy Impact Analyst role: policy impact; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-policy-researcher",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Policy Researcher role: policy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-policy-simulation-specialist",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Policy Simulation Specialist role: policy simulation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-prioritize-public-investments",
+      "score": 57,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Prioritize Public Investments** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-prioritize-public-investments`, `prioritize-public-investments`, or the corresponding professional workflow: requirements and user-needs management | elicit, prioritize, baseline, and trace user, stakeholder, statutory, and operational requirements | service users, policy teams, delivery teams, accessibility specialists, solution architects"
+    },
+    {
+      "slug": "government-program-analyst",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Program Analyst role: government program; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-public-administration-analyst",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Public Administration Analyst role: public administration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-public-policy-analyst",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Public Policy Analyst role: public policy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-public-sector-data-analyst",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Public-Sector Data Analyst role: public-sector data; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-regulatory-analyst",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Regulatory Analyst role: regulatory; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-risk-reviewer",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Risk Reviewer role: government risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-stakeholder-engagement-specialist",
+      "score": 57,
+      "domain": "government",
+      "description": "Use for government work requiring the Stakeholder Engagement Specialist role: stakeholder engagement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-transition-to-operations",
+      "score": 57,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Transition To Operations** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-transition-to-operations`, `transition-to-operations`, or the corresponding professional workflow: transition to operations and service acceptance | confirm operational readiness, training, support, security accreditation, data migration, handover, and residual ownership | operations, service owner, IT/security, suppliers, business continuity, end users"
+    },
+    {
+      "slug": "government-verify-and-validate-solutions",
+      "score": 57,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Verify And Validate Solutions** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-verify-and-validate-solutions`, `verify-and-validate-solutions`, or the corresponding professional workflow: solution quality, verification, and validation | inspect deliverables, test against design and acceptance criteria, validate against user need, and manage defects | QA, test teams, users, security/privacy/accessibility reviewers, product owner"
+    },
+    {
+      "slug": "ibm-pro-008",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for pricing proposal generator within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, revi..."
+    },
+    {
+      "slug": "ibm-pro-cp-002",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for services pricing & resource plan within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination..."
+    },
+    {
+      "slug": "sales-competitor-response-simulator",
+      "score": 56,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Competitor Response Simulator role: competitor response simulator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-opportunity-qualification",
+      "score": 56,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Opportunity Qualification** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-opportunity-qualification`, `opportunity-qualification`, or the corresponding professional workflow: opportunity-qualification-and-stage-governance | decide pursue, nurture, disqualify, or no-bid using evidence for need, access, timing, competition, budget, and decision process | hand off stage evidence and forecast recommendation to sales leadership and revenue operations"
+    },
+    {
+      "slug": "sales-procurement-simulator",
+      "score": 56,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Procurement Simulator role: procurement simulator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-proposal-architect",
+      "score": 56,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Proposal Architect role: proposal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-proposal-reviewer",
+      "score": 56,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Proposal Reviewer role: proposal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-proposal-writer",
+      "score": 56,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Proposal Writer role: proposal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-stage-governance",
+      "score": 56,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Stage Governance** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-stage-governance`, `stage-governance`, or the corresponding professional workflow: opportunity-qualification-and-stage-governance | decide pursue, nurture, disqualify, or no-bid using evidence for need, access, timing, competition, budget, and decision process | hand off stage evidence and forecast recommendation to sales leadership and revenue operations"
+    },
+    {
+      "slug": "government-align-policy-to-outcomes",
+      "score": 54,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Align Policy To Outcomes** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-align-policy-to-outcomes`, `align-policy-to-outcomes`, or the corresponding professional workflow: policy-to-delivery alignment and intervention evaluation | confirm statutory/policy objectives, outcomes, evidence plan, and value-for-money case | policy owners, analysts, finance, senior responsible owner, assurance"
+    },
+    {
+      "slug": "government-conduct-stage-gate-assurance",
+      "score": 54,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Conduct Stage Gate Assurance** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-conduct-stage-gate-assurance`, `conduct-stage-gate-assurance`, or the corresponding professional workflow: assurance, audit, and stage-gate review | test business case, governance, controls, readiness, evidence, and continued justification at proportionate gates | independent assurance, internal audit, senior decision makers, regulators/oversight"
+    },
+    {
+      "slug": "government-control-delivery-baselines",
+      "score": 54,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Control Delivery Baselines** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-control-delivery-baselines`, `control-delivery-baselines`, or the corresponding professional workflow: delivery planning and integrated control | establish schedule, dependencies, resources, milestones, costs, quality criteria, and reporting cadence | workstream leads, programme controls, finance, suppliers, governance board"
+    },
+    {
+      "slug": "government-evaluate-policy-interventions",
+      "score": 54,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Evaluate Policy Interventions** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-evaluate-policy-interventions`, `evaluate-policy-interventions`, or the corresponding professional workflow: policy-to-delivery alignment and intervention evaluation | confirm statutory/policy objectives, outcomes, evidence plan, and value-for-money case | policy owners, analysts, finance, senior responsible owner, assurance"
+    },
+    {
+      "slug": "government-govern-change-requests",
+      "score": 54,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Govern Change Requests** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-govern-change-requests`, `govern-change-requests`, or the corresponding professional workflow: programme and project initiation | define scope, governance, lifecycle, tolerances, business case, delivery approach, and accountable owner | sponsor, project/programme office, architecture, commercial, security, assurance"
+    },
+    {
+      "slug": "government-initiate-government-programmes",
+      "score": 54,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Initiate Government Programmes** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-initiate-government-programmes`, `initiate-government-programmes`, or the corresponding professional workflow: policy-to-delivery alignment and intervention evaluation | confirm statutory/policy objectives, outcomes, evidence plan, and value-for-money case | policy owners, analysts, finance, senior responsible owner, assurance"
+    },
+    {
+      "slug": "government-measure-benefits-and-performance",
+      "score": 54,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Measure Benefits And Performance** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-measure-benefits-and-performance`, `measure-benefits-and-performance`, or the corresponding professional workflow: benefits, performance, and post-implementation evaluation | define measures, collect reliable outcome/impact data, compare with baseline, realize benefits, and capture lessons | benefits owners, analysts, finance, policy evaluators, audit, portfolio governance"
+    },
+    {
+      "slug": "government-plan-public-acquisitions",
+      "score": 54,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Plan Public Acquisitions** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-plan-public-acquisitions`, `plan-public-acquisitions`, or the corresponding professional workflow: policy-to-delivery alignment and intervention evaluation | confirm statutory/policy objectives, outcomes, evidence plan, and value-for-money case | policy owners, analysts, finance, senior responsible owner, assurance"
+    },
+    {
+      "slug": "government-preserve-audit-evidence",
+      "score": 54,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Preserve Audit Evidence** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-preserve-audit-evidence`, `preserve-audit-evidence`, or the corresponding professional workflow: assurance, audit, and stage-gate review | test business case, governance, controls, readiness, evidence, and continued justification at proportionate gates | independent assurance, internal audit, senior decision makers, regulators/oversight"
+    },
+    {
+      "slug": "ibm-pro-001",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for business case builder within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pro-002",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for executive summary generator within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, rev..."
+    },
+    {
+      "slug": "ibm-pro-004",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for presentation outline generator within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, ..."
+    },
+    {
+      "slug": "ibm-pro-005",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for slide content writer (by slide) within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination,..."
+    },
+    {
+      "slug": "ibm-pro-006",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for presentation speaker notes within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, revi..."
+    },
+    {
+      "slug": "ibm-pro-007",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for proposal content writer within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review,..."
+    },
+    {
+      "slug": "ibm-pro-009",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for proposal qa checklist within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pro-apm-001",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for joint value proposition (with partner) within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordi..."
+    },
+    {
+      "slug": "ibm-pro-atl-001",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for executive sponsor engagement brief within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordinati..."
+    },
+    {
+      "slug": "ibm-pro-cp-001",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for statement of work (sow) generator within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordinatio..."
+    },
+    {
+      "slug": "ibm-pro-sa-001",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for technical architecture appendix within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination,..."
+    },
+    {
+      "slug": "ibm-pro-tss-001",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for technical proposal section writer within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordinatio..."
+    },
+    {
+      "slug": "procurement-manage-solicitation",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Solicitation** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-solicitation`, `manage-solicitation`, or the corresponding professional workflow: solicitation-and-bid-management | issue requirements and tender documents, manage bidder questions and addenda, preserve equal information, and control submissions | handoff to evaluation panel, procurement operations, legal, and supplier communications"
+    },
+    {
+      "slug": "sales-commercial-negotiation",
+      "score": 53,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Commercial Negotiation** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-commercial-negotiation`, `commercial-negotiation`, or the corresponding professional workflow: commercial-negotiation-and-contracting | decide acceptable price, terms, liability, data/security commitments, concessions, dependencies, and escalation thresholds | hand off redlined terms and approval record to legal, finance, security, procurement, and signing authority"
+    },
+    {
+      "slug": "sales-stakeholder-mapping",
+      "score": 53,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Stakeholder Mapping** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-stakeholder-mapping`, `stakeholder-mapping`, or the corresponding professional workflow: stakeholder-and-power-mapping | decide economic buyer, technical buyer, users, procurement, legal, security, champion, detractor, and influence paths | hand off stakeholder map and engagement plan to account team, executives, partners, and customer success"
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-proposal-release-qa",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "Validate proposal/RFP/SOW release readiness across version, claims, evidence, pricing, legal/compliance sections, approvals, and delivery dependencies. Use when the IBM Sales control mode selects capability `commercial-governance.proposal-release-qa` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "sales-follow-up-strategist",
+      "score": 51,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Follow-Up Strategist role: follow-up; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-bid-comparison-analyst",
+      "score": 45,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Bid Comparison Analyst role: bid comparison; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-draft-and-negotiate-contract",
+      "score": 45,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Draft And Negotiate Contract** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-draft-and-negotiate-contract`, `draft-and-negotiate-contract`, or the corresponding professional workflow: contract-drafting-and-negotiation | convert requirements and award assumptions into enforceable terms covering scope, service levels, pricing, data/IP, audit, change, remedies, termination, and exit | handoff to legal counsel, business owner, security/privacy, finance, and delegated contract signatory"
+    },
+    {
+      "slug": "procurement-rfi-specialist",
+      "score": 45,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the RFI Specialist role: rfi; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-rfp-specialist",
+      "score": 45,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the RFP Specialist role: rfp; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-rfq-specialist",
+      "score": 45,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the RFQ Specialist role: rfq; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cio-technology-rfp-creation",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Technology Rfp Creation for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-rfp-scoring",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Technology Rfp Scoring for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-bid-analysis",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Bid Analysis for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-procurement-rfi",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Procurement Rfi for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-procurement-rfp",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Procurement Rfp for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "revenue-rfp-response-evidence",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Compile RFP response evidence, source citations, and review dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal Enablement Capability Director."
+    },
+    {
+      "slug": "procurement-assess-supply-chain-risk",
+      "score": 37,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Assess Supply Chain Risk** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-assess-supply-chain-risk`, `assess-supply-chain-risk`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-certificate-expiry-monitoring",
+      "score": 37,
+      "domain": "procurement",
+      "description": "Monitor approved supplier certificate expiry and create controlled follow-up cases. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-compliance-reviewer",
+      "score": 37,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Procurement Compliance Reviewer role: procurement compliance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-corrective-action-follow-up",
+      "score": 37,
+      "domain": "procurement",
+      "description": "Track supplier corrective-action evidence, due dates, and unresolved risks. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Quality and Remediation Capability Director."
+    },
+    {
+      "slug": "procurement-onboard-supplier",
+      "score": 37,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Onboard Supplier** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-onboard-supplier`, `onboard-supplier`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-perform-supplier-due-diligence",
+      "score": 37,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Perform Supplier Due Diligence** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-perform-supplier-due-diligence`, `perform-supplier-due-diligence`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "agency-proposal-consultant",
+      "score": 34,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Proposal Consultant role: proposal consultant; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-bid-analyst",
+      "score": 34,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Bid Analyst role: bid; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-construction-procurement-support",
+      "score": 34,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Construction Procurement Support** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-construction-procurement-support`, `construction-procurement-support`, or the corresponding professional workflow: design management and design reviews | coordinate requirements, basis of design, constructability, code compliance, and staged reviews before issue-for-construction | owner, architect/engineer of record, specialty engineers, authorities having jurisdiction, contractor"
+    },
+    {
+      "slug": "construction-procurement-specialist",
+      "score": 34,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Procurement Specialist role: construction procurement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-rfi-specialist",
+      "score": 34,
+      "domain": "construction",
+      "description": "Use for construction work requiring the RFI Specialist role: rfi; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-incident-response-analyst",
+      "score": 34,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Incident Response Analyst role: incident response; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-procurement-contract-specialist",
+      "score": 34,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Procurement Contract Specialist role: procurement contract; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-analyze-make-buy",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Analyze Make Buy** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-analyze-make-buy`, `analyze-make-buy`, or the corresponding professional workflow: market-and-make-buy-analysis | decide internal delivery versus external sourcing, market maturity, category strategy, and delivery model | handoff to procurement/category lead, finance, legal, and delivery stakeholders"
+    },
+    {
+      "slug": "procurement-category-manager",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Category Manager role: category; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-category-opportunity-analysis",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Identify evidence-backed category opportunity hypotheses for human prioritization. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Demand and Category Management Capability Director."
+    },
+    {
+      "slug": "procurement-chief-procurement-officer-advisor",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Chief Procurement Officer Advisor role: chief procurement officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-contract-handoff-specialist",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Procurement Contract Handoff Specialist role: procurement contract handoff; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-contract-obligation-extraction",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Extract supplier obligations, dates, owners, and evidence requirements from approved contracts. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Contract Operations Capability Director."
+    },
+    {
+      "slug": "procurement-cost-analysis-specialist",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Cost Analysis Specialist role: cost analysis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-demand-analyst",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Demand Analyst role: demand; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-demand-intake-qualification",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Qualify a sourcing demand request against business need, budget, and category policy. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Demand and Category Management Capability Director."
+    },
+    {
+      "slug": "procurement-develop-sourcing-strategy",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Develop Sourcing Strategy** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-develop-sourcing-strategy`, `develop-sourcing-strategy`, or the corresponding professional workflow: market-and-make-buy-analysis | decide internal delivery versus external sourcing, market maturity, category strategy, and delivery model | handoff to procurement/category lead, finance, legal, and delivery stakeholders"
+    },
+    {
+      "slug": "procurement-execute-supplier-exit",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Execute Supplier Exit** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-execute-supplier-exit`, `execute-supplier-exit`, or the corresponding professional workflow: supplier-exit-and-continuity-management | decide remediation, transition, termination, replacement, data return/destruction, access revocation, asset recovery, and continuity actions | handoff to business continuity, security/privacy, legal, finance, operations, replacement supplier, and records management"
+    },
+    {
+      "slug": "procurement-manage-contract-change",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Contract Change** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-contract-change`, `manage-contract-change`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-manage-procurement-dispute",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Procurement Dispute** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-procurement-dispute`, `manage-procurement-dispute`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-manage-purchase-orders",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Purchase Orders** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-purchase-orders`, `manage-purchase-orders`, or the corresponding professional workflow: purchase-order-and-order-management | translate approved contracts or catalogs into requisitions, purchase orders, releases, approvals, receipts, and three-way-match controls | handoff to requestor, budget owner, procurement operations, supplier, receiving, and accounts payable"
+    },
+    {
+      "slug": "procurement-manage-renewal",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Renewal** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-renewal`, `manage-renewal`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-monitor-supplier-performance",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Monitor Supplier Performance** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-monitor-supplier-performance`, `monitor-supplier-performance`, or the corresponding professional workflow: supplier-performance-and-relationship-management | set governance cadence, KPIs, service reviews, corrective actions, collaboration model, and escalation path proportional to supplier criticality | handoff to contract manager, service owner, supplier account team, risk/compliance, and executive sponsor"
+    },
+    {
+      "slug": "procurement-negotiation-strategist",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Procurement Negotiation Strategist role: procurement negotiation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-orchestrator",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Procurement Orchestrator role: procurement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-purchase-approval-routing",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Route purchase approvals with complete policy, budget, and evidence packets. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-purchase-order-specialist",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Purchase Order Specialist role: purchase order; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-purchase-requisition-compliance",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Review purchase requisitions for policy, budget, category, and approval exceptions. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-should-cost-analyst",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Should-Cost Analyst role: should-cost; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-source-selection-analyst",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Source Selection Analyst role: source selection; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-spend-analyst",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Spend Analyst role: spend; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-strategist",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Procurement Strategist role: procurement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-discovery-specialist",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Discovery Specialist role: supplier discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-performance-analyst",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Performance Analyst role: supplier performance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-qualification-analyst",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Qualification Analyst role: supplier qualification; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-relationship-manager",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Relationship Manager role: supplier relationship; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-researcher",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Researcher role: supplier; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-risk-analyst",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Risk Analyst role: supplier risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-vendor-evaluation-specialist",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Vendor Evaluation Specialist role: vendor evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cio-incident-response-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Incident Response Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-saas-procurement",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO SAAS Procurement for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cybersecurity-incident-response-coordination",
+      "score": 31,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Incident Response Coordination** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-incident-response-coordination`, `incident-response-coordination`, or the corresponding professional workflow: Security monitoring and detection engineering | define telemetry requirements, detection logic, alert triage, escalation thresholds, and tuning based on validated threat scenarios | SOC, platform/logging teams, incident response, threat intelligence, privacy, and service owners"
+    },
+    {
+      "slug": "engineering-observability-incident-response",
+      "score": 31,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Observability Incident Response** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-observability-incident-response`, `observability-incident-response`, or the corresponding professional workflow: Operate, observe, and respond | define service objectives, monitor health and business signals, triage incidents, and decide mitigation or rollback | SRE/operations, developers, incident commander, support, and customer communications"
+    },
+    {
+      "slug": "eos-procurement-negotiation-support",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Procurement Negotiation Support for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-procurement-renewal-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Procurement Renewal Management for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-proposal-generation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Proposal Generation for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-platform-incident-response",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Coordinate containment, evidence preservation, token/access revocation, work-item quarantine, owner notification, remediation, and re-enable decision for AI/workflow incidents. Use when the IBM Sales control mode selects capability `platform-governance.incident-response` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "procurement-contract-renewal-readiness",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Assess supplier contract renewal readiness, obligations, performance, and approval dependencies. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Contract Operations Capability Director."
+    },
+    {
+      "slug": "procurement-define-procurement-need",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Define Procurement Need** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-define-procurement-need`, `define-procurement-need`, or the corresponding professional workflow: needs-and-specification-definition | decide business need, scope, outcomes, and measurable requirements before sourcing | handoff to business owner, technical/functional subject-matter experts, finance, and procurement"
+    },
+    {
+      "slug": "procurement-engage-supplier-market",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Engage Supplier Market** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-engage-supplier-market`, `engage-supplier-market`, or the corresponding professional workflow: supplier-market-engagement | decide whether and how to conduct market sounding, supplier briefings, or early supplier involvement without distorting competition | handoff to prospective suppliers, procurement lead, and legal/ethics oversight"
+    },
+    {
+      "slug": "procurement-evaluate-suppliers",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Evaluate Suppliers** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-evaluate-suppliers`, `evaluate-suppliers`, or the corresponding professional workflow: supplier-market-engagement | decide whether and how to conduct market sounding, supplier briefings, or early supplier involvement without distorting competition | handoff to prospective suppliers, procurement lead, and legal/ethics oversight"
+    },
+    {
+      "slug": "procurement-invoice-exception-analysis",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Analyze supplier invoice exceptions and associated purchase evidence. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Payables and Procurement Capability Director."
+    },
+    {
+      "slug": "procurement-lead-time-exception-triage",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Triage supplier lead-time exceptions and route supply-risk actions. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "procurement-off-contract-spend-analysis",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Identify off-contract spend patterns and prepare compliant remediation options. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-price-variance-investigation",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Investigate price variance against contract, market, and receipt evidence. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "procurement-purchase-order-change-triage",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Classify purchase-order change requests and prepare an approval-ready exception packet. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-sourcing-event-design",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Prepare a sourcing-event design packet with scope, criteria, and governance checkpoints. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Demand and Category Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-concentration-exposure",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Assess supplier concentration exposure and dependency risks for category owner review. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-diversity-certification",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Validate supplier diversity certification evidence and expiration status. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Responsible Sourcing Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-esg-evidence-review",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Review supplier ESG evidence against program requirements and freshness rules. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Responsible Sourcing Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-exit-readiness",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Assess supplier exit readiness, downstream dependencies, and control obligations. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-master-validation",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Validate supplier-master changes against approved evidence and segregation rules. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-onboarding-readiness",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Assess supplier onboarding readiness, required evidence, and missing controls. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-performance-scorecard",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Produce a supplier performance scorecard with source evidence and metric caveats. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-quality-issue-escalation",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Create an evidence-backed supplier quality escalation case. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Quality and Remediation Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-risk-signal-validation",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Validate supplier-risk signals before case creation or owner notification. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-third-party-data-change-review",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Review third-party profile data changes for risk, provenance, and approval needs. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-three-way-match-resolution",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Reconcile purchase order, receipt, and invoice evidence for unresolved matches. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Payables and Procurement Capability Director."
+    },
+    {
+      "slug": "supply-chain-procurement-sourcing",
+      "score": 31,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Procurement Sourcing** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-procurement-sourcing`, `procurement-sourcing`, or the corresponding professional workflow: Procurement and sourcing | define specifications, assess bids and total cost, select or renew suppliers under approved policy | Legal, finance, quality, engineering, suppliers"
+    },
+    {
+      "slug": "supply-chain-traceability-recall-response",
+      "score": 31,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Traceability Recall Response** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-traceability-recall-response`, `traceability-recall-response`, or the corresponding professional workflow: Traceability, recall, and incident response | preserve chain-of-custody and event records, identify affected lots/locations, quarantine, notify authorized parties, and document disposition | Quality, regulatory/legal, suppliers, logistics, customers, public authorities"
+    }
+  ],
+  "primary_accountable": [
+    "eos-bid-analysis",
+    "eos-procurement-rfi",
+    "eos-procurement-rfp",
+    "government-administer-procurement",
+    "government-community-impact-analyst",
+    "government-contract-analyst",
+    "government-legislative-analyst",
+    "government-orchestrator",
+    "government-procurement-specialist",
+    "government-program-analyst",
+    "government-public-administration-analyst",
+    "government-public-sector-data-analyst",
+    "government-public-sector-solution-strategist",
+    "ibm-pro-001",
+    "ibm-pro-002",
+    "ibm-pro-004",
+    "ibm-pro-005",
+    "ibm-pro-006",
+    "ibm-pro-007",
+    "ibm-pro-008",
+    "ibm-pro-009",
+    "ibm-pro-010",
+    "ibm-pro-011",
+    "ibm-pro-apm-001",
+    "ibm-pro-atl-001",
+    "ibm-pro-cp-001",
+    "ibm-pro-cp-002",
+    "ibm-pro-sa-001",
+    "ibm-pro-tss-001",
+    "ibm-sales-scale-058",
+    "sales-contract-approval",
+    "sales-procurement-simulator",
+    "sales-proposal-management"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

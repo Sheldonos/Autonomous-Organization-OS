@@ -1,0 +1,27 @@
+{
+  "pocket": "agencyos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "agency-operations-change-impact-assessment",
+    "agency-operations-engagement-qualification",
+    "agency-operations-conflict-of-interest-screening",
+    "agency-operations-engagement-closeout",
+    "agency-operations-invoice-readiness-review",
+    "agency-operations-quality-review-orchestration",
+    "agency-operations-stakeholder-communications-governance",
+    "agency-operations-orchestrator",
+    "agency-deliverable-quality-reviewer",
+    "ibm-bob-ads-monitor",
+    "ibm-bob-ads-meta",
+    "design-co-design-service-concepts",
+    "design-model-service-blueprint",
+    "cio-delivery-risk-management",
+    "engineering-delivery-performance-improvement",
+    "eos-delivery-risk",
+    "government-control-delivery-baselines",
+    "marketing-paid-media-anomaly-review",
+    "design-run-usability-testing",
+    "design-define-service-measures"
+  ]
+}

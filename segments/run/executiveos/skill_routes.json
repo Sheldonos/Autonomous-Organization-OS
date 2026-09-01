@@ -1,0 +1,1039 @@
+{
+  "schema_version": "2.0",
+  "pocket": "executiveos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 66,
+  "skills": [
+    {
+      "slug": "chief-of-staff-board-materials-governance",
+      "score": 111,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Board Materials Governance** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-board-materials-governance`, `board-materials-governance`, or the corresponding professional workflow: Board and governance preparation | assemble accurate board materials, reconcile KPI and narrative consistency, route approvals, and maintain action tracking | principal, board/committee secretary, general counsel, finance, risk/audit"
+    },
+    {
+      "slug": "chief-of-staff-escalation-triage",
+      "score": 108,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Escalation Triage** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-escalation-triage`, `escalation-triage`, or the corresponding professional workflow: Decision-rights and escalation management | determine accountable owner, consultation threshold, escalation trigger, and whether the COS is advisor, coordinator, or delegated proxy | principal, functional executive, legal/risk, board secretary"
+    },
+    {
+      "slug": "chief-of-staff-decision-rights-mapping",
+      "score": 105,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Decision Rights Mapping** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-decision-rights-mapping`, `decision-rights-mapping`, or the corresponding professional workflow: Decision-rights and escalation management | determine accountable owner, consultation threshold, escalation trigger, and whether the COS is advisor, coordinator, or delegated proxy | principal, functional executive, legal/risk, board secretary"
+    },
+    {
+      "slug": "chief-of-staff-organizational-sensing",
+      "score": 103,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Organizational Sensing** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-organizational-sensing`, `organizational-sensing`, or the corresponding professional workflow: Organizational sensing and issue triage | collect signals from leaders and operating data, classify urgency/impact, identify root owner, and recommend response options | principal, HR, risk, security, legal, business owners"
+    },
+    {
+      "slug": "chief-of-staff-decision-record-management",
+      "score": 102,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Decision Record Management** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-decision-record-management`, `decision-record-management`, or the corresponding professional workflow: Executive-office knowledge and records management | structure decision records, meeting artifacts, access permissions, retention/disposition cues, and institutional handover materials | executive assistant, records/privacy officer, legal, IT/security, successor COS"
+    },
+    {
+      "slug": "chief-of-staff-executive-meeting-orchestration",
+      "score": 102,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Executive Meeting Orchestration** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-executive-meeting-orchestration`, `executive-meeting-orchestration`, or the corresponding professional workflow: Executive meeting orchestration | set agenda and desired decisions, sequence participants, prepare briefs, capture decisions/actions, and verify closure | principal, executive assistants, functional owners, legal/communications as needed"
+    },
+    {
+      "slug": "chief-of-staff-executive-priority-shaping",
+      "score": 102,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Executive Priority Shaping** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-executive-priority-shaping`, `executive-priority-shaping`, or the corresponding professional workflow: Executive-priority translation and portfolio shaping | convert the principal\u2019s mission into a small set of explicit outcomes, owners, milestones, and trade-offs"
+    },
+    {
+      "slug": "chief-of-staff-privacy-aware-information-handling",
+      "score": 102,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Privacy Aware Information Handling** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-privacy-aware-information-handling`, `privacy-aware-information-handling`, or the corresponding professional workflow: Executive-office knowledge and records management | structure decision records, meeting artifacts, access permissions, retention/disposition cues, and institutional handover materials | executive assistant, records/privacy officer, legal, IT/security, successor COS"
+    },
+    {
+      "slug": "chief-of-staff-risk-crisis-coordination",
+      "score": 97,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Risk Crisis Coordination** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-risk-crisis-coordination`, `risk-crisis-coordination`, or the corresponding professional workflow: Risk, crisis, and reputational coordination | maintain risk/issues register, define thresholds, convene the right experts, preserve an auditable timeline, and escalate incidents | executive sponsor, enterprise risk, legal, security, communications, business continuity"
+    },
+    {
+      "slug": "chief-of-staff-strategic-operating-cadence",
+      "score": 97,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Strategic Operating Cadence** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-strategic-operating-cadence`, `strategic-operating-cadence`, or the corresponding professional workflow: Strategic planning and operating cadence | turn priorities into quarterly/monthly/weekly reviews with KPI definitions, pre-reads, decision logs, and follow-up loops | principal, business-unit leaders, PMO, analytics/finance"
+    },
+    {
+      "slug": "chief-of-staff-executive-communications-control",
+      "score": 94,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Executive Communications Control** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-executive-communications-control`, `executive-communications-control`, or the corresponding professional workflow: Executive communications and message control | develop briefs, talking points, Q&A, announcements, and approval routes while separating fact, recommendation, and commitment | principal, communications, legal, HR, investor/government relations"
+    },
+    {
+      "slug": "chief-of-staff-cross-functional-initiative-coordination",
+      "score": 91,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Cross Functional Initiative Coordination** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-cross-functional-initiative-coordination`, `cross-functional-initiative-coordination`, or the corresponding professional workflow: Cross-functional strategic initiative delivery | charter an initiative, resolve dependencies, track risks/issues, and escalate slippage without absorbing line ownership | initiative sponsor, PMO, product/technology, finance, HR, external partners"
+    },
+    {
+      "slug": "chief-of-staff-executive-briefing-specialist",
+      "score": 91,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Executive Briefing Specialist role: executive briefing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-executive-decision-analyst",
+      "score": 91,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Executive Decision Analyst role: executive decision; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-principal-transition-handoff",
+      "score": 91,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Principal Transition Handoff** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-principal-transition-handoff`, `principal-transition-handoff`, or the corresponding professional workflow: Principal transition and continuity | document operating preferences, open commitments, authorities, stakeholder map, and succession handoff while avoiding undocumented shadow governance | outgoing/incoming principal, successor COS, HR, legal, executive assistant, key functional owners"
+    },
+    {
+      "slug": "chief-of-staff-stakeholder-engagement-planning",
+      "score": 91,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Stakeholder Engagement Planning** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-stakeholder-engagement-planning`, `stakeholder-engagement-planning`, or the corresponding professional workflow: Stakeholder and relationship orchestration | map stakeholders, tailor engagement sequence, manage sensitive briefings, and distinguish alignment from authorization | principal, communications, government affairs, customers/partners, people leaders"
+    },
+    {
+      "slug": "chief-of-staff-decision-intelligence-specialist",
+      "score": 83,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Decision Intelligence Specialist role: decision intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-executive-chief-of-staff",
+      "score": 80,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Executive Chief of Staff role: executive chief of staff; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "executive-okr-operating-system",
+      "score": 76,
+      "domain": "strategy",
+      "description": "Convert strategic priorities into measurable objectives, key results, ownership, evidence and review cadence. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "strategy-board-strategy-advisor",
+      "score": 76,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Board Strategy Advisor role: board strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-risk-escalation-coordinator",
+      "score": 72,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Risk Escalation Coordinator role: risk escalation coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-account-intelligence",
+      "score": 70,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Account Intelligence** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-account-intelligence`, `account-intelligence`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "sales-bid-no-bid",
+      "score": 70,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Bid No Bid** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-bid-no-bid`, `bid-no-bid`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "sales-icp-segmentation",
+      "score": 70,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Icp Segmentation** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-icp-segmentation`, `icp-segmentation`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "chief-of-staff",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "The governing orchestrator and strategic authority for the entire IBM Business Skill Library. Routes enterprise work, enforces authority boundaries, manages cross-domain synthesis, and maintains accountability across all 12 business categories. Use when work crosses category boundaries, when authority is unclear, when escalation is required, or when the Business Master mode needs a single coordination point that owns outcomes rather than just routes requests."
+    },
+    {
+      "slug": "chief-of-staff-cross-functional-program-orchestrator",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Cross-Functional Program Orchestrator role: cross-functional program; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-dependency-planner",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Dependency Planner role: dependency; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-evidence-coordinator",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Evidence Coordinator role: evidence coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-handoff-coordinator",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Handoff Coordinator role: handoff coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-objective-completion-auditor",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Objective Completion Auditor role: objective completion; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-orchestrator",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Chief of Staff Orchestrator role: chief of staff; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-parallelization-planner",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Parallelization Planner role: parallelization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-strategic-advisor",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Strategic Advisor role: strategic; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-work-decomposition-planner",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Work Decomposition Planner role: work decomposition; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cross-team-continuous-routing-controller",
+      "score": 69,
+      "domain": "chief-of-staff",
+      "description": "IBM-aligned Cross-Team Continuous Routing Controller specialist. Use for Enterprise Meta / Continuous Improvement work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "strategy-strategic-risk-analyst",
+      "score": 68,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Strategic Risk Analyst role: strategic risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-cybersecurity-governance",
+      "score": 67,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cybersecurity Governance** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cybersecurity-governance`, `cybersecurity-governance`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "cybersecurity-security-policy-management",
+      "score": 67,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Policy Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-policy-management`, `security-policy-management`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "strategy-business-model-designer",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Business Model Designer role: business model; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-business-strategy-analyst",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Business Strategy Analyst role: business strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-competitive-strategy-analyst",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Competitive Strategy Analyst role: competitive strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-corporate-strategist",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Corporate Strategist role: corporate; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-growth-strategist",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Growth Strategist role: growth; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-market-entry-strategist",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Market Entry Strategist role: market entry; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-moat-analyst",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Moat Analyst role: moat; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-monopoly-category-strategy-analyst",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Monopoly / Category Strategy Analyst role: monopoly / category strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-portfolio-strategist",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Portfolio Strategist role: portfolio; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-scenario-strategist",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Scenario Strategist role: scenario; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-strategic-initiative-designer",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Strategic Initiative Designer role: strategic initiative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-strategic-planning-specialist",
+      "score": 65,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Strategic Planning Specialist role: strategic planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "automation-assure-business-continuity",
+      "score": 56,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Assure Business Continuity** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-assure-business-continuity`, `assure-business-continuity`, or the corresponding professional workflow: incident-problem-and-continuity-management | decide incident severity, containment, business workaround, problem root cause, recovery priority, and continuity invocation | handoff to service management, security incident response, business continuity, vendors, and executive risk owners"
+    },
+    {
+      "slug": "healthcare-breach-response-coordination",
+      "score": 56,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Breach Response Coordination** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-breach-response-coordination`, `breach-response-coordination`, or the corresponding professional workflow: breach-response-and-notification | triage suspected privacy or security incidents, preserve evidence, assess reportability and affected parties, and coordinate notification deadlines | privacy/security officer, incident response, legal, executive leadership, regulators"
+    },
+    {
+      "slug": "healthcare-downtime-continuity-planning",
+      "score": 56,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Downtime Continuity Planning** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-downtime-continuity-planning`, `downtime-continuity-planning`, or the corresponding professional workflow: emergency-and-continuity-operations | maintain downtime, disaster recovery, emergency access, and continuity procedures that preserve availability and safe care while protecting ePHI | operations, clinical leadership, IT/security, emergency management, executive incident command"
+    },
+    {
+      "slug": "legal-dispute-claims-management",
+      "score": 56,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Dispute Claims Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-dispute-claims-management`, `dispute-claims-management`, or the corresponding professional workflow: dispute-and-claims-management | preserve facts and notices, assess entitlement/exposure, select negotiation, mediation, arbitration, litigation, or cure strategy | handoff to in-house litigation counsel, outside counsel, insurer, executive sponsor, and records/eDiscovery team"
+    },
+    {
+      "slug": "media-creative-briefing",
+      "score": 56,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Creative Briefing** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-creative-briefing`, `creative-briefing`, or the corresponding professional workflow: Develop creative brief and editorial requirements | approve audience, message, format, budget, schedule, and success criteria before greenlighting | handoff to executive sponsor, commissioning editor, producer, and client"
+    },
+    {
+      "slug": "sales-competitive-strategy",
+      "score": 56,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Competitive Strategy** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-competitive-strategy`, `competitive-strategy`, or the corresponding professional workflow: competitive-and-risk-strategy | decide differentiation, competitive posture, red-team risks, win themes, and claims that can be substantiated | hand off battlecard and risk register to account leadership, product marketing, executives, and bid team"
+    },
+    {
+      "slug": "communications-executive-communications-writer",
+      "score": 53,
+      "domain": "communications",
+      "description": "Use for communications work requiring the Executive Communications Writer role: executive communications; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "communications-thought-leadership-strategist",
+      "score": 53,
+      "domain": "communications",
+      "description": "Use for communications work requiring the Thought Leadership Strategist role: thought leadership; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-driver-based-budgeting",
+      "score": 53,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Driver Based Budgeting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-driver-based-budgeting`, `driver-based-budgeting`, or the corresponding professional workflow: Annual operating planning and budgeting | set the planning calendar, collect driver-based operating inputs, challenge assumptions, consolidate budgets, and obtain approval | handoff among FP&A, business-unit finance, HR, sales, operations, and executive approvers"
+    },
+    {
+      "slug": "finance-executive-decision-support",
+      "score": 53,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Executive Decision Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-executive-decision-support`, `executive-decision-support`, or the corresponding professional workflow: Management narrative and decision support | convert validated financial and operational evidence into an executive narrative, options, recommendation, and action register with owners and dates | handoff to CFO, CEO, business leaders, board, and cross-functional action owners"
+    },
+    {
+      "slug": "people-job-architecture",
+      "score": 53,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Job Architecture** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-job-architecture`, `job-architecture`, or the corresponding professional workflow: workforce planning and job architecture | decide capability demand, role scope, workforce mix, and priority based on business strategy and evidence"
+    },
+    {
+      "slug": "people-workforce-planning",
+      "score": 53,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Workforce Planning** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-workforce-planning`, `workforce-planning`, or the corresponding professional workflow: workforce planning and job architecture | decide capability demand, role scope, workforce mix, and priority based on business strategy and evidence"
+    },
+    {
+      "slug": "accounting-accounts-payable-analyst",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Accounts Payable Analyst role: accounts payable; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-accounts-receivable-analyst",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Accounts Receivable Analyst role: accounts receivable; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-audit-preparation-specialist",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Audit Preparation Specialist role: audit preparation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-bookkeeping-specialist",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Bookkeeping Specialist role: bookkeeping; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-controller-advisor",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Controller Advisor role: controller; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-expense-classification-specialist",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Expense Classification Specialist role: expense classification; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-financial-reporting-specialist",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Financial Reporting Specialist role: financial reporting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-general-ledger-specialist",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the General Ledger Specialist role: general ledger; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-internal-controls-analyst",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Internal Controls Analyst role: internal controls; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-management-reporting-specialist",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Management Reporting Specialist role: management reporting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-month-end-close-specialist",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Month-End Close Specialist role: month-end close; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-orchestrator",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Accounting Orchestrator role: accounting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-policy-researcher",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Accounting Policy Researcher role: accounting policy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-quality-reviewer",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Accounting Quality Reviewer role: accounting quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-reconciliation-specialist",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Reconciliation Specialist role: reconciliation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-revenue-recognition-analyst",
+      "score": 48,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Revenue Recognition Analyst role: revenue recognition; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-sales-scale-035",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Draft a meeting agenda that aligns to a validated objective, stakeholder roles, evidence gaps, decision request, and follow-up owner. Use when IBM Sales selects `engage.meeting-agenda` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "legal-risk-board-governance-pack",
+      "score": 48,
+      "domain": "legal",
+      "description": "Prepare board-governance evidence pack, decision log, and action-tracking status. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Corporate Governance Capability Director."
+    },
+    {
+      "slug": "media-provenance-tracking",
+      "score": 48,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Provenance Tracking** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-provenance-tracking`, `provenance-tracking`, or the corresponding professional workflow: Develop creative brief and editorial requirements | approve audience, message, format, budget, schedule, and success criteria before greenlighting | handoff to executive sponsor, commissioning editor, producer, and client"
+    },
+    {
+      "slug": "agency-operations-engagement-closeout",
+      "score": 45,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Engagement Closeout** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-engagement-closeout`, `engagement-closeout`, or the corresponding professional workflow: engagement-closeout-and-renewal | decide acceptance, outstanding obligations, final billing, asset/credential return, data disposition, benefits review, reference permission, and follow-on opportunity | handoff from engagement manager to client sponsor, finance, legal/security, account lead, and practice leadership"
+    },
+    {
+      "slug": "agency-operations-stakeholder-communications-governance",
+      "score": 45,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Stakeholder Communications Governance** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-stakeholder-communications-governance`, `stakeholder-communications-governance`, or the corresponding professional workflow: client-communications-and-stakeholder-governance | decide what status, risk, cost, quality, or delay information must be disclosed, by whom, when, and with what evidence | handoff from workstream leads to engagement manager, client sponsor, steering committee, and executive escalation owners"
+    },
+    {
+      "slug": "cio-board-technology-materials",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "CIO Board Technology Materials for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-cio-executive-briefing",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "CIO CIO Executive Briefing for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "construction-capital-project-intake",
+      "score": 45,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Capital Project Intake** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-capital-project-intake`, `capital-project-intake`, or the corresponding professional workflow: capital-project intake and business-case development | define need, scope, outcomes, funding, delivery strategy, and risk tier before authorization | owner/sponsor, program manager, finance, users, regulators"
+    },
+    {
+      "slug": "construction-project-closeout",
+      "score": 45,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Closeout** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-closeout`, `project-closeout`, or the corresponding professional workflow: capital-project intake and business-case development | define need, scope, outcomes, funding, delivery strategy, and risk tier before authorization | owner/sponsor, program manager, finance, users, regulators"
+    },
+    {
+      "slug": "engineering-delivery-performance-improvement",
+      "score": 45,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Delivery Performance Improvement** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-delivery-performance-improvement`, `delivery-performance-improvement`, or the corresponding professional workflow: Learn and improve delivery | analyze delivery/reliability measures, incident reviews, customer feedback, and escaped defects to select improvement experiments | engineering leadership, product, operations, security, and organizational learning/quality functions"
+    },
+    {
+      "slug": "intelligence-build-decision-dashboards",
+      "score": 45,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Build Decision Dashboards** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-build-decision-dashboards`, `build-decision-dashboards`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-produce-intelligence-briefings",
+      "score": 45,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Produce Intelligence Briefings** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-produce-intelligence-briefings`, `produce-intelligence-briefings`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "real-estate-portfolio-strategy",
+      "score": 45,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Portfolio Strategy** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-portfolio-strategy`, `portfolio-strategy`, or the corresponding professional workflow: Portfolio and asset strategy | prioritize acquisitions, dispositions, capital allocation, risk, and service outcomes against business strategy"
+    },
+    {
+      "slug": "bob-executive-competitive-deck-builder",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Build executive compare-and-contrast presentations that position IBM Bob or another target solution against named competitors. Use when asked to create reusable Bob modes, CLI workflows, or skill-driven competitive decks with source-backed research, business-value differentiation, decision matrices, and a visual style derived from a provided reference graphic."
+    },
+    {
+      "slug": "cio-board-technology-advisory",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Board Technology Advisory for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "data-strategy-analytics-insight-synthesis",
+      "score": 42,
+      "domain": "data",
+      "description": "Synthesize analytics evidence into transparent insights, assumptions, and next questions. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Analytics and Decision Support Capability Director."
+    },
+    {
+      "slug": "data-strategy-dashboard-quality-review",
+      "score": 42,
+      "domain": "data",
+      "description": "Review dashboard quality, metric definitions, freshness, and interpretation risks. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Analytics and Decision Support Capability Director."
+    },
+    {
+      "slug": "data-strategy-metric-definition-governance",
+      "score": 42,
+      "domain": "data",
+      "description": "Prepare metric-definition governance packet with lineage, owners, and change impact. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Analytics and Decision Support Capability Director."
+    },
+    {
+      "slug": "data-strategy-portfolio-roadmap-synthesis",
+      "score": 42,
+      "domain": "data",
+      "description": "Synthesize portfolio roadmap dependencies, outcomes, investment, and decision points. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "eos-board-support",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Board Support for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-corporate-strategy",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Corporate Strategy for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-executive-decision-support",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Executive Decision Support for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "finance-financial-close-support",
+      "score": 42,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Financial Close Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-financial-close-support`, `financial-close-support`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "finance-management-reporting",
+      "score": 42,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Management Reporting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-management-reporting`, `management-reporting`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "ibm-bob-whiteboard-onepager",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Create client-facing IBM Bob hand-drawn whiteboard one-pagers, seller-partner visuals, and reusable Bob enablement leave-behinds. Use when the user asks for IBM Bob graphics, one-pagers, client-facing explainers, Bob as a second brain/document system/control tower, modernization visuals, seller onboarding/account strategy/meeting notes/sales execution graphics, AGENTS-style seller partner harnesses, or reusable whiteboard-style sales/education collateral."
+    },
+    {
+      "slug": "procurement-develop-sourcing-strategy",
+      "score": 42,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Develop Sourcing Strategy** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-develop-sourcing-strategy`, `develop-sourcing-strategy`, or the corresponding professional workflow: market-and-make-buy-analysis | decide internal delivery versus external sourcing, market maturity, category strategy, and delivery model | handoff to procurement/category lead, finance, legal, and delivery stakeholders"
+    },
+    {
+      "slug": "product-roadmap-planning",
+      "score": 42,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Roadmap Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-roadmap-planning`, `roadmap-planning`, or the corresponding professional workflow: prioritize-product-portfolio-and-roadmap | decide sequencing and funding across products, capabilities, risks, dependencies, capacity, and expected outcomes | handoff to executive portfolio boards, engineering, architecture, security, finance, and go-to-market"
+    },
+    {
+      "slug": "research-search-strategy-design",
+      "score": 42,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Search Strategy Design** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-search-strategy-design`, `search-strategy-design`, or the corresponding professional workflow: Search strategy design | decide databases, grey-literature sources, controlled vocabulary, date/language limits, and reproducible search syntax | handoff to librarians/information specialists and review team"
+    },
+    {
+      "slug": "cio-business-intelligence-strategy",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Business Intelligence Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-data-protection-strategy",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Data Protection Strategy for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-zero-trust-strategy",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Zero Trust Strategy for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-strategy-generation",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Cios Customer Strategy Generation for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "procurement-onboard-supplier",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Onboard Supplier** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-onboard-supplier`, `onboard-supplier`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "adr_strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the ADR Strategy specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "cio-agent-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Agent Strategy for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-analytics-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Analytics Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-architecture-review-board",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Architecture Review Board for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-build-buy-partner-decision",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Build Buy Partner Decision for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-cloud-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Cloud Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-crm-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO CRM Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-data-platform-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Data Platform Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-ai-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise AI Strategy for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-collaboration-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise Collaboration Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-data-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise Data Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-technology-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise Technology Strategy for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-erp-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO ERP Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-executive-portfolio-reporting",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Executive Portfolio Reporting for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-hr-systems-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Hr Systems Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-hybrid-cloud-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Hybrid Cloud Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-identity-foundation-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Identity Foundation Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-innovation-scale-stop-decision",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Innovation Scale Stop Decision for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-kubernetes-platform-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Kubernetes Platform Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-managed-service-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Managed Service Strategy for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-network-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Network Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-observability-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Observability Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-outsourcing-decision",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Outsourcing Decision for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-storage-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Storage Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-modernization-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Modernization Strategy for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-negotiation-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Negotiation Strategy for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-resilience-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Resilience Strategy for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-talent-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Talent Strategy for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-workload-placement-decision",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Workload Placement Decision for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "data-strategy-sustainability-initiative-prioritization",
+      "score": 31,
+      "domain": "data",
+      "description": "Prepare sustainability initiative prioritization evidence without making investment decisions. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Sustainability Operations Capability Director."
+    },
+    {
+      "slug": "decision-rights-and-human-handoff",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Define action tiers, approvals, hard stops, and structured handoffs for IBM Mode capability cases. Use when an agent recommends, routes, prepares, or executes any action."
+    },
+    {
+      "slug": "decision_logging",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Decision Logging specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "engineering-architecture-decision-record",
+      "score": 31,
+      "domain": "engineering",
+      "description": "Prepare architecture decision record evidence, tradeoffs, standards, and reviewers. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Technical Design and Architecture Capability Director."
+    },
+    {
+      "slug": "engineering-architecture-decision-recording",
+      "score": 31,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Architecture Decision Recording** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-architecture-decision-recording`, `architecture-decision-recording`, or the corresponding professional workflow: Architecture and technical decision management | choose system boundaries, interfaces, non-functional requirements, technology constraints, and record trade-offs in decision records | security, platform/operations, data, enterprise architecture, and product owners"
+    },
+    {
+      "slug": "enterprise-decision-ledger",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Enterprise Decision Ledger for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-content-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Content Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-deal-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Deal Strategy for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ecosystem-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Ecosystem Strategy for Partnerships / Ecosystem. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-executive-business-review",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Executive Business Review for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-executive-communications",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Executive Communications for Corporate Communications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-messaging-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Messaging Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-positioning-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Positioning Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-pricing-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Pricing Strategy for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Strategy for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-identity-offboarding-revoke",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Revoke user, service, and delegation rights when employment, role, territory, or assignment changes and quarantine unresolved work. Use when the IBM Sales control mode selects capability `identity-access.offboarding-revoke` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "people-offboarding-workforce-transition",
+      "score": 31,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Offboarding Workforce Transition** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-offboarding-workforce-transition`, `offboarding-workforce-transition`, or the corresponding professional workflow: offboarding and workforce-transition management | decide voluntary/involuntary exit steps, notice and final-pay requirements, access closure, records retention, knowledge transfer, and exit feedback | manager, HR, payroll, IT/security, facilities, legal, employee or representative"
+    },
+    {
+      "slug": "people-onboarding-administration",
+      "score": 31,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Onboarding Administration** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-onboarding-administration`, `onboarding-administration`, or the corresponding professional workflow: onboarding and employment administration | decide readiness for start, access, policy acknowledgements, required training, payroll/benefits enrollment, and probation milestones | new hire, manager, HR operations, IT/security, payroll, facilities"
+    },
+    {
+      "slug": "sales-procurement-onboarding",
+      "score": 31,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Procurement Onboarding** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-procurement-onboarding`, `procurement-onboarding`, or the corresponding professional workflow: procurement-and-vendor-onboarding | decide how the customer\u2019s tender, evaluation, due diligence, supplier onboarding, and purchase-order process will be satisfied | hand off required evidence and negotiated commitments to customer procurement, vendor management, finance, and delivery"
+    },
+    {
+      "slug": "tsc-test-strategy-engineer",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use this mode when: - Deriving tests from requirements after architecture review - User asks \"create test cases for [feature]\" - Creating test packs for ETS, partner onboarding, Blue Yonder, Store Ops - Preparing DevOps Loop Test content - Designing test automation strategy - Validating test cove..."
+    }
+  ],
+  "primary_accountable": [
+    "accounting-accounts-payable-analyst",
+    "accounting-accounts-receivable-analyst",
+    "accounting-audit-preparation-specialist",
+    "accounting-bookkeeping-specialist",
+    "accounting-controller-advisor",
+    "accounting-expense-classification-specialist",
+    "accounting-financial-reporting-specialist",
+    "accounting-general-ledger-specialist",
+    "accounting-internal-controls-analyst",
+    "accounting-management-reporting-specialist",
+    "accounting-month-end-close-specialist",
+    "accounting-orchestrator",
+    "accounting-policy-researcher",
+    "accounting-quality-reviewer",
+    "accounting-reconciliation-specialist",
+    "accounting-revenue-recognition-analyst",
+    "bob-executive-competitive-deck-builder",
+    "chief-of-staff",
+    "chief-of-staff-board-materials-governance",
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "chief-of-staff-cross-functional-program-orchestrator",
+    "chief-of-staff-decision-intelligence-specialist",
+    "chief-of-staff-decision-record-management",
+    "chief-of-staff-decision-rights-mapping",
+    "chief-of-staff-dependency-planner",
+    "chief-of-staff-escalation-triage",
+    "chief-of-staff-evidence-coordinator",
+    "chief-of-staff-executive-briefing-specialist",
+    "chief-of-staff-executive-chief-of-staff",
+    "chief-of-staff-executive-communications-control",
+    "chief-of-staff-executive-decision-analyst",
+    "chief-of-staff-executive-meeting-orchestration",
+    "chief-of-staff-executive-priority-shaping",
+    "chief-of-staff-handoff-coordinator",
+    "chief-of-staff-objective-completion-auditor",
+    "chief-of-staff-orchestrator",
+    "chief-of-staff-organizational-sensing",
+    "chief-of-staff-parallelization-planner",
+    "chief-of-staff-principal-transition-handoff",
+    "chief-of-staff-privacy-aware-information-handling",
+    "chief-of-staff-risk-crisis-coordination",
+    "chief-of-staff-risk-escalation-coordinator",
+    "chief-of-staff-stakeholder-engagement-planning",
+    "chief-of-staff-strategic-advisor",
+    "chief-of-staff-strategic-operating-cadence",
+    "chief-of-staff-work-decomposition-planner",
+    "cio-cio-executive-briefing",
+    "cross-team-continuous-routing-controller",
+    "executive-okr-operating-system",
+    "ibm-bob-whiteboard-onepager",
+    "ibm-chief-of-staff",
+    "ibm-sales-ext-identity-offboarding-revoke",
+    "ibm-sales-scale-035",
+    "shot_priority_map",
+    "strategy-board-strategy-advisor",
+    "strategy-business-strategy-analyst",
+    "strategy-competitive-strategy-analyst",
+    "strategy-corporate-strategist",
+    "strategy-growth-strategist",
+    "strategy-market-entry-strategist",
+    "strategy-moat-analyst",
+    "strategy-monopoly-category-strategy-analyst",
+    "strategy-scenario-strategist",
+    "strategy-strategic-initiative-designer",
+    "strategy-strategic-planning-specialist",
+    "strategy-strategic-risk-analyst"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

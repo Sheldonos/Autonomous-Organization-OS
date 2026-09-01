@@ -1,0 +1,53 @@
+{
+  "pocket": "ventureos",
+  "stages": [
+    {
+      "order": 1,
+      "name": "Thesis & opportunity framing",
+      "team_id": "t01",
+      "gate": "assurance"
+    },
+    {
+      "order": 2,
+      "name": "Market and customer discovery",
+      "team_id": "t02",
+      "gate": "assurance"
+    },
+    {
+      "order": 3,
+      "name": "Business model & economics",
+      "team_id": "t03",
+      "gate": "assurance"
+    },
+    {
+      "order": 4,
+      "name": "Validation experiments",
+      "team_id": "t04",
+      "gate": "assurance"
+    },
+    {
+      "order": 5,
+      "name": "Product definition",
+      "team_id": "t05",
+      "gate": "assurance"
+    },
+    {
+      "order": 6,
+      "name": "Build coordination",
+      "team_id": "t06",
+      "gate": "assurance"
+    },
+    {
+      "order": 7,
+      "name": "Launch & GTM",
+      "team_id": "t07",
+      "gate": "assurance"
+    },
+    {
+      "order": 8,
+      "name": "Capital and operating cadence",
+      "team_id": "t08",
+      "gate": "assurance"
+    }
+  ]
+}

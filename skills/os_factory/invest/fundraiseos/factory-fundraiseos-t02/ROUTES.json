@@ -1,0 +1,27 @@
+{
+  "pocket": "fundraiseos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "startup-builder-architect",
+    "pitch-master",
+    "startups-investor-research-specialist",
+    "chief-of-staff-executive-communications-control",
+    "communications-investor-communications-specialist",
+    "finance-ar-collections-prioritization",
+    "startups-fundraising-strategist",
+    "startups-pitch-deck-reviewer",
+    "startups-pitch-strategist",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "ibm-sales-000",
+    "finance-working-capital-action-plan",
+    "finance-balance-sheet-analyst",
+    "finance-billing-dispute-analysis",
+    "finance-capital-allocation",
+    "finance-capital-allocation-analyst",
+    "finance-cash-management-analyst",
+    "finance-close-readiness-assessment",
+    "finance-covenant-compliance-check"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "pmoos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "program-management-program-governance",
+    "construction-project-controls-reporting",
+    "program-management-project-governance",
+    "program-management-resource-management",
+    "program-management-dependency-management",
+    "program-management-milestone-management",
+    "construction-project-charter-planning",
+    "construction-assistant-project-manager",
+    "construction-project-controls-analyst",
+    "construction-project-executive-advisor",
+    "construction-project-manager",
+    "it-integration-interface-assessment",
+    "eos-project-delivery",
+    "webdev-readme-fullstack",
+    "enterprise-dependency-order-planning",
+    "ibm-solution-architect-web",
+    "master-orchestrator",
+    "destructive-command-guard",
+    "spaced-retrieval",
+    "cio-delivery-risk-management"
+  ]
+}

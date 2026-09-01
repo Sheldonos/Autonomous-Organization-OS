@@ -1,0 +1,12 @@
+{
+  "pocket": "bidos",
+  "required_or_optional_classes": [
+    "opportunity_feeds",
+    "document_store",
+    "calendar",
+    "crm",
+    "e_signature"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

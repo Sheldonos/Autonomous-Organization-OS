@@ -1,0 +1,27 @@
+{
+  "pocket": "commerceos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ui-ux-pro-max",
+    "ibm-bob-ads-amazon",
+    "supply-chain-procurement-sourcing",
+    "supply-chain-supplier-due-diligence",
+    "data-strategy-model-inventory-quality",
+    "operations-order-promise-readiness",
+    "supply-chain-transportation-management",
+    "supply-chain-traceability-recall-response",
+    "ibm-sales-scale-055",
+    "supply-chain-production-scheduling",
+    "supply-chain-reverse-logistics",
+    "product-quality-reviewer",
+    "product-requirements-traceability",
+    "supply-chain-order-fulfillment",
+    "ibm-bob-ads-google",
+    "ibm-bob-ads-tiktok",
+    "supply-chain-risk-analyst",
+    "supply-chain-supplier-performance-management",
+    "supply-chain-supply-chain-performance-improvement",
+    "supply-chain-supply-chain-risk-management"
+  ]
+}

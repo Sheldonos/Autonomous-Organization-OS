@@ -1,0 +1,27 @@
+{
+  "pocket": "executiveos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "chief-of-staff-escalation-triage",
+    "chief-of-staff-organizational-sensing",
+    "chief-of-staff-executive-priority-shaping",
+    "chief-of-staff-board-materials-governance",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-icp-segmentation",
+    "chief-of-staff-decision-rights-mapping",
+    "chief-of-staff-decision-record-management",
+    "chief-of-staff-executive-meeting-orchestration",
+    "chief-of-staff-privacy-aware-information-handling",
+    "chief-of-staff-risk-crisis-coordination",
+    "chief-of-staff-strategic-operating-cadence",
+    "automation-assure-business-continuity",
+    "healthcare-breach-response-coordination",
+    "chief-of-staff-executive-communications-control",
+    "people-job-architecture",
+    "people-workforce-planning",
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "chief-of-staff-executive-briefing-specialist"
+  ]
+}

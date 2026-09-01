@@ -1,0 +1,27 @@
+{
+  "pocket": "brandos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-budget-pacing-analysis",
+    "marketing-campaign-launch-readiness",
+    "creative-brand-designer",
+    "creative-brand-narrative-specialist",
+    "rspkt-web-designer",
+    "amir-mushich-prompt-writer",
+    "cultural-website-rebuilder",
+    "uncodixfy",
+    "marketing-competitive-message-synthesis",
+    "marketing-market-research-synthesis",
+    "marketing-channel-performance-synthesis",
+    "marketing-attribution-explanation-pack",
+    "marketing-campaign-brief-preparation",
+    "marketing-paid-media-anomaly-review",
+    "marketing-brand-compliance-review",
+    "marketing-content-claims-review",
+    "marketing-content-reuse-eligibility",
+    "marketing-account-based-signal-qualification",
+    "marketing-audience-segmentation-review",
+    "marketing-consent-eligibility-check"
+  ]
+}

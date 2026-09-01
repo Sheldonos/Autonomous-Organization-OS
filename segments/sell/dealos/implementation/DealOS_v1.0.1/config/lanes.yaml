@@ -1,0 +1,35 @@
+version: 1
+private_market:
+  ai_transformation:
+    enabled_env: PRIVATE_MARKET_SCANS_ENABLED
+    min_score: 70
+    max_results_per_scan: 10
+    scan_prompt: >-
+      Find recent, public, verifiable signals that a US mid-market or enterprise organization may be buying,
+      piloting, replacing, or urgently needing AI workflow automation, agentic operations, customer-service automation,
+      sales/ops automation, or enterprise AI implementation. Prefer RFPs, procurement notices, executive announcements,
+      transformation initiatives, explicit hiring/consulting demand, or implementation gaps with a named organization and URL.
+  mainframe_modernization:
+    enabled_env: PRIVATE_MARKET_SCANS_ENABLED
+    min_score: 72
+    max_results_per_scan: 10
+    scan_prompt: >-
+      Find recent public signals of IBM Z, COBOL, mainframe, IBM i, RPG, application modernization, legacy transformation,
+      migration, skills shortage, or modernization procurement at US enterprises or public entities. Return only named,
+      verifiable organizations with evidence URLs and a plausible buyer or owner function.
+  ai_governance:
+    enabled_env: PRIVATE_MARKET_SCANS_ENABLED
+    min_score: 70
+    max_results_per_scan: 10
+    scan_prompt: >-
+      Find recent public signals that organizations are deploying AI agents/models while facing governance, model risk,
+      privacy, compliance, security, audit, evaluation, or policy-control needs. Prefer explicit programs, RFPs,
+      regulated-industry deployments, governance hiring, or announced AI rollouts with named organizations and URLs.
+  rfp_proposal:
+    enabled_env: PRIVATE_MARKET_SCANS_ENABLED
+    min_score: 68
+    max_results_per_scan: 10
+    scan_prompt: >-
+      Find recent public signals from companies or contractors with high RFP/RFI/proposal/security-questionnaire burden,
+      including federal contractors, enterprise software vendors, consulting firms, or organizations hiring proposal/capture staff.
+      Return named organizations with a public evidence URL and why proposal automation could be timely.

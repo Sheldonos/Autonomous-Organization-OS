@@ -1,0 +1,27 @@
+{
+  "pocket": "pmoos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "mission-delivery",
+    "it-finops-commitment-analysis",
+    "it-incident-triage-preparation",
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "program-management-program-governance",
+    "cio-delivery-risk-management",
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "cio-milestone-tracking",
+    "cio-portfolio-resource-planning",
+    "cio-portfolio-dependency-management",
+    "cio-program-governance",
+    "cio-project-portfolio-management",
+    "data-strategy-portfolio-roadmap-synthesis",
+    "it-integration-interface-assessment",
+    "cio-benefits-realization",
+    "data-strategy-business-case-preparation",
+    "construction-construction-safety-escalation",
+    "construction-project-controls-reporting"
+  ]
+}

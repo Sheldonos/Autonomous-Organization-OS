@@ -1,0 +1,81 @@
+{
+  "pocket": "revenueos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Market & ICP Team",
+      "stage": 1,
+      "responsibility": "Market & ICP",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Positioning & offers Team",
+      "stage": 2,
+      "responsibility": "Positioning & offers",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Demand generation Team",
+      "stage": 3,
+      "responsibility": "Demand generation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Lead/account intelligence Team",
+      "stage": 4,
+      "responsibility": "Lead/account intelligence",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Pipeline execution Team",
+      "stage": 5,
+      "responsibility": "Pipeline execution",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Onboarding Team",
+      "stage": 6,
+      "responsibility": "Onboarding",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Customer success Team",
+      "stage": 7,
+      "responsibility": "Customer success",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Expansion & retention Team",
+      "stage": 8,
+      "responsibility": "Expansion & retention",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t09",
+      "name": "Revenue learning loop Team",
+      "stage": 9,
+      "responsibility": "Revenue learning loop",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "consultingos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-career-consulting-business-transformation-consultant",
+    "ibm-career-consulting-industry-consultant",
+    "ibm-career-consulting-oracle-consultant",
+    "ibm-career-consulting-salesforce-consultant",
+    "ibm-career-consulting-sap-consultant",
+    "healthcare-ephi-security-risk-assessment",
+    "healthcare-healthcare-compliance-risk-assessment",
+    "agency-operations-delivery-status-control",
+    "agency-operations-engagement-closeout",
+    "agency-operations-stakeholder-communications-governance",
+    "healthcare-cms-quality-measure-reporting",
+    "research-certainty-assessment",
+    "research-evidence-to-decision",
+    "agency-operations-change-impact-assessment",
+    "agency-operations-contract-handoff",
+    "agency-operations-human-approval-gating",
+    "agency-operations-scope-baselining",
+    "agency-operations-time-cost-margin-control",
+    "healthcare-breach-response-coordination",
+    "healthcare-downtime-continuity-planning"
+  ]
+}

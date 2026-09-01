@@ -1,0 +1,27 @@
+{
+  "pocket": "workforceos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-bob-ads-validate",
+    "ibm-sales-ext-solution-delivery-feasibility",
+    "enterprise-capability-intake",
+    "evaluation-and-release-governance",
+    "industry-blueprint-composer",
+    "surface-capability-audit",
+    "education-assure-program-quality",
+    "education-evaluate-learning-impact",
+    "people-skill-profile-quality-check",
+    "people-contingent-worker-compliance",
+    "people-succession-mobility-planning",
+    "education-govern-learning-analytics",
+    "people-employee-relations-investigations",
+    "enterprise-skill-runtime-backing-auditor",
+    "healthcare-compliance-program-management",
+    "people-candidate-evaluation-specialist",
+    "people-hr-compliance-reviewer",
+    "customer-service-workforce-schedule-exception",
+    "enterprise-use-case-satisfaction-auditor",
+    "legal-risk-compliance-training-exception"
+  ]
+}

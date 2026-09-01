@@ -1,0 +1,27 @@
+{
+  "pocket": "pricingos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "revenue-pricing-exception-preparation",
+    "revenue-operations-crm-data-quality-analyst",
+    "ibm-cloud-operations-agent",
+    "ibm-i-sql-operations-agent",
+    "ibm-sales-scale-063",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "revenue-quote-policy-compliance",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "sales-contract-approval",
+    "sales-proposal-management",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "revenue-deal-desk-review-pack",
+    "business-development-alliance-management",
+    "revenue-renewal-risk-assessment",
+    "procurement-price-variance-investigation",
+    "revenue-incentive-exception-review",
+    "revenue-rfp-response-evidence"
+  ]
+}

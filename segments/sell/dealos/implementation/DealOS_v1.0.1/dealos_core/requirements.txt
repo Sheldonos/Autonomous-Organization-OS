@@ -1,0 +1,11 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+sqlalchemy>=2.0,<3
+psycopg[binary]>=3.2,<4
+httpx>=0.27,<1
+openai>=1.60,<3
+PyYAML>=6,<7
+cryptography>=43,<47
+python-multipart>=0.0.12,<1
+stripe>=11,<15
+PyJWT[crypto]>=2.9,<3

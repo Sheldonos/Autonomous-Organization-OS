@@ -1,0 +1,27 @@
+{
+  "pocket": "learningos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-monitor-learner-progress",
+    "content-output-qc",
+    "ibm-sales-scale-018",
+    "ibm-sales-scale-019",
+    "project-lab",
+    "education-assure-program-quality",
+    "education-evaluate-learning-impact",
+    "healthcare-patient-safety-event-management",
+    "healthcare-cms-quality-measure-reporting",
+    "education-govern-learning-analytics",
+    "healthcare-ephi-security-risk-assessment",
+    "healthcare-healthcare-compliance-risk-assessment",
+    "people-skill-profile-quality-check",
+    "healthcare-breach-response-coordination",
+    "healthcare-claims-coding-compliance",
+    "healthcare-compliance-program-management",
+    "healthcare-compliance-specialist",
+    "healthcare-credentialing-privileging-review",
+    "healthcare-downtime-continuity-planning",
+    "healthcare-health-records-governance"
+  ]
+}

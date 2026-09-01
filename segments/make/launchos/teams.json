@@ -1,0 +1,74 @@
+{
+  "pocket": "launchos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Launch charter Team",
+      "stage": 1,
+      "responsibility": "Launch charter",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Dependency map Team",
+      "stage": 2,
+      "responsibility": "Dependency map",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Readiness gates Team",
+      "stage": 3,
+      "responsibility": "Readiness gates",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Enablement & assets Team",
+      "stage": 4,
+      "responsibility": "Enablement & assets",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Channel activation Team",
+      "stage": 5,
+      "responsibility": "Channel activation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Release coordination Team",
+      "stage": 6,
+      "responsibility": "Release coordination",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Launch monitoring Team",
+      "stage": 7,
+      "responsibility": "Launch monitoring",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Post-launch learning Team",
+      "stage": 8,
+      "responsibility": "Post-launch learning",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

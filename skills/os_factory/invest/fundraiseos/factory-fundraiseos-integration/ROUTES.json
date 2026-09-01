@@ -1,0 +1,27 @@
+{
+  "pocket": "fundraiseos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "startups-fundraising-strategist",
+    "finance-balance-sheet-analyst",
+    "finance-cash-management-analyst",
+    "finance-strategic-planning",
+    "boomer-business-buyout-engine",
+    "character_reference_plan",
+    "cio-analytics-strategy",
+    "autonomous-cio-orchestrator",
+    "cio-agent-strategy",
+    "cio-ai-portfolio-management",
+    "cio-ai-risk-management",
+    "cio-application-portfolio-management",
+    "cio-architecture-exception-management",
+    "cio-architecture-standards-management",
+    "cio-board-technology-advisory",
+    "cio-board-technology-materials",
+    "cio-agent-evaluation",
+    "cio-ai-architecture",
+    "cio-ai-evaluation",
+    "cio-ai-governance"
+  ]
+}

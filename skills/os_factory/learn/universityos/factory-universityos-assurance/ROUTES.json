@@ -1,0 +1,27 @@
+{
+  "pocket": "universityos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-design-validate-assessments",
+    "education-assure-program-quality",
+    "education-coordinate-accommodations",
+    "education-manage-learner-intake",
+    "typst-pdf-maker",
+    "government-initiate-government-programmes",
+    "education-evaluate-learning-impact",
+    "healthcare-cms-quality-measure-reporting",
+    "education-govern-learning-analytics",
+    "healthcare-compliance-program-management",
+    "program-management-project-quality-reviewer",
+    "government-control-delivery-baselines",
+    "healthcare-credentialing-privileging-review",
+    "education-monitor-learner-progress",
+    "education-develop-learning-content",
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "agency-operations-engagement-closeout",
+    "government-manage-grants-lifecycle",
+    "program-management-program-governance"
+  ]
+}

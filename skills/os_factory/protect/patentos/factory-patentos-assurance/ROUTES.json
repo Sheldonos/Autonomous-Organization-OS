@@ -1,0 +1,27 @@
+{
+  "pocket": "patentos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-risk-ip-docket-readiness",
+    "legal-dispute-claims-management",
+    "legal-contract-risk-issue-spotting",
+    "legal-risk-conflict-of-interest-review",
+    "legal-risk-regulatory-horizon-scan",
+    "legal-msa-review-specialist",
+    "legal-nda-review-specialist",
+    "legal-risk-records-retention-review",
+    "legal-risk-sanctions-screening-case-prep",
+    "legal-sow-review-specialist",
+    "ncfb-claims-adjuster-coach",
+    "ibm-sales-scale-036",
+    "ibm-sales-scale-042",
+    "legal-risk-insurance-claim-evidence",
+    "legal-risk-audit-finding-remediation",
+    "legal-risk-control-test-evidence",
+    "legal-risk-issue-triage",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "legal-legal-work-intake-triage",
+    "legal-contract-performance-monitoring"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "buildos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "engineering-mobile-quality-readiness",
+    "engineering-api-contract-review",
+    "engineering-database-migration-readiness",
+    "engineering-requirements-traceability-review",
+    "engineering-requirements-traceability",
+    "engineering-documentation-coverage-review",
+    "product-requirements-traceability",
+    "engineering-architecture-decision-record",
+    "engineering-backlog-refinement-support",
+    "engineering-developer-environment-readiness",
+    "engineering-developer-productivity-insight",
+    "engineering-issue-backlog-health",
+    "engineering-architecture-decision-recording",
+    "engineering-code-review-preparation",
+    "engineering-observability-instrumentation-review",
+    "engineering-open-source-compliance-prep",
+    "engineering-release-readiness-gate",
+    "engineering-accessibility-quality-review",
+    "engineering-dependency-update-assessment",
+    "engineering-release-deployment-management"
+  ]
+}

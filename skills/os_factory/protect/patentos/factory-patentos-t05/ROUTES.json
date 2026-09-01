@@ -1,0 +1,27 @@
+{
+  "pocket": "patentos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-dispute-claims-management",
+    "legal-contract-drafting-redlining",
+    "legal-legal-work-intake-triage",
+    "legal-legal-hold-evidence-preservation",
+    "legal-risk-ip-docket-readiness",
+    "legal-contract-closeout-records",
+    "legal-contract-risk-issue-spotting",
+    "legal-obligation-management",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "legal-amendment-change-control",
+    "legal-approval-signature-routing",
+    "legal-contract-performance-monitoring",
+    "legal-contract-template-governance",
+    "legal-third-party-risk-assessment",
+    "legal-general-counsel-advisor",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "media-editorial-fact-checking"
+  ]
+}

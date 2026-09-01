@@ -1,0 +1,27 @@
+{
+  "pocket": "studioos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "creative-concept-developer",
+    "anime-series-production",
+    "identity-replacement-pipeline",
+    "motion-design",
+    "video-resource-scout",
+    "feature-film-production",
+    "media-costume-concept-specialist",
+    "media-content-capture",
+    "media-post-production-editing",
+    "advanced-web-developer",
+    "script-to-film-production",
+    "media-post-production-planner",
+    "media-distribution-packaging",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "ai-media-orchestrator",
+    "book-to-film-adaptation",
+    "music-video-production",
+    "persistent-computing",
+    "media-accessibility-localization"
+  ]
+}

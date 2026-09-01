@@ -1,0 +1,27 @@
+{
+  "pocket": "recruitos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-interview-designer",
+    "people-interview-question-specialist",
+    "people-requisition-management",
+    "people-structured-selection",
+    "people-interview-coordination-readiness",
+    "people-candidate-assessment",
+    "people-candidate-screening-preparation",
+    "people-requisition-quality-review",
+    "people-offer-approval-preparation",
+    "product-customer-interview-specialist",
+    "research-interview-research-specialist",
+    "intelligence-manage-feedback-and-reassessment",
+    "people-onboarding-readiness-assessment",
+    "people-job-architecture",
+    "people-workforce-planning",
+    "people-talent-acquisition-strategist",
+    "people-candidate-evaluation-specialist",
+    "people-candidate-research-specialist",
+    "people-job-architecture-specialist",
+    "people-job-description-writer"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "name": "DealOS 05 - Weekly Owner Digest",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "weeks",
+              "weeksInterval": 1,
+              "triggerAtDay": [
+                1
+              ],
+              "triggerAtHour": 8
+            }
+          ]
+        }
+      },
+      "id": "sched",
+      "name": "Monday 8AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "url": "={{$env.DEALOS_INTERNAL_URL + \"/owner/weekly-digest\"}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-DealOS-Key",
+              "value": "={{$env.DEALOS_API_KEY}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "digest",
+      "name": "Get Digest",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        240,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "send",
+        "sendTo": "={{$env.OWNER_EMAIL}}",
+        "subject": "={{$json.subject}}",
+        "message": "={{$json.body_text}}",
+        "options": {}
+      },
+      "id": "mail",
+      "name": "Email Owner",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [
+        500,
+        0
+      ]
+    }
+  ],
+  "connections": {
+    "Monday 8AM": {
+      "main": [
+        [
+          {
+            "node": "Get Digest",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Digest": {
+      "main": [
+        [
+          {
+            "node": "Email Owner",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "versionId": "00000000-0000-0000-0000-000000000001",
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "tags": []
+}

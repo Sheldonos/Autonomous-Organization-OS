@@ -1,0 +1,27 @@
+{
+  "pocket": "recruitos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-onboarding-readiness-assessment",
+    "people-candidate-assessment",
+    "people-requisition-management",
+    "people-structured-selection",
+    "people-candidate-screening-preparation",
+    "people-interview-coordination-readiness",
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "people-requisition-quality-review",
+    "data-strategy-data-product-assessment",
+    "data-strategy-knowledge-refresh-assessment",
+    "data-strategy-model-risk-assessment-prep",
+    "people-offer-approval-preparation",
+    "agency-operations-change-impact-assessment",
+    "legal-third-party-risk-assessment",
+    "product-release-readiness-assessment",
+    "research-certainty-assessment",
+    "assessment-builder",
+    "assessment-checkpoint",
+    "cio-ma-application-assessment"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "pmoos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "program-management-program-governance",
+    "engineering-technical-debt-prioritization",
+    "construction-construction-safety-escalation",
+    "construction-project-controls-reporting",
+    "program-management-project-governance",
+    "cio-portfolio-prioritization",
+    "construction-preconstruction-mobilization",
+    "program-management-resource-management",
+    "program-management-dependency-management",
+    "data-strategy-dependency-risk-analysis",
+    "program-management-milestone-management",
+    "program-management-pmo-analyst",
+    "ibm-sales-onboarding-value-data-audit",
+    "ibm-career-project-management-delivery-manager",
+    "program-management-dependency-manager",
+    "program-management-project-manager",
+    "program-management-project-planner",
+    "program-management-project-quality-reviewer"
+  ]
+}

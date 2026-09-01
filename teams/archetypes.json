@@ -1,0 +1,24 @@
+{
+  "archetypes": [
+    {
+      "id": "command",
+      "purpose": "Own objective, decision rights, priorities, and completion definition."
+    },
+    {
+      "id": "intelligence",
+      "purpose": "Gather evidence, maintain models, identify uncertainty and contradictions."
+    },
+    {
+      "id": "execution",
+      "purpose": "Perform the domain work through tools, workflows, and delegated specialists."
+    },
+    {
+      "id": "assurance",
+      "purpose": "Evaluate quality, policy, safety, compliance, and evidence."
+    },
+    {
+      "id": "integration_state",
+      "purpose": "Maintain connectors, authoritative state, idempotency, and handoffs."
+    }
+  ]
+}

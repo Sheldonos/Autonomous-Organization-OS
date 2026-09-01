@@ -1,0 +1,27 @@
+{
+  "pocket": "procureos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-manage-purchase-orders",
+    "procurement-analyze-make-buy",
+    "procurement-develop-sourcing-strategy",
+    "procurement-sourcing-event-design",
+    "procurement-engage-supplier-market",
+    "procurement-evaluate-suppliers",
+    "procurement-execute-supplier-exit",
+    "procurement-source-selection-analyst",
+    "procurement-bid-comparison-analyst",
+    "procurement-category-manager",
+    "procurement-chief-procurement-officer-advisor",
+    "procurement-demand-analyst",
+    "procurement-orchestrator",
+    "procurement-rfq-specialist",
+    "procurement-should-cost-analyst",
+    "procurement-strategist",
+    "cio-strategic-supplier-management",
+    "cio-technology-rfp-creation",
+    "cio-technology-rfp-scoring",
+    "eos-spend-analysis"
+  ]
+}

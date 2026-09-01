@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "pocket": "mandaos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 20,
+  "skills": [
+    {
+      "slug": "investment-acquisition-target-researcher",
+      "score": 64,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Acquisition Target Researcher role: acquisition target; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-third-party-risk-assessment",
+      "score": 59,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Third Party Risk Assessment** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-third-party-risk-assessment`, `third-party-risk-assessment`, or the corresponding professional workflow: third-party-due-diligence-and-risk-assessment | assess supplier identity, sanctions/integrity, financial and operational resilience, subcontracting, security, privacy, and concentration risk | handoff to procurement, information security, privacy, finance, compliance, and risk acceptance authority"
+    },
+    {
+      "slug": "investment-commercial-due-diligence-analyst",
+      "score": 53,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Commercial Due Diligence Analyst role: commercial due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-cybersecurity-due-diligence-analyst",
+      "score": 53,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Cybersecurity Due Diligence Analyst role: cybersecurity due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-financial-due-diligence-analyst",
+      "score": 53,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Financial Due Diligence Analyst role: financial due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-legal-due-diligence-coordinator",
+      "score": 53,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Legal Due Diligence Coordinator role: legal due diligence coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-market-due-diligence-analyst",
+      "score": 53,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Market Due Diligence Analyst role: market due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-operational-due-diligence-analyst",
+      "score": 53,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Operational Due Diligence Analyst role: operational due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-synergy-analyst",
+      "score": 53,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Synergy Analyst role: synergy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-technology-due-diligence-analyst",
+      "score": 53,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Technology Due Diligence Analyst role: technology due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-due-diligence-analyst",
+      "score": 53,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Due Diligence Analyst role: legal due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-approval-signature-routing",
+      "score": 51,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Approval Signature Routing** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-approval-signature-routing`, `approval-signature-routing`, or the corresponding professional workflow: approval-and-signature-routing | verify authority matrix, budget/funding, required legal and control approvals, version integrity, and signature formalities | handoff to delegated business approver, legal approver, procurement, finance, and authorized signatory"
+    },
+    {
+      "slug": "legal-amendment-change-control",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Amendment Change Control** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-amendment-change-control`, `amendment-change-control`, or the corresponding professional workflow: change-order-and-amendment-control | determine whether a requested change is within scope, affects price/schedule/risk, or requires formal amendment and reapproval | handoff to contract owner, legal, procurement, finance, technical/security reviewers, and authorized signatory"
+    },
+    {
+      "slug": "legal-contract-closeout-records",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Closeout Records** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-closeout-records`, `contract-closeout-records`, or the corresponding professional workflow: contract-closeout-and-records-management | confirm completion, final acceptance/payment, unresolved claims, retention schedule, access restrictions, and authoritative record location | handoff to contract administrator, finance, records management, audit, legal, and business owner"
+    },
+    {
+      "slug": "legal-contract-drafting-redlining",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Drafting Redlining** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-drafting-redlining`, `contract-drafting-redlining`, or the corresponding professional workflow: contract-drafting-and-redlining | identify deviations from playbook, allocate risk positions, and decide whether non-standard terms require specialist review | handoff to counterparties, negotiating counsel, business sponsor, and approval committee"
+    },
+    {
+      "slug": "legal-contract-performance-monitoring",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Performance Monitoring** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-performance-monitoring`, `contract-performance-monitoring`, or the corresponding professional workflow: contract-performance-and-compliance-monitoring | compare performance evidence, invoices, KPIs, change requests, incidents, and nonconformance against contractual remedies and controls | handoff to contract administrator, vendor manager, finance, operations, legal, and executive risk owner"
+    },
+    {
+      "slug": "legal-contract-risk-issue-spotting",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Risk Issue Spotting** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-risk-issue-spotting`, `contract-risk-issue-spotting`, or the corresponding professional workflow: contract-risk-issue-spotting | extract obligations, dependencies, liability, indemnity, IP, confidentiality, data-use, audit, termination, insurance, and governing-law risks | handoff to responsible legal specialist and accountable business risk owner"
+    },
+    {
+      "slug": "legal-contract-template-governance",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Template Governance** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-template-governance`, `contract-template-governance`, or the corresponding professional workflow: contract-request-and-template-governance | determine approved template, fallback language, required metadata, and escalation thresholds | handoff to business owner, legal reviewer, procurement, finance, security/privacy, and authorized signer"
+    },
+    {
+      "slug": "legal-dispute-claims-management",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Dispute Claims Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-dispute-claims-management`, `dispute-claims-management`, or the corresponding professional workflow: dispute-and-claims-management | preserve facts and notices, assess entitlement/exposure, select negotiation, mediation, arbitration, litigation, or cure strategy | handoff to in-house litigation counsel, outside counsel, insurer, executive sponsor, and records/eDiscovery team"
+    },
+    {
+      "slug": "legal-legal-hold-evidence-preservation",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Legal Hold Evidence Preservation** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-legal-hold-evidence-preservation`, `legal-hold-evidence-preservation`, or the corresponding professional workflow: legal-hold-and-evidence-preservation | identify triggering facts, custodians, systems, jurisdictions, retention conflicts, and release criteria for defensible preservation | handoff to litigation counsel, records manager, IT/eDiscovery, privacy, HR, and affected custodians"
+    },
+    {
+      "slug": "legal-legal-work-intake-triage",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Legal Work Intake Triage** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-legal-work-intake-triage`, `legal-work-intake-triage`, or the corresponding professional workflow: intake-and-triage-legal-work | classify matter, urgency, jurisdiction, privilege, and service level against risk and business impact | handoff to in-house counsel, subject-matter counsel, privacy/security, procurement, HR, or compliance"
+    },
+    {
+      "slug": "legal-obligation-milestone-management",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Obligation Milestone Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-obligation-milestone-management`, `obligation-milestone-management`, or the corresponding professional workflow: obligation-and-milestone-management | convert executed terms into owners, dates, deliverables, notice windows, service levels, reporting, renewal, and evidence requirements | handoff to contract owner, procurement/vendor management, finance, operations, security, and legal"
+    },
+    {
+      "slug": "legal-renewal-exit-management",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Renewal Exit Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-renewal-exit-management`, `renewal-exit-management`, or the corresponding professional workflow: obligation-and-milestone-management | convert executed terms into owners, dates, deliverables, notice windows, service levels, reporting, renewal, and evidence requirements | handoff to contract owner, procurement/vendor management, finance, operations, security, and legal"
+    },
+    {
+      "slug": "investment-deal-screening-analyst",
+      "score": 45,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Deal Screening Analyst role: deal screening; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-risk-reviewer",
+      "score": 45,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Risk Reviewer role: contract risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-nda-review-specialist",
+      "score": 45,
+      "domain": "legal",
+      "description": "Use for legal work requiring the NDA Review Specialist role: nda review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-risk-aml-case-evidence-prep",
+      "score": 45,
+      "domain": "legal",
+      "description": "Compile AML case evidence and escalation packet without determining suspicious activity. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Financial Crime Compliance Capability Director."
+    },
+    {
+      "slug": "legal-risk-audit-finding-remediation",
+      "score": 45,
+      "domain": "legal",
+      "description": "Track audit-finding remediation evidence, due dates, and unresolved risk. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Assurance Capability Director."
+    },
+    {
+      "slug": "legal-risk-board-governance-pack",
+      "score": 45,
+      "domain": "legal",
+      "description": "Prepare board-governance evidence pack, decision log, and action-tracking status. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Corporate Governance Capability Director."
+    },
+    {
+      "slug": "legal-risk-clause-variance-analysis",
+      "score": 45,
+      "domain": "legal",
+      "description": "Identify clause variance against approved playbook and prepare reviewer evidence. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Contract Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-compliance-training-exception",
+      "score": 45,
+      "domain": "legal",
+      "description": "Review compliance-training exception evidence and route required follow-up. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Governance Capability Director."
+    },
+    {
+      "slug": "legal-risk-conflict-of-interest-review",
+      "score": 45,
+      "domain": "legal",
+      "description": "Prepare conflict-of-interest disclosure evidence for authorized review. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Ethics and Conduct Capability Director."
+    },
+    {
+      "slug": "legal-risk-consent-register-quality-check",
+      "score": 45,
+      "domain": "legal",
+      "description": "Check consent-register completeness, retention, and source-of-truth alignment. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Privacy Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-contract-intake-classification",
+      "score": 45,
+      "domain": "legal",
+      "description": "Classify contract requests, risk profile, required review, and source documents. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Contract Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-control-test-evidence",
+      "score": 45,
+      "domain": "legal",
+      "description": "Compile control-test evidence, population, exceptions, and reviewer traceability. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Assurance Capability Director."
+    },
+    {
+      "slug": "legal-risk-crisis-legal-coordination",
+      "score": 45,
+      "domain": "legal",
+      "description": "Coordinate crisis legal evidence, communications routing, and decision dependencies. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Legal Matter Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-dpia-preparation",
+      "score": 45,
+      "domain": "legal",
+      "description": "Prepare DPIA evidence package with data flow, risk, and unresolved owner inputs. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Privacy Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-enterprise-risk-assessment-prep",
+      "score": 45,
+      "domain": "legal",
+      "description": "Prepare risk-assessment evidence, drivers, inherent/residual assumptions, and owners. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Enterprise Risk Management Capability Director."
+    },
+    {
+      "slug": "legal-risk-ethics-allegation-intake",
+      "score": 45,
+      "domain": "legal",
+      "description": "Classify ethics allegations with confidentiality, non-retaliation, and investigation routing requirements. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Ethics and Conduct Capability Director."
+    },
+    {
+      "slug": "legal-risk-gifts-hospitality-review",
+      "score": 45,
+      "domain": "legal",
+      "description": "Review gifts and hospitality declarations against policy thresholds and routes. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Ethics and Conduct Capability Director."
+    },
+    {
+      "slug": "legal-risk-insurance-claim-evidence",
+      "score": 45,
+      "domain": "legal",
+      "description": "Compile insurance-claim evidence and policy references for authorized owner review. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Risk Transfer Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-ip-docket-readiness",
+      "score": 45,
+      "domain": "legal",
+      "description": "Assess IP docket event readiness, evidence, and outside-counsel dependencies. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Intellectual Property Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-issue-triage",
+      "score": 45,
+      "domain": "legal",
+      "description": "Classify compliance issues, impact, root-cause evidence, and remediation routing. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Assurance Capability Director."
+    },
+    {
+      "slug": "legal-risk-legal-hold-readiness",
+      "score": 45,
+      "domain": "legal",
+      "description": "Assess legal-hold readiness, custodians, data sources, and preservation dependencies. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Legal Matter Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-litigation-evidence-compilation",
+      "score": 45,
+      "domain": "legal",
+      "description": "Compile litigation evidence inventory with provenance and privilege routing. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Legal Matter Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-obligation-extraction",
+      "score": 45,
+      "domain": "legal",
+      "description": "Extract obligations, dates, owners, and evidence requirements from approved agreements. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Contract Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-policy-change-impact-analysis",
+      "score": 45,
+      "domain": "legal",
+      "description": "Analyze policy change impact, affected controls, training, systems, and owners. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Governance Capability Director."
+    },
+    {
+      "slug": "legal-risk-privacy-request-intake",
+      "score": 45,
+      "domain": "legal",
+      "description": "Classify privacy requests, identity-verification needs, jurisdiction, and routing steps. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Privacy Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-records-retention-review",
+      "score": 45,
+      "domain": "legal",
+      "description": "Review records retention requirements, holds, classifications, and disposition dependencies. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Information Governance Capability Director."
+    },
+    {
+      "slug": "legal-risk-regulatory-horizon-scan",
+      "score": 45,
+      "domain": "legal",
+      "description": "Monitor approved regulatory sources and create qualified change-review cases. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Regulatory Intelligence Capability Director."
+    },
+    {
+      "slug": "legal-risk-sanctions-screening-case-prep",
+      "score": 45,
+      "domain": "legal",
+      "description": "Prepare sanctions-screening review case evidence without making a disposition. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Financial Crime Compliance Capability Director."
+    },
+    {
+      "slug": "investment-committee-analyst",
+      "score": 42,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Investment Committee Analyst role: investment committee; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-committee-critic",
+      "score": 42,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Investment Committee Critic role: investment committee; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-competitive-position-analyst",
+      "score": 42,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Competitive Position Analyst role: competitive position; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-customer-concentration-analyst",
+      "score": 42,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Customer Concentration Analyst role: customer concentration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-m-and-a-strategy-analyst",
+      "score": 42,
+      "domain": "investment",
+      "description": "Use for investment work requiring the M&A Strategy Analyst role: m&a strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-management-team-analyst",
+      "score": 42,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Management Team Analyst role: management team; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-memo-writer",
+      "score": 42,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Investment Memo Writer role: investment memo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-orchestrator",
+      "score": 42,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Investment Orchestrator role: investment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-thesis-builder",
+      "score": 42,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Investment Thesis Builder role: investment thesis builder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-case-law-researcher",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Case Law Researcher role: case law; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-citation-reviewer",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Citation Reviewer role: legal citation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-clause-classification-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Clause Classification Specialist role: clause classification; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-clause-comparison-analyst",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Clause Comparison Analyst role: clause comparison; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-clause-extractor",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Clause Extractor role: contract clause extractor; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-intake-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Intake Specialist role: contract intake; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-lifecycle-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Lifecycle Specialist role: contract lifecycle; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-negotiation-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Negotiation Specialist role: contract negotiation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-parser",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Parser role: contract parser; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-employment-agreement-reviewer",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Employment Agreement Reviewer role: employment agreement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-escalation-coordinator",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Escalation Coordinator role: legal escalation coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-general-counsel-advisor",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the General Counsel Advisor role: general counsel; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-ip-contract-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the IP Contract Specialist role: ip contract; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-litigation-research-analyst",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Litigation Research Analyst role: litigation research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-memorandum-writer",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Memorandum Writer role: legal memorandum; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-msa-review-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the MSA Review Specialist role: msa review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-obligation-extraction-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Obligation Extraction Specialist role: obligation extraction; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-obligation-management",
+      "score": 42,
+      "domain": "legal",
+      "description": "Extract, normalize, assign, monitor and evidence contractual/regulatory obligations without replacing accountable counsel. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "legal-orchestrator",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Orchestrator role: legal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-privacy-contract-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Privacy Contract Specialist role: privacy contract; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-procurement-contract-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Procurement Contract Specialist role: procurement contract; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-quality-reviewer",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Quality Reviewer role: legal quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-regulatory-research-analyst",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Regulatory Research Analyst role: regulatory research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-research-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Research Specialist role: legal research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-saas-agreement-review-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the SaaS Agreement Review Specialist role: saas agreement review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-sow-review-specialist",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the SOW Review Specialist role: sow review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-statutory-researcher",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Statutory Researcher role: statutory; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-system-navigator",
+      "score": 42,
+      "domain": "legal",
+      "description": "Navigate the legal system for both offensive and defensive purposes. This skill provides a framework for leveraging the legal system to achieve business objectives, from enforcing intellectual property rights to defending against lawsuits. Use when facing a legal challenge or considering legal action."
+    },
+    {
+      "slug": "process-acquisition-to-integration",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Process Acquisition To Integration for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-scale-055",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Draft a migration planning framework with discovery prerequisites, source/target assumptions, dependency inventory, risk, validation gates, and delivery-review needs. Use when IBM Sales selects `solution.migration-plan-draft` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "institutional-investment-playbook",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Use when the user asks about hedge fund or private equity investment processes, due diligence, portfolio construction, position sizing, risk management, LBO modeling, investment committee memos, all-weather frameworks, exit strategies, or any topic covered by institutional investment qualification and portfolio construction workflows. Covers the complete 25-step process from sourcing through exit."
+    },
+    {
+      "slug": "product-go-to-market-planning",
+      "score": 40,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Go To Market Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-go-to-market-planning`, `go-to-market-planning`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "game-dev",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Build playable browser games (Babylon.js) end-to-end using the godogen production pipeline adapted to Manus. Use when the user wants to make, generate, rebuild, or substantially extend a web/browser game from a natural-language brief. Runs godogen's staged workflow (visual target, risk decomposition, scaffold, architecture, asset generation, implementation, visual verification) but hosts the game in a Manus WebDev project, replaces godogen's paid art CLIs (Gemini/Grok/Tripo3D) with Manus built-in image generation, and deploys through WebDev Publish instead of temporary links."
+    },
+    {
+      "slug": "independent-megadeal-originator",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Identify and package independent megadeal origination opportunities for human-led closing. Use when searching for, qualifying, or preparing deal context for high-value opportunities such as autonomous niche media/data platform rollups, off-grid data center real estate and power allocations, or cross-border luxury expedition/asset consortiums. Produces human-in-the-loop briefing packs with opportunity thesis, owner/buyer maps, diligence gaps, risk flags, MNDA/non-circumvention gating, SPV setup guidance, and success-fee LOI close checklists."
+    },
+    {
+      "slug": "procurement-assess-supply-chain-risk",
+      "score": 37,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Assess Supply Chain Risk** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-assess-supply-chain-risk`, `assess-supply-chain-risk`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-onboard-supplier",
+      "score": 37,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Onboard Supplier** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-onboard-supplier`, `onboard-supplier`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-perform-supplier-due-diligence",
+      "score": 37,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Perform Supplier Due Diligence** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-perform-supplier-due-diligence`, `perform-supplier-due-diligence`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "ai-automation-lbo",
+      "score": 34,
+      "domain": "ai-engineering",
+      "description": "A Reginald Lewis-inspired framework for identifying, financing, and executing leveraged buyouts (LBOs) of small-to-medium businesses that can be automated by at least 60% using AI. Use when a user asks to find business listings for acquisition, structure an SBA 7(a) or LBO deal, calculate AI automation ROI, or generate a Confidential Information Memorandum (CIM) and lender presentation."
+    },
+    {
+      "slug": "automation-design-integration-orchestration",
+      "score": 34,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Design Integration Orchestration** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-design-integration-orchestration`, `design-integration-orchestration`, or the corresponding professional workflow: solution-design-and-integration | decide orchestration pattern, APIs/connectors, data mappings, identity model, retries, queues, and system-of-record boundaries | handoff to enterprise/application architects, integration engineers, platform owners, and security review"
+    },
+    {
+      "slug": "bob-executive-competitive-deck-builder",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Build executive compare-and-contrast presentations that position IBM Bob or another target solution against named competitors. Use when asked to create reusable Bob modes, CLI workflows, or skill-driven competitive decks with source-backed research, business-value differentiation, decision matrices, and a visual style derived from a provided reference graphic."
+    },
+    {
+      "slug": "cio-technology-integration-planning",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Technology Integration Planning for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cybersecurity-security-policy-management",
+      "score": 34,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Policy Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-policy-management`, `security-policy-management`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "government-administer-procurement",
+      "score": 34,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Administer Procurement** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-administer-procurement`, `administer-procurement`, or the corresponding professional workflow: acquisition planning and procurement | determine make/buy, procurement route, competition, specifications, evaluation criteria, and contract controls | contracting authority, commercial/legal, finance, suppliers, probity and oversight bodies"
+    },
+    {
+      "slug": "ibm-sales-ext-solution-architecture-assure",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Assess a proposed architecture option for evidence support, integration assumptions, security/dependency risks, and required technical approvals. Use when the IBM Sales control mode selects capability `solution-assurance.architecture-assure` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-050",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Map integration requirements, systems, interfaces, identity, data flow, ownership, and unknowns for solution discovery without building or committing an integration. Use when IBM Sales selects `solution.integration-discovery` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "it-integration-interface-assessment",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Assess integration interface health, ownership, dependency, and change risk. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "supply-chain-supplier-due-diligence",
+      "score": 34,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supplier Due Diligence** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supplier-due-diligence`, `supplier-due-diligence`, or the corresponding professional workflow: Supplier onboarding and due diligence | verify identity, capabilities, financial/operational resilience, sanctions/compliance posture, cybersecurity and responsible-business evidence | Procurement, legal, information security, risk, quality"
+    },
+    {
+      "slug": "automation-integration-mapping-specialist",
+      "score": 31,
+      "domain": "automation",
+      "description": "Use for automation work requiring the Integration Mapping Specialist role: integration mapping; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "business-development-partnership-due-diligence-analyst",
+      "score": 31,
+      "domain": "business-development",
+      "description": "Use for business development work requiring the Partnership Due Diligence Analyst role: partnership due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cio-integration-architecture",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Integration Architecture for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ma-data-diligence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO MA Data Diligence for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ma-infrastructure-diligence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO MA Infrastructure Diligence for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-due-diligence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Due Diligence for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-synergy-analysis",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Synergy Analysis for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "engineering-continuous-integration",
+      "score": 31,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Continuous Integration** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-continuous-integration`, `continuous-integration`, or the corresponding professional workflow: Implement and review code | select branching/integration strategy, enforce coding standards, review correctness and maintainability, and resolve findings | peer reviewers, tech leads, security, and maintainers"
+    },
+    {
+      "slug": "engineering-integration-engineer",
+      "score": 31,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Integration Engineer role: integration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "enterprise-saga-transaction-coordinator",
+      "score": 31,
+      "domain": "operations",
+      "description": "Coordinate cross-system/cross-team actions with serialized writes, checkpoints, compensation plans and verification. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "eos-ma-cross-functional-diligence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos MA Cross Functional Diligence for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ma-integration-orchestration",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos MA Integration Orchestration for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ma-synergy-tracking",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos MA Synergy Tracking for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ma-target-intelligence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos MA Target Intelligence for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "finance-due-diligence-analyst",
+      "score": 31,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Due Diligence Analyst role: due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-transaction-comparables-analyst",
+      "score": 31,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Transaction Comparables Analyst role: transaction comparables; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-valuation-specialist",
+      "score": 31,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Valuation Specialist role: valuation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-bob-ads-budget",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Plan and review paid-media budgets, bidding, pacing, marginal return, forecasts, CPA, ROAS, MER, LTV:CAC, constraints, and allocation across supported platforms. Use for ad budget allocation, media budget, bidding strategy, scaling, spend pacing, budget forecast, ROAS target, or investment tradeoffs. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-career-enterprise-operations-talent-acquisition-partner",
+      "score": 31,
+      "domain": "enterprise-operations",
+      "description": "IBM-aligned Talent Acquisition Partner specialist. Use for Enterprise Operations work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-des-sa-002",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Activate this mode for integration architecture within IBM BOB's solution design and value architecture lane. Use it when the seller needs the work product of solution consultant, value engineer, technical sales architect, especially when the task should reduce manual research, analysis, writing,..."
+    },
+    {
+      "slug": "people-requisition-management",
+      "score": 31,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Requisition Management** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-requisition-management`, `requisition-management`, or the corresponding professional workflow: talent acquisition and requisition management | decide whether a role is approved, define objective requirements, sourcing strategy, selection stages, and hiring recommendation | hiring manager, recruiter, interview panel, HR/legal, finance"
+    },
+    {
+      "slug": "people-talent-acquisition-strategist",
+      "score": 31,
+      "domain": "people",
+      "description": "Use for people work requiring the Talent Acquisition Strategist role: talent acquisition; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-acquisition-analyst",
+      "score": 31,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Acquisition Analyst role: acquisition; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-property-due-diligence-analyst",
+      "score": 31,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Property Due Diligence Analyst role: property due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-property-valuation-analyst",
+      "score": 31,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Property Valuation Analyst role: property valuation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-integration-architect",
+      "score": 31,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Integration Architect role: integration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-procurement-onboarding",
+      "score": 31,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Procurement Onboarding** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-procurement-onboarding`, `procurement-onboarding`, or the corresponding professional workflow: procurement-and-vendor-onboarding | decide how the customer\u2019s tender, evaluation, due diligence, supplier onboarding, and purchase-order process will be satisfied | hand off required evidence and negotiated commitments to customer procurement, vendor management, finance, and delivery"
+    },
+    {
+      "slug": "sales-seller-intelligence-mcp-integration",
+      "score": 31,
+      "domain": "sales",
+      "description": "Connect IBM Bob sales skills to the five-MCP seller intelligence stack \u2014 Firecrawl (web research), SEC Intelligence (10-K/10-Q/8-K filings), Lead Enrichment (accounts, executives, personas), CRM (ownership, opportunities, activity), and PostgreSQL (evidence persistence). Use when any revenue skill needs live research, filing analysis, contact enrichment, account validation, or durable evidence storage."
+    },
+    {
+      "slug": "shared-execution-api-integration-specialist",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for shared execution work requiring the API Integration Specialist role: api integration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-execution-mcp-integration-specialist",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for shared execution work requiring the MCP Integration Specialist role: mcp integration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-policy-gate",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Perform the bounded professional capability **Policy Gate** for the **Shared Services** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `shared-policy-gate`, `policy-gate`, or the corresponding professional workflow: Classify requested work, confirm authority, target environment, action class, and policy constraints before domain work begins."
+    },
+    {
+      "slug": "tsc-mcp-integration-engineer",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use this mode when: - Creating, configuring, or validating MCP servers - User asks \"how do I connect Bob to [tool]?\" - Working on API wrappers, connector mappings, order-service MCP flows - Troubleshooting MCP connectivity or authentication issues - Designing integration architecture for new tool..."
+    },
+    {
+      "slug": "webdev-llm-integration",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Manus webdev fullstack (web-db-user) & mobile-app (Expo) projects \u2014 built-in LLM integration for AI features, chat completions, structured JSON responses, model listing/selection, streaming, thinking/reasoning."
+    },
+    {
+      "slug": "webdev-maps-integration",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Manus webdev fullstack (web-db-user) projects \u2014 Google Maps integration for maps, geocoding, directions, places."
+    },
+    {
+      "slug": "webdev-readme-fullstack",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Manus webdev fullstack (web-db-user) projects \u2014 the complete development guide for the template that fullstack webdev projects are built on. Covers what ships out of the box (user auth, database, file storage, backend API, external integrations), coding conventions, file layout, and the map of per-integration skill docs. The same guide arrives auto-injected in webdev_init_project / webdev_add_feature results."
+    },
+    {
+      "slug": "manus-api",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Manage tasks, projects, and other data in Manus via API, build OAuth2 third-party integrations, or create Manus tasks programmatically to build services or workflows that need agentic capabilities."
+    },
+    {
+      "slug": "procurement-manage-solicitation",
+      "score": 26,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Solicitation** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-solicitation`, `manage-solicitation`, or the corresponding professional workflow: solicitation-and-bid-management | issue requirements and tender documents, manage bidder questions and addenda, preserve equal information, and control submissions | handoff to evaluation panel, procurement operations, legal, and supplier communications"
+    },
+    {
+      "slug": "agentic-sdlc-lab-guide-builder",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "A complete workflow for generating end-to-end IBM Agentic SDLC lab guides. Use when a user asks to create a lab guide, workshop, or demo for a codebase that walks developers through Jira, DOORS Next, Solutions Designer, GitLab, and IBM Project Bob."
+    },
+    {
+      "slug": "manus-config",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Manage connectors (App, Custom API, Custom MCP), project instructions and shared files, and scheduled task execution with manus-config. Use when the user asks to enable, inspect, or modify integrations; manage project-level configuration or shared project files; explicitly add, update, or remove shared project web links; or create, update, inspect, pause, expire, or troubleshoot scheduled tasks using cron, intervals, connector UIDs, or run-as-new behavior."
+    },
+    {
+      "slug": "ncfb-claims-adjuster-coach",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use when an NC Farm Bureau agent needs to evaluate a property damage, hail, auto, or home insurance claim. Walks through structured decision frameworks for roof damage, hail, and auto claims \u2014 covering coverage verification, functional vs. cosmetic damage, deductible math, escalation triggers, and documentation checklists. Activate on phrases like \"how do I handle this claim\", \"is this covered\", \"hail damage\", \"roof claim\", \"ACV vs RCV\", \"functional damage\", \"when do I escalate\", \"what documents do I need\", \"total loss\", \"FNOL\", or any NCFB claim evaluation question."
+    },
+    {
+      "slug": "watsonx-ai-evaluation-handoff",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Watsonx AI Evaluation Handoff for watsonx.ai. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "act_sequence_design",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Act & Sequence Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "action_paragraph_rhythm",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Action Paragraph Rhythm specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "action_sequence_direction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Action Sequence Direction specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "action_state_tracking",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Action State Tracking specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "actor_speakability",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Actor Speakability specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "adr_strategy",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the ADR Strategy specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "agent-lifecycle-manager",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Automate the complete lifecycle of sub-agents, including creation, training, deployment, retraining, and decommissioning. Use when managing autonomous agents, building agentic systems, or optimizing agent workforce for day-to-day operations."
+    },
+    {
+      "slug": "agentic-systems-architect",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Design and implement a hierarchical agent architecture for the management of autonomous sub-agents. This skill provides the blueprint for creating a scalable and self-managing workforce, including protocols for communication, task allocation, and performance evaluation. Use when building or upgrading your agent management system."
+    },
+    {
+      "slug": "ai-engineering-agent-evaluation-specialist",
+      "score": 20,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Evaluation Specialist role: evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-llm-evaluation-specialist",
+      "score": 20,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the LLM Evaluation Specialist role: llm evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-model-evaluation-engineer",
+      "score": 20,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Model Evaluation Engineer role: model evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ambience_design",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Ambience Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    }
+  ],
+  "primary_accountable": [
+    "game-dev",
+    "ibm-des-sa-002",
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-financial-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator",
+    "investment-market-due-diligence-analyst",
+    "investment-operational-due-diligence-analyst",
+    "investment-technology-due-diligence-analyst",
+    "legal-due-diligence-analyst",
+    "legal-risk-dpia-preparation",
+    "legal-risk-enterprise-risk-assessment-prep",
+    "legal-third-party-risk-assessment",
+    "manus-api",
+    "manus-config",
+    "shared-execution-api-integration-specialist",
+    "shared-execution-mcp-integration-specialist",
+    "tsc-mcp-integration-engineer",
+    "webdev-llm-integration",
+    "webdev-maps-integration"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

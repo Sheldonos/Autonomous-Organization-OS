@@ -1,0 +1,27 @@
+{
+  "pocket": "patentos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-contract-closeout-records",
+    "documentary-evidence",
+    "character_state_tracking",
+    "legal-obligation-management",
+    "quantum-research-publication-gate",
+    "quantum-classical-baseline-analyst",
+    "legal-risk-ip-docket-readiness",
+    "media-editorial-fact-checking",
+    "ibm-sales-scale-036",
+    "legal-dispute-claims-management",
+    "action_state_tracking",
+    "cio-ai-portfolio-management",
+    "cio-ai-use-case-intake",
+    "cio-application-portfolio-management",
+    "cio-architecture-review-board",
+    "autonomous-cio-orchestrator",
+    "character-architecture",
+    "legal-contract-drafting-redlining",
+    "legal-contract-risk-issue-spotting",
+    "legal-legal-work-intake-triage"
+  ]
+}

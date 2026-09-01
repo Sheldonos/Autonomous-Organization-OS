@@ -1,0 +1,27 @@
+{
+  "pocket": "workforceos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-onboarding-readiness-assessment",
+    "education-manage-credentials-records",
+    "education-coordinate-accommodations",
+    "people-candidate-assessment",
+    "education-map-occupational-competencies",
+    "education-support-career-transition",
+    "ibm-sales-ext-solution-delivery-feasibility",
+    "people-benefits-enrollment-readiness",
+    "people-employee-relations-evidence",
+    "people-leave-case-preparation",
+    "people-mobility-case-readiness",
+    "people-ethics-training-completion-review",
+    "people-accommodation-handoff-preparation",
+    "people-exit-readiness-check",
+    "people-learning-development",
+    "people-performance-management",
+    "people-learning-needs-analysis",
+    "people-offboarding-workforce-transition",
+    "people-headcount-control-check",
+    "people-job-architecture"
+  ]
+}

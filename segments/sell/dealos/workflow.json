@@ -1,0 +1,53 @@
+{
+  "pocket": "dealos",
+  "stages": [
+    {
+      "order": 1,
+      "name": "Opportunity discovery",
+      "team_id": "t01",
+      "gate": "assurance"
+    },
+    {
+      "order": 2,
+      "name": "Qualification & scoring",
+      "team_id": "t02",
+      "gate": "assurance"
+    },
+    {
+      "order": 3,
+      "name": "Account research",
+      "team_id": "t03",
+      "gate": "assurance"
+    },
+    {
+      "order": 4,
+      "name": "Offer & solution fit",
+      "team_id": "t04",
+      "gate": "assurance"
+    },
+    {
+      "order": 5,
+      "name": "Outreach / response",
+      "team_id": "t05",
+      "gate": "assurance"
+    },
+    {
+      "order": 6,
+      "name": "Proposal & negotiation",
+      "team_id": "t06",
+      "gate": "assurance"
+    },
+    {
+      "order": 7,
+      "name": "Approval & close",
+      "team_id": "t07",
+      "gate": "assurance"
+    },
+    {
+      "order": 8,
+      "name": "Billing, relationship memory & expansion",
+      "team_id": "t08",
+      "gate": "assurance"
+    }
+  ]
+}

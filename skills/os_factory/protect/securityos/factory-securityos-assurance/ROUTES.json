@@ -1,0 +1,27 @@
+{
+  "pocket": "securityos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "cybersecurity-supply-chain-cyber-risk",
+    "cyber-resilience-threat-intelligence-synthesis",
+    "cybersecurity-zero-trust-architecture-review",
+    "cybersecurity-identity-access-governance",
+    "cyber-resilience-vulnerability-validation",
+    "cyber-resilience-cloud-configuration-review",
+    "cybersecurity-control-selection",
+    "cybersecurity-risk-treatment-planning",
+    "cybersecurity-security-awareness-management",
+    "security-threat-review",
+    "cybersecurity-security-risk-analyst",
+    "cyber-resilience-compliance-evidence-compilation",
+    "cyber-resilience-security-risk-register-update",
+    "cybersecurity-security-compliance-analyst",
+    "cybersecurity-security-policy-writer",
+    "cyber-resilience-encryption-coverage-review",
+    "cyber-resilience-third-party-cyber-risk",
+    "cyber-resilience-cyber-resilience-assessment"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "educationos",
+  "title": "EducationOS",
+  "segment": "learn",
+  "mission": "Operate personalized education from curriculum and instruction through assessment, mastery, safety, credentialing, and progression.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 43,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Learner/context intake",
+    "Curriculum mapping",
+    "Learning path",
+    "Instruction",
+    "Practice & feedback",
+    "Assessment",
+    "Mastery update",
+    "Credential/evidence",
+    "Progression & safety review"
+  ],
+  "handoffs": [
+    "learningos",
+    "universityos",
+    "workforceos"
+  ],
+  "connectors": [
+    "lms",
+    "sis",
+    "content_store",
+    "credentialing",
+    "analytics"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

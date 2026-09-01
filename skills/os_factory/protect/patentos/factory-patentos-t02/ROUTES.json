@@ -1,0 +1,27 @@
+{
+  "pocket": "patentos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-024",
+    "legal-litigation-research-analyst",
+    "legal-regulatory-research-analyst",
+    "legal-research-specialist",
+    "ibm-bob-ads-research",
+    "patent-fortress-strategist",
+    "quantum-research-publication-gate",
+    "research-literacy",
+    "shared-research-patent-research-specialist",
+    "legal-risk-ip-docket-readiness",
+    "legal-dispute-claims-management",
+    "b2b-lead-intelligence-generator",
+    "legal-contract-closeout-records",
+    "bob-executive-competitive-deck-builder",
+    "celebrity-brand-strategist",
+    "legal-system-navigator",
+    "legal-contract-drafting-redlining",
+    "legal-contract-risk-issue-spotting",
+    "legal-legal-work-intake-triage",
+    "legal-legal-hold-evidence-preservation"
+  ]
+}

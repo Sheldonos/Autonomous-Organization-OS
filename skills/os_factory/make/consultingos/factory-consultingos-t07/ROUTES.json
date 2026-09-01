@@ -1,0 +1,27 @@
+{
+  "pocket": "consultingos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "agency-operations-stakeholder-communications-governance",
+    "healthcare-breach-response-coordination",
+    "healthcare-downtime-continuity-planning",
+    "ibm-qua-cp-001",
+    "ibm-qua-atl-001",
+    "product-customer-problem-discovery",
+    "sales-discovery-problem-framing",
+    "ibm-career-consulting-business-transformation-consultant",
+    "chief-of-staff-stakeholder-engagement-planning",
+    "cio-forward-looking-technology-recommendation",
+    "cio-technology-investment-recommendation",
+    "ibm-bob-ads-report",
+    "ibm-atl-005",
+    "ibm-eng-002",
+    "ibm-eng-003",
+    "ibm-eng-005",
+    "ibm-eng-006",
+    "ibm-eng-007",
+    "ibm-eng-008",
+    "ibm-eng-010"
+  ]
+}

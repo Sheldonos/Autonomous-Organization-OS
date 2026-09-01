@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "pocket": "fundraiseos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 20,
+  "skills": [
+    {
+      "slug": "finance-ar-collections-prioritization",
+      "score": 53,
+      "domain": "finance",
+      "description": "Prioritize receivables follow-up using approved aging, commitment, and dispute evidence. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Receivables and Credit Operations Capability Director."
+    },
+    {
+      "slug": "startups-fundraising-strategist",
+      "score": 53,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Fundraising Strategist role: fundraising; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-investor-research-specialist",
+      "score": 53,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Investor Research Specialist role: investor research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-pitch-deck-reviewer",
+      "score": 53,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Pitch Deck Reviewer role: pitch deck; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-pitch-strategist",
+      "score": 53,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Pitch Strategist role: pitch; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-financial-close-support",
+      "score": 51,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Financial Close Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-financial-close-support`, `financial-close-support`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "finance-management-reporting",
+      "score": 51,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Management Reporting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-management-reporting`, `management-reporting`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "ibm-sales-000",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "The singular IBM Sales orchestration control mode. Routes all seller requests through a governed execution plan \u2014 account intelligence, discovery, qualification, pipeline strategy, value engineering, proposal, negotiation, close, and adoption. Enforces human approval gates before any external write, CRM update, pricing commitment, or outreach. Use as the front door for all IBM Sales work."
+    },
+    {
+      "slug": "finance-working-capital-action-plan",
+      "score": 48,
+      "domain": "finance",
+      "description": "Create a working-capital opportunity and dependency action plan for owner review. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Planning and Performance Capability Director."
+    },
+    {
+      "slug": "chief-of-staff-executive-communications-control",
+      "score": 45,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Executive Communications Control** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-executive-communications-control`, `executive-communications-control`, or the corresponding professional workflow: Executive communications and message control | develop briefs, talking points, Q&A, announcements, and approval routes while separating fact, recommendation, and commitment | principal, communications, legal, HR, investor/government relations"
+    },
+    {
+      "slug": "finance-balance-sheet-analyst",
+      "score": 45,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Balance Sheet Analyst role: balance sheet; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-billing-dispute-analysis",
+      "score": 45,
+      "domain": "finance",
+      "description": "Analyze billing dispute facts, contract terms, and account evidence for a resolution draft. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Receivables and Credit Operations Capability Director."
+    },
+    {
+      "slug": "finance-capital-allocation",
+      "score": 45,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Capital Allocation** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-capital-allocation`, `capital-allocation`, or the corresponding professional workflow: Capital allocation and portfolio governance | rank competing capex, product, technology, and M&A uses of capital against hurdle rates, liquidity, risk, and strategic priorities"
+    },
+    {
+      "slug": "finance-capital-allocation-analyst",
+      "score": 45,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Capital Allocation Analyst role: capital allocation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-cash-management-analyst",
+      "score": 45,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Cash Management Analyst role: cash management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-close-readiness-assessment",
+      "score": 45,
+      "domain": "finance",
+      "description": "Assess close readiness, missing evidence, dependencies, and aging risks. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-covenant-compliance-check",
+      "score": 45,
+      "domain": "finance",
+      "description": "Check covenant evidence against approved terms and route potential breach indicators. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Treasury and Controls Capability Director."
+    },
+    {
+      "slug": "finance-due-diligence-analyst",
+      "score": 45,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Due Diligence Analyst role: due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-executive-decision-support",
+      "score": 45,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Executive Decision Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-executive-decision-support`, `executive-decision-support`, or the corresponding professional workflow: Management narrative and decision support | convert validated financial and operational evidence into an executive narrative, options, recommendation, and action register with owners and dates | handoff to CFO, CEO, business leaders, board, and cross-functional action owners"
+    },
+    {
+      "slug": "finance-liquidity-planning",
+      "score": 45,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Liquidity Planning** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-liquidity-planning`, `liquidity-planning`, or the corresponding professional workflow: Cash-flow, liquidity, and working-capital planning | forecast collections, payments, inventory, payables, debt service, and liquidity headroom"
+    },
+    {
+      "slug": "finance-management-reporting-pack",
+      "score": 45,
+      "domain": "finance",
+      "description": "Assemble a controlled management reporting pack with sources, assumptions, and review status. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Executive Finance Reporting Capability Director."
+    },
+    {
+      "slug": "finance-profitability-analysis",
+      "score": 45,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Profitability Analysis** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-profitability-analysis`, `profitability-analysis`, or the corresponding professional workflow: Cost management and profitability analysis | analyze cost-to-serve, gross margin, contribution margin, customer/product/channel profitability, and resource efficiency"
+    },
+    {
+      "slug": "finance-revenue-close-tie-out",
+      "score": 45,
+      "domain": "finance",
+      "description": "Tie out revenue-close evidence and identify unresolved reconciliation gaps. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-scenario-modeling",
+      "score": 45,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Scenario Modeling** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-scenario-modeling`, `scenario-modeling`, or the corresponding professional workflow: Strategic planning and long-range modeling | translate corporate strategy into multi-year revenue, cost, cash-flow, and KPI scenarios"
+    },
+    {
+      "slug": "finance-strategic-planning",
+      "score": 45,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Strategic Planning** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-strategic-planning`, `strategic-planning`, or the corresponding professional workflow: Strategic planning and long-range modeling | translate corporate strategy into multi-year revenue, cost, cash-flow, and KPI scenarios"
+    },
+    {
+      "slug": "finance-tax-data-readiness",
+      "score": 45,
+      "domain": "finance",
+      "description": "Assess tax data completeness, lineage, and exception status before preparer review. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Tax Operations Capability Director."
+    },
+    {
+      "slug": "finance-variance-commentary-draft",
+      "score": 45,
+      "domain": "finance",
+      "description": "Draft source-backed variance commentary against approved plan and actuals. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Planning and Performance Capability Director."
+    },
+    {
+      "slug": "finance-vendor-master-change-validation",
+      "score": 45,
+      "domain": "finance",
+      "description": "Validate vendor-master change evidence and route high-risk changes for approval. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Master Data Controls Capability Director."
+    },
+    {
+      "slug": "finance-working-capital-analysis",
+      "score": 45,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Working Capital Analysis** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-working-capital-analysis`, `working-capital-analysis`, or the corresponding professional workflow: Cash-flow, liquidity, and working-capital planning | forecast collections, payments, inventory, payables, debt service, and liquidity headroom"
+    },
+    {
+      "slug": "finance-working-capital-analyst",
+      "score": 45,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Working Capital Analyst role: working capital; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startup-builder-architect",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "A complete startup qualification engine. Use when a user provides a raw startup idea and asks to qualify it, map out the technical architecture, score its feasibility, or generate an investor pitch deck. This skill transforms a raw concept into a fully structured, investor-ready business and technical plan."
+    },
+    {
+      "slug": "finance-10-k-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the 10-K Analyst role: 10-k; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-10-q-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the 10-Q Analyst role: 10-q; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-ap-invoice-match-exception",
+      "score": 42,
+      "domain": "finance",
+      "description": "Classify invoice match exceptions against purchase order and receipt evidence. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Payables and Disbursements Capability Director."
+    },
+    {
+      "slug": "finance-audit-pbc-compilation",
+      "score": 42,
+      "domain": "finance",
+      "description": "Compile requested audit evidence with provenance, owner, and completeness status. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Audit and Assurance Capability Director."
+    },
+    {
+      "slug": "finance-bank-fee-anomaly-review",
+      "score": 42,
+      "domain": "finance",
+      "description": "Review bank-fee anomalies and prepare an evidence-backed exception packet. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Liquidity and Cash Operations Capability Director."
+    },
+    {
+      "slug": "finance-budget-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Budget Analyst role: budget; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-business-case-appraisal",
+      "score": 42,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Business Case Appraisal** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-business-case-appraisal`, `business-case-appraisal`, or the corresponding professional workflow: Business-case and investment appraisal | evaluate initiatives using strategic fit, incremental cash flows, ROI/NPV/payback, capacity, risks, and post-investment measures"
+    },
+    {
+      "slug": "finance-cash-flow-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Cash Flow Analyst role: cash flow; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-cash-position-reconciliation",
+      "score": 42,
+      "domain": "finance",
+      "description": "Reconcile bank, ledger, and forecast positions into a decision-ready cash position. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Liquidity and Cash Operations Capability Director."
+    },
+    {
+      "slug": "finance-cfo-advisor",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the CFO Advisor role: cfo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-comparable-companies-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Comparable Companies Analyst role: comparable companies; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-corporate-finance-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Corporate Finance Analyst role: corporate finance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-covenant-monitoring",
+      "score": 42,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Covenant Monitoring** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-covenant-monitoring`, `covenant-monitoring`, or the corresponding professional workflow: Financial risk and covenant monitoring | track exposure, liquidity, leverage, debt covenants, FX/rates, and counterparty assumptions"
+    },
+    {
+      "slug": "finance-credit-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Credit Analyst role: credit; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-credit-exposure-monitoring",
+      "score": 42,
+      "domain": "finance",
+      "description": "Monitor credit exposure against approved limits and route a review packet. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Receivables and Credit Operations Capability Director."
+    },
+    {
+      "slug": "finance-dcf-specialist",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the DCF Specialist role: dcf; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-driver-based-budgeting",
+      "score": 42,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Driver Based Budgeting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-driver-based-budgeting`, `driver-based-budgeting`, or the corresponding professional workflow: Annual operating planning and budgeting | set the planning calendar, collect driver-based operating inputs, challenge assumptions, consolidate budgets, and obtain approval | handoff among FP&A, business-unit finance, HR, sales, operations, and executive approvers"
+    },
+    {
+      "slug": "finance-earnings-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Earnings Analyst role: earnings; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-earnings-call-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Earnings Call Analyst role: earnings call; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-equity-research-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Equity Research Analyst role: equity research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-expense-policy-audit",
+      "score": 42,
+      "domain": "finance",
+      "description": "Review expense claims against approved policy and produce a human-review packet. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-financial-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Financial Analyst role: financial; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-financial-modeling-specialist",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Financial Modeling Specialist role: financial modeling; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-financial-policy-query-triage",
+      "score": 42,
+      "domain": "finance",
+      "description": "Classify finance policy queries, identify authoritative policy, and draft a routed response. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Finance Governance Capability Director."
+    },
+    {
+      "slug": "finance-financial-quality-reviewer",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Financial Quality Reviewer role: financial quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-financial-statement-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Financial Statement Analyst role: financial statement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-fixed-asset-lifecycle-review",
+      "score": 42,
+      "domain": "finance",
+      "description": "Review fixed-asset lifecycle evidence for capitalization, transfer, and retirement exceptions. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-fixed-income-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Fixed-Income Analyst role: fixed-income; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-forecast-rollup-quality-check",
+      "score": 42,
+      "domain": "finance",
+      "description": "Validate forecast rollup completeness, assumption consistency, and contributor exceptions. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Planning and Performance Capability Director."
+    },
+    {
+      "slug": "finance-forecasting-specialist",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Forecasting Specialist role: forecasting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-fp-and-a-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the FP&A Analyst role: fp&a; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-income-statement-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Income Statement Analyst role: income statement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-indirect-tax-exception-review",
+      "score": 42,
+      "domain": "finance",
+      "description": "Analyze indirect-tax coding exceptions using controlled transaction evidence. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Tax Operations Capability Director."
+    },
+    {
+      "slug": "finance-intercompany-reconciliation",
+      "score": 42,
+      "domain": "finance",
+      "description": "Reconcile intercompany balances and present unmatched items with owners. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-investment-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Investment Analyst role: investment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-journal-entry-support-pack",
+      "score": 42,
+      "domain": "finance",
+      "description": "Prepare journal-entry support evidence for reviewer consideration. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-liquidity-forecast-exception",
+      "score": 42,
+      "domain": "finance",
+      "description": "Detect and explain material liquidity forecast variance against approved assumptions. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Liquidity and Cash Operations Capability Director."
+    },
+    {
+      "slug": "finance-m-and-a-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the M&A Analyst role: m&a; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-market-research-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-orchestrator",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Finance Orchestrator role: finance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-payment-exception-preparation",
+      "score": 42,
+      "domain": "finance",
+      "description": "Prepare a payment exception packet for authorized approval. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Payables and Disbursements Capability Director."
+    },
+    {
+      "slug": "finance-payment-fraud-evidence-triage",
+      "score": 42,
+      "domain": "finance",
+      "description": "Assemble payment fraud indicators and route a controlled investigation case. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Payables and Disbursements Capability Director."
+    },
+    {
+      "slug": "finance-portfolio-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Portfolio Analyst role: portfolio; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-ratio-analysis-specialist",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Ratio Analysis Specialist role: ratio analysis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-risk-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Risk Analyst role: risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-rolling-forecasting",
+      "score": 42,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Rolling Forecasting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-rolling-forecasting`, `rolling-forecasting`, or the corresponding professional workflow: Rolling forecasting and reforecasting | refresh outlooks using actuals, operational drivers, market conditions, and approved initiatives"
+    },
+    {
+      "slug": "finance-scenario-modeling-specialist",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Scenario Modeling Specialist role: scenario modeling; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-sec-filing-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the SEC Filing Analyst role: sec filing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-transaction-comparables-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Transaction Comparables Analyst role: transaction comparables; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-treasury-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Treasury Analyst role: treasury; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-unit-economics-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Unit Economics Analyst role: unit economics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-valuation-specialist",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Valuation Specialist role: valuation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-variance-analysis",
+      "score": 42,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Variance Analysis** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-variance-analysis`, `variance-analysis`, or the corresponding professional workflow: Budget-to-actual and forecast variance analysis | isolate price-volume-mix, rate, timing, scope, FX, and one-time drivers"
+    },
+    {
+      "slug": "finance-variance-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Variance Analyst role: variance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "pitch-master",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use when the user asks to write, structure, or critique a pitch, sales deck, debut presentation, investor narrative, cold open, sales script, or any persuasive business communication. Applies the world's most proven pitch frameworks (Strategic Narrative, STRONG Method, Grand Slam Offer, Golden Circle, StoryBrand, AIDA, Sequoia, 10/20/30) and the full Cialdini persuasion stack. Triggers on phrases like \"write me a pitch\", \"help me pitch this\", \"build a sales narrative\", \"create a deck outline\", \"write a cold open\", \"investor pitch\", \"make this more persuasive\"."
+    },
+    {
+      "slug": "startups-business-model-specialist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Business Model Specialist role: business model; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-category-creation-strategist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Category Creation Strategist role: category creation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-founder-advisor",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Founder Advisor role: founder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-founder-market-fit-analyst",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Founder-Market-Fit Analyst role: founder-market-fit; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-idea-validation-specialist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Idea Validation Specialist role: idea validation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-market-validation-specialist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Market Validation Specialist role: market validation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-mvp-strategist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the MVP Strategist role: mvp; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-opportunity-discovery-analyst",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Opportunity Discovery Analyst role: opportunity discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-orchestrator",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Startup Orchestrator role: startup; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-pricing-strategist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Pricing Strategist role: pricing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-problem-discovery-specialist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Problem Discovery Specialist role: problem discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-startup-financial-modeler",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Startup Financial Modeler role: startup financial modeler; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-startup-growth-strategist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Startup Growth Strategist role: startup growth; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-startup-gtm-strategist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Startup GTM Strategist role: startup gtm; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-startup-orchestrator",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Startup Orchestrator role: startup; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-venture-risk-critic",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Venture Risk Critic role: venture risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-venture-strategist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Venture Strategist role: venture; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-zero-to-one-strategist",
+      "score": 42,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Zero-to-One Strategist role: zero-to-one; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-customer-commitment-tracker",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Track material customer commitments, owners, due dates, and escalation risk. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "it-finops-commitment-analysis",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Analyze cloud commitment utilization and prepare human decision options. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Cloud and FinOps Operations Capability Director."
+    },
+    {
+      "slug": "agency-operations-conflict-of-interest-screening",
+      "score": 31,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Conflict Of Interest Screening** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-conflict-of-interest-screening`, `conflict-of-interest-screening`, or the corresponding professional workflow: qualify-engagement-opportunity | decide fit, conflicts, scope hypothesis, delivery risk, and commercial viability before commitment | handoff from business development/account lead to delivery lead, subject-matter experts, finance, and legal"
+    },
+    {
+      "slug": "agency-operations-engagement-qualification",
+      "score": 31,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Engagement Qualification** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-engagement-qualification`, `engagement-qualification`, or the corresponding professional workflow: qualify-engagement-opportunity | decide fit, conflicts, scope hypothesis, delivery risk, and commercial viability before commitment | handoff from business development/account lead to delivery lead, subject-matter experts, finance, and legal"
+    },
+    {
+      "slug": "communications-investor-communications-specialist",
+      "score": 31,
+      "domain": "communications",
+      "description": "Use for communications work requiring the Investor Communications Specialist role: investor communications; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-bob-ads-landing",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Audit paid-ad landing pages for message match, mobile experience, performance, accessibility, trust, forms, consent, tracking, security, and conversion friction. Use for landing-page audit, post-click experience, LP audit, conversion-rate optimization, form optimization, ad-to-page message match, redirects, blocked navigation, or requests involving private, loopback, link-local, or metadata IP destinations. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "line-function-presentation-strategist",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "A strategic framework for creating client presentations that map technology solutions directly to the client's \"line function\" (how they make money). Use when a user asks to create a sales presentation, pitch deck, or strategic narrative that needs to avoid being an \"inside-out\" product pitch and instead focus on business outcomes, revenue generation, and removing operational friction."
+    },
+    {
+      "slug": "cio-analytics-strategy",
+      "score": 29,
+      "domain": "shared-execution",
+      "description": "CIO Analytics Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "sales-commercial-negotiation",
+      "score": 29,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Commercial Negotiation** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-commercial-negotiation`, `commercial-negotiation`, or the corresponding professional workflow: commercial-negotiation-and-contracting | decide acceptable price, terms, liability, data/security commitments, concessions, dependencies, and escalation thresholds | hand off redlined terms and approval record to legal, finance, security, procurement, and signing authority"
+    },
+    {
+      "slug": "sales-procurement-onboarding",
+      "score": 29,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Procurement Onboarding** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-procurement-onboarding`, `procurement-onboarding`, or the corresponding professional workflow: procurement-and-vendor-onboarding | decide how the customer\u2019s tender, evaluation, due diligence, supplier onboarding, and purchase-order process will be satisfied | hand off required evidence and negotiated commitments to customer procurement, vendor management, finance, and delivery"
+    },
+    {
+      "slug": "autonomous-cio-orchestrator",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Autonomous CIO Orchestrator for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "celebrity-brand-strategist",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "A framework for identifying, evaluating, and launching brand ventures with celebrity partners. Use this skill to develop and execute a celebrity partnership strategy, from initial research to brand launch."
+    },
+    {
+      "slug": "cio-agent-strategy",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "CIO Agent Strategy for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-portfolio-management",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "CIO AI Portfolio Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-risk-management",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "CIO AI Risk Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-portfolio-management",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "CIO Application Portfolio Management for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-architecture-exception-management",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "CIO Architecture Exception Management for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-architecture-standards-management",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "CIO Architecture Standards Management for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-board-technology-advisory",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "CIO Board Technology Advisory for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-board-technology-materials",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "CIO Board Technology Materials for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-scale-043",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Draft a mutual action plan from validated milestones, decision process, owner roles, dependencies, and customer-confirmed commitments. Use when IBM Sales selects `discover.mutual-action-plan` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "revenue-customer-onboarding-readiness",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Assess customer onboarding prerequisites, commitments, and unresolved dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "adr_strategy",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the ADR Strategy specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "agentic-sdlc-lab-guide-builder",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "A complete workflow for generating end-to-end IBM Agentic SDLC lab guides. Use when a user asks to create a lab guide, workshop, or demo for a codebase that walks developers through Jira, DOORS Next, Solutions Designer, GitLab, and IBM Project Bob."
+    },
+    {
+      "slug": "agentic-systems-architect",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Design and implement a hierarchical agent architecture for the management of autonomous sub-agents. This skill provides the blueprint for creating a scalable and self-managing workforce, including protocols for communication, task allocation, and performance evaluation. Use when building or upgrading your agent management system."
+    },
+    {
+      "slug": "b2b-lead-intelligence-generator",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Generate comprehensive B2B lead databases with deep intelligence including decision maker contacts, pain points, solution matching, ROI projections, and revenue potential. Use when prospecting for B2B sales, building lead lists, conducting market research, creating sales intelligence databases, preparing for outreach campaigns, or when a user requests lead generation with detailed business intelligence."
+    },
+    {
+      "slug": "b2b-personalized-outreach",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Researches B2B leads and crafts two hyper-personalized outreach messages for each, transitioning from a human connection to a commercial conversation. Use when asked to perform personalized outreach, connect with leads, or generate sales messages."
+    },
+    {
+      "slug": "blocking_plan",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Blocking Plan specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "bob-agentic-sdlc-mode-designer",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "A complete workflow for designing, configuring, and deploying IBM Project Bob custom modes that act as an autonomous \"Digital Workforce Swarm\" for the Agentic Engineering SDLC. Use when a user asks to create Bob modes, build an agentic SDLC pipeline, replace manual SDLC roles (like BAs, QA, or Release Coordinators) with agents, or configure a swarm architecture in IBM Project Bob."
+    },
+    {
+      "slug": "bob-for-z-builder",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Describe a z/OS or mainframe problem in plain English and get working, validated JCL, COBOL, HLASM, DFSORT control cards, or IDCAMS commands back. Before writing a single statement, Bob for Z Builder checks whether the mainframe is actually the right tool \u2014 and tells you honestly if it isn't. When it is, it generates the artifact, validates it against Enterprise COBOL 6.x standards, flags every legacy anti-pattern, and walks you through the result. No abend mysteries. No GOTO. More shipping."
+    },
+    {
+      "slug": "boomer-business-buyout-engine",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "A complete playbook for acquiring, automating, and rolling up baby boomer-owned small businesses. Use when a user asks to find highly automatable businesses for sale, audit automation feasibility, structure seller-financed acquisitions, or design a mini-monopoly rollup strategy for a high-multiple exit."
+    },
+    {
+      "slug": "casting-performance-development",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Develop casting breakdowns, audition materials and evidence-based evaluation plans while preserving human hiring, consent and accessibility authority."
+    },
+    {
+      "slug": "character_reference_plan",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Character Reference Plan specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "chief-of-staff-principal-transition-handoff",
+      "score": 23,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Principal Transition Handoff** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-principal-transition-handoff`, `principal-transition-handoff`, or the corresponding professional workflow: Principal transition and continuity | document operating preferences, open commitments, authorities, stakeholder map, and succession handoff while avoiding undocumented shadow governance | outgoing/incoming principal, successor COS, HR, legal, executive assistant, key functional owners"
+    },
+    {
+      "slug": "cio-agent-evaluation",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Agent Evaluation for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-architecture",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO AI Architecture for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-evaluation",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO AI Evaluation for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-governance",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO AI Governance for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-human-authority-design",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO AI Human Authority Design for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-observability",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO AI Observability for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-security",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO AI Security for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-use-case-intake",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO AI Use Case Intake for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-architecture",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Application Architecture for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-criticality-classification",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Application Criticality Classification for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-lifecycle-risk",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Application Lifecycle Risk for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-modernization",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Application Modernization for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-retirement-consolidation",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Application Retirement Consolidation for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-security-governance",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Application Security Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-architecture-review-board",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Architecture Review Board for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-audit-evidence-collection",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Audit Evidence Collection for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-audit-preparation",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Audit Preparation for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-benefits-realization",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Benefits Realization for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-build-buy-partner-decision",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Build Buy Partner Decision for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "customer-service-cross-team-handoff-readiness",
+      "score": 23,
+      "domain": "customer-success",
+      "description": "Assess cross-team handoff completeness, ownership, dependencies, and customer commitments. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Service Delivery Coordination Capability Director."
+    },
+    {
+      "slug": "music-video-production",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Activate when the user provides a song (MP3 plus lyrics) and requests a music video. Executes the lyric-analysis \u2192 clip-sourcing \u2192 beat-sync \u2192 polish \u2192 export pipeline using Gemini as creative director and CapCut for editing. Supports Track A (no-code, free tools) and Track B (automated Python/yt-dlp). Optionally invokes script-to-film-production for original generative footage instead of sourced clips."
+    },
+    {
+      "slug": "tsc-partner-onboarding-engineer",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use this mode when: - Implementing partner onboarding portal after specs are approved - User asks \"build the EDI vendor onboarding system\" - Working on validation rules, test data generation, self-service workflows - Creating upload/validate flows, error handling, help documentation - Implementin..."
+    }
+  ],
+  "primary_accountable": [
+    "boomer-business-buyout-engine",
+    "character_reference_plan",
+    "finance-ar-collections-prioritization",
+    "finance-balance-sheet-analyst",
+    "finance-billing-dispute-analysis",
+    "finance-cash-management-analyst",
+    "finance-close-readiness-assessment",
+    "finance-covenant-compliance-check",
+    "finance-management-reporting-pack",
+    "finance-revenue-close-tie-out",
+    "finance-strategic-planning",
+    "finance-tax-data-readiness",
+    "finance-variance-commentary-draft",
+    "finance-vendor-master-change-validation",
+    "finance-working-capital-action-plan",
+    "ibm-sales-scale-043",
+    "line-function-presentation-strategist",
+    "pitch-master",
+    "startup-builder-architect",
+    "startups-fundraising-strategist"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

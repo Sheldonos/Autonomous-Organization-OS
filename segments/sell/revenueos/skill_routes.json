@@ -1,0 +1,1099 @@
+{
+  "schema_version": "2.0",
+  "pocket": "revenueos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 126,
+  "skills": [
+    {
+      "slug": "sales-close-to-delivery-transition",
+      "score": 96,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Close To Delivery Transition** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-close-to-delivery-transition`, `close-to-delivery-transition`, or the corresponding professional workflow: close-to-delivery-transition-and-expansion | decide whether exit criteria, success metrics, governance, funding, and delivery readiness support signature and later expansion | hand off signed scope, assumptions, risks, success plan, and relationship context to delivery, customer success, support, and account management"
+    },
+    {
+      "slug": "sales-seller-intelligence-mcp-integration",
+      "score": 95,
+      "domain": "sales",
+      "description": "Connect IBM Bob sales skills to the five-MCP seller intelligence stack \u2014 Firecrawl (web research), SEC Intelligence (10-K/10-Q/8-K filings), Lead Enrichment (accounts, executives, personas), CRM (ownership, opportunities, activity), and PostgreSQL (evidence persistence). Use when any revenue skill needs live research, filing analysis, contact enrichment, account validation, or durable evidence storage."
+    },
+    {
+      "slug": "revenue-expansion-signal-qualification",
+      "score": 93,
+      "domain": "shared-execution",
+      "description": "Qualify expansion signals and draft accountable account follow-up. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "revenue-renewal-risk-assessment",
+      "score": 93,
+      "domain": "shared-execution",
+      "description": "Assess renewal risk using adoption, service, commercial, and stakeholder evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "marketing-account-based-signal-qualification",
+      "score": 90,
+      "domain": "marketing",
+      "description": "Qualify account-based engagement signals for accountable seller or marketer follow-up. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-lead-quality-review",
+      "score": 90,
+      "domain": "marketing",
+      "description": "Review lead-quality evidence, routing outcomes, and data-completeness gaps. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Demand Operations Capability Director."
+    },
+    {
+      "slug": "marketing-partner-marketing-readiness",
+      "score": 90,
+      "domain": "marketing",
+      "description": "Assess partner-marketing readiness, co-branding rules, lead handling, and obligations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Partner Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-event-strategy-operations",
+      "score": 88,
+      "domain": "marketing",
+      "description": "Design and operate business events from objectives through attendee experience, pipeline/value capture and post-event learning. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "sales-account-intelligence",
+      "score": 87,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Account Intelligence** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-account-intelligence`, `account-intelligence`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "sales-bid-no-bid",
+      "score": 87,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Bid No Bid** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-bid-no-bid`, `bid-no-bid`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "sales-icp-segmentation",
+      "score": 87,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Icp Segmentation** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-icp-segmentation`, `icp-segmentation`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "marketing-competitive-message-synthesis",
+      "score": 85,
+      "domain": "marketing",
+      "description": "Synthesize approved competitive evidence into a reviewed messaging brief. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Market Intelligence and Messaging Capability Director."
+    },
+    {
+      "slug": "marketing-market-research-synthesis",
+      "score": 85,
+      "domain": "marketing",
+      "description": "Synthesize market-research evidence with source authority and limitations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Market Intelligence and Messaging Capability Director."
+    },
+    {
+      "slug": "sales-stakeholder-mapping",
+      "score": 85,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Stakeholder Mapping** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-stakeholder-mapping`, `stakeholder-mapping`, or the corresponding professional workflow: stakeholder-and-power-mapping | decide economic buyer, technical buyer, users, procurement, legal, security, champion, detractor, and influence paths | hand off stakeholder map and engagement plan to account team, executives, partners, and customer success"
+    },
+    {
+      "slug": "marketing-customer-advocacy-qualification",
+      "score": 82,
+      "domain": "marketing",
+      "description": "Qualify advocacy candidates with consent, relationship, and content approval evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Customer Advocacy Capability Director."
+    },
+    {
+      "slug": "revenue-account-health-scorecard",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Produce an account-health scorecard with evidence, uncertainty, and owner actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-account-plan-preparation",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Prepare evidence-backed account plans, stakeholder hypotheses, and growth priorities. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "revenue-adoption-analysis",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Analyze customer adoption evidence and route accountable enablement actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-churn-root-cause-analysis",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Analyze churn drivers using validated customer, product, service, and commercial evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-deal-desk-review-pack",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Compile deal-desk review evidence for pricing, terms, risk, and approvals. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "revenue-forecast-rollup-exception",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Analyze forecast rollup exceptions, missing evidence, and confidence gaps. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-lead-routing-quality-check",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Validate lead-routing records against territory, consent, and service-level rules. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-opportunity-qualification",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Qualify opportunities against approved stages, evidence, and next-step standards. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "revenue-pipeline-hygiene-review",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Identify pipeline record quality gaps and draft owner remediation actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-pricing-exception-preparation",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Prepare a pricing exception case with policy, economics, and approver evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "revenue-qbr-pack-preparation",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Prepare a quarterly business review packet with agreed metrics and source references. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-quote-policy-compliance",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Check quote configuration against approved pricing and commercial policy. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "revenue-stakeholder-map-preparation",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Prepare stakeholder maps from approved relationship and interaction evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "tls-customer-success-expansion-agent",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires customer retention, expansion, and lifetime value optimization for TLS account growth, especially when the user expects the work product of a customer success manager or account expansion specialist."
+    },
+    {
+      "slug": "sales-competitive-strategy",
+      "score": 81,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Competitive Strategy** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-competitive-strategy`, `competitive-strategy`, or the corresponding professional workflow: competitive-and-risk-strategy | decide differentiation, competitive posture, red-team risks, win themes, and claims that can be substantiated | hand off battlecard and risk register to account leadership, product marketing, executives, and bid team"
+    },
+    {
+      "slug": "sales-opportunity-qualification",
+      "score": 81,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Opportunity Qualification** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-opportunity-qualification`, `opportunity-qualification`, or the corresponding professional workflow: opportunity-qualification-and-stage-governance | decide pursue, nurture, disqualify, or no-bid using evidence for need, access, timing, competition, budget, and decision process | hand off stage evidence and forecast recommendation to sales leadership and revenue operations"
+    },
+    {
+      "slug": "sales-stage-governance",
+      "score": 81,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Stage Governance** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-stage-governance`, `stage-governance`, or the corresponding professional workflow: opportunity-qualification-and-stage-governance | decide pursue, nurture, disqualify, or no-bid using evidence for need, access, timing, competition, budget, and decision process | hand off stage evidence and forecast recommendation to sales leadership and revenue operations"
+    },
+    {
+      "slug": "marketing-attribution-explanation-pack",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Prepare an attribution explanation with method, assumptions, and decision limits. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Measurement Capability Director."
+    },
+    {
+      "slug": "marketing-audience-segmentation-review",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Review audience segmentation logic for eligibility, consent, and data-quality controls. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-brand-compliance-review",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Review assets for approved brand standards, mandatory disclosures, and deviations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "marketing-budget-pacing-analysis",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Analyze campaign budget pacing against approved plan and performance evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-campaign-brief-preparation",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Prepare a campaign brief with audience, objective, constraints, and measurement plan. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-campaign-launch-readiness",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Assess campaign launch readiness, approvals, tracking, assets, and rollback steps. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-channel-performance-synthesis",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Synthesize channel performance with attribution caveats and actionable hypotheses. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Measurement Capability Director."
+    },
+    {
+      "slug": "marketing-consent-eligibility-check",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Check communication eligibility against consent, preference, and jurisdiction rules. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-content-claims-review",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Compile content claims, evidence, and required approver review. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "marketing-content-reuse-eligibility",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Assess whether content can be reused by checking rights, freshness, claims, and audience fit. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "marketing-demand-generation-strategist",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Demand Generation Strategist role: demand generation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-distribution-strategy",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Develop audience, positioning, publicity, festival, sales and delivery strategies tied to rights, evidence and project maturity."
+    },
+    {
+      "slug": "marketing-event-readiness-checklist",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Prepare event readiness checklist across audience, content, logistics, consent, and follow-up. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Field and Event Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-executive-communication-draft",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Draft executive communication using approved facts, audience requirements, and review routing. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Executive Communications Capability Director."
+    },
+    {
+      "slug": "marketing-marketing-operations-data-quality",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Identify marketing-operations data issues and route owner remediation tasks. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Demand Operations Capability Director."
+    },
+    {
+      "slug": "marketing-nurture-journey-quality-check",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Validate nurture-journey logic for consent, sequencing, personalization, and stop rules. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-paid-media-anomaly-review",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Review paid-media delivery anomalies, spend variance, and escalation evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Measurement Capability Director."
+    },
+    {
+      "slug": "marketing-pr-issue-triage",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Triage potential public-relations issues and prepare controlled communication options. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Communications Risk Capability Director."
+    },
+    {
+      "slug": "marketing-seo-content-brief",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Prepare SEO content brief using approved keyword, audience, and brand evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Digital Content Operations Capability Director."
+    },
+    {
+      "slug": "marketing-social-risk-monitoring",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Monitor approved social signals and open controlled reputational-risk cases. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Communications Risk Capability Director."
+    },
+    {
+      "slug": "marketing-webinar-follow-up-preparation",
+      "score": 79,
+      "domain": "marketing",
+      "description": "Prepare compliant webinar follow-up segments, content, and owner actions. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Field and Event Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-account-based-marketing-specialist",
+      "score": 76,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Account-Based Marketing Specialist role: account-based marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-growth-marketing-strategist",
+      "score": 76,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Growth Marketing Strategist role: growth marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-pipeline-analyst",
+      "score": 76,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Pipeline Analyst role: pipeline; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-sales-capacity-analyst",
+      "score": 76,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Sales Capacity Analyst role: sales capacity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-sales-compensation-analyst",
+      "score": 76,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Sales Compensation Analyst role: sales compensation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-renewal-management",
+      "score": 76,
+      "domain": "sales",
+      "description": "Own evidence-backed renewal planning from value realization through commercial close and risk mitigation. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "customer-service-customer-save-case-preparation",
+      "score": 74,
+      "domain": "customer-success",
+      "description": "Prepare a customer-save case using validated service and relationship evidence. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Customer Retention Support Capability Director."
+    },
+    {
+      "slug": "customer-service-entitlement-validation",
+      "score": 74,
+      "domain": "customer-success",
+      "description": "Validate service entitlement against contract, product, and account evidence. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Entitlement and Remedy Operations Capability Director."
+    },
+    {
+      "slug": "customer-success-expansion-specialist",
+      "score": 74,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Expansion Specialist role: expansion; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-renewal-specialist",
+      "score": 74,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Renewal Specialist role: renewal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-technical-account-manager",
+      "score": 74,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Technical Account Manager role: technical account; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-customer-onboarding-readiness",
+      "score": 74,
+      "domain": "shared-execution",
+      "description": "Assess customer onboarding prerequisites, commitments, and unresolved dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "ibm-exp-tss-001",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Activate this mode for renewal pipeline forecasting within IBM BOB's expansion and renewal lane. Use it when the seller needs the work product of renewal manager, customer success manager, expansion seller, especially when the task should reduce manual research, analysis, writing, coordination, r..."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-renewal-risk-route",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Route validated renewal risk signals to the accountable account/CSM team with evidence, owner, timing, and permitted mitigation planning. Use when the IBM Sales control mode selects capability `customer-success.renewal-risk-route` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "revenue-contract-handoff-readiness",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Assess contract handoff completeness for delivery, billing, and customer success teams. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-customer-commitment-tracker",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Track material customer commitments, owners, due dates, and escalation risk. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-customer-escalation-coordination",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Coordinate a customer escalation case, evidence set, action owners, and communications draft. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Escalation Management Capability Director."
+    },
+    {
+      "slug": "revenue-incentive-exception-review",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Review sales-incentive exception evidence for authorized compensation processing. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-reference-candidate-qualification",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Qualify customer reference candidates against consent, relationship, and eligibility criteria. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Advocacy Capability Director."
+    },
+    {
+      "slug": "revenue-rfp-response-evidence",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Compile RFP response evidence, source citations, and review dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal Enablement Capability Director."
+    },
+    {
+      "slug": "revenue-sales-activity-capture-review",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Review sales activity capture completeness and data-quality remediation needs. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-territory-coverage-analysis",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Analyze account and rep coverage gaps against approved territory design. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-win-loss-synthesis",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Synthesize win/loss evidence into controlled insights and follow-up hypotheses. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "sales-account-planner",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Account Planner role: account; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-account-researcher",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Account Researcher role: account; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-account-signal-analyst",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Account Signal Analyst role: account signal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-account-strategist",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Account Strategist role: account; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-account-technical-leader",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Account Technical Leader role: account technical leader; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-chief-revenue-officer-advisor",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Chief Revenue Officer Advisor role: chief revenue officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-expansion-opportunity-analyst",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Expansion Opportunity Analyst role: expansion opportunity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-expansion-strategist",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Expansion Strategist role: expansion; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-lead-discovery-specialist",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Lead Discovery Specialist role: lead discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-lead-qualification-analyst",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Lead Qualification Analyst role: lead qualification; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-renewal-strategist",
+      "score": 70,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Renewal Strategist role: renewal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-operations-engagement-closeout",
+      "score": 69,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Engagement Closeout** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-engagement-closeout`, `engagement-closeout`, or the corresponding professional workflow: engagement-closeout-and-renewal | decide acceptance, outstanding obligations, final billing, asset/credential return, data disposition, benefits review, reference permission, and follow-on opportunity | handoff from engagement manager to client sponsor, finance, legal/security, account lead, and practice leadership"
+    },
+    {
+      "slug": "marketing-campaign-orchestration",
+      "score": 68,
+      "domain": "marketing",
+      "description": "Plan, execute and measure integrated campaigns with channel, audience, content, budget and attribution discipline. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "marketing-customer-researcher",
+      "score": 68,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Customer Researcher role: customer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-market-research-analyst",
+      "score": 68,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-positioning-strategist",
+      "score": 68,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Positioning Strategist role: positioning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-revenue-intelligence-analyst",
+      "score": 68,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Revenue Intelligence Analyst role: revenue intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-customer-onboarding-specialist",
+      "score": 66,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Customer Onboarding Specialist role: customer onboarding; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "b2b-lead-intelligence-generator",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Generate comprehensive B2B lead databases with deep intelligence including decision maker contacts, pain points, solution matching, ROI projections, and revenue potential. Use when prospecting for B2B sales, building lead lists, conducting market research, creating sales intelligence databases, preparing for outreach campaigns, or when a user requests lead generation with detailed business intelligence."
+    },
+    {
+      "slug": "ibm-bob-lead-intelligence",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Generate comprehensive B2B lead databases with deep intelligence including decision maker contacts, pain points, IBM Automation solution mapping, ROI projections, and revenue potential. Use when prospecting for B2B sales, building lead lists, conducting market research, creating sales intelligence databases, preparing for outreach campaigns, or when a user requests lead generation with detailed business intelligence for IBM Project Bob."
+    },
+    {
+      "slug": "marketing-ad-copywriter",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Ad Copywriter role: ad copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-ad-creative-strategist",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Ad Creative Strategist role: ad creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-advertising-strategist",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Advertising Strategist role: advertising; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-analytics-specialist",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Analytics Specialist role: marketing analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-audience-segmentation-analyst",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Audience Segmentation Analyst role: audience segmentation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-automation-specialist",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Automation Specialist role: marketing automation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-b2b-copywriter",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the B2B Copywriter role: b2b copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-brand-strategist",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Brand Strategist role: brand; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-brand-voice-specialist",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Brand Voice Specialist role: brand voice; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-campaign-analyst",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Campaign Analyst role: campaign; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-campaign-planner",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Campaign Planner role: campaign; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-chief-marketing-officer-advisor",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Chief Marketing Officer Advisor role: chief marketing officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-competitive-marketing-analyst",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Competitive Marketing Analyst role: competitive marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-planner",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content Planner role: content; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-seo-specialist",
+      "score": 65,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content SEO Specialist role: content seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-forecasting-analyst",
+      "score": 65,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Forecasting Analyst role: forecasting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-sales-000",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "The singular IBM Sales orchestration control mode. Routes all seller requests through a governed execution plan \u2014 account intelligence, discovery, qualification, pipeline strategy, value engineering, proposal, negotiation, close, and adoption. Enforces human approval gates before any external write, CRM update, pricing commitment, or outreach. Use as the front door for all IBM Sales work."
+    },
+    {
+      "slug": "local-lead-blitz",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "A complete, end-to-end workflow for generating hyper-local, qualified sales leads for digital marketing services. Use when a user asks to generate leads for a specific city, especially for website development, AI/automation services, or culturally-specific businesses. This skill automates market research, parallel lead generation, data compilation, and the creation of sales-ready deliverables like Excel workbooks, PDF reports, and a unified Markdown sales playbook."
+    },
+    {
+      "slug": "ibm-career-sales-technology-sales-leader",
+      "score": 59,
+      "domain": "sales",
+      "description": "IBM-aligned Technology Sales Leader specialist. Use for Sales work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-sales-ext-data-semantic-metric",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Define and version business metrics, sales stages, pipeline terms, forecast labels, and health indicators so agents do not invent local meanings. Use when the IBM Sales control mode selects capability `data-knowledge.semantic-metric` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-ops-capacity-coverage",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Produce an aggregated, privacy-aware analysis of account coverage, role capacity, specialist demand, and workflow backlog for operating planning. Use when the IBM Sales control mode selects capability `sales-operations.capacity-coverage` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-partner-cosell-plan",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Produce a governed partner co-sell plan that clarifies account scope, role, joint value hypothesis, information-sharing boundary, and owner actions. Use when the IBM Sales control mode selects capability `partner-marketing.partner-cosell-plan` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-072",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Identify expansion hypotheses from approved value, adoption, account, and whitespace evidence with transparent confidence and validation questions. Use when IBM Sales selects `close.expansion-opportunity` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-role-workflow-cartographer",
+      "score": 52,
+      "domain": "shared-execution",
+      "description": "Interactively map a seller, sales leader, operations, technical-sales, partner, or customer-success role into real workflows, decisions, systems, data, bottlenecks, and automation opportunities. Use during onboarding, role changes, unclear process discovery, workflow redesign, or before recommending IBM Sales automation."
+    },
+    {
+      "slug": "enterprise-sales-playbook",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "A strategic framework for executing complex enterprise sales cycles, from initial account intelligence to value proposition design and C-level proposal delivery. Use for developing account penetration strategies, building strategic customer presentations, and managing multi-stakeholder sales campaigns."
+    },
+    {
+      "slug": "ibm-sales-agentic-orchestration",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "Design, configure, deploy, and operate a governed IBM Sales multi-agent package that connects IBM Bob, watsonx.ai, watsonx Orchestrate, and watsonx.governance. Use for seller onboarding, account research, opportunity execution, sales workflow automation, agent routing, sensitive sales-data handling, IBM Sales dashboards, and enterprise-scale operating design."
+    },
+    {
+      "slug": "eos-customer-expansion",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "Eos Customer Expansion for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-renewal-risk",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "Eos Renewal Risk for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-success-plan-govern",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "Prepare a shared success-plan draft with customer goals, owner roles, milestones, dependencies, risk, measurement, and review cadence. Use when the IBM Sales control mode selects capability `customer-success.success-plan-govern` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "demand-architect",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "A strategic framework for engineering demand by creating the cultural, behavioral, and infrastructural conditions that make a product necessary. This skill, reverse-engineered from the Michelin Guide's marketing strategy, provides a playbook for building long-term, defensible moats around a product by creating a Trojan Horse of value. Use when launching a new product, entering a commoditized market, or seeking to build a brand with lasting cultural relevance."
+    },
+    {
+      "slug": "eos-demand-generation",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Demand Generation for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-evidence-freshness-monitor",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Determine whether evidence remains current enough for the intended internal, customer, commercial, technical, or forecast use. Use when the IBM Sales control mode selects capability `evidence-quality.freshness-monitor` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-onboarding-value-data-audit",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Audit whether IBM Sales agentic workflows are appropriate for a seller, team, or sales operation; identify benefit hypotheses, process and data readiness, governance gaps, and data-lake opportunities. Use for first onboarding, pilot prioritization, program expansion, data-readiness assessment, or a request to determine whether the package will improve a user\u2019s work."
+    },
+    {
+      "slug": "ibm-sales-scale-001",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Segment an approved territory into prioritized coverage cohorts using authoritative account assignments, market criteria, capacity rules, and explicit uncertainty labels. Use when IBM Sales selects `plan.territory-account.segment` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-004",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Map a customer account hierarchy, subsidiaries, business units, parent relationships, and ownership conflicts from authorized sources with lineage and effective dates. Use when IBM Sales selects `plan.territory-account.hierarchy-map` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-013",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Research industry trends relevant to an account using permitted sources, publication dates, source authority, and explicit differentiation between market context and account-specific facts. Use when IBM Sales selects `research.industry-trend-scan` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "eos-account-planning",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Account Planning for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-expansion-management",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Expansion Management for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-lead-qualification",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Lead Qualification for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-pipeline-management",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Pipeline Management for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-renewal-management",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Renewal Management for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-data-retention-lineage",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Apply retention, legal-hold, deletion, and lineage rules to artifacts, evidence references, uploads, indexes, caches, logs, and dashboard projections. Use when the IBM Sales control mode selects capability `data-knowledge.retention-lineage` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-data-source-catalog",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Maintain a governed inventory of sales data sources, owners, classifications, purposes, access paths, semantic definitions, and retention rules. Use when the IBM Sales control mode selects capability `data-knowledge.source-catalog` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-identity-delegation-expiry",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Manage explicit temporary delegation for defined account, action, and time scope, including automatic expiry and audit. Use when the IBM Sales control mode selects capability `identity-access.delegation-expiry` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-identity-territory-scope-validate",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Resolve time-bounded seller, overlay, account-team, segment, and geographic scope for a requested work item. Use when the IBM Sales control mode selects capability `identity-access.territory-scope-validate` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-marketing-attribution-review",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Produce a transparent attribution analysis for approved campaign, partner, and seller interactions using defined metric semantics and caveats. Use when the IBM Sales control mode selects capability `partner-marketing.attribution-review` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-marketing-campaign-event",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Convert approved campaign or event signals into seller-relevant internal follow-up recommendations with consent, attribution, and timing controls. Use when the IBM Sales control mode selects capability `partner-marketing.campaign-event` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-ops-forecast-evidence",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Prepare a transparent forecast-evidence packet from approved opportunity data, stage definitions, next actions, assumptions, and risk signals. Use when the IBM Sales control mode selects capability `sales-operations.forecast-evidence` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-ops-pipeline-governance",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Evaluate pipeline workflow health, stage hygiene, aging, next-step evidence, owner accountability, and systemic bottlenecks for operational review. Use when the IBM Sales control mode selects capability `sales-operations.pipeline-governance` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-ops-territory-quota-change",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Assess operational impacts of authoritative territory, coverage, overlay, quota-cycle, or account-assignment changes and update dependent workflow scope requests. Use when the IBM Sales control mode selects capability `sales-operations.territory-quota-change` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-partner-alliance-governance",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Validate alliance program rules, partner authorization, deal registration status, incentive boundaries, and escalation routes before joint action. Use when the IBM Sales control mode selects capability `partner-marketing.alliance-governance` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-002",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Identify coverage gaps across accounts, personas, opportunities, technical overlays, and partner participation without converting incomplete data into a staffing recommendation. Use when IBM Sales selects `plan.territory-account.coverage-gap` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-003",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Produce an evidence-backed whitespace hypothesis list by comparing permitted account context, installed footprint, strategic priorities, and seller capacity. Use when IBM Sales selects `plan.territory-account.whitespace-prioritize` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-005",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Create a buying-center map that distinguishes verified stakeholders, role hypotheses, influence assumptions, decision rights, and missing relationships. Use when IBM Sales selects `plan.territory-account.buying-center-map` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-006",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Prepare an executive-sponsor engagement brief with approved account context, strategic relevance, desired decision, risks, and a named seller/account-team owner. Use when IBM Sales selects `plan.territory-account.executive-sponsor` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-007",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Reconcile approved installed-base and entitlement signals for account planning while preserving product/version/source uncertainty and restricted data boundaries. Use when IBM Sales selects `plan.territory-account.installed-base` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-008",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Map approved partners, alliance status, partner roles, deal-registration context, and co-sell opportunities for an account. Use when IBM Sales selects `plan.territory-account.partner-landscape` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-009",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Design a recurring account-team operating rhythm with meetings, decision forums, artifact cadence, owner roles, escalation rules, and measurable hygiene checks. Use when IBM Sales selects `plan.territory-account.operating-rhythm` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-010",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Quality-review a strategic account plan for evidence, owner coverage, decision clarity, dependencies, risk, and measurable next steps. Use when IBM Sales selects `plan.territory-account.plan-review` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-011",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Coordinate a complex-deal war-room packet that consolidates validated deal facts, decision blockers, dependencies, risks, stakeholders, and next owner actions. Use when IBM Sales selects `plan.territory-account.deal-war-room` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-012",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Coordinate global-account planning across regions while preserving regional account rights, data residency, language, commercial, and local-delivery boundaries. Use when IBM Sales selects `plan.territory-account.global-coordinate` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-015",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Track validated business initiatives, transformation programs, leadership statements, and strategic priorities for an account with a freshness and evidence register. Use when IBM Sales selects `research.business-initiative-track` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-016",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Build an account technology-landscape hypothesis using approved technical sources, discovery evidence, and source-confidence labels. Use when IBM Sales selects `research.technology-landscape` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-020",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Extract and cite permitted public filing statements relevant to an account research question with exact period, issuer, and section provenance. Use when IBM Sales selects `research.public-filing-evidence` for an authorized work item with the necessary source, policy, and owner controls."
+    }
+  ],
+  "primary_accountable": [
+    "eos-account-planning",
+    "eos-customer-expansion",
+    "eos-demand-generation",
+    "eos-expansion-management",
+    "eos-pipeline-management",
+    "eos-renewal-management",
+    "ibm-aes-line-function-presenter",
+    "ibm-bob-requirements-orchestrator",
+    "ibm-exp-tss-001",
+    "ibm-presales-demo-builder",
+    "ibm-sales-ext-customer-renewal-risk-route",
+    "ibm-sales-ext-customer-success-plan-govern",
+    "ibm-sales-ext-data-semantic-metric",
+    "ibm-sales-ext-data-source-catalog",
+    "ibm-sales-ext-identity-delegation-expiry",
+    "ibm-sales-ext-identity-territory-scope-validate",
+    "ibm-sales-ext-ops-capacity-coverage",
+    "ibm-sales-ext-ops-pipeline-governance",
+    "ibm-sales-ext-ops-territory-quota-change",
+    "ibm-sales-onboarding-value-data-audit",
+    "ibm-sales-scale-001",
+    "ibm-sales-scale-003",
+    "ibm-sales-scale-004",
+    "ibm-sales-scale-005",
+    "ibm-sales-scale-006",
+    "ibm-sales-scale-007",
+    "ibm-sales-scale-009",
+    "ibm-sales-scale-010",
+    "ibm-sales-scale-012",
+    "ibm-sales-scale-013",
+    "ibm-sales-scale-016",
+    "ibm-sales-scale-020",
+    "local-lead-blitz",
+    "marketing-account-based-marketing-specialist",
+    "marketing-account-based-signal-qualification",
+    "marketing-ad-copywriter",
+    "marketing-ad-creative-strategist",
+    "marketing-advertising-strategist",
+    "marketing-analytics-specialist",
+    "marketing-audience-segmentation-analyst",
+    "marketing-audience-segmentation-review",
+    "marketing-automation-specialist",
+    "marketing-b2b-copywriter",
+    "marketing-brand-compliance-review",
+    "marketing-brand-strategist",
+    "marketing-brand-voice-specialist",
+    "marketing-campaign-analyst",
+    "marketing-campaign-planner",
+    "marketing-chief-marketing-officer-advisor",
+    "marketing-competitive-marketing-analyst",
+    "marketing-competitive-message-synthesis",
+    "marketing-consent-eligibility-check",
+    "marketing-content-claims-review",
+    "marketing-content-planner",
+    "marketing-content-reuse-eligibility",
+    "marketing-content-seo-specialist",
+    "marketing-conversion-optimization-specialist",
+    "marketing-copywriter",
+    "marketing-customer-advocacy-qualification",
+    "marketing-customer-researcher",
+    "marketing-demand-generation-strategist",
+    "marketing-distribution-strategy",
+    "marketing-email-marketing-specialist",
+    "marketing-event-marketing-strategist",
+    "marketing-event-readiness-checklist",
+    "marketing-event-strategy-operations",
+    "marketing-executive-communication-draft",
+    "marketing-growth-marketing-strategist",
+    "marketing-keyword-researcher",
+    "marketing-landing-page-copywriter",
+    "marketing-launch-marketing-strategist",
+    "marketing-lead-quality-review",
+    "marketing-lifecycle-marketing-specialist",
+    "marketing-market-research-analyst",
+    "marketing-market-research-synthesis",
+    "marketing-marketing-operations-data-quality",
+    "marketing-nurture-journey-quality-check",
+    "marketing-orchestrator",
+    "marketing-paid-search-specialist",
+    "marketing-partner-marketing-readiness",
+    "marketing-performance-marketing-analyst",
+    "marketing-persona-researcher",
+    "marketing-positioning-strategist",
+    "marketing-pr-issue-triage",
+    "marketing-quality-reviewer",
+    "marketing-seo-content-brief",
+    "marketing-seo-strategist",
+    "marketing-social-risk-monitoring",
+    "marketing-strategist",
+    "marketing-technical-copywriter",
+    "marketing-technical-seo-analyst",
+    "marketing-webinar-follow-up-preparation",
+    "revenue-account-health-scorecard",
+    "revenue-account-plan-preparation",
+    "revenue-adoption-analysis",
+    "revenue-churn-root-cause-analysis",
+    "revenue-customer-commitment-tracker",
+    "revenue-customer-escalation-coordination",
+    "revenue-customer-onboarding-readiness",
+    "revenue-deal-desk-review-pack",
+    "revenue-expansion-signal-qualification",
+    "revenue-forecast-rollup-exception",
+    "revenue-incentive-exception-review",
+    "revenue-lead-routing-quality-check",
+    "revenue-operations-pipeline-analyst",
+    "revenue-operations-sales-capacity-analyst",
+    "revenue-operations-sales-compensation-analyst",
+    "revenue-pipeline-hygiene-review",
+    "revenue-qbr-pack-preparation",
+    "revenue-quote-policy-compliance",
+    "revenue-reference-candidate-qualification",
+    "revenue-renewal-risk-assessment",
+    "revenue-rfp-response-evidence",
+    "revenue-sales-activity-capture-review",
+    "revenue-stakeholder-map-preparation",
+    "revenue-territory-coverage-analysis",
+    "revenue-win-loss-synthesis",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-close-to-delivery-transition",
+    "sales-competitive-strategy",
+    "sales-expansion-strategist",
+    "sales-icp-segmentation",
+    "sales-renewal-strategist",
+    "sales-stakeholder-mapping",
+    "tls-customer-success-expansion-agent"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

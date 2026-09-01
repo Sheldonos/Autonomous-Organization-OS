@@ -1,0 +1,27 @@
+{
+  "pocket": "consultingos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-047",
+    "ibm-des-cp-001",
+    "ibm-fw-004",
+    "ibm-fw-003",
+    "ibm-pre-sa-001",
+    "product-customer-problem-discovery",
+    "sales-discovery-problem-framing",
+    "ibm-career-consulting-business-transformation-consultant",
+    "eos-solution-development",
+    "rspkt-web-designer",
+    "cio-cio-operating-model-design",
+    "ibm-cloud-operations-agent",
+    "ibm-i-sql-operations-agent",
+    "ibm-sales-scale-028",
+    "ibm-sales-scale-050",
+    "ibm-sales-scale-054",
+    "tsc-requirements-refiner",
+    "tsc-solution-architect",
+    "tsc-technical-spec-writer",
+    "advanced-web-developer"
+  ]
+}

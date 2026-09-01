@@ -1,0 +1,27 @@
+{
+  "pocket": "universityos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-coordinate-accommodations",
+    "education-manage-credentials-records",
+    "education-assessment-designer",
+    "education-assessment-reviewer",
+    "ibm-sales-onboarding-value-data-audit",
+    "assessment-checkpoint",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "assessment-builder",
+    "education-assure-program-quality",
+    "education-course-designer",
+    "education-student-progress-analyst",
+    "education-analyze-learning-needs",
+    "education-manage-learner-intake",
+    "education-support-career-transition",
+    "education-facilitate-instruction",
+    "education-map-occupational-competencies",
+    "education-monitor-learner-progress",
+    "education-adaptive-learning-specialist",
+    "education-develop-learning-content"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "innovationos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cio-technology-exception-management",
+    "cio-technology-risk-register",
+    "cio-technology-policy-management",
+    "cio-technology-compliance-posture",
+    "cio-technology-control-mapping",
+    "cio-technology-governance-committee",
+    "cio-technology-vendor-evaluation",
+    "product-requirements-traceability",
+    "ai-engineering-agent-evaluation-specialist",
+    "ai-engineering-llm-evaluation-specialist",
+    "ai-engineering-model-evaluation-engineer",
+    "data-strategy-data-quality-scorecard",
+    "cio-data-protection-strategy",
+    "cio-technology-concentration-risk",
+    "cio-technology-vendor-risk",
+    "cio-zero-trust-strategy",
+    "product-experiment-design",
+    "product-prototype-validation",
+    "product-product-analytics",
+    "engineering-code-review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "brandos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-channel-performance-synthesis",
+    "marketing-attribution-explanation-pack",
+    "marketing-campaign-brief-preparation",
+    "ibm-bob-ads-x",
+    "ibm-bob-ads-reddit",
+    "ibm-bob-ads-youtube",
+    "ibm-bob-ads-pinterest",
+    "ibm-bob-ads-snapchat",
+    "marketing-paid-media-anomaly-review",
+    "marketing-budget-pacing-analysis",
+    "marketing-competitive-message-synthesis",
+    "marketing-market-research-synthesis",
+    "marketing-campaign-launch-readiness",
+    "marketing-brand-compliance-review",
+    "marketing-content-claims-review",
+    "marketing-content-reuse-eligibility",
+    "marketing-account-based-signal-qualification",
+    "marketing-audience-segmentation-review",
+    "marketing-consent-eligibility-check",
+    "marketing-customer-advocacy-qualification"
+  ]
+}

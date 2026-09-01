@@ -1,0 +1,13 @@
+{
+  "pocket": "mediaos",
+  "required_or_optional_classes": [
+    "news_feeds",
+    "cms",
+    "social",
+    "newsletter",
+    "analytics",
+    "ad_platform"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

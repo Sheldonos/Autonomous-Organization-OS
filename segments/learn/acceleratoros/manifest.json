@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "acceleratoros",
+  "title": "AcceleratorOS",
+  "segment": "learn",
+  "mission": "Operate venture or talent accelerators from cohort sourcing through curriculum, mentorship, milestones, demo, and alumni outcomes.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 20,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Program thesis",
+    "Cohort sourcing",
+    "Selection",
+    "Curriculum & mentor matching",
+    "Milestones",
+    "Office hours & interventions",
+    "Demo/placement",
+    "Alumni outcomes"
+  ],
+  "handoffs": [
+    "ventureos",
+    "learningos",
+    "dealos",
+    "fundraiseos"
+  ],
+  "connectors": [
+    "applications",
+    "lms",
+    "crm",
+    "calendar",
+    "analytics"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

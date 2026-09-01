@@ -1,0 +1,27 @@
+{
+  "pocket": "universityos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "education-analyze-learning-needs",
+    "education-support-career-transition",
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "pathway-coach",
+    "government-initiate-government-programmes",
+    "education-assure-program-quality",
+    "education-coordinate-accommodations",
+    "education-manage-credentials-records",
+    "education-course-designer",
+    "education-student-progress-analyst",
+    "education-manage-learner-intake",
+    "education-facilitate-instruction",
+    "education-map-occupational-competencies",
+    "education-monitor-learner-progress",
+    "education-adaptive-learning-specialist",
+    "education-assessment-designer",
+    "education-assessment-reviewer"
+  ]
+}

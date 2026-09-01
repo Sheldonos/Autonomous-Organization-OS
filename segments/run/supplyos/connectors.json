@@ -1,0 +1,12 @@
+{
+  "pocket": "supplyos",
+  "required_or_optional_classes": [
+    "erp",
+    "wms",
+    "tms",
+    "supplier_network",
+    "analytics"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

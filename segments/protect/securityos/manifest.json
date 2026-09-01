@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "securityos",
+  "title": "SecurityOS",
+  "segment": "protect",
+  "mission": "Continuously reduce cyber risk through asset visibility, detection, investigation, remediation, validation, and governance.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 94,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Asset & identity inventory",
+    "Attack surface & risk",
+    "Detection engineering",
+    "Monitoring",
+    "Investigation",
+    "Containment/remediation",
+    "Validation",
+    "Control evidence & learning"
+  ],
+  "handoffs": [
+    "riskos",
+    "complianceos",
+    "buildos"
+  ],
+  "connectors": [
+    "siem",
+    "edr",
+    "iam",
+    "cloud_security",
+    "vulnerability_scanner",
+    "ticketing"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "id": "procureos",
+  "title": "ProcureOS",
+  "segment": "run",
+  "mission": "Turn internal needs into governed sourcing, competitive procurement, negotiation, purchase, and supplier performance.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 61,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Need & specification",
+    "Spend analysis",
+    "Supplier discovery",
+    "RFI/RFP",
+    "Evaluation",
+    "Risk & negotiation",
+    "Contract & purchase",
+    "Supplier performance",
+    "Renewal"
+  ],
+  "handoffs": [
+    "vendoros",
+    "legalos",
+    "riskos",
+    "supplyos"
+  ],
+  "connectors": [
+    "erp",
+    "procurement_suite",
+    "supplier_data",
+    "document_store",
+    "e_signature"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

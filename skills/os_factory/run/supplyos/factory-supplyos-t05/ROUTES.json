@@ -1,0 +1,27 @@
+{
+  "pocket": "supplyos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "supply-chain-supply-demand-planning",
+    "supply-chain-transportation-management",
+    "operations-supplier-eta-exception",
+    "construction-construction-safety-escalation",
+    "construction-preconstruction-mobilization",
+    "supply-chain-reverse-logistics",
+    "supply-chain-warehouse-operations",
+    "operations-order-promise-readiness",
+    "supply-chain-logistics-analyst",
+    "supply-chain-traceability-recall-response",
+    "operations-logistics-disruption-case",
+    "operations-return-material-authorization-prep",
+    "operations-customs-document-readiness",
+    "supply-chain-order-fulfillment",
+    "operations-maintenance-plan-readiness",
+    "supply-chain-inventory-replenishment",
+    "construction-field-coordination",
+    "construction-quality-inspection-management",
+    "eos-logistics-management",
+    "operations-demand-forecast-exception"
+  ]
+}

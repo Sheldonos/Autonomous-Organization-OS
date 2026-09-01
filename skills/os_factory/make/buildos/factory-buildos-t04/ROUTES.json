@@ -1,0 +1,27 @@
+{
+  "pocket": "buildos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "relentless-developer",
+    "engineering-observability-instrumentation-review",
+    "tsc-technical-spec-writer",
+    "engineering-api-contract-review",
+    "design-prepare-design-handoff",
+    "engineering-database-migration-readiness",
+    "engineering-requirements-traceability-review",
+    "engineering-requirements-traceability",
+    "design-assess-privacy-by-design",
+    "engineering-documentation-coverage-review",
+    "product-requirements-traceability",
+    "engineering-architecture-decision-record",
+    "engineering-backlog-refinement-support",
+    "engineering-developer-environment-readiness",
+    "engineering-developer-productivity-insight",
+    "engineering-issue-backlog-health",
+    "engineering-architecture-decision-recording",
+    "engineering-code-review-preparation",
+    "engineering-open-source-compliance-prep",
+    "engineering-release-readiness-gate"
+  ]
+}

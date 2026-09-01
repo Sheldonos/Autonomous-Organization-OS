@@ -1,0 +1,27 @@
+{
+  "pocket": "launchos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "tls-outreach-execution-agent",
+    "ibm-solution-onepager",
+    "marketing-campaign-launch-readiness",
+    "product-launch-architect",
+    "product-launch-manager",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "ibm-bob-ads-monitor",
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "ibm-bob-ads-launch",
+    "eos-product-launch",
+    "marketing-launch-marketing-strategist",
+    "product-go-to-market-planning",
+    "product-release-readiness-assessment",
+    "product-roadmap-planning",
+    "product-product-analytics",
+    "product-backlog-governance",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance"
+  ]
+}

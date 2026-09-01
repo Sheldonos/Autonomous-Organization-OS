@@ -1,0 +1,59 @@
+{
+  "pocket": "mediaos",
+  "stages": [
+    {
+      "order": 1,
+      "name": "Signal detection",
+      "team_id": "t01",
+      "gate": "assurance"
+    },
+    {
+      "order": 2,
+      "name": "Editorial prioritization",
+      "team_id": "t02",
+      "gate": "assurance"
+    },
+    {
+      "order": 3,
+      "name": "Research & fact check",
+      "team_id": "t03",
+      "gate": "assurance"
+    },
+    {
+      "order": 4,
+      "name": "Story construction",
+      "team_id": "t04",
+      "gate": "assurance"
+    },
+    {
+      "order": 5,
+      "name": "Format adaptation",
+      "team_id": "t05",
+      "gate": "assurance"
+    },
+    {
+      "order": 6,
+      "name": "Publishing",
+      "team_id": "t06",
+      "gate": "assurance"
+    },
+    {
+      "order": 7,
+      "name": "Distribution",
+      "team_id": "t07",
+      "gate": "assurance"
+    },
+    {
+      "order": 8,
+      "name": "Audience analytics",
+      "team_id": "t08",
+      "gate": "assurance"
+    },
+    {
+      "order": 9,
+      "name": "Monetization learning",
+      "team_id": "t09",
+      "gate": "assurance"
+    }
+  ]
+}

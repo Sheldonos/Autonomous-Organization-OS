@@ -1,0 +1,27 @@
+{
+  "pocket": "grantos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "government-manage-grants-lifecycle",
+    "government-control-delivery-baselines",
+    "government-assess-privacy-and-security",
+    "government-public-sector-compliance-reviewer",
+    "government-verify-and-validate-solutions",
+    "government-risk-reviewer",
+    "greenlight",
+    "ibm-sales-scale-059",
+    "government-evaluate-policy-interventions",
+    "government-align-policy-to-outcomes",
+    "government-initiate-government-programmes",
+    "government-plan-public-acquisitions",
+    "government-conduct-stage-gate-assurance",
+    "government-preserve-audit-evidence",
+    "government-measure-benefits-and-performance",
+    "healthcare-cms-quality-measure-reporting",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "ibm-sales-scale-058",
+    "eos-risk-reporting",
+    "ibm-bob-ads-monitor"
+  ]
+}

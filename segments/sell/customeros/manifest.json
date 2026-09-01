@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "customeros",
+  "title": "CustomerOS",
+  "segment": "sell",
+  "mission": "Coordinate customer onboarding, service, success, adoption, retention, renewal, and expansion.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 82,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Customer intake",
+    "Onboarding",
+    "Adoption plan",
+    "Health monitoring",
+    "Support & issue resolution",
+    "Value realization",
+    "Renewal",
+    "Expansion & advocacy"
+  ],
+  "handoffs": [
+    "revenueos",
+    "dealos",
+    "buildos",
+    "customeros"
+  ],
+  "connectors": [
+    "crm",
+    "support_desk",
+    "product_analytics",
+    "billing",
+    "email"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

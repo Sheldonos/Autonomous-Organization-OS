@@ -1,0 +1,27 @@
+{
+  "pocket": "pricingos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ecommerce-pricing-analyst",
+    "revenue-operations-attribution-analyst",
+    "revenue-operations-crm-strategy-specialist",
+    "revenue-operations-forecasting-analyst",
+    "revenue-operations-funnel-analyst",
+    "revenue-operations-orchestrator",
+    "revenue-operations-revenue-intelligence-analyst",
+    "revenue-operations-territory-operations-analyst",
+    "finance-profitability-analysis",
+    "finance-variance-analysis",
+    "ibm-bob-ads-math",
+    "shared-execution-packaging-specialist",
+    "business-development-alliance-management",
+    "cio-it-unit-economics",
+    "eos-unit-economics",
+    "eos-pricing-strategy",
+    "autonomous-cio-orchestrator",
+    "action_state_tracking",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute"
+  ]
+}

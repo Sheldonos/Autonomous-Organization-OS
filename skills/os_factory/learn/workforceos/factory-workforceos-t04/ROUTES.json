@@ -1,0 +1,27 @@
+{
+  "pocket": "workforceos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-learning-development",
+    "people-performance-management",
+    "people-headcount-control-check",
+    "people-requisition-quality-review",
+    "people-workforce-plan-variance",
+    "education-map-occupational-competencies",
+    "education-support-career-transition",
+    "people-benefits-enrollment-readiness",
+    "people-employee-relations-evidence",
+    "people-leave-case-preparation",
+    "people-mobility-case-readiness",
+    "people-onboarding-readiness-assessment",
+    "people-ethics-training-completion-review",
+    "people-accommodation-handoff-preparation",
+    "people-exit-readiness-check",
+    "people-learning-needs-analysis",
+    "education-manage-credentials-records",
+    "people-skill-profile-quality-check",
+    "education-analyze-learning-needs",
+    "education-coordinate-accommodations"
+  ]
+}

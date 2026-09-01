@@ -1,0 +1,27 @@
+{
+  "pocket": "vendoros",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cio-technology-renewal-management",
+    "rights_risk_triage",
+    "temp_track_risk_audit",
+    "enterprise-adapter-contract-engineer",
+    "sales-renewal-management",
+    "procurement-sourcing-event-design",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-monitor-supplier-performance",
+    "procurement-assess-supply-chain-risk",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence",
+    "cio-third-party-cyber-risk",
+    "legal-contract-closeout-records",
+    "supply-chain-supplier-due-diligence",
+    "cio-strategic-supplier-management",
+    "cio-technology-vendor-risk",
+    "eos-renewal-risk",
+    "eos-supplier-onboarding"
+  ]
+}

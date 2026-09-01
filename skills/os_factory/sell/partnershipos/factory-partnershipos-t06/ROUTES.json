@@ -1,0 +1,27 @@
+{
+  "pocket": "partnershipos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "business-development-partner-enablement-specialist",
+    "business-development-alliance-management",
+    "ibm-bob-whiteboard-onepager",
+    "business-development-channel-partner-analyst",
+    "tls-partner-ecosystem-channel-agent",
+    "ibm-sales-scale-008",
+    "business-development-strategic-partnership-analyst",
+    "eos-partner-co-sell",
+    "business-development-alliance-manager",
+    "business-development-channel-strategy-specialist",
+    "business-development-ecosystem-analyst",
+    "business-development-partner-research-specialist",
+    "business-development-partnership-business-case-analyst",
+    "business-development-partnership-due-diligence-analyst",
+    "business-development-partnership-negotiation-specialist",
+    "business-development-partnership-strategist",
+    "business-development-technology-partnership-analyst",
+    "ibm-sales-ext-partner-cosell-plan",
+    "business-development-joint-gtm-strategist",
+    "business-development-orchestrator"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "DealOS 01 - Gmail Inbox Triage",
+  "nodes": [
+    {
+      "parameters": {
+        "pollTimes": {
+          "item": [
+            {
+              "mode": "everyMinute"
+            }
+          ]
+        },
+        "simple": false,
+        "filters": {
+          "readStatus": "unread"
+        }
+      },
+      "id": "gmail-trigger",
+      "name": "Gmail Trigger",
+      "type": "n8n-nodes-base.gmailTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.DEALOS_INTERNAL_URL + \"/events/email\"}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-DealOS-Key",
+              "value": "={{$env.DEALOS_API_KEY}}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "contentType": "raw",
+        "rawContentType": "application/json",
+        "body": "={{ JSON.stringify({ message_id: $json.id, thread_id: $json.threadId, from: $json.from?.value?.[0]?.address || $json.from || \"\", subject: $json.subject || \"\", body_text: $json.textPlain || $json.text || $json.snippet || \"\" }) }}",
+        "options": {}
+      },
+      "id": "core",
+      "name": "DealOS Ingest",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        260,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "resource": "message",
+        "operation": "markAsRead",
+        "messageId": "={{$(\"Gmail Trigger\").item.json.id}}",
+        "options": {}
+      },
+      "id": "read",
+      "name": "Mark Read",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [
+        520,
+        0
+      ]
+    }
+  ],
+  "connections": {
+    "Gmail Trigger": {
+      "main": [
+        [
+          {
+            "node": "DealOS Ingest",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "DealOS Ingest": {
+      "main": [
+        [
+          {
+            "node": "Mark Read",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "versionId": "00000000-0000-0000-0000-000000000001",
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "tags": []
+}

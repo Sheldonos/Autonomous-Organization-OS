@@ -1,0 +1,27 @@
+{
+  "pocket": "consultingos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "code-lab",
+    "agency-operations-delivery-status-control",
+    "ibm-career-consulting-business-transformation-consultant",
+    "data-strategy-model-risk-assessment-prep",
+    "data-strategy-data-product-assessment",
+    "data-strategy-knowledge-refresh-assessment",
+    "eos-benefits-management",
+    "eos-enterprise-dependency-management",
+    "eos-enterprise-portfolio-management",
+    "eos-enterprise-resource-management",
+    "eos-milestone-governance",
+    "eos-program-management",
+    "eos-project-management",
+    "eos-transformation-management",
+    "eos-transformation-risk",
+    "ibm-des-cp-001",
+    "tsc-requirements-refiner",
+    "tsc-solution-architect",
+    "tsc-technical-spec-writer",
+    "game-dev"
+  ]
+}

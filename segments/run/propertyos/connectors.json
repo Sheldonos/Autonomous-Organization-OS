@@ -1,0 +1,12 @@
+{
+  "pocket": "propertyos",
+  "required_or_optional_classes": [
+    "property_data",
+    "finance",
+    "document_store",
+    "work_order",
+    "crm"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

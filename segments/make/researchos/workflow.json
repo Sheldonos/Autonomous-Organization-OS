@@ -1,0 +1,53 @@
+{
+  "pocket": "researchos",
+  "stages": [
+    {
+      "order": 1,
+      "name": "Question decomposition",
+      "team_id": "t01",
+      "gate": "assurance"
+    },
+    {
+      "order": 2,
+      "name": "Source plan",
+      "team_id": "t02",
+      "gate": "assurance"
+    },
+    {
+      "order": 3,
+      "name": "Evidence collection",
+      "team_id": "t03",
+      "gate": "assurance"
+    },
+    {
+      "order": 4,
+      "name": "Source quality & contradiction review",
+      "team_id": "t04",
+      "gate": "assurance"
+    },
+    {
+      "order": 5,
+      "name": "Analysis & modeling",
+      "team_id": "t05",
+      "gate": "assurance"
+    },
+    {
+      "order": 6,
+      "name": "Scenario simulation",
+      "team_id": "t06",
+      "gate": "assurance"
+    },
+    {
+      "order": 7,
+      "name": "Synthesis",
+      "team_id": "t07",
+      "gate": "assurance"
+    },
+    {
+      "order": 8,
+      "name": "Decision packet & provenance",
+      "team_id": "t08",
+      "gate": "assurance"
+    }
+  ]
+}

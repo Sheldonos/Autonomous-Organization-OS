@@ -1,0 +1,27 @@
+{
+  "pocket": "customeros",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "eos-customer-onboarding",
+    "eos-product-adoption",
+    "ibm-sales-role-workflow-cartographer",
+    "eos-value-realization",
+    "eos-case-resolution",
+    "eos-customer-advocacy",
+    "eos-customer-health",
+    "eos-support-intake",
+    "eos-case-classification",
+    "eos-churn-prevention",
+    "eos-customer-support-communication",
+    "eos-support-analytics",
+    "eos-support-escalation",
+    "eos-support-knowledge-management",
+    "eos-support-root-cause-analysis",
+    "eos-support-routing",
+    "eos-support-sla-management",
+    "eos-renewal-risk",
+    "process-customer-to-adoption-to-renewal",
+    "eos-customer-expansion"
+  ]
+}

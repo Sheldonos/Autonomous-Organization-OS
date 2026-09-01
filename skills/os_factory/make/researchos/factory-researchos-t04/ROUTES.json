@@ -1,0 +1,27 @@
+{
+  "pocket": "researchos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "quantum-research-evidence-ledger",
+    "intelligence-collect-source-metadata",
+    "intelligence-discover-public-sources",
+    "intelligence-evaluate-source-credibility",
+    "intelligence-preserve-data-provenance",
+    "research-search-strategy-design",
+    "intelligence-conduct-peer-review",
+    "research-living-review-monitoring",
+    "intelligence-govern-release-and-access",
+    "intelligence-triangulate-and-test-hypotheses",
+    "intelligence-validate-data-quality",
+    "quantum-research-orchestrator",
+    "intelligence-source-verification-analyst",
+    "research-experiment-management",
+    "research-literature-review-specialist",
+    "research-primary-source-analyst",
+    "research-source-credibility-analyst",
+    "enterprise-delta-impact-propagator",
+    "ibm-pre-apm-001",
+    "data-quality-analyst"
+  ]
+}

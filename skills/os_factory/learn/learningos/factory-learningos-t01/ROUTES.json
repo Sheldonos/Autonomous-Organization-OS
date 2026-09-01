@@ -1,0 +1,27 @@
+{
+  "pocket": "learningos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "progress-explainer",
+    "localized-content-delivery",
+    "course-navigation",
+    "learner-feedback-loop",
+    "objective-resource-evidence-builder",
+    "pathway-coach",
+    "portfolio-evidence",
+    "reflection-journal",
+    "remotion-video-generator",
+    "socratic-tutoring",
+    "education-monitor-learner-progress",
+    "education-facilitate-instruction",
+    "education-analyze-learning-needs",
+    "education-assure-program-quality",
+    "education-manage-learner-intake",
+    "education-support-career-transition",
+    "education-learner-modeling-specialist",
+    "content-output-qc",
+    "project-lab",
+    "education-coordinate-accommodations"
+  ]
+}

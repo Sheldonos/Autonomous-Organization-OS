@@ -1,0 +1,27 @@
+{
+  "pocket": "partnershipos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "business-development-alliance-management",
+    "business-development-alliance-manager",
+    "business-development-channel-strategy-specialist",
+    "business-development-ecosystem-analyst",
+    "business-development-orchestrator",
+    "business-development-strategist",
+    "eos-partner-performance",
+    "eos-alliance-management",
+    "eos-partner-discovery",
+    "eos-partner-management",
+    "tsc-test-strategy-engineer",
+    "sales-renewal-management",
+    "sales-integration-architect",
+    "marketing-campaign-orchestration",
+    "eos-partner-co-sell",
+    "sales-seller-intelligence-mcp-integration",
+    "cio-build-buy-partner-decision",
+    "eos-channel-sales",
+    "eos-ecosystem-strategy",
+    "ibm-sales-ext-marketing-campaign-event"
+  ]
+}

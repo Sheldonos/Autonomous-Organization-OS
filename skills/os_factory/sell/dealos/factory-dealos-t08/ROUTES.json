@@ -1,0 +1,27 @@
+{
+  "pocket": "dealos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "sales-close-to-delivery-transition",
+    "sales-expansion-opportunity-analyst",
+    "revenue-contract-handoff-readiness",
+    "sales-expansion-strategist",
+    "ibm-sales-scale-072",
+    "sales-seller-intelligence-mcp-integration",
+    "revenue-expansion-signal-qualification",
+    "revenue-reference-candidate-qualification",
+    "ibm-sales-000",
+    "ibm-sales-scale-023",
+    "agency-operations-engagement-closeout",
+    "revenue-stakeholder-map-preparation",
+    "sales-contract-approval",
+    "sales-opportunity-qualification",
+    "sales-stage-governance",
+    "revenue-opportunity-qualification",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-commercial-negotiation",
+    "sales-icp-segmentation"
+  ]
+}

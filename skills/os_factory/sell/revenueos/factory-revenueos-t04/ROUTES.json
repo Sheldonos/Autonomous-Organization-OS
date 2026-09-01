@@ -1,0 +1,27 @@
+{
+  "pocket": "revenueos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-icp-segmentation",
+    "marketing-account-based-marketing-specialist",
+    "ibm-sales-scale-004",
+    "ibm-sales-scale-005",
+    "ibm-sales-scale-006",
+    "ibm-sales-scale-007",
+    "ibm-sales-scale-009",
+    "ibm-sales-scale-012",
+    "sales-seller-intelligence-mcp-integration",
+    "revenue-lead-routing-quality-check",
+    "agency-operations-engagement-closeout",
+    "b2b-lead-intelligence-generator",
+    "ibm-bob-lead-intelligence",
+    "ibm-sales-000",
+    "sales-close-to-delivery-transition",
+    "revenue-expansion-signal-qualification",
+    "revenue-renewal-risk-assessment",
+    "enterprise-sales-playbook"
+  ]
+}

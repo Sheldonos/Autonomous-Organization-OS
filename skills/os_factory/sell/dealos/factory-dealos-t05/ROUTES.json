@@ -1,0 +1,27 @@
+{
+  "pocket": "dealos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "sales-email-outreach-specialist",
+    "sales-executive-outreach-specialist",
+    "sales-outreach-strategist",
+    "sales-technical-outreach-specialist",
+    "sales-competitor-response-simulator",
+    "sales-procurement-response-strategist",
+    "sales-rfp-response-strategist",
+    "gov-contract-broker",
+    "b2b-personalized-outreach",
+    "ibm-sales-000",
+    "sales-contract-approval",
+    "sales-proposal-management",
+    "b2b-lead-intelligence-generator",
+    "ibm-bob-lead-intelligence",
+    "revenue-rfp-response-evidence",
+    "sales-seller-intelligence-mcp-integration",
+    "ibm-sales-scale-023",
+    "sales-close-to-delivery-transition",
+    "sales-opportunity-qualification",
+    "sales-stage-governance"
+  ]
+}

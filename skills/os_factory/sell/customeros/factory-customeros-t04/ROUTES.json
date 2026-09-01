@@ -1,0 +1,27 @@
+{
+  "pocket": "customeros",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "customer-service-service-level-risk-monitoring",
+    "customer-service-digital-channel-health-review",
+    "customer-success-customer-health-analyst",
+    "ibm-exp-csm-003",
+    "ibm-sales-ext-customer-health-signal-intake",
+    "customer-service-customer-save-case-preparation",
+    "customer-service-case-closure-quality-check",
+    "customer-service-troubleshooting-plan-draft",
+    "revenue-account-health-scorecard",
+    "customer-service-backlog-prioritization-support",
+    "customer-service-case-intake-classification",
+    "customer-service-knowledge-evidence-retrieval",
+    "customer-service-self-service-gap-analysis",
+    "ibm-sales-scale-071",
+    "customer-service-accessibility-accommodation-handoff",
+    "customer-service-agent-coaching-preparation",
+    "customer-service-case-escalation-preparation",
+    "customer-service-complaint-classification",
+    "customer-service-cross-team-handoff-readiness",
+    "customer-service-entitlement-validation"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "pocket": "partnershipos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Partner thesis Team",
+      "stage": 1,
+      "responsibility": "Partner thesis",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Partner universe Team",
+      "stage": 2,
+      "responsibility": "Partner universe",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Fit & value exchange Team",
+      "stage": 3,
+      "responsibility": "Fit & value exchange",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Outreach Team",
+      "stage": 4,
+      "responsibility": "Outreach",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Joint plan Team",
+      "stage": 5,
+      "responsibility": "Joint plan",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Agreement & enablement Team",
+      "stage": 6,
+      "responsibility": "Agreement & enablement",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Co-sell execution Team",
+      "stage": 7,
+      "responsibility": "Co-sell execution",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Partner performance & renewal Team",
+      "stage": 8,
+      "responsibility": "Partner performance & renewal",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "franchiseos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-met-sm-009",
+    "ibm-met-se-002",
+    "ibm-met-sm-004",
+    "ibm-met-010",
+    "ibm-met-tsl-003",
+    "ibm-met-tsl-005",
+    "ibm-sales-scale-010",
+    "healthcare-cms-quality-measure-reporting",
+    "design-co-design-service-concepts",
+    "design-model-service-blueprint",
+    "automation-design-controls-and-approvals",
+    "healthcare-vendor-business-associate-governance",
+    "legal-contract-performance-monitoring",
+    "procurement-monitor-supplier-performance",
+    "tls-ai-drift-detection-escalation-agent",
+    "supply-chain-traceability-recall-response",
+    "automation-monitor-automation-runs",
+    "ibm-met-001",
+    "ibm-met-002",
+    "ibm-met-003"
+  ]
+}

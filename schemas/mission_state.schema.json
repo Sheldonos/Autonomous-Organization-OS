@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Federated OS Mission State",
+  "type": "object",
+  "required": [
+    "mission_id",
+    "intent",
+    "status",
+    "pockets",
+    "events"
+  ],
+  "properties": {
+    "mission_id": {
+      "type": "string"
+    },
+    "intent": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "PLANNED",
+        "READY",
+        "RUNNING",
+        "BLOCKED",
+        "COMPLETED",
+        "FAILED"
+      ]
+    },
+    "pockets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  }
+}

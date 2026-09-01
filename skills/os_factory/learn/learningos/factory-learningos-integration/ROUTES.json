@@ -1,0 +1,27 @@
+{
+  "pocket": "learningos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "healthcare-clinical-workflow-analyst",
+    "cio-ma-application-assessment",
+    "cio-ma-cybersecurity-assessment",
+    "eos-learning-and-development",
+    "ibm-sales-adaptive-orchestrator",
+    "rejection_learning_ingest",
+    "progressive_complication",
+    "wxo-adk-tutorials",
+    "marketing-event-strategy-operations",
+    "product-roadmap-management",
+    "qisbob-quantum-mentor",
+    "education-monitor-learner-progress",
+    "education-classroom-workflow-specialist",
+    "education-facilitate-instruction",
+    "healthcare-patient-safety-event-management",
+    "healthcare-compliance-program-management",
+    "healthcare-downtime-continuity-planning",
+    "watsonx-ai-credential-requirements",
+    "education-analyze-learning-needs",
+    "education-assure-program-quality"
+  ]
+}

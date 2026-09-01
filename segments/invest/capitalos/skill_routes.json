@@ -1,0 +1,1034 @@
+{
+  "schema_version": "2.0",
+  "pocket": "capitalos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 61,
+  "skills": [
+    {
+      "slug": "investment-market-due-diligence-analyst",
+      "score": 87,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Market Due Diligence Analyst role: market due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-capital-allocation",
+      "score": 82,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Capital Allocation** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-capital-allocation`, `capital-allocation`, or the corresponding professional workflow: Capital allocation and portfolio governance | rank competing capex, product, technology, and M&A uses of capital against hurdle rates, liquidity, risk, and strategic priorities"
+    },
+    {
+      "slug": "institutional-investment-playbook",
+      "score": 82,
+      "domain": "shared-execution",
+      "description": "Use when the user asks about hedge fund or private equity investment processes, due diligence, portfolio construction, position sizing, risk management, LBO modeling, investment committee memos, all-weather frameworks, exit strategies, or any topic covered by institutional investment qualification and portfolio construction workflows. Covers the complete 25-step process from sourcing through exit."
+    },
+    {
+      "slug": "investment-financial-due-diligence-analyst",
+      "score": 79,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Financial Due Diligence Analyst role: financial due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-portfolio-strategy",
+      "score": 79,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Portfolio Strategy** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-portfolio-strategy`, `portfolio-strategy`, or the corresponding professional workflow: Portfolio and asset strategy | prioritize acquisitions, dispositions, capital allocation, risk, and service outcomes against business strategy"
+    },
+    {
+      "slug": "investment-committee-analyst",
+      "score": 77,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Investment Committee Analyst role: investment committee; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-committee-critic",
+      "score": 77,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Investment Committee Critic role: investment committee; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-commercial-due-diligence-analyst",
+      "score": 76,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Commercial Due Diligence Analyst role: commercial due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-cybersecurity-due-diligence-analyst",
+      "score": 76,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Cybersecurity Due Diligence Analyst role: cybersecurity due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-legal-due-diligence-coordinator",
+      "score": 76,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Legal Due Diligence Coordinator role: legal due diligence coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-operational-due-diligence-analyst",
+      "score": 76,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Operational Due Diligence Analyst role: operational due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-technology-due-diligence-analyst",
+      "score": 76,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Technology Due Diligence Analyst role: technology due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-business-case-appraisal",
+      "score": 68,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Business Case Appraisal** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-business-case-appraisal`, `business-case-appraisal`, or the corresponding professional workflow: Business-case and investment appraisal | evaluate initiatives using strategic fit, incremental cash flows, ROI/NPV/payback, capacity, risks, and post-investment measures"
+    },
+    {
+      "slug": "finance-equity-research-analyst",
+      "score": 68,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Equity Research Analyst role: equity research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-liquidity-planning",
+      "score": 68,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Liquidity Planning** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-liquidity-planning`, `liquidity-planning`, or the corresponding professional workflow: Cash-flow, liquidity, and working-capital planning | forecast collections, payments, inventory, payables, debt service, and liquidity headroom"
+    },
+    {
+      "slug": "finance-market-research-analyst",
+      "score": 68,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-rolling-forecasting",
+      "score": 68,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Rolling Forecasting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-rolling-forecasting`, `rolling-forecasting`, or the corresponding professional workflow: Rolling forecasting and reforecasting | refresh outlooks using actuals, operational drivers, market conditions, and approved initiatives"
+    },
+    {
+      "slug": "finance-working-capital-analysis",
+      "score": 68,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Working Capital Analysis** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-working-capital-analysis`, `working-capital-analysis`, or the corresponding professional workflow: Cash-flow, liquidity, and working-capital planning | forecast collections, payments, inventory, payables, debt service, and liquidity headroom"
+    },
+    {
+      "slug": "investment-memo-writer",
+      "score": 68,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Investment Memo Writer role: investment memo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-thesis-builder",
+      "score": 68,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Investment Thesis Builder role: investment thesis builder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-covenant-monitoring",
+      "score": 66,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Covenant Monitoring** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-covenant-monitoring`, `covenant-monitoring`, or the corresponding professional workflow: Financial risk and covenant monitoring | track exposure, liquidity, leverage, debt covenants, FX/rates, and counterparty assumptions"
+    },
+    {
+      "slug": "finance-capital-allocation-analyst",
+      "score": 65,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Capital Allocation Analyst role: capital allocation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-due-diligence-analyst",
+      "score": 65,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Due Diligence Analyst role: due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-investment-analyst",
+      "score": 65,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Investment Analyst role: investment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-portfolio-analyst",
+      "score": 65,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Portfolio Analyst role: portfolio; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-valuation-specialist",
+      "score": 65,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Valuation Specialist role: valuation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-working-capital-action-plan",
+      "score": 65,
+      "domain": "finance",
+      "description": "Create a working-capital opportunity and dependency action plan for owner review. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Planning and Performance Capability Director."
+    },
+    {
+      "slug": "finance-working-capital-analyst",
+      "score": 65,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Working Capital Analyst role: working capital; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-acquisition-target-researcher",
+      "score": 65,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Acquisition Target Researcher role: acquisition target; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-competitive-position-analyst",
+      "score": 65,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Competitive Position Analyst role: competitive position; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-customer-concentration-analyst",
+      "score": 65,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Customer Concentration Analyst role: customer concentration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-deal-screening-analyst",
+      "score": 65,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Deal Screening Analyst role: deal screening; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-m-and-a-strategy-analyst",
+      "score": 65,
+      "domain": "investment",
+      "description": "Use for investment work requiring the M&A Strategy Analyst role: m&a strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-management-team-analyst",
+      "score": 65,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Management Team Analyst role: management team; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-orchestrator",
+      "score": 65,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Investment Orchestrator role: investment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "investment-synergy-analyst",
+      "score": 65,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Synergy Analyst role: synergy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-facilities-financial-reporting",
+      "score": 65,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Facilities Financial Reporting** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-facilities-financial-reporting`, `facilities-financial-reporting`, or the corresponding professional workflow: Financial planning, operating expense control, and reporting | build operating and capital budgets, forecast recoveries and utility costs, reconcile invoices, analyze variances, and produce owner/tenant/management reports"
+    },
+    {
+      "slug": "real-estate-capital-project-delivery",
+      "score": 62,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Capital Project Delivery** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-capital-project-delivery`, `capital-project-delivery`, or the corresponding professional workflow: Capital project planning and delivery | define scope, business case, budget, schedule, procurement route, design criteria, commissioning, and change control"
+    },
+    {
+      "slug": "real-estate-investment-memo-writer",
+      "score": 62,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Investment Memo Writer role: investment memo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-strategy-portfolio-roadmap-synthesis",
+      "score": 61,
+      "domain": "data",
+      "description": "Synthesize portfolio roadmap dependencies, outcomes, investment, and decision points. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "finance-executive-decision-support",
+      "score": 60,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Executive Decision Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-executive-decision-support`, `executive-decision-support`, or the corresponding professional workflow: Management narrative and decision support | convert validated financial and operational evidence into an executive narrative, options, recommendation, and action register with owners and dates | handoff to CFO, CEO, business leaders, board, and cross-functional action owners"
+    },
+    {
+      "slug": "finance-financial-close-support",
+      "score": 60,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Financial Close Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-financial-close-support`, `financial-close-support`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "finance-management-reporting",
+      "score": 60,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Management Reporting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-management-reporting`, `management-reporting`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "finance-scenario-modeling",
+      "score": 60,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Scenario Modeling** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-scenario-modeling`, `scenario-modeling`, or the corresponding professional workflow: Strategic planning and long-range modeling | translate corporate strategy into multi-year revenue, cost, cash-flow, and KPI scenarios"
+    },
+    {
+      "slug": "real-estate-investment-analyst",
+      "score": 59,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Real Estate Investment Analyst role: real estate investment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-market-analysis-specialist",
+      "score": 59,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Market Analysis Specialist role: market analysis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-portfolio-analyst",
+      "score": 59,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Portfolio Analyst role: portfolio; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-property-due-diligence-analyst",
+      "score": 59,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Property Due Diligence Analyst role: property due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-property-valuation-analyst",
+      "score": 59,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Property Valuation Analyst role: property valuation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-cash-position-reconciliation",
+      "score": 57,
+      "domain": "finance",
+      "description": "Reconcile bank, ledger, and forecast positions into a decision-ready cash position. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Liquidity and Cash Operations Capability Director."
+    },
+    {
+      "slug": "finance-credit-exposure-monitoring",
+      "score": 57,
+      "domain": "finance",
+      "description": "Monitor credit exposure against approved limits and route a review packet. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Receivables and Credit Operations Capability Director."
+    },
+    {
+      "slug": "finance-driver-based-budgeting",
+      "score": 57,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Driver Based Budgeting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-driver-based-budgeting`, `driver-based-budgeting`, or the corresponding professional workflow: Annual operating planning and budgeting | set the planning calendar, collect driver-based operating inputs, challenge assumptions, consolidate budgets, and obtain approval | handoff among FP&A, business-unit finance, HR, sales, operations, and executive approvers"
+    },
+    {
+      "slug": "finance-financial-analyst",
+      "score": 57,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Financial Analyst role: financial; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-financial-modeling-specialist",
+      "score": 57,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Financial Modeling Specialist role: financial modeling; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-financial-policy-query-triage",
+      "score": 57,
+      "domain": "finance",
+      "description": "Classify finance policy queries, identify authoritative policy, and draft a routed response. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Finance Governance Capability Director."
+    },
+    {
+      "slug": "finance-financial-quality-reviewer",
+      "score": 57,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Financial Quality Reviewer role: financial quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-financial-statement-analyst",
+      "score": 57,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Financial Statement Analyst role: financial statement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-fixed-asset-lifecycle-review",
+      "score": 57,
+      "domain": "finance",
+      "description": "Review fixed-asset lifecycle evidence for capitalization, transfer, and retirement exceptions. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-profitability-analysis",
+      "score": 57,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Profitability Analysis** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-profitability-analysis`, `profitability-analysis`, or the corresponding professional workflow: Cost management and profitability analysis | analyze cost-to-serve, gross margin, contribution margin, customer/product/channel profitability, and resource efficiency"
+    },
+    {
+      "slug": "finance-risk-analyst",
+      "score": 57,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Risk Analyst role: risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-scenario-modeling-specialist",
+      "score": 57,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Scenario Modeling Specialist role: scenario modeling; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-strategic-planning",
+      "score": 57,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Strategic Planning** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-strategic-planning`, `strategic-planning`, or the corresponding professional workflow: Strategic planning and long-range modeling | translate corporate strategy into multi-year revenue, cost, cash-flow, and KPI scenarios"
+    },
+    {
+      "slug": "finance-variance-analysis",
+      "score": 57,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Variance Analysis** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-variance-analysis`, `variance-analysis`, or the corresponding professional workflow: Budget-to-actual and forecast variance analysis | isolate price-volume-mix, rate, timing, scope, FX, and one-time drivers"
+    },
+    {
+      "slug": "finance-vendor-master-change-validation",
+      "score": 57,
+      "domain": "finance",
+      "description": "Validate vendor-master change evidence and route high-risk changes for approval. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Master Data Controls Capability Director."
+    },
+    {
+      "slug": "intelligence-market-intelligence-analyst",
+      "score": 56,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Market Intelligence Analyst role: market intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-10-k-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the 10-K Analyst role: 10-k; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-10-q-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the 10-Q Analyst role: 10-q; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-ap-invoice-match-exception",
+      "score": 54,
+      "domain": "finance",
+      "description": "Classify invoice match exceptions against purchase order and receipt evidence. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Payables and Disbursements Capability Director."
+    },
+    {
+      "slug": "finance-ar-collections-prioritization",
+      "score": 54,
+      "domain": "finance",
+      "description": "Prioritize receivables follow-up using approved aging, commitment, and dispute evidence. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Receivables and Credit Operations Capability Director."
+    },
+    {
+      "slug": "finance-audit-pbc-compilation",
+      "score": 54,
+      "domain": "finance",
+      "description": "Compile requested audit evidence with provenance, owner, and completeness status. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Audit and Assurance Capability Director."
+    },
+    {
+      "slug": "finance-balance-sheet-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Balance Sheet Analyst role: balance sheet; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-bank-fee-anomaly-review",
+      "score": 54,
+      "domain": "finance",
+      "description": "Review bank-fee anomalies and prepare an evidence-backed exception packet. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Liquidity and Cash Operations Capability Director."
+    },
+    {
+      "slug": "finance-billing-dispute-analysis",
+      "score": 54,
+      "domain": "finance",
+      "description": "Analyze billing dispute facts, contract terms, and account evidence for a resolution draft. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Receivables and Credit Operations Capability Director."
+    },
+    {
+      "slug": "finance-budget-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Budget Analyst role: budget; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-cash-flow-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Cash Flow Analyst role: cash flow; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-cash-management-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Cash Management Analyst role: cash management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-cfo-advisor",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the CFO Advisor role: cfo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-close-readiness-assessment",
+      "score": 54,
+      "domain": "finance",
+      "description": "Assess close readiness, missing evidence, dependencies, and aging risks. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-comparable-companies-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Comparable Companies Analyst role: comparable companies; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-corporate-finance-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Corporate Finance Analyst role: corporate finance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-covenant-compliance-check",
+      "score": 54,
+      "domain": "finance",
+      "description": "Check covenant evidence against approved terms and route potential breach indicators. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Treasury and Controls Capability Director."
+    },
+    {
+      "slug": "finance-credit-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Credit Analyst role: credit; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-dcf-specialist",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the DCF Specialist role: dcf; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-earnings-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Earnings Analyst role: earnings; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-earnings-call-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Earnings Call Analyst role: earnings call; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-expense-policy-audit",
+      "score": 54,
+      "domain": "finance",
+      "description": "Review expense claims against approved policy and produce a human-review packet. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-fixed-income-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Fixed-Income Analyst role: fixed-income; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-forecast-rollup-quality-check",
+      "score": 54,
+      "domain": "finance",
+      "description": "Validate forecast rollup completeness, assumption consistency, and contributor exceptions. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Planning and Performance Capability Director."
+    },
+    {
+      "slug": "finance-forecasting-specialist",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Forecasting Specialist role: forecasting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-fp-and-a-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the FP&A Analyst role: fp&a; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-income-statement-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Income Statement Analyst role: income statement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-indirect-tax-exception-review",
+      "score": 54,
+      "domain": "finance",
+      "description": "Analyze indirect-tax coding exceptions using controlled transaction evidence. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Tax Operations Capability Director."
+    },
+    {
+      "slug": "finance-intercompany-reconciliation",
+      "score": 54,
+      "domain": "finance",
+      "description": "Reconcile intercompany balances and present unmatched items with owners. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-journal-entry-support-pack",
+      "score": 54,
+      "domain": "finance",
+      "description": "Prepare journal-entry support evidence for reviewer consideration. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-liquidity-forecast-exception",
+      "score": 54,
+      "domain": "finance",
+      "description": "Detect and explain material liquidity forecast variance against approved assumptions. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Liquidity and Cash Operations Capability Director."
+    },
+    {
+      "slug": "finance-m-and-a-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the M&A Analyst role: m&a; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-management-reporting-pack",
+      "score": 54,
+      "domain": "finance",
+      "description": "Assemble a controlled management reporting pack with sources, assumptions, and review status. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Executive Finance Reporting Capability Director."
+    },
+    {
+      "slug": "finance-orchestrator",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Finance Orchestrator role: finance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-payment-exception-preparation",
+      "score": 54,
+      "domain": "finance",
+      "description": "Prepare a payment exception packet for authorized approval. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Payables and Disbursements Capability Director."
+    },
+    {
+      "slug": "finance-payment-fraud-evidence-triage",
+      "score": 54,
+      "domain": "finance",
+      "description": "Assemble payment fraud indicators and route a controlled investigation case. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Payables and Disbursements Capability Director."
+    },
+    {
+      "slug": "finance-ratio-analysis-specialist",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Ratio Analysis Specialist role: ratio analysis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-revenue-close-tie-out",
+      "score": 54,
+      "domain": "finance",
+      "description": "Tie out revenue-close evidence and identify unresolved reconciliation gaps. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-sec-filing-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the SEC Filing Analyst role: sec filing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-tax-data-readiness",
+      "score": 54,
+      "domain": "finance",
+      "description": "Assess tax data completeness, lineage, and exception status before preparer review. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Tax Operations Capability Director."
+    },
+    {
+      "slug": "finance-transaction-comparables-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Transaction Comparables Analyst role: transaction comparables; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-treasury-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Treasury Analyst role: treasury; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-unit-economics-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Unit Economics Analyst role: unit economics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-variance-analyst",
+      "score": 54,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Variance Analyst role: variance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-variance-commentary-draft",
+      "score": 54,
+      "domain": "finance",
+      "description": "Draft source-backed variance commentary against approved plan and actuals. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Planning and Performance Capability Director."
+    },
+    {
+      "slug": "real-estate-compliance-inspection",
+      "score": 54,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Compliance Inspection** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-compliance-inspection`, `compliance-inspection`, or the corresponding professional workflow: Compliance, accessibility, and life-safety management | identify applicable laws, codes, permits, accessibility requirements, fire/life-safety controls, and inspection obligations for the jurisdiction and asset"
+    },
+    {
+      "slug": "real-estate-preventive-maintenance",
+      "score": 54,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Preventive Maintenance** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-preventive-maintenance`, `preventive-maintenance`, or the corresponding professional workflow: Preventive maintenance and asset reliability | inspect building systems, assess condition and criticality, schedule preventive/predictive work, and manage corrective backlog"
+    },
+    {
+      "slug": "real-estate-space-utilization-planning",
+      "score": 54,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Space Utilization Planning** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-space-utilization-planning`, `space-utilization-planning`, or the corresponding professional workflow: Space planning and workplace utilization | translate occupancy, adjacency, accessibility, hybrid-work, and growth requirements into scenario options and a preferred plan"
+    },
+    {
+      "slug": "simulation-market-simulation-specialist",
+      "score": 53,
+      "domain": "simulation",
+      "description": "Use for simulation work requiring the Market Simulation Specialist role: market simulation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-analyze-patterns-and-trends",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Analyze Patterns And Trends** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-analyze-patterns-and-trends`, `analyze-patterns-and-trends`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-build-decision-dashboards",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Build Decision Dashboards** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-build-decision-dashboards`, `build-decision-dashboards`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-collect-source-metadata",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Collect Source Metadata** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-collect-source-metadata`, `collect-source-metadata`, or the corresponding professional workflow: source-discovery-and-collection | identify lawful public, internal, and licensed sources, set collection boundaries, and record query/version/time metadata | handoff to data engineer, research analyst, or collection manager"
+    },
+    {
+      "slug": "intelligence-define-intelligence-requirements",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Define Intelligence Requirements** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-define-intelligence-requirements`, `define-intelligence-requirements`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-discover-public-sources",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Discover Public Sources** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-discover-public-sources`, `discover-public-sources`, or the corresponding professional workflow: source-discovery-and-collection | identify lawful public, internal, and licensed sources, set collection boundaries, and record query/version/time metadata | handoff to data engineer, research analyst, or collection manager"
+    },
+    {
+      "slug": "intelligence-evaluate-source-credibility",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Evaluate Source Credibility** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-evaluate-source-credibility`, `evaluate-source-credibility`, or the corresponding professional workflow: source-discovery-and-collection | identify lawful public, internal, and licensed sources, set collection boundaries, and record query/version/time metadata | handoff to data engineer, research analyst, or collection manager"
+    },
+    {
+      "slug": "intelligence-manage-feedback-and-reassessment",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Manage Feedback And Reassessment** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-manage-feedback-and-reassessment`, `manage-feedback-and-reassessment`, or the corresponding professional workflow: dissemination-and-feedback-loop | deliver through authorized channels, capture consumer questions and outcomes, monitor freshness, and schedule reassessment or withdrawal | handoff to stakeholders, collection team, and continuous-improvement owner"
+    },
+    {
+      "slug": "intelligence-preserve-data-provenance",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Preserve Data Provenance** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-preserve-data-provenance`, `preserve-data-provenance`, or the corresponding professional workflow: source-discovery-and-collection | identify lawful public, internal, and licensed sources, set collection boundaries, and record query/version/time metadata | handoff to data engineer, research analyst, or collection manager"
+    },
+    {
+      "slug": "intelligence-produce-intelligence-briefings",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Produce Intelligence Briefings** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-produce-intelligence-briefings`, `produce-intelligence-briefings`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-triangulate-and-test-hypotheses",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Triangulate And Test Hypotheses** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-triangulate-and-test-hypotheses`, `triangulate-and-test-hypotheses`, or the corresponding professional workflow: data-quality-and-lineage-assurance | test completeness, accuracy, consistency, timeliness, validity, anomalies, transformations, and lineage against fitness-for-purpose criteria | handoff to data steward, model owner, or quality approver"
+    },
+    {
+      "slug": "intelligence-validate-data-quality",
+      "score": 51,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Validate Data Quality** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-validate-data-quality`, `validate-data-quality`, or the corresponding professional workflow: data-quality-and-lineage-assurance | test completeness, accuracy, consistency, timeliness, validity, anomalies, transformations, and lineage against fitness-for-purpose criteria | handoff to data steward, model owner, or quality approver"
+    },
+    {
+      "slug": "real-estate-area-measurement",
+      "score": 51,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Area Measurement** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-area-measurement`, `area-measurement`, or the corresponding professional workflow: Area measurement and charge allocation | apply the property-type-appropriate ANSI/BOMA method to calculate rentable, usable, gross, or leasable areas and allocate common-area or operating costs"
+    },
+    {
+      "slug": "real-estate-asset-management-analyst",
+      "score": 51,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Asset Management Analyst role: asset management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-emergency-continuity-planning",
+      "score": 51,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Emergency Continuity Planning** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-emergency-continuity-planning`, `emergency-continuity-planning`, or the corresponding professional workflow: Emergency preparedness and business continuity | assess hazards, maintain emergency plans, drills, communications, critical-service dependencies, and recovery priorities"
+    },
+    {
+      "slug": "real-estate-lease-administration",
+      "score": 51,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Lease Administration** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-lease-administration`, `lease-administration`, or the corresponding professional workflow: Lease and occupancy administration | abstract lease terms, critical dates, options, rent escalations, recoveries, obligations, and tenant/landlord actions"
+    },
+    {
+      "slug": "real-estate-location-intelligence-analyst",
+      "score": 51,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Location Intelligence Analyst role: location intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-go-to-market-planning",
+      "score": 45,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Go To Market Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-go-to-market-planning`, `go-to-market-planning`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "autonomous-capitalist",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Enables the agent to function as an autonomous economic actor, capable of identifying, evaluating, and exploiting market opportunities to generate and manage revenue streams. It integrates capabilities for continuous learning, strategic analysis, and automated business execution. Use this skill to build and manage a portfolio of autonomous businesses."
+    },
+    {
+      "slug": "marketing-market-research-synthesis",
+      "score": 37,
+      "domain": "marketing",
+      "description": "Synthesize market-research evidence with source authority and limitations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Market Intelligence and Messaging Capability Director."
+    },
+    {
+      "slug": "cio-technology-investment-recommendation",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Technology Investment Recommendation for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-market-research",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Market Research for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-research-portfolio-management",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Research Portfolio Management for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "it-application-portfolio-assessment",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Assess application portfolio health, lifecycle, cost, risk, and modernization dependencies. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "marketing-competitive-message-synthesis",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Synthesize approved competitive evidence into a reviewed messaging brief. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Market Intelligence and Messaging Capability Director."
+    },
+    {
+      "slug": "marketing-market-research-analyst",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-portfolio-prioritization",
+      "score": 34,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Portfolio Prioritization** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-portfolio-prioritization`, `portfolio-prioritization`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "cio-ai-portfolio-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO AI Portfolio Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-portfolio-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Application Portfolio Management for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-executive-portfolio-reporting",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Executive Portfolio Reporting for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-innovation-portfolio-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Innovation Portfolio Management for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-investment-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Investment Governance for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ma-data-diligence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO MA Data Diligence for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ma-infrastructure-diligence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO MA Infrastructure Diligence for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-portfolio-dependency-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Dependency Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-portfolio-prioritization",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Prioritization for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-portfolio-resource-planning",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Resource Planning for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-project-portfolio-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Project Portfolio Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-saas-portfolio-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO SAAS Portfolio Management for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-due-diligence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Due Diligence for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-investment-prioritization",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Investment Prioritization for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-capital-allocation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Capital Allocation for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-enterprise-capital-allocation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Capital Allocation for Finance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-enterprise-portfolio-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Portfolio Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-investment-analysis",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Investment Analysis for Finance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ma-cross-functional-diligence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos MA Cross Functional Diligence for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-market-discovery",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Market Discovery for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "legal-due-diligence-analyst",
+      "score": 31,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Due Diligence Analyst role: legal due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    }
+  ],
+  "primary_accountable": [
+    "autonomous-capitalist",
+    "finance-10-k-analyst",
+    "finance-10-q-analyst",
+    "finance-ap-invoice-match-exception",
+    "finance-audit-pbc-compilation",
+    "finance-bank-fee-anomaly-review",
+    "finance-budget-analyst",
+    "finance-business-case-appraisal",
+    "finance-capital-allocation-analyst",
+    "finance-cash-flow-analyst",
+    "finance-cash-position-reconciliation",
+    "finance-cfo-advisor",
+    "finance-comparable-companies-analyst",
+    "finance-corporate-finance-analyst",
+    "finance-covenant-monitoring",
+    "finance-credit-analyst",
+    "finance-credit-exposure-monitoring",
+    "finance-dcf-specialist",
+    "finance-driver-based-budgeting",
+    "finance-due-diligence-analyst",
+    "finance-earnings-analyst",
+    "finance-earnings-call-analyst",
+    "finance-equity-research-analyst",
+    "finance-expense-policy-audit",
+    "finance-financial-analyst",
+    "finance-financial-modeling-specialist",
+    "finance-financial-policy-query-triage",
+    "finance-financial-quality-reviewer",
+    "finance-financial-statement-analyst",
+    "finance-fixed-asset-lifecycle-review",
+    "finance-fixed-income-analyst",
+    "finance-forecast-rollup-quality-check",
+    "finance-forecasting-specialist",
+    "finance-fp-and-a-analyst",
+    "finance-income-statement-analyst",
+    "finance-indirect-tax-exception-review",
+    "finance-intercompany-reconciliation",
+    "finance-investment-analyst",
+    "finance-journal-entry-support-pack",
+    "finance-liquidity-forecast-exception",
+    "finance-liquidity-planning",
+    "finance-m-and-a-analyst",
+    "finance-market-research-analyst",
+    "finance-orchestrator",
+    "finance-payment-exception-preparation",
+    "finance-payment-fraud-evidence-triage",
+    "finance-ratio-analysis-specialist",
+    "finance-risk-analyst",
+    "finance-rolling-forecasting",
+    "finance-scenario-modeling",
+    "finance-scenario-modeling-specialist",
+    "finance-sec-filing-analyst",
+    "finance-transaction-comparables-analyst",
+    "finance-treasury-analyst",
+    "finance-valuation-specialist",
+    "finance-variance-analyst",
+    "finance-working-capital-analysis",
+    "finance-working-capital-analyst",
+    "investment-competitive-position-analyst",
+    "investment-memo-writer",
+    "investment-thesis-builder"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

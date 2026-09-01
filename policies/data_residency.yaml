@@ -1,0 +1,15 @@
+version: 1
+modes:
+  connected:
+    external_network: policy_controlled
+    telemetry: policy_controlled
+  hybrid:
+    compute_to_data: preferred
+    bulk_replication: explicit_approval
+  air_gapped:
+    external_network: deny
+    external_mcp: deny
+    external_telemetry: deny
+    internet_research: deny
+    data_export: guarded_transfer_only
+    local_executor_required_for_autonomous_reasoning: true

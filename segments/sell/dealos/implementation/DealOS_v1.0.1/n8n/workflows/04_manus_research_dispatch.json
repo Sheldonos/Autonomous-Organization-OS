@@ -1,0 +1,173 @@
+{
+  "name": "DealOS 04 - Manus Research Dispatch",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 10
+            }
+          ]
+        }
+      },
+      "id": "sched",
+      "name": "Every 10 Minutes",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "url": "={{$env.DEALOS_INTERNAL_URL + \"/research/jobs/next?provider=manus&limit=3\"}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-DealOS-Key",
+              "value": "={{$env.DEALOS_API_KEY}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "get",
+      "name": "Get Manus Jobs",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        220,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "return ($json.items || []).map(x => ({json:x}));"
+      },
+      "id": "expand",
+      "name": "Expand",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        440,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.MANUS_BASE_URL + \"/v2/task.create\"}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "x-manus-api-key",
+              "value": "={{$env.MANUS_API_KEY}}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "contentType": "raw",
+        "rawContentType": "application/json",
+        "body": "={{ JSON.stringify({ message:{content:$json.prompt}, agent_profile:\"manus-1.6-lite\", interactive_mode:false, hide_in_task_list:true, share_visibility:\"private\", ...( $json.structured_schema ? {structured_output_schema:$json.structured_schema} : {} ) }) }}",
+        "options": {}
+      },
+      "id": "create",
+      "name": "Create Manus Task",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        660,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.DEALOS_INTERNAL_URL + \"/research/jobs/\" + $(\"Expand\").item.json.id + \"/submitted\"}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-DealOS-Key",
+              "value": "={{$env.DEALOS_API_KEY}}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "contentType": "raw",
+        "rawContentType": "application/json",
+        "body": "={{ JSON.stringify({ external_task_id: $json.task_id || $json.id || $json.data?.task_id }) }}",
+        "options": {}
+      },
+      "id": "done",
+      "name": "Mark Submitted",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        900,
+        0
+      ]
+    }
+  ],
+  "connections": {
+    "Every 10 Minutes": {
+      "main": [
+        [
+          {
+            "node": "Get Manus Jobs",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Manus Jobs": {
+      "main": [
+        [
+          {
+            "node": "Expand",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Expand": {
+      "main": [
+        [
+          {
+            "node": "Create Manus Task",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Manus Task": {
+      "main": [
+        [
+          {
+            "node": "Mark Submitted",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "versionId": "00000000-0000-0000-0000-000000000001",
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "tags": []
+}

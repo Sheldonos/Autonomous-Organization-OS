@@ -1,0 +1,27 @@
+{
+  "pocket": "legalos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-ext-commercial-redline-boundary",
+    "ibm-sales-scale-066",
+    "legal-contract-risk-issue-spotting",
+    "legal-risk-issue-triage",
+    "legal-dispute-claims-management",
+    "legal-legal-work-intake-triage",
+    "legal-legal-hold-evidence-preservation",
+    "legal-contract-drafting-redlining",
+    "legal-approval-signature-routing",
+    "legal-obligation-management",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "legal-risk-obligation-extraction",
+    "legal-risk-clause-variance-analysis",
+    "legal-risk-litigation-evidence-compilation",
+    "ibm-bob-ads-research",
+    "legal-litigation-research-analyst",
+    "legal-contract-clause-extractor",
+    "legal-risk-contract-intake-classification",
+    "legal-third-party-risk-assessment"
+  ]
+}

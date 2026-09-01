@@ -1,0 +1,81 @@
+{
+  "pocket": "eventos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Event concept & economics Team",
+      "stage": 1,
+      "responsibility": "Event concept & economics",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Venue/date Team",
+      "stage": 2,
+      "responsibility": "Venue/date",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Program & speakers Team",
+      "stage": 3,
+      "responsibility": "Program & speakers",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Sponsors & partners Team",
+      "stage": 4,
+      "responsibility": "Sponsors & partners",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Audience acquisition Team",
+      "stage": 5,
+      "responsibility": "Audience acquisition",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Production plan Team",
+      "stage": 6,
+      "responsibility": "Production plan",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Live operations Team",
+      "stage": 7,
+      "responsibility": "Live operations",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Follow-up & content Team",
+      "stage": 8,
+      "responsibility": "Follow-up & content",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t09",
+      "name": "Event P&L learning Team",
+      "stage": 9,
+      "responsibility": "Event P&L learning",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

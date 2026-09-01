@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Deal",
+  "type": "object",
+  "required": [
+    "name",
+    "stage"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "stage": {
+      "type": "string"
+    },
+    "expected_value_usd": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "recurring_monthly_usd": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "probability": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 1
+    },
+    "risk_level": {
+      "enum": [
+        "green",
+        "blue",
+        "yellow",
+        "orange",
+        "red"
+      ]
+    }
+  }
+}

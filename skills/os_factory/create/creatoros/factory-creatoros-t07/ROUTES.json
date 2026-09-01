@@ -1,0 +1,27 @@
+{
+  "pocket": "creatoros",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "contagious-framework",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "marketing-content-reuse-eligibility",
+    "marketing-event-readiness-checklist",
+    "marketing-seo-content-brief",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "marketing-campaign-orchestration",
+    "ibm-bob-ads-tiktok",
+    "master-storytelling",
+    "media-content-capture",
+    "media-editorial-fact-checking",
+    "media-media-asset-management",
+    "media-post-production-editing",
+    "media-release-management",
+    "media-rights-clearance",
+    "marketing-account-based-signal-qualification",
+    "marketing-audience-segmentation-review",
+    "marketing-brand-compliance-review"
+  ]
+}

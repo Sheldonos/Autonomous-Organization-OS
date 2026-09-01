@@ -1,0 +1,27 @@
+{
+  "pocket": "universityos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ncfb-sqlcode-805",
+    "study-plan",
+    "education-assure-program-quality",
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "ibm-sales-onboarding-value-data-audit",
+    "data-strategy-dependency-risk-analysis",
+    "data-strategy-program-plan-readiness",
+    "eos-innovation-program-management",
+    "government-manage-grants-lifecycle",
+    "program-management-program-governance",
+    "program-management-project-governance",
+    "program-management-resource-management",
+    "chief-of-staff-cross-functional-program-orchestrator",
+    "cio-program-governance",
+    "eos-program-management",
+    "government-program-analyst",
+    "healthcare-cms-quality-measure-reporting",
+    "healthcare-compliance-program-management",
+    "ibm-i"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "labos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "quantum-research-specialist",
+    "shared-research-data-extraction-specialist",
+    "research-interview-research-specialist",
+    "research-literacy",
+    "research-methodology-specialist",
+    "research-orchestrator",
+    "research-peer-reviewer",
+    "research-planner",
+    "research-qualitative-researcher",
+    "research-quantitative-researcher",
+    "research-report-writer",
+    "research-statistical-research-advisor",
+    "research-survey-research-specialist",
+    "research-web-research-specialist",
+    "shared-research-citation-builder",
+    "shared-research-company-researcher",
+    "shared-research-entity-resolver",
+    "shared-research-industry-researcher",
+    "shared-research-ocr-specialist",
+    "shared-research-patent-research-specialist"
+  ]
+}

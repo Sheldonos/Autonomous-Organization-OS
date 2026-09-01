@@ -1,0 +1,27 @@
+{
+  "pocket": "capitalos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-covenant-monitoring",
+    "finance-credit-exposure-monitoring",
+    "finance-financial-quality-reviewer",
+    "finance-fixed-asset-lifecycle-review",
+    "finance-risk-analyst",
+    "finance-ap-invoice-match-exception",
+    "finance-audit-pbc-compilation",
+    "finance-bank-fee-anomaly-review",
+    "finance-expense-policy-audit",
+    "finance-forecast-rollup-quality-check",
+    "finance-indirect-tax-exception-review",
+    "finance-journal-entry-support-pack",
+    "finance-payment-fraud-evidence-triage",
+    "intelligence-triangulate-and-test-hypotheses",
+    "intelligence-validate-data-quality",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "finance-covenant-compliance-check",
+    "real-estate-compliance-inspection",
+    "finance-capital-allocation"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "creatoros",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-032",
+    "safe-collaboration-design-audit",
+    "agency-operations-invoice-readiness-review",
+    "ibm-sales-ext-evidence-source-provenance",
+    "media-accessibility-localization",
+    "media-mastering-quality-control",
+    "marketing-lead-quality-review",
+    "agency-deliverable-quality-reviewer",
+    "agency-operations-change-impact-assessment",
+    "healthcare-credentialing-privileging-review",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "marketing-campaign-orchestration",
+    "marketing-audience-segmentation-review",
+    "marketing-brand-compliance-review",
+    "marketing-content-claims-review",
+    "marketing-nurture-journey-quality-check",
+    "media-distribution-packaging",
+    "media-safety-risk-planning",
+    "agency-operations-conflict-of-interest-screening"
+  ]
+}

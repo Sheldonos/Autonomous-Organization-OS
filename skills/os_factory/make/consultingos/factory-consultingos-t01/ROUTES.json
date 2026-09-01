@@ -1,0 +1,27 @@
+{
+  "pocket": "consultingos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-qua-atl-001",
+    "ibm-bob-demo-generator",
+    "ibm-atl-005",
+    "ibm-eng-007",
+    "ibm-eng-sdr-002",
+    "muse-driven-songsmith",
+    "agency-operations-delivery-status-control",
+    "agency-operations-engagement-closeout",
+    "agency-operations-stakeholder-communications-governance",
+    "agency-operations-contract-handoff",
+    "agency-operations-human-approval-gating",
+    "agency-operations-scope-baselining",
+    "agency-operations-time-cost-margin-control",
+    "agency-operations-conflict-of-interest-screening",
+    "agency-operations-engagement-qualification",
+    "agency-operations-resource-capacity-planning",
+    "eos-engagement-estimation",
+    "eos-engagement-scope",
+    "eos-engagement-staffing",
+    "agency-consulting-engagement-manager"
+  ]
+}

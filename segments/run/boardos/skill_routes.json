@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "pocket": "boardos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 20,
+  "skills": [
+    {
+      "slug": "chief-of-staff-board-materials-governance",
+      "score": 107,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Board Materials Governance** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-board-materials-governance`, `board-materials-governance`, or the corresponding professional workflow: Board and governance preparation | assemble accurate board materials, reconcile KPI and narrative consistency, route approvals, and maintain action tracking | principal, board/committee secretary, general counsel, finance, risk/audit"
+    },
+    {
+      "slug": "chief-of-staff-decision-rights-mapping",
+      "score": 82,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Decision Rights Mapping** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-decision-rights-mapping`, `decision-rights-mapping`, or the corresponding professional workflow: Decision-rights and escalation management | determine accountable owner, consultation threshold, escalation trigger, and whether the COS is advisor, coordinator, or delegated proxy | principal, functional executive, legal/risk, board secretary"
+    },
+    {
+      "slug": "chief-of-staff-escalation-triage",
+      "score": 82,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Escalation Triage** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-escalation-triage`, `escalation-triage`, or the corresponding professional workflow: Decision-rights and escalation management | determine accountable owner, consultation threshold, escalation trigger, and whether the COS is advisor, coordinator, or delegated proxy | principal, functional executive, legal/risk, board secretary"
+    },
+    {
+      "slug": "cybersecurity-cybersecurity-governance",
+      "score": 82,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cybersecurity Governance** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cybersecurity-governance`, `cybersecurity-governance`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "cybersecurity-security-policy-management",
+      "score": 82,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Policy Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-policy-management`, `security-policy-management`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "legal-risk-board-governance-pack",
+      "score": 76,
+      "domain": "legal",
+      "description": "Prepare board-governance evidence pack, decision log, and action-tracking status. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Corporate Governance Capability Director."
+    },
+    {
+      "slug": "automation-improve-process-performance",
+      "score": 74,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Improve Process Performance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-improve-process-performance`, `improve-process-performance`, or the corresponding professional workflow: performance-and-conformance-improvement | decide corrective action, redesign, retraining/configuration change, capacity adjustment, or retirement using KPI trends, incidents, and process-mining/conformance evidence | handoff to continuous-improvement lead, process owner, architecture, and governance board"
+    },
+    {
+      "slug": "chief-of-staff-privacy-aware-information-handling",
+      "score": 71,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Privacy Aware Information Handling** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-privacy-aware-information-handling`, `privacy-aware-information-handling`, or the corresponding professional workflow: Executive-office knowledge and records management | structure decision records, meeting artifacts, access permissions, retention/disposition cues, and institutional handover materials | executive assistant, records/privacy officer, legal, IT/security, successor COS"
+    },
+    {
+      "slug": "design-define-service-measures",
+      "score": 71,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Define Service Measures** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-define-service-measures`, `define-service-measures`, or the corresponding professional workflow: Launch, measure, and continuously improve the service | define outcome and performance measures, instrument the service, monitor reliability and inclusion, review feedback/incidents, and run controlled improvements | product owner, service operations, analytics, support, governance board"
+    },
+    {
+      "slug": "design-monitor-service-improvement",
+      "score": 71,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Monitor Service Improvement** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-monitor-service-improvement`, `monitor-service-improvement`, or the corresponding professional workflow: Launch, measure, and continuously improve the service | define outcome and performance measures, instrument the service, monitor reliability and inclusion, review feedback/incidents, and run controlled improvements | product owner, service operations, analytics, support, governance board"
+    },
+    {
+      "slug": "chief-of-staff-principal-transition-handoff",
+      "score": 70,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Principal Transition Handoff** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-principal-transition-handoff`, `principal-transition-handoff`, or the corresponding professional workflow: Principal transition and continuity | document operating preferences, open commitments, authorities, stakeholder map, and succession handoff while avoiding undocumented shadow governance | outgoing/incoming principal, successor COS, HR, legal, executive assistant, key functional owners"
+    },
+    {
+      "slug": "chief-of-staff-decision-record-management",
+      "score": 68,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Decision Record Management** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-decision-record-management`, `decision-record-management`, or the corresponding professional workflow: Executive-office knowledge and records management | structure decision records, meeting artifacts, access permissions, retention/disposition cues, and institutional handover materials | executive assistant, records/privacy officer, legal, IT/security, successor COS"
+    },
+    {
+      "slug": "cybersecurity-zero-trust-architecture-review",
+      "score": 68,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Zero Trust Architecture Review** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-zero-trust-architecture-review`, `zero-trust-architecture-review`, or the corresponding professional workflow: Security architecture and zero-trust design review | define trust boundaries, identity/device/data enforcement points, segmentation, and secure access patterns for a proposed system or change | enterprise architects, IAM, network/platform engineering, privacy, application owners, and change advisory board"
+    },
+    {
+      "slug": "government-control-delivery-baselines",
+      "score": 68,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Control Delivery Baselines** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-control-delivery-baselines`, `control-delivery-baselines`, or the corresponding professional workflow: delivery planning and integrated control | establish schedule, dependencies, resources, milestones, costs, quality criteria, and reporting cadence | workstream leads, programme controls, finance, suppliers, governance board"
+    },
+    {
+      "slug": "agency-operations-stakeholder-communications-governance",
+      "score": 65,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Stakeholder Communications Governance** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-stakeholder-communications-governance`, `stakeholder-communications-governance`, or the corresponding professional workflow: client-communications-and-stakeholder-governance | decide what status, risk, cost, quality, or delay information must be disclosed, by whom, when, and with what evidence | handoff from workstream leads to engagement manager, client sponsor, steering committee, and executive escalation owners"
+    },
+    {
+      "slug": "chief-of-staff-executive-meeting-orchestration",
+      "score": 65,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Executive Meeting Orchestration** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-executive-meeting-orchestration`, `executive-meeting-orchestration`, or the corresponding professional workflow: Executive meeting orchestration | set agenda and desired decisions, sequence participants, prepare briefs, capture decisions/actions, and verify closure | principal, executive assistants, functional owners, legal/communications as needed"
+    },
+    {
+      "slug": "chief-of-staff-organizational-sensing",
+      "score": 62,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Organizational Sensing** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-organizational-sensing`, `organizational-sensing`, or the corresponding professional workflow: Organizational sensing and issue triage | collect signals from leaders and operating data, classify urgency/impact, identify root owner, and recommend response options | principal, HR, risk, security, legal, business owners"
+    },
+    {
+      "slug": "chief-of-staff-risk-crisis-coordination",
+      "score": 62,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Risk Crisis Coordination** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-risk-crisis-coordination`, `risk-crisis-coordination`, or the corresponding professional workflow: Risk, crisis, and reputational coordination | maintain risk/issues register, define thresholds, convene the right experts, preserve an auditable timeline, and escalate incidents | executive sponsor, enterprise risk, legal, security, communications, business continuity"
+    },
+    {
+      "slug": "finance-executive-decision-support",
+      "score": 60,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Executive Decision Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-executive-decision-support`, `executive-decision-support`, or the corresponding professional workflow: Management narrative and decision support | convert validated financial and operational evidence into an executive narrative, options, recommendation, and action register with owners and dates | handoff to CFO, CEO, business leaders, board, and cross-functional action owners"
+    },
+    {
+      "slug": "chief-of-staff-cross-functional-initiative-coordination",
+      "score": 59,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Cross Functional Initiative Coordination** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-cross-functional-initiative-coordination`, `cross-functional-initiative-coordination`, or the corresponding professional workflow: Cross-functional strategic initiative delivery | charter an initiative, resolve dependencies, track risks/issues, and escalate slippage without absorbing line ownership | initiative sponsor, PMO, product/technology, finance, HR, external partners"
+    },
+    {
+      "slug": "chief-of-staff-executive-communications-control",
+      "score": 59,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Executive Communications Control** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-executive-communications-control`, `executive-communications-control`, or the corresponding professional workflow: Executive communications and message control | develop briefs, talking points, Q&A, announcements, and approval routes while separating fact, recommendation, and commitment | principal, communications, legal, HR, investor/government relations"
+    },
+    {
+      "slug": "chief-of-staff-executive-priority-shaping",
+      "score": 59,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Executive Priority Shaping** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-executive-priority-shaping`, `executive-priority-shaping`, or the corresponding professional workflow: Executive-priority translation and portfolio shaping | convert the principal\u2019s mission into a small set of explicit outcomes, owners, milestones, and trade-offs"
+    },
+    {
+      "slug": "chief-of-staff-stakeholder-engagement-planning",
+      "score": 59,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Stakeholder Engagement Planning** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-stakeholder-engagement-planning`, `stakeholder-engagement-planning`, or the corresponding professional workflow: Stakeholder and relationship orchestration | map stakeholders, tailor engagement sequence, manage sensitive briefings, and distinguish alignment from authorization | principal, communications, government affairs, customers/partners, people leaders"
+    },
+    {
+      "slug": "chief-of-staff-strategic-operating-cadence",
+      "score": 59,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Strategic Operating Cadence** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-strategic-operating-cadence`, `strategic-operating-cadence`, or the corresponding professional workflow: Strategic planning and operating cadence | turn priorities into quarterly/monthly/weekly reviews with KPI definitions, pre-reads, decision logs, and follow-up loops | principal, business-unit leaders, PMO, analytics/finance"
+    },
+    {
+      "slug": "data-strategy-metric-definition-governance",
+      "score": 59,
+      "domain": "data",
+      "description": "Prepare metric-definition governance packet with lineage, owners, and change impact. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Analytics and Decision Support Capability Director."
+    },
+    {
+      "slug": "government-conduct-stage-gate-assurance",
+      "score": 59,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Conduct Stage Gate Assurance** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-conduct-stage-gate-assurance`, `conduct-stage-gate-assurance`, or the corresponding professional workflow: assurance, audit, and stage-gate review | test business case, governance, controls, readiness, evidence, and continued justification at proportionate gates | independent assurance, internal audit, senior decision makers, regulators/oversight"
+    },
+    {
+      "slug": "government-preserve-audit-evidence",
+      "score": 59,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Preserve Audit Evidence** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-preserve-audit-evidence`, `preserve-audit-evidence`, or the corresponding professional workflow: assurance, audit, and stage-gate review | test business case, governance, controls, readiness, evidence, and continued justification at proportionate gates | independent assurance, internal audit, senior decision makers, regulators/oversight"
+    },
+    {
+      "slug": "finance-financial-close-support",
+      "score": 57,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Financial Close Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-financial-close-support`, `financial-close-support`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "finance-management-reporting",
+      "score": 57,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Management Reporting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-management-reporting`, `management-reporting`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "data-strategy-analytics-insight-synthesis",
+      "score": 56,
+      "domain": "data",
+      "description": "Synthesize analytics evidence into transparent insights, assumptions, and next questions. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Analytics and Decision Support Capability Director."
+    },
+    {
+      "slug": "data-strategy-portfolio-roadmap-synthesis",
+      "score": 56,
+      "domain": "data",
+      "description": "Synthesize portfolio roadmap dependencies, outcomes, investment, and decision points. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "healthcare-vendor-business-associate-governance",
+      "score": 54,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Vendor Business Associate Governance** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-vendor-business-associate-governance`, `vendor-business-associate-governance`, or the corresponding professional workflow: vendor-and-business-associate-governance | assess third-party access and service risk, execute appropriate agreements, define security/privacy obligations, and monitor performance | procurement, privacy/security, legal, compliance, vendor owner"
+    },
+    {
+      "slug": "legal-contract-template-governance",
+      "score": 54,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Template Governance** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-template-governance`, `contract-template-governance`, or the corresponding professional workflow: contract-request-and-template-governance | determine approved template, fallback language, required metadata, and escalation thresholds | handoff to business owner, legal reviewer, procurement, finance, security/privacy, and authorized signer"
+    },
+    {
+      "slug": "procurement-monitor-supplier-performance",
+      "score": 54,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Monitor Supplier Performance** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-monitor-supplier-performance`, `monitor-supplier-performance`, or the corresponding professional workflow: supplier-performance-and-relationship-management | set governance cadence, KPIs, service reviews, corrective actions, collaboration model, and escalation path proportional to supplier criticality | handoff to contract manager, service owner, supplier account team, risk/compliance, and executive sponsor"
+    },
+    {
+      "slug": "product-product-analytics",
+      "score": 54,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Analytics** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-analytics`, `product-analytics`, or the corresponding professional workflow: measure-product-performance-and-learning | decide whether outcomes, adoption, retention, value, cost, and risk justify iteration, investment, remediation, or retirement | handoff to analytics, finance, customer success, engineering, operations, and portfolio governance"
+    },
+    {
+      "slug": "chief-of-staff-decision-intelligence-specialist",
+      "score": 53,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Decision Intelligence Specialist role: decision intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-executive-decision-analyst",
+      "score": 53,
+      "domain": "chief-of-staff",
+      "description": "Use for chief of staff work requiring the Executive Decision Analyst role: executive decision; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-strategy-dashboard-quality-review",
+      "score": 53,
+      "domain": "data",
+      "description": "Review dashboard quality, metric definitions, freshness, and interpretation risks. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Analytics and Decision Support Capability Director."
+    },
+    {
+      "slug": "automation-assess-automation-opportunity",
+      "score": 51,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Assess Automation Opportunity** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-assess-automation-opportunity`, `assess-automation-opportunity`, or the corresponding professional workflow: automation-opportunity-assessment | decide whether a candidate is suitable for workflow/RPA/API/AI automation based on stability, rule clarity, exception rate, value, feasibility, and risk | handoff to automation portfolio governance, enterprise architecture, security, legal/privacy, and finance"
+    },
+    {
+      "slug": "automation-prioritize-automation-portfolio",
+      "score": 51,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Prioritize Automation Portfolio** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-prioritize-automation-portfolio`, `prioritize-automation-portfolio`, or the corresponding professional workflow: automation-opportunity-assessment | decide whether a candidate is suitable for workflow/RPA/API/AI automation based on stability, rule clarity, exception rate, value, feasibility, and risk | handoff to automation portfolio governance, enterprise architecture, security, legal/privacy, and finance"
+    },
+    {
+      "slug": "customer-service-case-escalation-preparation",
+      "score": 51,
+      "domain": "customer-success",
+      "description": "Prepare a case escalation packet with timeline, evidence, impact, and requested decision. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Escalation and Complaint Management Capability Director."
+    },
+    {
+      "slug": "cybersecurity-audit-evidence-management",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Audit Evidence Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-audit-evidence-management`, `audit-evidence-management`, or the corresponding professional workflow: Vulnerability and exposure management | collect scan and threat-intelligence evidence, validate severity and exploitability, prioritize remediation, compensate where needed, and verify closure | infrastructure/application owners, SOC, threat intelligence, patch/change management, and risk owners"
+    },
+    {
+      "slug": "cybersecurity-control-selection",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Control Selection** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-control-selection`, `control-selection`, or the corresponding professional workflow: Control selection and risk treatment planning | select proportionate administrative, technical, and physical safeguards"
+    },
+    {
+      "slug": "cybersecurity-cyber-risk-assessment",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cyber Risk Assessment** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cyber-risk-assessment`, `cyber-risk-assessment`, or the corresponding professional workflow: Cyber-risk identification and assessment | inventory assets, data, services, dependencies, threats, vulnerabilities, likelihood, impact, and control gaps, then prioritize treatment | asset owners, risk owners, security architecture, business continuity, and finance"
+    },
+    {
+      "slug": "cybersecurity-risk-treatment-planning",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Risk Treatment Planning** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-risk-treatment-planning`, `risk-treatment-planning`, or the corresponding professional workflow: Control selection and risk treatment planning | select proportionate administrative, technical, and physical safeguards"
+    },
+    {
+      "slug": "cybersecurity-security-awareness-management",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Awareness Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-awareness-management`, `security-awareness-management`, or the corresponding professional workflow: Security awareness and workforce risk management | identify role-based training and insider-risk safeguards, measure completion and behavior, and escalate material noncompliance | HR, learning teams, legal, privacy, managers, insider-risk, and security operations"
+    },
+    {
+      "slug": "cybersecurity-security-control-assessment",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Control Assessment** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-control-assessment`, `security-control-assessment`, or the corresponding professional workflow: Cyber-risk identification and assessment | inventory assets, data, services, dependencies, threats, vulnerabilities, likelihood, impact, and control gaps, then prioritize treatment | asset owners, risk owners, security architecture, business continuity, and finance"
+    },
+    {
+      "slug": "cybersecurity-supply-chain-cyber-risk",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Supply Chain Cyber Risk** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-supply-chain-cyber-risk`, `supply-chain-cyber-risk`, or the corresponding professional workflow: Third-party and supply-chain cyber-risk management | tier suppliers, perform due diligence, set security requirements and incident clauses, monitor material changes, and manage exit/contingency plans | procurement, vendor management, legal, privacy, business owners, architecture, and suppliers"
+    },
+    {
+      "slug": "cybersecurity-vulnerability-exposure-management",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Vulnerability Exposure Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-vulnerability-exposure-management`, `vulnerability-exposure-management`, or the corresponding professional workflow: Vulnerability and exposure management | collect scan and threat-intelligence evidence, validate severity and exploitability, prioritize remediation, compensate where needed, and verify closure | infrastructure/application owners, SOC, threat intelligence, patch/change management, and risk owners"
+    },
+    {
+      "slug": "engineering-software-supply-chain-governance",
+      "score": 51,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Software Supply Chain Governance** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-software-supply-chain-governance`, `software-supply-chain-governance`, or the corresponding professional workflow: Secure software and supply-chain assurance | identify threats, remediate vulnerabilities, validate dependencies/provenance, and decide residual risk disposition | security engineering, privacy/legal, procurement, suppliers, and accountable release owner"
+    },
+    {
+      "slug": "finance-capital-allocation",
+      "score": 51,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Capital Allocation** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-capital-allocation`, `capital-allocation`, or the corresponding professional workflow: Capital allocation and portfolio governance | rank competing capex, product, technology, and M&A uses of capital against hurdle rates, liquidity, risk, and strategic priorities"
+    },
+    {
+      "slug": "government-manage-grants-lifecycle",
+      "score": 51,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Manage Grants Lifecycle** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-manage-grants-lifecycle`, `manage-grants-lifecycle`, or the corresponding professional workflow: grants lifecycle administration | design funding opportunity, assess applications, make documented award decisions, monitor performance, and close out awards | grants officers, program officials, finance, recipients, audit/oversight bodies"
+    },
+    {
+      "slug": "government-measure-benefits-and-performance",
+      "score": 51,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Measure Benefits And Performance** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-measure-benefits-and-performance`, `measure-benefits-and-performance`, or the corresponding professional workflow: benefits, performance, and post-implementation evaluation | define measures, collect reliable outcome/impact data, compare with baseline, realize benefits, and capture lessons | benefits owners, analysts, finance, policy evaluators, audit, portfolio governance"
+    },
+    {
+      "slug": "healthcare-health-records-governance",
+      "score": 51,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Health Records Governance** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-health-records-governance`, `health-records-governance`, or the corresponding professional workflow: records-and-information-governance | set retention, access, amendment, release-of-information, legal-hold, and defensible disposal controls for clinical and business records | HIM, privacy officer, legal, IT, clinical and finance process owners"
+    },
+    {
+      "slug": "healthcare-patient-safety-event-management",
+      "score": 51,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Patient Safety Event Management** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-patient-safety-event-management`, `patient-safety-event-management`, or the corresponding professional workflow: patient-safety-event-management | capture adverse events and near misses, classify severity, conduct structured causal analysis, and implement/track corrective actions | patient-safety office, risk management, clinical leadership, quality committee, affected patients/families"
+    },
+    {
+      "slug": "legal-contract-drafting-redlining",
+      "score": 51,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Drafting Redlining** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-drafting-redlining`, `contract-drafting-redlining`, or the corresponding professional workflow: contract-drafting-and-redlining | identify deviations from playbook, allocate risk positions, and decide whether non-standard terms require specialist review | handoff to counterparties, negotiating counsel, business sponsor, and approval committee"
+    },
+    {
+      "slug": "media-correction-takedown-governance",
+      "score": 51,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Correction Takedown Governance** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-correction-takedown-governance`, `correction-takedown-governance`, or the corresponding professional workflow: Measure performance and manage corrections | review audience, engagement, completion, complaints, takedowns, and rights or factual issues"
+    },
+    {
+      "slug": "people-learning-development",
+      "score": 51,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Learning Development** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-learning-development`, `learning-development`, or the corresponding professional workflow: performance and development management | set measurable goals, gather multi-source evidence, calibrate ratings, plan development, and handle performance concerns | employee, manager, HRBP, learning team, calibration committee"
+    },
+    {
+      "slug": "people-performance-management",
+      "score": 51,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Performance Management** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-performance-management`, `performance-management`, or the corresponding professional workflow: performance and development management | set measurable goals, gather multi-source evidence, calibrate ratings, plan development, and handle performance concerns | employee, manager, HRBP, learning team, calibration committee"
+    },
+    {
+      "slug": "procurement-sourcing-event-design",
+      "score": 51,
+      "domain": "procurement",
+      "description": "Prepare a sourcing-event design packet with scope, criteria, and governance checkpoints. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Demand and Category Management Capability Director."
+    },
+    {
+      "slug": "research-protocol-preregistration",
+      "score": 51,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Protocol Preregistration** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-protocol-preregistration`, `protocol-preregistration`, or the corresponding professional workflow: Protocol and preregistration | decide methods, inclusion criteria, outcomes, analysis plan, deviations policy, and registration venue before results are known | handoff to protocol reviewers, registry/platform owners, and governance or ethics reviewers"
+    },
+    {
+      "slug": "automation-govern-access-and-data",
+      "score": 48,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Govern Access And Data** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-govern-access-and-data`, `govern-access-and-data`, or the corresponding professional workflow: access-data-and-records-governance | decide least-privilege access, data minimization, classification, retention/deletion, logging, evidence preservation, and third-party data handling | handoff to IAM, privacy, security operations, records/legal, and audit"
+    },
+    {
+      "slug": "construction-change-order-governance",
+      "score": 48,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Change Order Governance** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-change-order-governance`, `change-order-governance`, or the corresponding professional workflow: no autonomous change order, payment, or claim decision"
+    },
+    {
+      "slug": "cyber-resilience-security-risk-register-update",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Prepare security risk-register update evidence, treatment options, and owners. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Governance Capability Director."
+    },
+    {
+      "slug": "cybersecurity-cyber-crisis-management",
+      "score": 48,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cyber Crisis Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cyber-crisis-management`, `cyber-crisis-management`, or the corresponding professional workflow: Incident response and cyber-crisis management | prepare and exercise playbooks, classify incidents, preserve evidence, contain/eradicate/recover, coordinate notifications, and conduct lessons learned | incident commander, SOC, IT operations, legal, privacy, communications, executives, regulators, law enforcement, and affected customers"
+    },
+    {
+      "slug": "cybersecurity-identity-access-governance",
+      "score": 48,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Identity Access Governance** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-identity-access-governance`, `identity-access-governance`, or the corresponding professional workflow: Identity and access governance | establish joiner-mover-leaver, authentication, privileged access, entitlement review, and segregation-of-duties processes | HR, IAM operations, application/data owners, internal audit, and legal/compliance"
+    },
+    {
+      "slug": "cybersecurity-incident-response-coordination",
+      "score": 48,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Incident Response Coordination** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-incident-response-coordination`, `incident-response-coordination`, or the corresponding professional workflow: Security monitoring and detection engineering | define telemetry requirements, detection logic, alert triage, escalation thresholds, and tuning based on validated threat scenarios | SOC, platform/logging teams, incident response, threat intelligence, privacy, and service owners"
+    },
+    {
+      "slug": "cybersecurity-resilience-recovery-validation",
+      "score": 48,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Resilience Recovery Validation** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-resilience-recovery-validation`, `resilience-recovery-validation`, or the corresponding professional workflow: Resilience, recovery, and continuity validation | map critical services and recovery objectives, test backups/failover/tabletops, assess dependencies, and update continuity plans | business continuity, disaster recovery, infrastructure, application owners, suppliers, executives, and emergency management"
+    },
+    {
+      "slug": "cybersecurity-security-detection-engineering",
+      "score": 48,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Detection Engineering** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-detection-engineering`, `security-detection-engineering`, or the corresponding professional workflow: Security monitoring and detection engineering | define telemetry requirements, detection logic, alert triage, escalation thresholds, and tuning based on validated threat scenarios | SOC, platform/logging teams, incident response, threat intelligence, privacy, and service owners"
+    },
+    {
+      "slug": "data-strategy-business-case-preparation",
+      "score": 48,
+      "domain": "data",
+      "description": "Prepare business-case evidence, assumptions, benefits, costs, risks, and owners. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "data-strategy-dependency-risk-analysis",
+      "score": 48,
+      "domain": "data",
+      "description": "Analyze cross-program dependency risk and prepare accountable mitigation options. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the PMO and Delivery Governance Capability Director."
+    },
+    {
+      "slug": "data-strategy-model-risk-assessment-prep",
+      "score": 48,
+      "domain": "data",
+      "description": "Prepare model-risk assessment evidence, validation needs, and human review route. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the AI Governance Capability Director."
+    },
+    {
+      "slug": "design-assess-privacy-by-design",
+      "score": 48,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Assess Privacy By Design** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-assess-privacy-by-design`, `assess-privacy-by-design`, or the corresponding professional workflow: Validate privacy, security, and data flows by design | identify personal-data processing, lawful/organizational constraints, minimization, consent/notice, retention, access, and threat implications before implementation | privacy officer, security, legal, data governance, engineering"
+    },
+    {
+      "slug": "government-administer-procurement",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Administer Procurement** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-administer-procurement`, `administer-procurement`, or the corresponding professional workflow: acquisition planning and procurement | determine make/buy, procurement route, competition, specifications, evaluation criteria, and contract controls | contracting authority, commercial/legal, finance, suppliers, probity and oversight bodies"
+    },
+    {
+      "slug": "government-govern-change-requests",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Govern Change Requests** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-govern-change-requests`, `govern-change-requests`, or the corresponding professional workflow: programme and project initiation | define scope, governance, lifecycle, tolerances, business case, delivery approach, and accountable owner | sponsor, project/programme office, architecture, commercial, security, assurance"
+    },
+    {
+      "slug": "healthcare-credentialing-privileging-review",
+      "score": 48,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Credentialing Privileging Review** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-credentialing-privileging-review`, `credentialing-privileging-review`, or the corresponding professional workflow: credentialing-and-privileging | verify licensure, qualifications, competence, sanctions, peer-review evidence, and scope of privileges before appointment or renewal | medical staff office, credentialing committee, HR, licensing boards, governing body"
+    },
+    {
+      "slug": "intelligence-govern-release-and-access",
+      "score": 48,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Govern Release And Access** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-govern-release-and-access`, `govern-release-and-access`, or the corresponding professional workflow: review-and-release-governance | perform peer review, citation/evidence checks, privacy and legal screening, classification/access checks, and release approval | handoff to accountable human approver and records custodian"
+    },
+    {
+      "slug": "legal-risk-records-retention-review",
+      "score": 48,
+      "domain": "legal",
+      "description": "Review records retention requirements, holds, classifications, and disposition dependencies. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Information Governance Capability Director."
+    },
+    {
+      "slug": "media-content-capture",
+      "score": 48,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Content Capture** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-content-capture`, `content-capture`, or the corresponding professional workflow: Produce and capture content | execute approved script, shot list, editorial plan, and technical specifications while logging deviations and incidents | handoff to director/editor, camera/sound departments, production coordinator, and post-production"
+    },
+    {
+      "slug": "people-employee-records-governance",
+      "score": 48,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Employee Records Governance** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-employee-records-governance`, `employee-records-governance`, or the corresponding professional workflow: employee data and records administration | determine lawful purpose, data classification, access rights, retention, corrections, and audit trail for personnel records | HR operations, privacy/security, payroll, legal, employee"
+    },
+    {
+      "slug": "product-backlog-governance",
+      "score": 48,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Backlog Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-backlog-governance`, `backlog-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-responsible-ai-product-governance",
+      "score": 48,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Responsible Ai Product Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-responsible-ai-product-governance`, `responsible-ai-product-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "sales-stage-governance",
+      "score": 48,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Stage Governance** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-stage-governance`, `stage-governance`, or the corresponding professional workflow: opportunity-qualification-and-stage-governance | decide pursue, nurture, disqualify, or no-bid using evidence for need, access, timing, competition, budget, and decision process | hand off stage evidence and forecast recommendation to sales leadership and revenue operations"
+    },
+    {
+      "slug": "cio-board-technology-materials",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "CIO Board Technology Materials for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "data-strategy-sustainability-initiative-prioritization",
+      "score": 45,
+      "domain": "data",
+      "description": "Prepare sustainability initiative prioritization evidence without making investment decisions. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Sustainability Operations Capability Director."
+    },
+    {
+      "slug": "engineering-architecture-decision-record",
+      "score": 45,
+      "domain": "engineering",
+      "description": "Prepare architecture decision record evidence, tradeoffs, standards, and reviewers. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Technical Design and Architecture Capability Director."
+    },
+    {
+      "slug": "it-architecture-decision-pack",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Prepare architecture decision evidence, options, standards, and approver routing. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "procurement-three-way-match-resolution",
+      "score": 45,
+      "domain": "procurement",
+      "description": "Reconcile purchase order, receipt, and invoice evidence for unresolved matches. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Payables and Procurement Capability Director."
+    },
+    {
+      "slug": "procurement-onboard-supplier",
+      "score": 43,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Onboard Supplier** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-onboard-supplier`, `onboard-supplier`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "research-evidence-to-decision",
+      "score": 43,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Evidence To Decision** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-evidence-to-decision`, `evidence-to-decision`, or the corresponding professional workflow: Certainty-of-evidence assessment | decide certainty per outcome using risk of bias, inconsistency, indirectness, imprecision, and publication-bias considerations, with justified upgrades where applicable | handoff to GRADE or equivalent appraisal panel and decision-makers"
+    },
+    {
+      "slug": "cio-architecture-review-board",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Architecture Review Board for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-board-technology-advisory",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Board Technology Advisory for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-build-buy-partner-decision",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Build Buy Partner Decision for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-innovation-scale-stop-decision",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Innovation Scale Stop Decision for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-outsourcing-decision",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Outsourcing Decision for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-governance-committee",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Technology Governance Committee for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-workload-placement-decision",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Workload Placement Decision for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-entity-resolution",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Cios Customer Entity Resolution for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-decision-ledger",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Enterprise Decision Ledger for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-board-support",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Board Support for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-case-resolution",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Case Resolution for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-executive-decision-support",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Executive Decision Support for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-issue-to-resolution",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Process Issue To Resolution for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-research-to-experiment-to-decision",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Process Research To Experiment To Decision for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "director-breakdown",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Translate scene meaning into audience information, performance intention, blocking, coverage priorities and pickup protection."
+    },
+    {
+      "slug": "engineering-architecture-decision-recording",
+      "score": 37,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Architecture Decision Recording** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-architecture-decision-recording`, `architecture-decision-recording`, or the corresponding professional workflow: Architecture and technical decision management | choose system boundaries, interfaces, non-functional requirements, technology constraints, and record trade-offs in decision records | security, platform/operations, data, enterprise architecture, and product owners"
+    },
+    {
+      "slug": "intelligence-build-decision-dashboards",
+      "score": 37,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Build Decision Dashboards** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-build-decision-dashboards`, `build-decision-dashboards`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "people-offboarding-workforce-transition",
+      "score": 37,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Offboarding Workforce Transition** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-offboarding-workforce-transition`, `offboarding-workforce-transition`, or the corresponding professional workflow: offboarding and workforce-transition management | decide voluntary/involuntary exit steps, notice and final-pay requirements, access closure, records retention, knowledge transfer, and exit feedback | manager, HR, payroll, IT/security, facilities, legal, employee or representative"
+    },
+    {
+      "slug": "people-onboarding-administration",
+      "score": 37,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Onboarding Administration** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-onboarding-administration`, `onboarding-administration`, or the corresponding professional workflow: onboarding and employment administration | decide readiness for start, access, policy acknowledgements, required training, payroll/benefits enrollment, and probation milestones | new hire, manager, HR operations, IT/security, payroll, facilities"
+    },
+    {
+      "slug": "sales-procurement-onboarding",
+      "score": 37,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Procurement Onboarding** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-procurement-onboarding`, `procurement-onboarding`, or the corresponding professional workflow: procurement-and-vendor-onboarding | decide how the customer\u2019s tender, evaluation, due diligence, supplier onboarding, and purchase-order process will be satisfied | hand off required evidence and negotiated commitments to customer procurement, vendor management, finance, and delivery"
+    },
+    {
+      "slug": "cio-application-security-governance",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Application Security Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-cloud-security-governance",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Cloud Security Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-iam-governance",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO IAM Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-incident-response-governance",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Incident Response Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-vulnerability-management-governance",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Vulnerability Management Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "decision-rights-and-human-handoff",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Define action tiers, approvals, hard stops, and structured handoffs for IBM Mode capability cases. Use when an agent recommends, routes, prepares, or executes any action."
+    },
+    {
+      "slug": "ibm-sales-ext-partner-alliance-governance",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Validate alliance program rules, partner authorization, deal registration status, incentive boundaries, and escalation routes before joint action. Use when the IBM Sales control mode selects capability `partner-marketing.alliance-governance` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-onboarding-value-data-audit",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Audit whether IBM Sales agentic workflows are appropriate for a seller, team, or sales operation; identify benefit hypotheses, process and data readiness, governance gaps, and data-lake opportunities. Use for first onboarding, pilot prioritization, program expansion, data-readiness assessment, or a request to determine whether the package will improve a user\u2019s work."
+    },
+    {
+      "slug": "procurement-supplier-onboarding-readiness",
+      "score": 34,
+      "domain": "procurement",
+      "description": "Assess supplier onboarding readiness, required evidence, and missing controls. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "cio-ai-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO AI Governance for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-cmdb-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Cmdb Governance for Service Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-data-access-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Data Access Governance for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-data-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Data Governance for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-data-retention-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Data Retention Governance for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-finops-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Finops Governance for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-investment-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Investment Governance for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-program-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Program Governance for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-rto-rpo-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO RTO RPO Governance for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-stage-gate-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Stage Gate Governance for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technical-debt-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technical Debt Governance for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-insight-dashboard",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Insight Dashboard for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "decision_logging",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Decision Logging specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "enterprise-cost-and-budget-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Enterprise Cost And Budget Governance for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-enterprise-onboarding-compiler",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Enterprise Enterprise Onboarding Compiler for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-onboarding-orchestrator",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Enterprise Onboarding Orchestrator for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-corporate-governance-support",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Corporate Governance Support for Legal. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-customer-onboarding",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Customer Onboarding for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-employee-offboarding",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Employee Offboarding for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-employee-onboarding",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Employee Onboarding for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-milestone-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Milestone Governance for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-okr-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Okr Governance for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-platform-engineering-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Platform Engineering Governance for Engineering. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-software-development-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Software Development Governance for Engineering. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supplier-onboarding",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Supplier Onboarding for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "evaluation-and-release-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Test, certify, promote, update, or retire IBM Mode capability packages. Use before pilot or production release and after material changes to skills, knowledge, tools, models, policies, or authority."
+    },
+    {
+      "slug": "film-studio-os-onboarding",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Connect and orient a new user to the IBM Bob \u00d7 Higgsfield MCP Cinema Studio workspace. Runs a guided onboarding sequence that validates environment readiness, maps the user's role and intent to the right Bob modes and skills, explains the Bob \u2194 Higgsfield MCP governance chain, and routes them into the correct first production activity."
+    },
+    {
+      "slug": "ibm-sales-ext-ops-pipeline-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Evaluate pipeline workflow health, stage hygiene, aging, next-step evidence, owner accountability, and systemic bottlenecks for operational review. Use when the IBM Sales control mode selects capability `sales-operations.pipeline-governance` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "people-onboarding-readiness-assessment",
+      "score": 31,
+      "domain": "people",
+      "description": "Assess onboarding readiness, required records, equipment, access, and manager dependencies. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Employee Lifecycle Operations Capability Director."
+    },
+    {
+      "slug": "research-director",
+      "score": 31,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Director role: research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-customer-onboarding-readiness",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Assess customer onboarding prerequisites, commitments, and unresolved dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "sales-buying-committee-mapper",
+      "score": 31,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Buying Committee Mapper role: buying committee mapper; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-decision-process-analyst",
+      "score": 31,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Decision Process Analyst role: decision process; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-director",
+      "score": 31,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Sales Director role: sales; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "watsonx-governance-agent-monitoring",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance Agent Monitoring for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-governance-agentic-catalog",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance Agentic Catalog for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-governance-ai-use-case-registration",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance AI Use Case Registration for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-governance-approval-workflow",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance Approval Workflow for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-governance-evaluation-policy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance Evaluation Policy for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-governance-factsheet-evidence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance Factsheet Evidence for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-governance-guardrail-policy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance Guardrail Policy for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    }
+  ],
+  "primary_accountable": [
+    "cio-architecture-review-board",
+    "cio-board-technology-materials",
+    "cio-technology-governance-committee",
+    "cio-workload-placement-decision",
+    "cios-customer-entity-resolution",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "data-strategy-dashboard-quality-review",
+    "decision-rights-and-human-handoff",
+    "decision_logging",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "director-breakdown",
+    "enterprise-decision-ledger",
+    "eos-board-support",
+    "eos-executive-decision-support",
+    "excel-to-bob-chunks",
+    "finance-executive-decision-support",
+    "it-architecture-decision-pack",
+    "legal-risk-board-governance-pack"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

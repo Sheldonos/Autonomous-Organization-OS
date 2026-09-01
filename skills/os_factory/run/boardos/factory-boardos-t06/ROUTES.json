@@ -1,0 +1,27 @@
+{
+  "pocket": "boardos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "chief-of-staff-privacy-aware-information-handling",
+    "chief-of-staff-decision-record-management",
+    "chief-of-staff-board-materials-governance",
+    "chief-of-staff-executive-meeting-orchestration",
+    "chief-of-staff-decision-rights-mapping",
+    "chief-of-staff-escalation-triage",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "legal-risk-board-governance-pack",
+    "automation-improve-process-performance",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "chief-of-staff-principal-transition-handoff",
+    "cybersecurity-zero-trust-architecture-review",
+    "government-control-delivery-baselines",
+    "agency-operations-stakeholder-communications-governance",
+    "chief-of-staff-organizational-sensing",
+    "chief-of-staff-risk-crisis-coordination",
+    "finance-executive-decision-support",
+    "chief-of-staff-cross-functional-initiative-coordination"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "bidos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "government-public-sector-solution-strategist",
+    "sales-contract-approval",
+    "sales-proposal-management",
+    "sales-competitive-strategy",
+    "sales-bid-no-bid",
+    "government-assess-privacy-and-security",
+    "government-manage-public-sector-risks",
+    "government-manage-user-needs",
+    "government-prioritize-public-investments",
+    "government-verify-and-validate-solutions",
+    "ibm-pro-011",
+    "procurement-analyze-make-buy",
+    "procurement-develop-sourcing-strategy",
+    "government-manage-grants-lifecycle",
+    "government-grant-research-specialist",
+    "government-grant-writer",
+    "government-procurement-specialist",
+    "ibm-sales-scale-058",
+    "sales-procurement-response-strategist",
+    "sales-rfp-response-strategist"
+  ]
+}

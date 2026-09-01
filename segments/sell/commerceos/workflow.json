@@ -1,0 +1,53 @@
+{
+  "pocket": "commerceos",
+  "stages": [
+    {
+      "order": 1,
+      "name": "Market & product discovery",
+      "team_id": "t01",
+      "gate": "assurance"
+    },
+    {
+      "order": 2,
+      "name": "Sourcing",
+      "team_id": "t02",
+      "gate": "assurance"
+    },
+    {
+      "order": 3,
+      "name": "Unit economics & pricing",
+      "team_id": "t03",
+      "gate": "assurance"
+    },
+    {
+      "order": 4,
+      "name": "Catalog & storefront",
+      "team_id": "t04",
+      "gate": "assurance"
+    },
+    {
+      "order": 5,
+      "name": "Content & acquisition",
+      "team_id": "t05",
+      "gate": "assurance"
+    },
+    {
+      "order": 6,
+      "name": "Conversion optimization",
+      "team_id": "t06",
+      "gate": "assurance"
+    },
+    {
+      "order": 7,
+      "name": "Fulfillment",
+      "team_id": "t07",
+      "gate": "assurance"
+    },
+    {
+      "order": 8,
+      "name": "Retention & merchandising loop",
+      "team_id": "t08",
+      "gate": "assurance"
+    }
+  ]
+}

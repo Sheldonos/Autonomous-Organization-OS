@@ -1,0 +1,27 @@
+{
+  "pocket": "franchiseos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cio-it-unit-economics",
+    "eos-unit-economics",
+    "finance-unit-economics-analyst",
+    "business-development-alliance-management",
+    "cio-model-economics",
+    "finance-driver-based-budgeting",
+    "ibm-met-sm-009",
+    "media-media-asset-management",
+    "media-release-management",
+    "media-rights-clearance",
+    "ibm-met-se-002",
+    "ibm-met-sm-004",
+    "ibm-sales-scale-009",
+    "revenue-territory-coverage-analysis",
+    "automation-monitor-automation-runs",
+    "ibm-met-001",
+    "ibm-met-002",
+    "ibm-met-003",
+    "ibm-met-005",
+    "ibm-met-006"
+  ]
+}

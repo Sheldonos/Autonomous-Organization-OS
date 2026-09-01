@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "pocket": "grantos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 20,
+  "skills": [
+    {
+      "slug": "government-manage-grants-lifecycle",
+      "score": 77,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Manage Grants Lifecycle** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-manage-grants-lifecycle`, `manage-grants-lifecycle`, or the corresponding professional workflow: grants lifecycle administration | design funding opportunity, assess applications, make documented award decisions, monitor performance, and close out awards | grants officers, program officials, finance, recipients, audit/oversight bodies"
+    },
+    {
+      "slug": "government-grant-research-specialist",
+      "score": 62,
+      "domain": "government",
+      "description": "Use for government work requiring the Grant Research Specialist role: grant research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-control-delivery-baselines",
+      "score": 59,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Control Delivery Baselines** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-control-delivery-baselines`, `control-delivery-baselines`, or the corresponding professional workflow: delivery planning and integrated control | establish schedule, dependencies, resources, milestones, costs, quality criteria, and reporting cadence | workstream leads, programme controls, finance, suppliers, governance board"
+    },
+    {
+      "slug": "government-grant-writer",
+      "score": 59,
+      "domain": "government",
+      "description": "Use for government work requiring the Grant Writer role: grant; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-assess-privacy-and-security",
+      "score": 51,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Assess Privacy And Security** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-assess-privacy-and-security`, `assess-privacy-and-security`, or the corresponding professional workflow: solution quality, verification, and validation | inspect deliverables, test against design and acceptance criteria, validate against user need, and manage defects | QA, test teams, users, security/privacy/accessibility reviewers, product owner"
+    },
+    {
+      "slug": "government-budget-analyst",
+      "score": 51,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Budget Analyst role: government budget; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-conduct-stage-gate-assurance",
+      "score": 51,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Conduct Stage Gate Assurance** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-conduct-stage-gate-assurance`, `conduct-stage-gate-assurance`, or the corresponding professional workflow: assurance, audit, and stage-gate review | test business case, governance, controls, readiness, evidence, and continued justification at proportionate gates | independent assurance, internal audit, senior decision makers, regulators/oversight"
+    },
+    {
+      "slug": "government-manage-public-sector-risks",
+      "score": 51,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Manage Public Sector Risks** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-manage-public-sector-risks`, `manage-public-sector-risks`, or the corresponding professional workflow: requirements and user-needs management | elicit, prioritize, baseline, and trace user, stakeholder, statutory, and operational requirements | service users, policy teams, delivery teams, accessibility specialists, solution architects"
+    },
+    {
+      "slug": "government-manage-user-needs",
+      "score": 51,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Manage User Needs** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-manage-user-needs`, `manage-user-needs`, or the corresponding professional workflow: requirements and user-needs management | elicit, prioritize, baseline, and trace user, stakeholder, statutory, and operational requirements | service users, policy teams, delivery teams, accessibility specialists, solution architects"
+    },
+    {
+      "slug": "government-preserve-audit-evidence",
+      "score": 51,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Preserve Audit Evidence** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-preserve-audit-evidence`, `preserve-audit-evidence`, or the corresponding professional workflow: assurance, audit, and stage-gate review | test business case, governance, controls, readiness, evidence, and continued justification at proportionate gates | independent assurance, internal audit, senior decision makers, regulators/oversight"
+    },
+    {
+      "slug": "government-public-sector-compliance-reviewer",
+      "score": 51,
+      "domain": "government",
+      "description": "Use for government work requiring the Public-Sector Compliance Reviewer role: public-sector compliance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-verify-and-validate-solutions",
+      "score": 51,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Verify And Validate Solutions** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-verify-and-validate-solutions`, `verify-and-validate-solutions`, or the corresponding professional workflow: solution quality, verification, and validation | inspect deliverables, test against design and acceptance criteria, validate against user need, and manage defects | QA, test teams, users, security/privacy/accessibility reviewers, product owner"
+    },
+    {
+      "slug": "government-administer-procurement",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Administer Procurement** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-administer-procurement`, `administer-procurement`, or the corresponding professional workflow: acquisition planning and procurement | determine make/buy, procurement route, competition, specifications, evaluation criteria, and contract controls | contracting authority, commercial/legal, finance, suppliers, probity and oversight bodies"
+    },
+    {
+      "slug": "government-align-policy-to-outcomes",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Align Policy To Outcomes** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-align-policy-to-outcomes`, `align-policy-to-outcomes`, or the corresponding professional workflow: policy-to-delivery alignment and intervention evaluation | confirm statutory/policy objectives, outcomes, evidence plan, and value-for-money case | policy owners, analysts, finance, senior responsible owner, assurance"
+    },
+    {
+      "slug": "government-community-impact-analyst",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Community Impact Analyst role: community impact; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-contract-analyst",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Contract Analyst role: government contract; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-evaluate-policy-interventions",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Evaluate Policy Interventions** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-evaluate-policy-interventions`, `evaluate-policy-interventions`, or the corresponding professional workflow: policy-to-delivery alignment and intervention evaluation | confirm statutory/policy objectives, outcomes, evidence plan, and value-for-money case | policy owners, analysts, finance, senior responsible owner, assurance"
+    },
+    {
+      "slug": "government-govern-change-requests",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Govern Change Requests** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-govern-change-requests`, `govern-change-requests`, or the corresponding professional workflow: programme and project initiation | define scope, governance, lifecycle, tolerances, business case, delivery approach, and accountable owner | sponsor, project/programme office, architecture, commercial, security, assurance"
+    },
+    {
+      "slug": "government-initiate-government-programmes",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Initiate Government Programmes** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-initiate-government-programmes`, `initiate-government-programmes`, or the corresponding professional workflow: policy-to-delivery alignment and intervention evaluation | confirm statutory/policy objectives, outcomes, evidence plan, and value-for-money case | policy owners, analysts, finance, senior responsible owner, assurance"
+    },
+    {
+      "slug": "government-legislative-analyst",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Legislative Analyst role: legislative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-measure-benefits-and-performance",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Measure Benefits And Performance** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-measure-benefits-and-performance`, `measure-benefits-and-performance`, or the corresponding professional workflow: benefits, performance, and post-implementation evaluation | define measures, collect reliable outcome/impact data, compare with baseline, realize benefits, and capture lessons | benefits owners, analysts, finance, policy evaluators, audit, portfolio governance"
+    },
+    {
+      "slug": "government-orchestrator",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Orchestrator role: government; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-plan-public-acquisitions",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Plan Public Acquisitions** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-plan-public-acquisitions`, `plan-public-acquisitions`, or the corresponding professional workflow: policy-to-delivery alignment and intervention evaluation | confirm statutory/policy objectives, outcomes, evidence plan, and value-for-money case | policy owners, analysts, finance, senior responsible owner, assurance"
+    },
+    {
+      "slug": "government-policy-impact-analyst",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Policy Impact Analyst role: policy impact; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-policy-researcher",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Policy Researcher role: policy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-policy-simulation-specialist",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Policy Simulation Specialist role: policy simulation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-prioritize-public-investments",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Prioritize Public Investments** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-prioritize-public-investments`, `prioritize-public-investments`, or the corresponding professional workflow: requirements and user-needs management | elicit, prioritize, baseline, and trace user, stakeholder, statutory, and operational requirements | service users, policy teams, delivery teams, accessibility specialists, solution architects"
+    },
+    {
+      "slug": "government-procurement-specialist",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Procurement Specialist role: government procurement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-program-analyst",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Program Analyst role: government program; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-public-administration-analyst",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Public Administration Analyst role: public administration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-public-policy-analyst",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Public Policy Analyst role: public policy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-public-sector-data-analyst",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Public-Sector Data Analyst role: public-sector data; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-public-sector-solution-strategist",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Public-Sector Solution Strategist role: public-sector solution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-regulatory-analyst",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Regulatory Analyst role: regulatory; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-risk-reviewer",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Government Risk Reviewer role: government risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-stakeholder-engagement-specialist",
+      "score": 48,
+      "domain": "government",
+      "description": "Use for government work requiring the Stakeholder Engagement Specialist role: stakeholder engagement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-transition-to-operations",
+      "score": 48,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Transition To Operations** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-transition-to-operations`, `transition-to-operations`, or the corresponding professional workflow: transition to operations and service acceptance | confirm operational readiness, training, support, security accreditation, data migration, handover, and residual ownership | operations, service owner, IT/security, suppliers, business continuity, end users"
+    },
+    {
+      "slug": "writing-proposal-writer",
+      "score": 41,
+      "domain": "writing",
+      "description": "Use for writing work requiring the Proposal Writer role: proposal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-pro-011",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Activate this mode for rfp compliance matrix within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "sales-contract-approval",
+      "score": 40,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Contract Approval** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-contract-approval`, `contract-approval`, or the corresponding professional workflow: bid-rfp-and-proposal-management | decide bid/no-bid, compliance matrix, response strategy, pricing narrative, references, and approval path | hand off controlled proposal package to proposal manager, SMEs, pricing, legal, contracts, and authorized approvers"
+    },
+    {
+      "slug": "sales-proposal-management",
+      "score": 40,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Proposal Management** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-proposal-management`, `proposal-management`, or the corresponding professional workflow: bid-rfp-and-proposal-management | decide bid/no-bid, compliance matrix, response strategy, pricing narrative, references, and approval path | hand off controlled proposal package to proposal manager, SMEs, pricing, legal, contracts, and authorized approvers"
+    },
+    {
+      "slug": "cybersecurity-identity-access-governance",
+      "score": 37,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Identity Access Governance** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-identity-access-governance`, `identity-access-governance`, or the corresponding professional workflow: Identity and access governance | establish joiner-mover-leaver, authentication, privileged access, entitlement review, and segregation-of-duties processes | HR, IAM operations, application/data owners, internal audit, and legal/compliance"
+    },
+    {
+      "slug": "healthcare-cms-quality-measure-reporting",
+      "score": 37,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Cms Quality Measure Reporting** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-cms-quality-measure-reporting`, `cms-quality-measure-reporting`, or the corresponding professional workflow: quality-measurement-and-reporting | select applicable CMS measures, define data specifications, validate denominators/numerators, analyze performance, and submit or attest through approved channels | quality department, data/analytics, clinical owners, CMS or other program administrator"
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-proposal-release-qa",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Validate proposal/RFP/SOW release readiness across version, claims, evidence, pricing, legal/compliance sections, approvals, and delivery dependencies. Use when the IBM Sales control mode selects capability `commercial-governance.proposal-release-qa` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-058",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Build a traceable compliance matrix mapping RFP or proposal requirements to approved evidence, owners, response status, gaps, and review state. Use when IBM Sales selects `commercial.compliance-matrix` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "it-software-asset-license-review",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Review software-asset and license evidence for compliance and optimization opportunities. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Technology Asset and Vendor Management Capability Director."
+    },
+    {
+      "slug": "research-data-extraction",
+      "score": 35,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Data Extraction** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-data-extraction`, `data-extraction`, or the corresponding professional workflow: Data extraction and evidence mapping | decide which study, population, intervention, outcome, context, and funding fields are reliable and comparable | handoff from extractors to verifier, statistician, and domain expert"
+    },
+    {
+      "slug": "research-evidence-mapping",
+      "score": 35,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Evidence Mapping** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-evidence-mapping`, `evidence-mapping`, or the corresponding professional workflow: Data extraction and evidence mapping | decide which study, population, intervention, outcome, context, and funding fields are reliable and comparable | handoff from extractors to verifier, statistician, and domain expert"
+    },
+    {
+      "slug": "construction-payment-application-review",
+      "score": 34,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Payment Application Review** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-payment-application-review`, `payment-application-review`, or the corresponding professional workflow: commercial/payment administration | verify measured progress, payment applications, retainage, lien waivers/releases, insurance/bond compliance, and supporting records against contract terms | owner/contract administrator, quantity surveyor/cost engineer, finance, contractor, lender/auditor"
+    },
+    {
+      "slug": "education-manage-credentials-records",
+      "score": 34,
+      "domain": "education",
+      "description": "Perform the bounded professional capability **Manage Credentials Records** for the **Education and Workforce Learning** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `education-manage-credentials-records`, `manage-credentials-records`, or the corresponding professional workflow: credentialing-and-records-management | verify completion, assessment evidence, identity, eligibility, badges/credentials, transcripts, and record corrections"
+    },
+    {
+      "slug": "eos-risk-reporting",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Risk Reporting for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "finance-management-reporting-pack",
+      "score": 34,
+      "domain": "finance",
+      "description": "Assemble a controlled management reporting pack with sources, assumptions, and review status. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Executive Finance Reporting Capability Director."
+    },
+    {
+      "slug": "greenlight",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Pre-submission compliance scanner for the Apple App Store. Use this skill to scan iOS, macOS, tvOS, watchOS, or visionOS app code (Swift, Objective-C, React Native, Expo) to identify potential App Store rejection risks before submission. Triggers on tasks involving app review preparation, compliance checking, App Store submission readiness, or when a user asks about App Store guidelines."
+    },
+    {
+      "slug": "ibm-bob-ads-audit",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Run a source-grounded paid-advertising audit for one or more of Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, and X. Use for full ad checks, account health reviews, paid-media diagnostics, partial audits after authentication or worker failure, missing-platform weighting, beta-feature eligibility and scoring, spend audits, tracking audits, or prioritized opportunities and risks. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-plan",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Create a professional paid-advertising strategy covering objectives, economics, platform selection, campaign architecture, audiences, budget, creative, measurement, experiments, governance, rollout, and reporting. Use for ad plan, media plan, PPC strategy, paid-social strategy, campaign architecture, advertising roadmap, or channel planning. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-report",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Render Markdown, HTML, or PDF paid-advertising reports from a validated IBM Bob Paid Media Operations JSON run bundle. Use for ads report, client report, audit PDF, executive audience reporting, or exporting prior audit and plan results. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-exp-001",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for renewal proposal generator within IBM BOB's expansion and renewal lane. Use it when the seller needs the work product of renewal manager, customer success manager, expansion seller, especially when the task should reduce manual research, analysis, writing, coordination, rev..."
+    },
+    {
+      "slug": "ibm-pro-001",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for business case builder within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pro-002",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for executive summary generator within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, rev..."
+    },
+    {
+      "slug": "ibm-pro-004",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for presentation outline generator within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, ..."
+    },
+    {
+      "slug": "ibm-pro-005",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for slide content writer (by slide) within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination,..."
+    },
+    {
+      "slug": "ibm-pro-006",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for presentation speaker notes within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, revi..."
+    },
+    {
+      "slug": "ibm-pro-007",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for proposal content writer within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review,..."
+    },
+    {
+      "slug": "ibm-pro-008",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for pricing proposal generator within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, revi..."
+    },
+    {
+      "slug": "ibm-pro-009",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for proposal qa checklist within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pro-010",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for rfp response framework within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review, ..."
+    },
+    {
+      "slug": "ibm-pro-apm-001",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for joint value proposition (with partner) within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordi..."
+    },
+    {
+      "slug": "ibm-pro-atl-001",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for executive sponsor engagement brief within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordinati..."
+    },
+    {
+      "slug": "ibm-pro-cp-001",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for statement of work (sow) generator within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordinatio..."
+    },
+    {
+      "slug": "ibm-pro-cp-002",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for services pricing & resource plan within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination..."
+    },
+    {
+      "slug": "ibm-pro-sa-001",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for technical architecture appendix within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination,..."
+    },
+    {
+      "slug": "ibm-pro-tss-001",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for technical proposal section writer within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordinatio..."
+    },
+    {
+      "slug": "ibm-sales-000",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "The singular IBM Sales orchestration control mode. Routes all seller requests through a governed execution plan \u2014 account intelligence, discovery, qualification, pipeline strategy, value engineering, proposal, negotiation, close, and adoption. Enforces human approval gates before any external write, CRM update, pricing commitment, or outreach. Use as the front door for all IBM Sales work."
+    },
+    {
+      "slug": "ibm-sales-scale-059",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Compose a proposal narrative draft from validated customer needs, approved solution/value evidence, assumptions, and required disclaimers. Use when IBM Sales selects `commercial.proposal-narrative` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "research-transparent-reporting",
+      "score": 34,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Transparent Reporting** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-transparent-reporting`, `transparent-reporting`, or the corresponding professional workflow: Risk-of-bias and applicability appraisal | decide tool and judgement for each design, including confounding, missingness, selective reporting, and applicability | handoff to independent appraisers, adjudicator, and synthesis lead"
+    },
+    {
+      "slug": "accounting-financial-reporting-specialist",
+      "score": 31,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Financial Reporting Specialist role: financial reporting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "accounting-management-reporting-specialist",
+      "score": 31,
+      "domain": "accounting",
+      "description": "Use for accounting work requiring the Management Reporting Specialist role: management reporting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "advanced-web-developer",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "A power-stacked web development workflow that combines Google Stitch (AI mockup generation), Nano Banana 2 (image-based slide presentations), 21st.dev Magic (3D and reactive React component library), and the UI/UX Pro Max design system engine. Use this skill when building any web application, landing page, dashboard, or product UI where you need to go from concept to production-ready code with maximum visual quality and speed. Triggers on tasks involving web design, UI mockups, component generation, design systems, frontend development, or client presentations."
+    },
+    {
+      "slug": "agency-proposal-consultant",
+      "score": 31,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Proposal Consultant role: proposal consultant; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-llm-application-architect",
+      "score": 31,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the LLM Application Architect role: llm application; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cio-application-architecture",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Application Architecture for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-criticality-classification",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Application Criticality Classification for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-lifecycle-risk",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Application Lifecycle Risk for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-modernization",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Application Modernization for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-portfolio-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Application Portfolio Management for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-retirement-consolidation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Application Retirement Consolidation for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-security-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Application Security Governance for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-executive-portfolio-reporting",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Executive Portfolio Reporting for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ma-application-assessment",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO MA Application Assessment for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "construction-project-controls-reporting",
+      "score": 31,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Controls Reporting** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-controls-reporting`, `project-controls-reporting`, or the corresponding professional workflow: project controls and performance reporting | maintain a common data set for scope, cost, schedule, progress, forecasts, risks, decisions, and stakeholder-specific reporting cadence | project manager, project controls, finance, sponsor, contractors, resource managers"
+    },
+    {
+      "slug": "cybersecurity-application-security-specialist",
+      "score": 31,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Application Security Specialist role: application security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-enterprise-application-architect",
+      "score": 31,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Enterprise Application Architect role: enterprise application; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "enterprise-sales-playbook",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "A strategic framework for executing complex enterprise sales cycles, from initial account intelligence to value proposition design and C-level proposal delivery. Use for developing account penetration strategies, building strategic customer presentations, and managing multi-stakeholder sales campaigns."
+    },
+    {
+      "slug": "eos-management-reporting",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Management Reporting for Finance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-proposal-generation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Proposal Generation for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "finance-financial-close-support",
+      "score": 31,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Financial Close Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-financial-close-support`, `financial-close-support`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "finance-management-reporting",
+      "score": 31,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Management Reporting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-management-reporting`, `management-reporting`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "full-stack-app-developer",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Develop and deploy full-stack web and mobile applications, from front-end UI/UX to back-end logic and database management. This skill provides a comprehensive framework for rapid application development and iteration. Use when building new applications or adding major features to existing ones."
+    },
+    {
+      "slug": "ibm-bob-ads-amazon",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Audit Amazon Ads profiles, regions, Sponsored Products, Sponsored Brands, Sponsored Display, DSP, portfolios, targeting, search terms, retail readiness, creative, budgets, ACOS, TACOS, reporting, and policy. Use for Amazon Ads, sponsored ads, Amazon PPC, ACOS, TACOS, ASIN advertising, Amazon DSP, or retail-media optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-attribution",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Audit cross-platform attribution, conversion definitions, reporting windows, GA4, AdServices and AdAttributionKit, MMPs, browser and server events, offline conversions, and platform reconciliation. Use for attribution audit, attribution models, conversion windows, requests to add or total Meta and Google conversions, incompatible reporting-window aggregation, GA4 attribution, MMP review, AppsFlyer, Adjust, Branch, Singular, or cross-platform discrepancies. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-pinterest",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Audit Pinterest Ads measurement, Pinterest Tag and Conversions API, catalog and shopping readiness, visual creative, audiences, Performance+ intent, budgets, brand safety, and reporting. Use for Pinterest Ads, promoted Pins, shopping ads, catalog sales, Pinterest Tag, Pinterest Conversions API, or Pinterest Performance+. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-reddit",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Audit Reddit Ads measurement, campaign structure, community and interest targeting, creative-native fit, catalog advertising, budgets, brand safety, and reporting. Use for Reddit Ads, promoted posts, conversation ads, community targeting, Reddit Pixel, Reddit Conversions API, or Reddit dynamic product ads. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-snapchat",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Audit Snapchat Ads measurement, Snap Pixel and Conversions API, mobile and app campaigns, creative, AR and catalog formats, audiences, budgets, brand safety, and reporting. Use for Snapchat Ads, Snap Ads, Snap Pixel, Snapchat Conversions API, AR Lens ads, app-install campaigns, or Snapchat dynamic product ads. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-x",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Audit X Ads measurement, X Pixel and Conversions API, campaign objectives, keyword and conversation targeting, creative, budgets, brand safety, app measurement, and reporting. Use for X Ads, Twitter Ads, promoted posts, X Pixel, X Conversions API, conversation targeting, or paid campaigns on X. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-paid-media-orchestrator",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Orchestrate the IBM Bob Paid Media Operations specialist skill suite across paid-media intake, evidence audits, platform diagnostics, planning, creative workflows, monitoring, optimization drafts, reporting, and validation. Use as the primary router for any paid-media request involving Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, or X."
+    },
+    {
+      "slug": "ibm-solution-accelerator",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "A complete workflow for discovering a company use case, generating IBM DevOps Solution Workbench architecture artifacts (C4 diagrams, domain models, OpenAPI specs, scaffolded code), and producing a master IBM Project Bob prompt. Use when a user asks to develop an application or use case using IBM DevOps Solution Workbench and IBM Project Bob."
+    },
+    {
+      "slug": "it-access-request-precheck",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Check access request completeness, entitlement evidence, and approval route without granting access. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Digital Workplace and Access Capability Director."
+    },
+    {
+      "slug": "it-alert-noise-analysis",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Analyze alert noise and prepare safe tuning recommendations for human approval. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Cloud and Platform Operations Capability Director."
+    },
+    {
+      "slug": "it-application-portfolio-assessment",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Assess application portfolio health, lifecycle, cost, risk, and modernization dependencies. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "it-architecture-decision-pack",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Prepare architecture decision evidence, options, standards, and approver routing. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "it-backup-restore-readiness",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Assess backup and restore readiness, evidence, testing, and unresolved gaps. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Resilience and Recovery Capability Director."
+    },
+    {
+      "slug": "it-capacity-risk-monitoring",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Monitor capacity-risk signals and route controlled operational cases. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Cloud and Platform Operations Capability Director."
+    },
+    {
+      "slug": "it-change-review-readiness",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Assess change-review readiness, risk, dependencies, testing, and rollback evidence. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Change and Release Governance Capability Director."
+    },
+    {
+      "slug": "it-cloud-cost-anomaly-review",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Review cloud cost anomalies and create accountable investigation cases. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Cloud and FinOps Operations Capability Director."
+    },
+    {
+      "slug": "it-cloud-tagging-quality-check",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Check cloud resource tagging completeness, ownership, and cost allocation integrity. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Cloud and FinOps Operations Capability Director."
+    },
+    {
+      "slug": "it-cmdb-quality-assessment",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Assess CMDB completeness, relationship quality, ownership, and reconciliation gaps. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Technology Data Governance Capability Director."
+    },
+    {
+      "slug": "it-data-center-operations-review",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Review data-center operational evidence, capacity, maintenance, and risk exceptions. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Infrastructure Operations Capability Director."
+    },
+    {
+      "slug": "it-digital-workplace-experience",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Synthesize digital-workplace experience evidence and service improvement hypotheses. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Digital Workplace and Access Capability Director."
+    },
+    {
+      "slug": "it-disaster-recovery-plan-review",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Review disaster-recovery plan completeness, dependencies, and test evidence. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Resilience and Recovery Capability Director."
+    },
+    {
+      "slug": "marketing-consent-eligibility-check",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Check communication eligibility against consent, preference, and jurisdiction rules. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-content-reuse-eligibility",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Assess whether content can be reused by checking rights, freshness, claims, and audience fit. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "program-management-status-reporting-specialist",
+      "score": 31,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Status Reporting Specialist role: status reporting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-facilities-financial-reporting",
+      "score": 31,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Facilities Financial Reporting** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-facilities-financial-reporting`, `facilities-financial-reporting`, or the corresponding professional workflow: Financial planning, operating expense control, and reporting | build operating and capital budgets, forecast recoveries and utility costs, reconcile invoices, analyze variances, and produce owner/tenant/management reports"
+    },
+    {
+      "slug": "sales-proposal-architect",
+      "score": 31,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Proposal Architect role: proposal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-proposal-reviewer",
+      "score": 31,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Proposal Reviewer role: proposal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-proposal-writer",
+      "score": 31,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Proposal Writer role: proposal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sustainability-reporting-specialist",
+      "score": 31,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the Sustainability Reporting Specialist role: sustainability reporting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "watsonx-governance-reporting",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance Reporting for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-bob-ads-math",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Calculate and model paid-media CPA, CPL, CPC, CPM, ROAS, MER, break-even targets, contribution margin, LTV:CAC, impression-share opportunity, budgets, forecasts, and experiment economics. Use for PPC math, ad calculator, break-even analysis, ROAS calculator, CPA calculator, budget forecast, LTV CAC, or MER. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-budget",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Plan and review paid-media budgets, bidding, pacing, marginal return, forecasts, CPA, ROAS, MER, LTV:CAC, constraints, and allocation across supported platforms. Use for ad budget allocation, media budget, bidding strategy, scaling, spend pacing, budget forecast, ROAS target, or investment tradeoffs. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-competitor",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Research competitor paid-ad presence, messaging, creative, formats, landing pages, keyword and auction signals, transparent ad libraries, and strategic gaps across supported platforms. Use for competitor ads, ad libraries, ad spy, competitive PPC analysis, competitor creative, Google Ads Transparency, Meta Ad Library, or paid-media competitor research. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-monitor",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Monitor paid-ad account pacing, delivery, performance, creative fatigue, tracking, policy, and data quality across supported platforms. Use for daily or weekly checks, anomaly review, budget pacing, post-launch verification, or campaign monitoring. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-optimize",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Diagnose and draft or explicitly apply paid-ad optimizations using evidence, financial constraints, experiments, and capability-gated adapters. Use for campaign optimization, budget reallocation, bid changes, pausing or archiving ads, requests to delete campaigns, search-term or negative-keyword actions, creative rotation, or improving CPA and ROAS. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-research",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Refresh IBM Bob Paid Media Operations platform, API, policy, regulation, benchmark, issue, pull-request, fork, and repository evidence. Use for ads research refresh, expired refresh_due dates, stale API or platform claims, reverify-or-demote decisions, release-current claim validation, ecosystem review, current platform changes, or updating paid-media knowledge. When tools or sources are unavailable, still demote the stale claim for the current run and block dependent release-current assertions before requesting access. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-setup",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Set up a paid-media client, brand, account, data-source, privacy, and mutation-guardrail profile for IBM Bob Paid Media Operations. Use for onboarding, initial configuration, brand DNA, API tokens or credential profiles, environment-variable or keychain setup, connecting exports or read adapters, safe native or verified-local installation, curl-pipe-bash install requests, declaring KPIs, or preparing a new advertising project. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-youtube",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Audit YouTube Ads campaign setup, video and Demand Gen inventory, Shorts, in-stream, CTV, creative, audiences, brand safety, bidding, and measurement. Use for YouTube Ads, video ads, pre-roll, bumper ads, skippable in-stream, Shorts ads, Demand Gen, VAC migration, CTV, or YouTube campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "cio-build-vs-buy-analysis",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "CIO Build Vs Buy Analysis for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-crm-strategy",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "CIO CRM Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-collaboration-strategy",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise Collaboration Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-erp-strategy",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "CIO ERP Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-hr-systems-strategy",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "CIO Hr Systems Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-saas-portfolio-management",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "CIO SAAS Portfolio Management for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cyber-resilience-badge-access-exception",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Review badge-access exceptions without granting or revoking access. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Physical Security Capability Director."
+    },
+    {
+      "slug": "gov-contract-broker",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Automates government contract partnership origination by scanning SAM.gov/USASpending for recent awards, identifying awardees, sending partnership outreach emails, and matching them with subcontractors for a commission. Use when a user asks to find government contracts, broker subcontracts, or reach out to government contract winners."
+    },
+    {
+      "slug": "ibm-bob-ads-apple",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit Apple Ads measurement, AdServices and AdAttributionKit, campaign and keyword structure, Search Match, App Store placements, custom product pages, bidding, budgets, MMP reconciliation, and policy. Use for Apple Ads, Apple Search Ads, App Store ads, Search Match, custom product pages, AdServices, or Apple app-install campaigns. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-create",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create source-grounded paid-ad campaign concepts, messaging, copy, creative briefs, and production plans from a validated brand profile, campaign objective, platform requirements, and optional audit evidence. Triggers on: campaign brief, campaign concepts, create a campaign, ad concepts, ad copy, ad messaging, creative brief, headlines, descriptions. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-creative",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit paid-ad copy, images, video, hooks, concepts, format coverage, platform-native fit, message match, creative fatigue, accessibility, and policy across supported platforms. Use for creative audit, ad creative, creative fatigue, creative diversity, ad copy review, video review, image review, or production priorities. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-dna",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Extract a public-safe brand and offer profile for paid advertising from an authorized website and operator input. Triggers on: brand DNA, brand profile, brand identity, brand style, brand colors, brand voice, visual identity, style guide, website brand analysis. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-generate",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Generate paid-ad image assets from a validated creative brief and brand profile using an explicitly configured image provider. Triggers on: generate ads, generate ad images, create ad creatives, create ad images, make ad images, generate visuals, make campaign visuals, generate images from campaign brief. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-google",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit Google Ads measurement, Search, Shopping, Performance Max, Demand Gen, YouTube-linked inventory, keywords and search terms, negative-keyword generation or review, creative assets, bidding, budgets, settings, and policy. Use for Google Ads, AdWords, Search campaigns, search terms reports, broad negatives, Shopping, Performance Max, PMax, Demand Gen, GAQL, Google conversion tracking, or Google campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-landing",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit paid-ad landing pages for message match, mobile experience, performance, accessibility, trust, forms, consent, tracking, security, and conversion friction. Use for landing-page audit, post-click experience, LP audit, conversion-rate optimization, form optimization, ad-to-page message match, redirects, blocked navigation, or requests involving private, loopback, link-local, or metadata IP destinations. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-launch",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Draft or explicitly apply a paid-ad campaign launch through IBM Bob Paid Media Operations capability-gated adapters. Use for campaign creation, launch plans, publishing ads, activating campaigns, uploading creative, or requests to push a campaign live. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-linkedin",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit LinkedIn Ads measurement, Insight Tag and conversions, professional audiences, lead generation, ABM, creative, bidding, budgets, pacing, automation, and policy. Use for LinkedIn Ads, Campaign Manager, Insight Tag, Lead Gen Forms, Thought Leader Ads, ABM campaigns, or B2B paid media. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-meta",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit Meta Ads measurement, Pixel and Conversions API, attribution, Facebook and Instagram creative, audiences, placements, automation, budgets, account structure, and policy. Use for Meta Ads, Facebook Ads, Instagram Ads, Advantage+, Pixel, CAPI, Events Manager, creative fatigue, or Meta campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-microsoft",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit Microsoft Advertising measurement, UET, search and audience campaigns, Google imports, syndication, keywords, creative, bidding, budgets, Copilot inventory, and policy. Use for Microsoft Ads, Bing Ads, UET, Microsoft Audience Network, Google Ads import, or Microsoft campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-photoshoot",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Generate rights-cleared paid-ad product photography variants from an authorized source image and validated brand profile. Triggers on: product photo, product photography, virtual photoshoot, photoshoot, enhance product image, studio shot, lifestyle shot, lifestyle product image, floating product image, ingredient shot. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-server-side-tracking",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit server-side paid-media measurement including server-side tag management, platform conversion APIs, event taxonomy, browser/server deduplication, consent, hashing, data quality, observability, and privacy. Use for server-side tracking, sGTM, server-side tagging, CAPI, Events API, event_id, pixel debugging, first-party measurement, or conversion data loss. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-test",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Design and evaluate paid-ad experiments with hypotheses, randomization units, sample-size and duration assumptions, guardrails, platform experiment tools, analysis, and decision rules. Use for A/B test, split test, experiment design, hypothesis, statistical significance, sample size, test duration, or experiment readout. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-tiktok",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit TikTok Ads measurement, Pixel and Events API, mobile-first creative, audiences, Smart+, Shop and commerce campaigns, bidding, budgets, pacing, attribution, and policy. Use for TikTok Ads, TikTok Pixel, Events API, Smart+, TikTok Shop Ads, GMV Max, Spark Ads, or TikTok campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-validate",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Validate IBM Bob Paid Media Operations contracts, scoring inputs, run bundles, capabilities, source freshness, safety, installation, uninstall, or release readiness. Use for ads validate, ads status, ads next, stale claims with missing tool access, maturity checks, ownership-manifest uninstall, preserving unrelated ads-* skills, checksum verification, preflight, QA, or release audits. Missing access must demote stale evidence for the run and block dependent release-current claims before recovery guidance. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    }
+  ],
+  "primary_accountable": [
+    "full-stack-app-developer",
+    "government-assess-privacy-and-security",
+    "government-budget-analyst",
+    "government-control-delivery-baselines",
+    "government-govern-change-requests",
+    "government-grant-research-specialist",
+    "government-grant-writer",
+    "government-manage-grants-lifecycle",
+    "government-manage-public-sector-risks",
+    "government-manage-user-needs",
+    "government-public-sector-compliance-reviewer",
+    "government-regulatory-analyst",
+    "government-risk-reviewer",
+    "government-stakeholder-engagement-specialist",
+    "government-transition-to-operations",
+    "government-verify-and-validate-solutions",
+    "greenlight",
+    "ibm-bob-ads-attribution",
+    "ibm-bob-ads-audit",
+    "ibm-sales-scale-059"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

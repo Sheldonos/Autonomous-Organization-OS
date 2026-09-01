@@ -1,0 +1,18 @@
+version: 1
+lifecycle:
+  - DISCOVERED
+  - PROFILED
+  - QUARANTINED
+  - READ_ENABLED
+  - WRITE_CERTIFIED
+  - SUSPENDED
+  - REVOKED
+rules:
+  discovery: allowed_for_connected_authorized_endpoints
+  schema_learning: allowed
+  wrapper_generation: allowed_in_quarantine
+  read_only_enablement: requires_profile_and_policy_classification
+  external_write_enablement: requires_connector_certification_and_readback
+  destructive_or_money_or_signature_tools: always_require_specific_policy_and_authority
+  core_runtime_self_rewrite: prohibited
+  production_promotion_of_generated_adapter: requires_tests_and_promotion_gate

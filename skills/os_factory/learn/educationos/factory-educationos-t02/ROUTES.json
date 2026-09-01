@@ -1,0 +1,27 @@
+{
+  "pocket": "educationos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-curriculum-architect",
+    "education-curriculum-designer",
+    "curriculum-architect",
+    "assessment-builder",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "qisbob-quantum-mentor",
+    "education-coordinate-accommodations",
+    "education-manage-credentials-records",
+    "education-monitor-learner-progress",
+    "education-facilitate-instruction",
+    "accessibility-coverage-audit",
+    "bob-for-z-mentor",
+    "education-manage-learner-intake",
+    "ibm-i-mentor",
+    "education-analyze-learning-needs",
+    "education-assure-program-quality",
+    "education-develop-learning-content",
+    "education-learning-path-architect",
+    "education-personalized-learning-specialist"
+  ]
+}

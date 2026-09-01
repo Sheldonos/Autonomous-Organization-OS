@@ -1,0 +1,4865 @@
+{
+  "count": 540,
+  "wrappers": [
+    {
+      "slug": "factory-acceleratoros-orchestrator",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-acceleratoros-t01",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-acceleratoros-t02",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-acceleratoros-t03",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-acceleratoros-t04",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-acceleratoros-t05",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-acceleratoros-t06",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-acceleratoros-t07",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-acceleratoros-t08",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-acceleratoros-assurance",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-acceleratoros-integration",
+      "segment": "learn",
+      "pocket": "acceleratoros",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/acceleratoros/factory-acceleratoros-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-agencyos-orchestrator",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-agencyos-t01",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-agencyos-t02",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-agencyos-t03",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-agencyos-t04",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-agencyos-t05",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-agencyos-t06",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-agencyos-t07",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-agencyos-t08",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-agencyos-assurance",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-agencyos-integration",
+      "segment": "create",
+      "pocket": "agencyos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/agencyos/factory-agencyos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-orchestrator",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-bidos-t01",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-t02",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-t03",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-t04",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-t05",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-t06",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-t07",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-t08",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-t09",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-assurance",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-bidos-integration",
+      "segment": "sell",
+      "pocket": "bidos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/bidos/factory-bidos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-boardos-orchestrator",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/boardos/factory-boardos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-boardos-t01",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/boardos/factory-boardos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-boardos-t02",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/boardos/factory-boardos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-boardos-t03",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/boardos/factory-boardos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-boardos-t04",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/boardos/factory-boardos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-boardos-t05",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/boardos/factory-boardos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-boardos-t06",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/boardos/factory-boardos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-boardos-t07",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/boardos/factory-boardos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-boardos-t08",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/boardos/factory-boardos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-boardos-assurance",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/boardos/factory-boardos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-boardos-integration",
+      "segment": "run",
+      "pocket": "boardos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/boardos/factory-boardos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-brandos-orchestrator",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/create/brandos/factory-brandos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-brandos-t01",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/brandos/factory-brandos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-brandos-t02",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/brandos/factory-brandos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-brandos-t03",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/brandos/factory-brandos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-brandos-t04",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/brandos/factory-brandos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-brandos-t05",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/brandos/factory-brandos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-brandos-t06",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/brandos/factory-brandos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-brandos-t07",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/brandos/factory-brandos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-brandos-t08",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/brandos/factory-brandos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-brandos-assurance",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/brandos/factory-brandos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-brandos-integration",
+      "segment": "create",
+      "pocket": "brandos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/brandos/factory-brandos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-buildos-orchestrator",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/make/buildos/factory-buildos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-buildos-t01",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/buildos/factory-buildos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-buildos-t02",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/buildos/factory-buildos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-buildos-t03",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/buildos/factory-buildos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-buildos-t04",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/buildos/factory-buildos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-buildos-t05",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/buildos/factory-buildos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-buildos-t06",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/buildos/factory-buildos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-buildos-t07",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/buildos/factory-buildos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-buildos-t08",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/buildos/factory-buildos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-buildos-assurance",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/buildos/factory-buildos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-buildos-integration",
+      "segment": "make",
+      "pocket": "buildos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/buildos/factory-buildos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-capitalos-orchestrator",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-capitalos-t01",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-capitalos-t02",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-capitalos-t03",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-capitalos-t04",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-capitalos-t05",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-capitalos-t06",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-capitalos-t07",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-capitalos-t08",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-capitalos-assurance",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-capitalos-integration",
+      "segment": "invest",
+      "pocket": "capitalos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/capitalos/factory-capitalos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-commerceos-orchestrator",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-commerceos-t01",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-commerceos-t02",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-commerceos-t03",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-commerceos-t04",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-commerceos-t05",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-commerceos-t06",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-commerceos-t07",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-commerceos-t08",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-commerceos-assurance",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-commerceos-integration",
+      "segment": "sell",
+      "pocket": "commerceos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/commerceos/factory-commerceos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-complianceos-orchestrator",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-complianceos-t01",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-complianceos-t02",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-complianceos-t03",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-complianceos-t04",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-complianceos-t05",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-complianceos-t06",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-complianceos-t07",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-complianceos-t08",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-complianceos-assurance",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-complianceos-integration",
+      "segment": "protect",
+      "pocket": "complianceos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/complianceos/factory-complianceos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-orchestrator",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-consultingos-t01",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-t02",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-t03",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-t04",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-t05",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-t06",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-t07",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-t08",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-t09",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-assurance",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-consultingos-integration",
+      "segment": "make",
+      "pocket": "consultingos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/consultingos/factory-consultingos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-corpdevos-orchestrator",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-corpdevos-t01",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-corpdevos-t02",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-corpdevos-t03",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-corpdevos-t04",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-corpdevos-t05",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-corpdevos-t06",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-corpdevos-t07",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-corpdevos-t08",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-corpdevos-assurance",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-corpdevos-integration",
+      "segment": "invest",
+      "pocket": "corpdevos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/corpdevos/factory-corpdevos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-orchestrator",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-creatoros-t01",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-t02",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-t03",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-t04",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-t05",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-t06",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-t07",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-t08",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-t09",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-assurance",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-creatoros-integration",
+      "segment": "create",
+      "pocket": "creatoros",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/creatoros/factory-creatoros-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-customeros-orchestrator",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-customeros-t01",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-customeros-t02",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-customeros-t03",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-customeros-t04",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-customeros-t05",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-customeros-t06",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-customeros-t07",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-customeros-t08",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-customeros-assurance",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-customeros-integration",
+      "segment": "sell",
+      "pocket": "customeros",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/customeros/factory-customeros-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-dealos-orchestrator",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-dealos-t01",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-dealos-t02",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-dealos-t03",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-dealos-t04",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-dealos-t05",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-dealos-t06",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-dealos-t07",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-dealos-t08",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-dealos-assurance",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-dealos-integration",
+      "segment": "sell",
+      "pocket": "dealos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/dealos/factory-dealos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-orchestrator",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-educationos-t01",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-t02",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-t03",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-t04",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-t05",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-t06",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-t07",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-t08",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-t09",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-assurance",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-educationos-integration",
+      "segment": "learn",
+      "pocket": "educationos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/educationos/factory-educationos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-orchestrator",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-enterpriseos-t01",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-t02",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-t03",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-t04",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-t05",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-t06",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-t07",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-t08",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-t09",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-assurance",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-enterpriseos-integration",
+      "segment": "run",
+      "pocket": "enterpriseos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/enterpriseos/factory-enterpriseos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-orchestrator",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/create/eventos/factory-eventos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-eventos-t01",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-t02",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-t03",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-t04",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-t05",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-t06",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-t07",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-t08",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-t09",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-assurance",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-eventos-integration",
+      "segment": "create",
+      "pocket": "eventos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/eventos/factory-eventos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-executiveos-orchestrator",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-executiveos-t01",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-executiveos-t02",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-executiveos-t03",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-executiveos-t04",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-executiveos-t05",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-executiveos-t06",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-executiveos-t07",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-executiveos-t08",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-executiveos-assurance",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-executiveos-integration",
+      "segment": "run",
+      "pocket": "executiveos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/executiveos/factory-executiveos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-franchiseos-orchestrator",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-franchiseos-t01",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-franchiseos-t02",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-franchiseos-t03",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-franchiseos-t04",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-franchiseos-t05",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-franchiseos-t06",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-franchiseos-t07",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-franchiseos-t08",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-franchiseos-assurance",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-franchiseos-integration",
+      "segment": "run",
+      "pocket": "franchiseos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/franchiseos/factory-franchiseos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundos-orchestrator",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-fundos-t01",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundos-t02",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundos-t03",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundos-t04",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundos-t05",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundos-t06",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundos-t07",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundos-t08",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundos-assurance",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundos-integration",
+      "segment": "invest",
+      "pocket": "fundos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundos/factory-fundos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundraiseos-orchestrator",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-fundraiseos-t01",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundraiseos-t02",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundraiseos-t03",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundraiseos-t04",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundraiseos-t05",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundraiseos-t06",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundraiseos-t07",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundraiseos-t08",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundraiseos-assurance",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-fundraiseos-integration",
+      "segment": "invest",
+      "pocket": "fundraiseos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/fundraiseos/factory-fundraiseos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-orchestrator",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-grantos-t01",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-t02",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-t03",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-t04",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-t05",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-t06",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-t07",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-t08",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-t09",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-assurance",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-grantos-integration",
+      "segment": "sell",
+      "pocket": "grantos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/grantos/factory-grantos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-innovationos-orchestrator",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-innovationos-t01",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-innovationos-t02",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-innovationos-t03",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-innovationos-t04",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-innovationos-t05",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-innovationos-t06",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-innovationos-t07",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-innovationos-t08",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-innovationos-assurance",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-innovationos-integration",
+      "segment": "make",
+      "pocket": "innovationos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/innovationos/factory-innovationos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-labos-orchestrator",
+      "segment": "make",
+      "pocket": "labos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/make/labos/factory-labos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-labos-t01",
+      "segment": "make",
+      "pocket": "labos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/labos/factory-labos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-labos-t02",
+      "segment": "make",
+      "pocket": "labos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/labos/factory-labos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-labos-t03",
+      "segment": "make",
+      "pocket": "labos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/labos/factory-labos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-labos-t04",
+      "segment": "make",
+      "pocket": "labos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/labos/factory-labos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-labos-t05",
+      "segment": "make",
+      "pocket": "labos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/labos/factory-labos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-labos-t06",
+      "segment": "make",
+      "pocket": "labos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/labos/factory-labos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-labos-t07",
+      "segment": "make",
+      "pocket": "labos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/labos/factory-labos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-labos-t08",
+      "segment": "make",
+      "pocket": "labos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/labos/factory-labos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-labos-assurance",
+      "segment": "make",
+      "pocket": "labos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/labos/factory-labos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-labos-integration",
+      "segment": "make",
+      "pocket": "labos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/labos/factory-labos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-launchos-orchestrator",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/make/launchos/factory-launchos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-launchos-t01",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/launchos/factory-launchos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-launchos-t02",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/launchos/factory-launchos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-launchos-t03",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/launchos/factory-launchos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-launchos-t04",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/launchos/factory-launchos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-launchos-t05",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/launchos/factory-launchos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-launchos-t06",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/launchos/factory-launchos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-launchos-t07",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/launchos/factory-launchos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-launchos-t08",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/launchos/factory-launchos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-launchos-assurance",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/launchos/factory-launchos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-launchos-integration",
+      "segment": "make",
+      "pocket": "launchos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/launchos/factory-launchos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-learningos-orchestrator",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-learningos-t01",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-learningos-t02",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-learningos-t03",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-learningos-t04",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-learningos-t05",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-learningos-t06",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-learningos-t07",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-learningos-t08",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-learningos-assurance",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-learningos-integration",
+      "segment": "learn",
+      "pocket": "learningos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/learningos/factory-learningos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-legalos-orchestrator",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-legalos-t01",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-legalos-t02",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-legalos-t03",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-legalos-t04",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-legalos-t05",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-legalos-t06",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-legalos-t07",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-legalos-t08",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-legalos-assurance",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-legalos-integration",
+      "segment": "protect",
+      "pocket": "legalos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/legalos/factory-legalos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mandaos-orchestrator",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-mandaos-t01",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mandaos-t02",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mandaos-t03",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mandaos-t04",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mandaos-t05",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mandaos-t06",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mandaos-t07",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mandaos-t08",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mandaos-assurance",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mandaos-integration",
+      "segment": "invest",
+      "pocket": "mandaos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/invest/mandaos/factory-mandaos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-orchestrator",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-mediaos-t01",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-t02",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-t03",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-t04",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-t05",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-t06",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-t07",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-t08",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-t09",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-assurance",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-mediaos-integration",
+      "segment": "create",
+      "pocket": "mediaos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/mediaos/factory-mediaos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-partnershipos-orchestrator",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-partnershipos-t01",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-partnershipos-t02",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-partnershipos-t03",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-partnershipos-t04",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-partnershipos-t05",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-partnershipos-t06",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-partnershipos-t07",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-partnershipos-t08",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-partnershipos-assurance",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-partnershipos-integration",
+      "segment": "sell",
+      "pocket": "partnershipos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/partnershipos/factory-partnershipos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patentos-orchestrator",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-patentos-t01",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patentos-t02",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patentos-t03",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patentos-t04",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patentos-t05",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patentos-t06",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patentos-t07",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patentos-t08",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patentos-assurance",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patentos-integration",
+      "segment": "protect",
+      "pocket": "patentos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/patentos/factory-patentos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patenttoproductos-orchestrator",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-patenttoproductos-t01",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patenttoproductos-t02",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patenttoproductos-t03",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patenttoproductos-t04",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patenttoproductos-t05",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patenttoproductos-t06",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patenttoproductos-t07",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patenttoproductos-t08",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patenttoproductos-assurance",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-patenttoproductos-integration",
+      "segment": "make",
+      "pocket": "patenttoproductos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/patenttoproductos/factory-patenttoproductos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pmoos-orchestrator",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-pmoos-t01",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pmoos-t02",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pmoos-t03",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pmoos-t04",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pmoos-t05",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pmoos-t06",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pmoos-t07",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pmoos-t08",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pmoos-assurance",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pmoos-integration",
+      "segment": "run",
+      "pocket": "pmoos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/pmoos/factory-pmoos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pricingos-orchestrator",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-pricingos-t01",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pricingos-t02",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pricingos-t03",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pricingos-t04",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pricingos-t05",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pricingos-t06",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pricingos-t07",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pricingos-t08",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pricingos-assurance",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-pricingos-integration",
+      "segment": "sell",
+      "pocket": "pricingos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/pricingos/factory-pricingos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-orchestrator",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/procureos/factory-procureos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-procureos-t01",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-t02",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-t03",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-t04",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-t05",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-t06",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-t07",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-t08",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-t09",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-assurance",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-procureos-integration",
+      "segment": "run",
+      "pocket": "procureos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/procureos/factory-procureos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-propertyos-orchestrator",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-propertyos-t01",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-propertyos-t02",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-propertyos-t03",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-propertyos-t04",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-propertyos-t05",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-propertyos-t06",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-propertyos-t07",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-propertyos-t08",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-propertyos-assurance",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-propertyos-integration",
+      "segment": "run",
+      "pocket": "propertyos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/propertyos/factory-propertyos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-orchestrator",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-recruitos-t01",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-t02",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-t03",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-t04",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-t05",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-t06",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-t07",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-t08",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-t09",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-assurance",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-recruitos-integration",
+      "segment": "run",
+      "pocket": "recruitos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/recruitos/factory-recruitos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-researchos-orchestrator",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/make/researchos/factory-researchos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-researchos-t01",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/researchos/factory-researchos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-researchos-t02",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/researchos/factory-researchos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-researchos-t03",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/researchos/factory-researchos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-researchos-t04",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/researchos/factory-researchos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-researchos-t05",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/researchos/factory-researchos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-researchos-t06",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/researchos/factory-researchos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-researchos-t07",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/researchos/factory-researchos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-researchos-t08",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/researchos/factory-researchos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-researchos-assurance",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/researchos/factory-researchos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-researchos-integration",
+      "segment": "make",
+      "pocket": "researchos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/researchos/factory-researchos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-orchestrator",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-revenueos-t01",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-t02",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-t03",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-t04",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-t05",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-t06",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-t07",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-t08",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-t09",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-assurance",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-revenueos-integration",
+      "segment": "sell",
+      "pocket": "revenueos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/sell/revenueos/factory-revenueos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-riskos-orchestrator",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-riskos-t01",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-riskos-t02",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-riskos-t03",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-riskos-t04",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-riskos-t05",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-riskos-t06",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-riskos-t07",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-riskos-t08",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-riskos-assurance",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-riskos-integration",
+      "segment": "protect",
+      "pocket": "riskos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/riskos/factory-riskos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-securityos-orchestrator",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-securityos-t01",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-securityos-t02",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-securityos-t03",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-securityos-t04",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-securityos-t05",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-securityos-t06",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-securityos-t07",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-securityos-t08",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-securityos-assurance",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-securityos-integration",
+      "segment": "protect",
+      "pocket": "securityos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/protect/securityos/factory-securityos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-orchestrator",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/create/studioos/factory-studioos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-studioos-t01",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-t02",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-t03",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-t04",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-t05",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-t06",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-t07",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-t08",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-t09",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "t09",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-t09/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-assurance",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-studioos-integration",
+      "segment": "create",
+      "pocket": "studioos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/create/studioos/factory-studioos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-supplyos-orchestrator",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-supplyos-t01",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-supplyos-t02",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-supplyos-t03",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-supplyos-t04",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-supplyos-t05",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-supplyos-t06",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-supplyos-t07",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-supplyos-t08",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-supplyos-assurance",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-supplyos-integration",
+      "segment": "run",
+      "pocket": "supplyos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/supplyos/factory-supplyos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-talentos-orchestrator",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/talentos/factory-talentos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-talentos-t01",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/talentos/factory-talentos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-talentos-t02",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/talentos/factory-talentos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-talentos-t03",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/talentos/factory-talentos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-talentos-t04",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/talentos/factory-talentos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-talentos-t05",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/talentos/factory-talentos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-talentos-t06",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/talentos/factory-talentos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-talentos-t07",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/talentos/factory-talentos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-talentos-t08",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/talentos/factory-talentos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-talentos-assurance",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/talentos/factory-talentos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-talentos-integration",
+      "segment": "run",
+      "pocket": "talentos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/talentos/factory-talentos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-universityos-orchestrator",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-universityos-t01",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-universityos-t02",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-universityos-t03",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-universityos-t04",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-universityos-t05",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-universityos-t06",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-universityos-t07",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-universityos-t08",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-universityos-assurance",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-universityos-integration",
+      "segment": "learn",
+      "pocket": "universityos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/universityos/factory-universityos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-vendoros-orchestrator",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-vendoros-t01",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-vendoros-t02",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-vendoros-t03",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-vendoros-t04",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-vendoros-t05",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-vendoros-t06",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-vendoros-t07",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-vendoros-t08",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-vendoros-assurance",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-vendoros-integration",
+      "segment": "run",
+      "pocket": "vendoros",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/run/vendoros/factory-vendoros-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-ventureos-orchestrator",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-ventureos-t01",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-ventureos-t02",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-ventureos-t03",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-ventureos-t04",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-ventureos-t05",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-ventureos-t06",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-ventureos-t07",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-ventureos-t08",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-ventureos-assurance",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-ventureos-integration",
+      "segment": "make",
+      "pocket": "ventureos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/make/ventureos/factory-ventureos-integration/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-workforceos-orchestrator",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": null,
+      "type": "pocket_orchestrator",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-orchestrator/SKILL.md",
+      "canonical_children": 40
+    },
+    {
+      "slug": "factory-workforceos-t01",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": "t01",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-t01/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-workforceos-t02",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": "t02",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-t02/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-workforceos-t03",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": "t03",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-t03/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-workforceos-t04",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": "t04",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-t04/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-workforceos-t05",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": "t05",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-t05/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-workforceos-t06",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": "t06",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-t06/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-workforceos-t07",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": "t07",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-t07/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-workforceos-t08",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": "t08",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-t08/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-workforceos-assurance",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": "assurance",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-assurance/SKILL.md",
+      "canonical_children": 20
+    },
+    {
+      "slug": "factory-workforceos-integration",
+      "segment": "learn",
+      "pocket": "workforceos",
+      "team": "integration",
+      "type": "team_wrapper",
+      "path": "skills/os_factory/learn/workforceos/factory-workforceos-integration/SKILL.md",
+      "canonical_children": 20
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+version: 1
+wrappers:
+  dealos-governor:
+  - autonomous-capitalist
+  - ibm-sales-adaptive-orchestrator
+  - ibm-sales-agentic-orchestration
+  - ibm-sales-ext-ops-pipeline-governance
+  dealos-opportunity-hunter:
+  - gov-contract-broker
+  - tls-territory-intelligence-agent
+  - tls-strategic-intelligence-agent
+  - ibm-bob-lead-intelligence
+  dealos-intelligence:
+  - b2b-lead-intelligence-generator
+  - sales-seller-intelligence-mcp-integration
+  - tls-competitive-intelligence-battlecard-agent
+  - tls-contract-intelligence-negotiation-agent
+  dealos-relationship-memory:
+  - ibm-sales-ext-identity-profile-reconcile
+  - ibm-sales-ext-data-source-catalog
+  - ibm-sales-ext-evidence-source-provenance
+  dealos-outreach:
+  - b2b-personalized-outreach
+  - tls-outreach-execution-agent
+  - enterprise-sales-playbook
+  dealos-inbox:
+  - ibm-sales-agentic-orchestration
+  - ibm-sales-ext-evidence-claim-adjudicate
+  - tls-lead-tracker-analytics-agent
+  dealos-deal-strategist:
+  - enterprise-sales-playbook
+  - ibm-sales-ext-commercial-deal-desk-route
+  - ibm-sales-ext-commercial-pricing-discount-guardrail
+  dealos-negotiator:
+  - tls-contract-intelligence-negotiation-agent
+  - ibm-sales-ext-commercial-redline-boundary
+  - ibm-sales-ext-commercial-pricing-discount-guardrail
+  dealos-partner-matcher:
+  - tls-partner-ecosystem-channel-agent
+  - ibm-sales-ext-partner-cosell-plan
+  - ibm-sales-ext-partner-alliance-governance
+  dealos-proposal-factory:
+  - ibm-sales-ext-commercial-proposal-release-qa
+  - enterprise-sales-playbook
+  - ibm-sales-ext-evidence-artifact-quality
+  dealos-compliance-gate:
+  - tls-compliance-audit-agent
+  - ibm-sales-ext-evidence-claim-adjudicate
+  - ibm-sales-ext-evidence-source-provenance
+  dealos-expansion:
+  - tls-customer-success-expansion-agent
+  - ibm-sales-ext-customer-renewal-risk-route
+  - ibm-sales-ext-customer-value-realization-evidence

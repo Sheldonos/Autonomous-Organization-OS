@@ -1,0 +1,1197 @@
+{
+  "schema_version": "2.0",
+  "pocket": "researchos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 224,
+  "skills": [
+    {
+      "slug": "intelligence-collect-source-metadata",
+      "score": 126,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Collect Source Metadata** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-collect-source-metadata`, `collect-source-metadata`, or the corresponding professional workflow: source-discovery-and-collection | identify lawful public, internal, and licensed sources, set collection boundaries, and record query/version/time metadata | handoff to data engineer, research analyst, or collection manager"
+    },
+    {
+      "slug": "intelligence-discover-public-sources",
+      "score": 126,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Discover Public Sources** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-discover-public-sources`, `discover-public-sources`, or the corresponding professional workflow: source-discovery-and-collection | identify lawful public, internal, and licensed sources, set collection boundaries, and record query/version/time metadata | handoff to data engineer, research analyst, or collection manager"
+    },
+    {
+      "slug": "intelligence-evaluate-source-credibility",
+      "score": 126,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Evaluate Source Credibility** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-evaluate-source-credibility`, `evaluate-source-credibility`, or the corresponding professional workflow: source-discovery-and-collection | identify lawful public, internal, and licensed sources, set collection boundaries, and record query/version/time metadata | handoff to data engineer, research analyst, or collection manager"
+    },
+    {
+      "slug": "intelligence-preserve-data-provenance",
+      "score": 126,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Preserve Data Provenance** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-preserve-data-provenance`, `preserve-data-provenance`, or the corresponding professional workflow: source-discovery-and-collection | identify lawful public, internal, and licensed sources, set collection boundaries, and record query/version/time metadata | handoff to data engineer, research analyst, or collection manager"
+    },
+    {
+      "slug": "research-search-strategy-design",
+      "score": 126,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Search Strategy Design** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-search-strategy-design`, `search-strategy-design`, or the corresponding professional workflow: Search strategy design | decide databases, grey-literature sources, controlled vocabulary, date/language limits, and reproducible search syntax | handoff to librarians/information specialists and review team"
+    },
+    {
+      "slug": "intelligence-analyze-patterns-and-trends",
+      "score": 115,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Analyze Patterns And Trends** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-analyze-patterns-and-trends`, `analyze-patterns-and-trends`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-build-decision-dashboards",
+      "score": 115,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Build Decision Dashboards** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-build-decision-dashboards`, `build-decision-dashboards`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-conduct-peer-review",
+      "score": 115,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Conduct Peer Review** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-conduct-peer-review`, `conduct-peer-review`, or the corresponding professional workflow: triangulation-and-alternative-hypotheses | compare independent sources, seek disconfirming evidence, expose assumptions, and grade confidence and uncertainty | handoff to peer reviewer, red-team analyst, or analytic standards lead"
+    },
+    {
+      "slug": "intelligence-define-intelligence-requirements",
+      "score": 115,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Define Intelligence Requirements** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-define-intelligence-requirements`, `define-intelligence-requirements`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-produce-intelligence-briefings",
+      "score": 115,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Produce Intelligence Briefings** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-produce-intelligence-briefings`, `produce-intelligence-briefings`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "research-living-review-monitoring",
+      "score": 115,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Living Review Monitoring** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-living-review-monitoring`, `living-review-monitoring`, or the corresponding professional workflow: Reporting, dissemination, and update monitoring | decide required reporting checklist, data/code/materials release, plain-language outputs, conflict disclosures, and update triggers | handoff to journal or sponsor, repository, communications/publication team, and future review owners"
+    },
+    {
+      "slug": "research-protocol-preregistration",
+      "score": 115,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Protocol Preregistration** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-protocol-preregistration`, `protocol-preregistration`, or the corresponding professional workflow: Protocol and preregistration | decide methods, inclusion criteria, outcomes, analysis plan, deviations policy, and registration venue before results are known | handoff to protocol reviewers, registry/platform owners, and governance or ethics reviewers"
+    },
+    {
+      "slug": "research-question-framing",
+      "score": 115,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Question Framing** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-question-framing`, `question-framing`, or the corresponding professional workflow: Frame the reviewable question | decide scope, population, intervention/exposure, comparator, outcomes, and eligible designs before searching | handoff to subject-matter experts, information specialists, and commissioning stakeholders"
+    },
+    {
+      "slug": "intelligence-map-entities-and-relationships",
+      "score": 112,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Map Entities And Relationships** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-map-entities-and-relationships`, `map-entities-and-relationships`, or the corresponding professional workflow: entity-and-relationship-analysis | resolve people, organizations, assets, events, and relationships using confidence scoring and competing hypotheses | handoff to investigative analyst, security lead, legal/privacy reviewer, or domain SME"
+    },
+    {
+      "slug": "intelligence-normalize-and-resolve-entities",
+      "score": 112,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Normalize And Resolve Entities** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-normalize-and-resolve-entities`, `normalize-and-resolve-entities`, or the corresponding professional workflow: entity-and-relationship-analysis | resolve people, organizations, assets, events, and relationships using confidence scoring and competing hypotheses | handoff to investigative analyst, security lead, legal/privacy reviewer, or domain SME"
+    },
+    {
+      "slug": "intelligence-quantify-analytic-confidence",
+      "score": 112,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Quantify Analytic Confidence** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-quantify-analytic-confidence`, `quantify-analytic-confidence`, or the corresponding professional workflow: triangulation-and-alternative-hypotheses | compare independent sources, seek disconfirming evidence, expose assumptions, and grade confidence and uncertainty | handoff to peer reviewer, red-team analyst, or analytic standards lead"
+    },
+    {
+      "slug": "research-certainty-assessment",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Certainty Assessment** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-certainty-assessment`, `certainty-assessment`, or the corresponding professional workflow: Certainty-of-evidence assessment | decide certainty per outcome using risk of bias, inconsistency, indirectness, imprecision, and publication-bias considerations, with justified upgrades where applicable | handoff to GRADE or equivalent appraisal panel and decision-makers"
+    },
+    {
+      "slug": "research-data-extraction",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Data Extraction** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-data-extraction`, `data-extraction`, or the corresponding professional workflow: Data extraction and evidence mapping | decide which study, population, intervention, outcome, context, and funding fields are reliable and comparable | handoff from extractors to verifier, statistician, and domain expert"
+    },
+    {
+      "slug": "research-evidence-mapping",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Evidence Mapping** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-evidence-mapping`, `evidence-mapping`, or the corresponding professional workflow: Data extraction and evidence mapping | decide which study, population, intervention, outcome, context, and funding fields are reliable and comparable | handoff from extractors to verifier, statistician, and domain expert"
+    },
+    {
+      "slug": "research-evidence-retrieval",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Evidence Retrieval** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-evidence-retrieval`, `evidence-retrieval`, or the corresponding professional workflow: Study retrieval and deduplication | decide what constitutes a retrievable record and how duplicate or inaccessible items are handled | handoff to library/document-management support and screening team"
+    },
+    {
+      "slug": "research-evidence-to-decision",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Evidence To Decision** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-evidence-to-decision`, `evidence-to-decision`, or the corresponding professional workflow: Certainty-of-evidence assessment | decide certainty per outcome using risk of bias, inconsistency, indirectness, imprecision, and publication-bias considerations, with justified upgrades where applicable | handoff to GRADE or equivalent appraisal panel and decision-makers"
+    },
+    {
+      "slug": "research-meta-analysis",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Meta Analysis** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-meta-analysis`, `meta-analysis`, or the corresponding professional workflow: Synthesis-method selection | decide whether meta-analysis, structured narrative synthesis, qualitative synthesis, network synthesis, or no pooling is methodologically defensible | handoff to statistician/methodologist and domain lead"
+    },
+    {
+      "slug": "research-qualitative-synthesis",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Qualitative Synthesis** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-qualitative-synthesis`, `qualitative-synthesis`, or the corresponding professional workflow: Synthesis-method selection | decide whether meta-analysis, structured narrative synthesis, qualitative synthesis, network synthesis, or no pooling is methodologically defensible | handoff to statistician/methodologist and domain lead"
+    },
+    {
+      "slug": "research-risk-of-bias-appraisal",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Risk Of Bias Appraisal** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-risk-of-bias-appraisal`, `risk-of-bias-appraisal`, or the corresponding professional workflow: Risk-of-bias and applicability appraisal | decide tool and judgement for each design, including confounding, missingness, selective reporting, and applicability | handoff to independent appraisers, adjudicator, and synthesis lead"
+    },
+    {
+      "slug": "research-screening-and-selection",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Screening And Selection** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-screening-and-selection`, `screening-and-selection`, or the corresponding professional workflow: Study retrieval and deduplication | decide what constitutes a retrievable record and how duplicate or inaccessible items are handled | handoff to library/document-management support and screening team"
+    },
+    {
+      "slug": "research-synthesis-method-selection",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Synthesis Method Selection** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-synthesis-method-selection`, `synthesis-method-selection`, or the corresponding professional workflow: Synthesis-method selection | decide whether meta-analysis, structured narrative synthesis, qualitative synthesis, network synthesis, or no pooling is methodologically defensible | handoff to statistician/methodologist and domain lead"
+    },
+    {
+      "slug": "research-transparent-reporting",
+      "score": 112,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Transparent Reporting** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-transparent-reporting`, `transparent-reporting`, or the corresponding professional workflow: Risk-of-bias and applicability appraisal | decide tool and judgement for each design, including confounding, missingness, selective reporting, and applicability | handoff to independent appraisers, adjudicator, and synthesis lead"
+    },
+    {
+      "slug": "intelligence-manage-feedback-and-reassessment",
+      "score": 107,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Manage Feedback And Reassessment** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-manage-feedback-and-reassessment`, `manage-feedback-and-reassessment`, or the corresponding professional workflow: dissemination-and-feedback-loop | deliver through authorized channels, capture consumer questions and outcomes, monitor freshness, and schedule reassessment or withdrawal | handoff to stakeholders, collection team, and continuous-improvement owner"
+    },
+    {
+      "slug": "intelligence-govern-release-and-access",
+      "score": 104,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Govern Release And Access** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-govern-release-and-access`, `govern-release-and-access`, or the corresponding professional workflow: review-and-release-governance | perform peer review, citation/evidence checks, privacy and legal screening, classification/access checks, and release approval | handoff to accountable human approver and records custodian"
+    },
+    {
+      "slug": "intelligence-triangulate-and-test-hypotheses",
+      "score": 104,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Triangulate And Test Hypotheses** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-triangulate-and-test-hypotheses`, `triangulate-and-test-hypotheses`, or the corresponding professional workflow: data-quality-and-lineage-assurance | test completeness, accuracy, consistency, timeliness, validity, anomalies, transformations, and lineage against fitness-for-purpose criteria | handoff to data steward, model owner, or quality approver"
+    },
+    {
+      "slug": "intelligence-validate-data-quality",
+      "score": 104,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Validate Data Quality** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-validate-data-quality`, `validate-data-quality`, or the corresponding professional workflow: data-quality-and-lineage-assurance | test completeness, accuracy, consistency, timeliness, validity, anomalies, transformations, and lineage against fitness-for-purpose criteria | handoff to data steward, model owner, or quality approver"
+    },
+    {
+      "slug": "intelligence-competitive-intelligence-analyst",
+      "score": 98,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Competitive Intelligence Analyst role: competitive intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-market-intelligence-analyst",
+      "score": 98,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Market Intelligence Analyst role: market intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-scientific-literature-analyst",
+      "score": 98,
+      "domain": "research",
+      "description": "Use for research work requiring the Scientific Literature Analyst role: scientific literature; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-research-evidence-ledger",
+      "score": 96,
+      "domain": "research",
+      "description": "Maintain claim-to-source-to-experiment-to-result provenance for quantum research outputs. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "quantum-research-orchestrator",
+      "score": 96,
+      "domain": "research",
+      "description": "Coordinate evidence-backed quantum research from question through hypothesis, experiment design, simulation/hardware gate, classical comparison, review and report. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "data-strategy-analytics-insight-synthesis",
+      "score": 90,
+      "domain": "data",
+      "description": "Synthesize analytics evidence into transparent insights, assumptions, and next questions. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Analytics and Decision Support Capability Director."
+    },
+    {
+      "slug": "intelligence-source-verification-analyst",
+      "score": 90,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Source Verification Analyst role: source verification; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-experiment-management",
+      "score": 90,
+      "domain": "research",
+      "description": "Turn hypotheses into reproducible, governed experiments with pre-registered methods, evidence and review. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "research-literature-review-specialist",
+      "score": 90,
+      "domain": "research",
+      "description": "Use for research work requiring the Literature Review Specialist role: literature review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-primary-source-analyst",
+      "score": 90,
+      "domain": "research",
+      "description": "Use for research work requiring the Primary Source Analyst role: primary source; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-source-credibility-analyst",
+      "score": 90,
+      "domain": "research",
+      "description": "Use for research work requiring the Source Credibility Analyst role: source credibility; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "simulation-decision-tree-analyst",
+      "score": 90,
+      "domain": "simulation",
+      "description": "Use for simulation work requiring the Decision Tree Analyst role: decision tree; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-business-intelligence-analyst",
+      "score": 87,
+      "domain": "data",
+      "description": "Use for data work requiring the Business Intelligence Analyst role: business intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-career-research-artificial-intelligence-researcher",
+      "score": 87,
+      "domain": "research",
+      "description": "IBM-aligned Artificial Intelligence Researcher specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "intelligence-company-intelligence-analyst",
+      "score": 87,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Company Intelligence Analyst role: company intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-domain-infrastructure-intelligence-analyst",
+      "score": 87,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Domain / Infrastructure Intelligence Analyst role: domain / infrastructure intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-executive-intelligence-analyst",
+      "score": 87,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Executive Intelligence Analyst role: executive intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-geographic-intelligence-analyst",
+      "score": 87,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Geographic Intelligence Analyst role: geographic intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-industry-intelligence-analyst",
+      "score": 87,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Industry Intelligence Analyst role: industry intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-partner-intelligence-analyst",
+      "score": 87,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Partner Intelligence Analyst role: partner intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-relationship-mapping-analyst",
+      "score": 87,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Relationship Mapping Analyst role: relationship mapping; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-reputation-intelligence-analyst",
+      "score": 87,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Reputation Intelligence Analyst role: reputation intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-supplier-intelligence-analyst",
+      "score": 87,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Supplier Intelligence Analyst role: supplier intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-technology-intelligence-analyst",
+      "score": 87,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Technology Intelligence Analyst role: technology intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-data-analyst",
+      "score": 87,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Data Analyst role: research data; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-experiment-designer",
+      "score": 87,
+      "domain": "research",
+      "description": "Use for research work requiring the Experiment Designer role: experiment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-replication-analyst",
+      "score": 87,
+      "domain": "research",
+      "description": "Use for research work requiring the Replication Analyst role: replication; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-github-repository-analyst",
+      "score": 87,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the GitHub Repository Analyst role: github repository; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-market-researcher",
+      "score": 87,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Market Researcher role: market; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-pdf-analyst",
+      "score": 87,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the PDF Analyst role: pdf; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-spreadsheet-analyst",
+      "score": 87,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Spreadsheet Analyst role: spreadsheet; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-pre-007",
+      "score": 86,
+      "domain": "shared-execution",
+      "description": "Activate this mode for competitive battle card generator within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, rev..."
+    },
+    {
+      "slug": "enterprise-delta-impact-propagator",
+      "score": 82,
+      "domain": "intelligence",
+      "description": "Propagate changed evidence through affected entities, insights, decisions, workflows, agents and outcomes without full recomputation. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "ibm-pre-apm-001",
+      "score": 81,
+      "domain": "shared-execution",
+      "description": "Activate this mode for partner collaboration plan within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qu..."
+    },
+    {
+      "slug": "data-quality-analyst",
+      "score": 79,
+      "domain": "data",
+      "description": "Use for data work requiring the Data Quality Analyst role: data quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-quality-reviewer",
+      "score": 79,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Intelligence Quality Reviewer role: intelligence quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "knowledge-work-document-analyst",
+      "score": 79,
+      "domain": "knowledge-work",
+      "description": "Use for knowledge work work requiring the Document Analyst role: document; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "knowledge-work-long-document-synthesis-specialist",
+      "score": 79,
+      "domain": "knowledge-work",
+      "description": "Use for knowledge work work requiring the Long-Document Synthesis Specialist role: long-document synthesis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "knowledge-work-pdf-analysis-specialist",
+      "score": 79,
+      "domain": "knowledge-work",
+      "description": "Use for knowledge work work requiring the PDF Analysis Specialist role: pdf analysis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-research-publication-gate",
+      "score": 79,
+      "domain": "research",
+      "description": "Block external scientific claims/publication until evidence, reproducibility, limitations, authorship and human approval requirements pass. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "research-contradiction-detector",
+      "score": 79,
+      "domain": "research",
+      "description": "Use for research work requiring the Contradiction Detector role: contradiction detector; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-provenance-auditor",
+      "score": 79,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Provenance Auditor role: research provenance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-question-designer",
+      "score": 79,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Question Designer role: research question; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-primary-source-finder",
+      "score": 79,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Primary Source Finder role: primary source finder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-source-verifier",
+      "score": 79,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Source Verifier role: source verifier; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "simulation-competitive-response-simulator",
+      "score": 79,
+      "domain": "simulation",
+      "description": "Use for simulation work requiring the Competitive Response Simulator role: competitive response simulator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "simulation-market-simulation-specialist",
+      "score": 79,
+      "domain": "simulation",
+      "description": "Use for simulation work requiring the Market Simulation Specialist role: market simulation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "simulation-sensitivity-analyst",
+      "score": 79,
+      "domain": "simulation",
+      "description": "Use for simulation work requiring the Sensitivity Analyst role: sensitivity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "simulation-uncertainty-analyst",
+      "score": 79,
+      "domain": "simulation",
+      "description": "Use for simulation work requiring the Uncertainty Analyst role: uncertainty; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-pre-003",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for buying opportunity detector within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pre-004",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for strategic context builder within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qua..."
+    },
+    {
+      "slug": "ibm-pre-006",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for ghost competitor pre-emptor within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pre-008",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for deal context builder within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qualific..."
+    },
+    {
+      "slug": "ibm-pre-009",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for comparative persona analyzer within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, ..."
+    },
+    {
+      "slug": "ibm-pre-010",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for evolving persona tracker within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qual..."
+    },
+    {
+      "slug": "ibm-pre-apm-002",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for co-selling playbook within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qualifica..."
+    },
+    {
+      "slug": "ibm-pre-atl-001",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for strategic account plan generator within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, revi..."
+    },
+    {
+      "slug": "ibm-pre-atl-004",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for complex deal strategy & orchestration plan within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordina..."
+    },
+    {
+      "slug": "ibm-pre-bdm-001",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for market opportunity analysis within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pre-cp-001",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for services scoping framework within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qu..."
+    },
+    {
+      "slug": "ibm-pre-iss-003",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for regulatory compliance brief within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pre-sa-001",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for solution design discovery within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qua..."
+    },
+    {
+      "slug": "ibm-pre-sdr-001",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for lead qualification framework within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, ..."
+    },
+    {
+      "slug": "ibm-pre-sdr-002",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Activate this mode for account research cheat sheet within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, ..."
+    },
+    {
+      "slug": "marketing-market-research-synthesis",
+      "score": 78,
+      "domain": "marketing",
+      "description": "Synthesize market-research evidence with source authority and limitations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Market Intelligence and Messaging Capability Director."
+    },
+    {
+      "slug": "product-experiment-design",
+      "score": 78,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Experiment Design** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-experiment-design`, `experiment-design`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "data-business-analyst",
+      "score": 76,
+      "domain": "data",
+      "description": "Use for data work requiring the Business Analyst role: business; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-causal-inference-analyst",
+      "score": 76,
+      "domain": "data",
+      "description": "Use for data work requiring the Causal Inference Analyst role: causal inference; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-experimentation-analyst",
+      "score": 76,
+      "domain": "data",
+      "description": "Use for data work requiring the Experimentation Analyst role: experimentation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-forecasting-analyst",
+      "score": 76,
+      "domain": "data",
+      "description": "Use for data work requiring the Forecasting Analyst role: forecasting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-governance-analyst",
+      "score": 76,
+      "domain": "data",
+      "description": "Use for data work requiring the Data Governance Analyst role: data governance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-kpi-analyst",
+      "score": 76,
+      "domain": "data",
+      "description": "Use for data work requiring the KPI Analyst role: kpi; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-operations-analyst",
+      "score": 76,
+      "domain": "data",
+      "description": "Use for data work requiring the Operations Analyst role: operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-product-analyst",
+      "score": 76,
+      "domain": "data",
+      "description": "Use for data work requiring the Product Analyst role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-statistical-analyst",
+      "score": 76,
+      "domain": "data",
+      "description": "Use for data work requiring the Statistical Analyst role: statistical; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-strategy-portfolio-roadmap-synthesis",
+      "score": 76,
+      "domain": "data",
+      "description": "Synthesize portfolio roadmap dependencies, outcomes, investment, and decision points. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "ibm-career-data-analytics-data-analyst",
+      "score": 76,
+      "domain": "data-analytics",
+      "description": "IBM-aligned Data Analyst specialist. Use for Data and Analytics work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-research-advisory-data-scientist-ibm-quantum",
+      "score": 76,
+      "domain": "research",
+      "description": "IBM-aligned Advisory Data Scientist - IBM Quantum specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-research-cloud-research-scientist",
+      "score": 76,
+      "domain": "research",
+      "description": "IBM-aligned Cloud Research Scientist specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-research-quantum-research-scientist",
+      "score": 76,
+      "domain": "research",
+      "description": "IBM-aligned Quantum Research Scientist specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "intelligence-entity-resolution-specialist",
+      "score": 76,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Entity Resolution Specialist role: entity resolution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-evidence-preservation-specialist",
+      "score": 76,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Evidence Preservation Specialist role: evidence preservation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-orchestrator",
+      "score": 76,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Intelligence Orchestrator role: intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-osint-researcher",
+      "score": 76,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the OSINT Researcher role: osint; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-privacy-osint-compliance-reviewer",
+      "score": 76,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Privacy / OSINT Compliance Reviewer role: privacy / osint compliance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-public-records-researcher",
+      "score": 76,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Public Records Researcher role: public records; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "intelligence-report-writer",
+      "score": 76,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Intelligence Report Writer role: intelligence report; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-academic-search-specialist",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Academic Search Specialist role: academic search; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-citation-specialist",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Citation Specialist role: citation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-citation-verifier",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Citation Verifier role: citation verifier; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-critic",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Critic role: research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-deep-research-agent",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Deep Research Agent role: deep research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-director",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Director role: research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-evidence-extraction-specialist",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Evidence Extraction Specialist role: evidence extraction; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-evidence-synthesizer",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Evidence Synthesizer role: evidence synthesizer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-fact-checker",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Fact Checker role: fact checker; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-hypothesis-generator",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Hypothesis Generator role: hypothesis generator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-hypothesis-reviewer",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Hypothesis Reviewer role: hypothesis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-industry-researcher",
+      "score": 76,
+      "domain": "research",
+      "description": "Use for research work requiring the Industry Researcher role: industry; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-pre-001",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Activate this mode for company research & product fit (meddicc) within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordinati..."
+    },
+    {
+      "slug": "ibm-pre-002",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Activate this mode for account intelligence synthesizer within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, revi..."
+    },
+    {
+      "slug": "ibm-pre-005",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Activate this mode for linkedin sales nav target generator within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, r..."
+    },
+    {
+      "slug": "ibm-pre-atl-002",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Activate this mode for whitespace analysis & opportunity mapping within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordinat..."
+    },
+    {
+      "slug": "ibm-pre-atl-003",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Activate this mode for cross-brand opportunity identifier within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, re..."
+    },
+    {
+      "slug": "ibm-pre-iss-001",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Activate this mode for industry trend report generator within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, revie..."
+    },
+    {
+      "slug": "ibm-pre-iss-002",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Activate this mode for vertical-specific value proposition within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, r..."
+    },
+    {
+      "slug": "marketing-competitive-message-synthesis",
+      "score": 75,
+      "domain": "marketing",
+      "description": "Synthesize approved competitive evidence into a reviewed messaging brief. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Market Intelligence and Messaging Capability Director."
+    },
+    {
+      "slug": "tls-competitive-intelligence-battlecard-agent",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires competitive analysis, market intelligence, and win/loss strategy for TLS competitive positioning, especially when the user expects the work product of a competitive intelligence analyst or product marketing specialist."
+    },
+    {
+      "slug": "cybersecurity-audit-evidence-management",
+      "score": 67,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Audit Evidence Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-audit-evidence-management`, `audit-evidence-management`, or the corresponding professional workflow: Vulnerability and exposure management | collect scan and threat-intelligence evidence, validate severity and exploitability, prioritize remediation, compensate where needed, and verify closure | infrastructure/application owners, SOC, threat intelligence, patch/change management, and risk owners"
+    },
+    {
+      "slug": "design-conduct-user-research",
+      "score": 67,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Conduct User Research** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-conduct-user-research`, `conduct-user-research`, or the corresponding professional workflow: Conduct contextual discovery and user research | select ethical research methods, recruit representative participants, synthesize needs and context of use without treating assumptions as evidence | researchers, service users, domain experts, privacy/ethics reviewer"
+    },
+    {
+      "slug": "design-synthesize-research-evidence",
+      "score": 67,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Synthesize Research Evidence** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-synthesize-research-evidence`, `synthesize-research-evidence`, or the corresponding professional workflow: Conduct contextual discovery and user research | select ethical research methods, recruit representative participants, synthesize needs and context of use without treating assumptions as evidence | researchers, service users, domain experts, privacy/ethics reviewer"
+    },
+    {
+      "slug": "ibm-met-csm-001",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Activate this mode for customer feedback synthesis within IBM BOB's sales method and quality lane. Use it when the seller needs the work product of sales manager, sales operations analyst, enablement lead, quality reviewer, especially when the task should reduce manual research, analysis, writing..."
+    },
+    {
+      "slug": "ibm-met-tsl-004",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Activate this mode for technical competitive positioning within IBM BOB's sales method and quality lane. Use it when the seller needs the work product of sales manager, sales operations analyst, enablement lead, quality reviewer, especially when the task should reduce manual research, analysis, w..."
+    },
+    {
+      "slug": "ibm-qua-004",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Activate this mode for diq framework (deep intelligence questions) within IBM BOB's qualification and discovery lane. Use it when the seller needs the work product of discovery lead, qualification analyst, account executive, especially when the task should reduce manual research, analysis, writin..."
+    },
+    {
+      "slug": "procurement-engage-supplier-market",
+      "score": 67,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Engage Supplier Market** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-engage-supplier-market`, `engage-supplier-market`, or the corresponding professional workflow: supplier-market-engagement | decide whether and how to conduct market sounding, supplier briefings, or early supplier involvement without distorting competition | handoff to prospective suppliers, procurement lead, and legal/ethics oversight"
+    },
+    {
+      "slug": "product-go-to-market-planning",
+      "score": 67,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Go To Market Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-go-to-market-planning`, `go-to-market-planning`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "sales-account-intelligence",
+      "score": 67,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Account Intelligence** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-account-intelligence`, `account-intelligence`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "sales-competitive-strategy",
+      "score": 67,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Competitive Strategy** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-competitive-strategy`, `competitive-strategy`, or the corresponding professional workflow: competitive-and-risk-strategy | decide differentiation, competitive posture, red-team risks, win themes, and claims that can be substantiated | hand off battlecard and risk register to account leadership, product marketing, executives, and bid team"
+    },
+    {
+      "slug": "b2b-lead-intelligence-generator",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Generate comprehensive B2B lead databases with deep intelligence including decision maker contacts, pain points, solution matching, ROI projections, and revenue potential. Use when prospecting for B2B sales, building lead lists, conducting market research, creating sales intelligence databases, preparing for outreach campaigns, or when a user requests lead generation with detailed business intelligence."
+    },
+    {
+      "slug": "finance-market-research-analyst",
+      "score": 64,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-bob-lead-intelligence",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Generate comprehensive B2B lead databases with deep intelligence including decision maker contacts, pain points, IBM Automation solution mapping, ROI projections, and revenue potential. Use when prospecting for B2B sales, building lead lists, conducting market research, creating sales intelligence databases, preparing for outreach campaigns, or when a user requests lead generation with detailed business intelligence for IBM Project Bob."
+    },
+    {
+      "slug": "ibm-sdr-workflow-002",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Activate this mode for phase 1 - research & intelligence within IBM BOB's sdr workflow orchestration lane. Use it when the seller needs the work product of SDR workflow lead, blitz coordinator, prospecting operations analyst, especially when the task should reduce manual research, analysis, writi..."
+    },
+    {
+      "slug": "marketing-market-research-analyst",
+      "score": 64,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "process-research-to-experiment-to-decision",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Process Research To Experiment To Decision for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "sales-competitive-intelligence-analyst",
+      "score": 64,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Competitive Intelligence Analyst role: competitive intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-seller-intelligence-mcp-integration",
+      "score": 64,
+      "domain": "sales",
+      "description": "Connect IBM Bob sales skills to the five-MCP seller intelligence stack \u2014 Firecrawl (web research), SEC Intelligence (10-K/10-Q/8-K filings), Lead Enrichment (accounts, executives, personas), CRM (ownership, opportunities, activity), and PostgreSQL (evidence persistence). Use when any revenue skill needs live research, filing analysis, contact enrichment, account validation, or durable evidence storage."
+    },
+    {
+      "slug": "tls-territory-intelligence-agent",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires account research, prioritization, and install base intelligence for TLS territory planning, especially when the user expects the work product of a sales researcher or territory analyst. Activate it for Account 360 Intelligence Briefs, install base analysis, c..."
+    },
+    {
+      "slug": "ibm-bob-ads-research",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "Refresh IBM Bob Paid Media Operations platform, API, policy, regulation, benchmark, issue, pull-request, fork, and repository evidence. Use for ads research refresh, expired refresh_due dates, stale API or platform claims, reverify-or-demote decisions, release-current claim validation, ecosystem review, current platform changes, or updating paid-media knowledge. When tools or sources are unavailable, still demote the stale claim for the current run and block dependent release-current assertions before requesting access. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "shared-source-provenance",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "Perform the bounded professional capability **Source Provenance** for the **Shared Services** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `shared-source-provenance`, `source-provenance`, or the corresponding professional workflow: Assess source admission, licensing, attribution, freshness, integrity, and acceptable downstream use."
+    }
+  ],
+  "primary_accountable": [
+    "data-analytics-engineer",
+    "data-architect",
+    "data-business-analyst",
+    "data-business-intelligence-analyst",
+    "data-causal-inference-analyst",
+    "data-chief-data-officer-advisor",
+    "data-dashboard-designer",
+    "data-documentation-specialist",
+    "data-engineer",
+    "data-experimentation-analyst",
+    "data-forecasting-analyst",
+    "data-governance-analyst",
+    "data-kpi-analyst",
+    "data-lineage-specialist",
+    "data-machine-learning-engineer",
+    "data-metrics-designer",
+    "data-operations-analyst",
+    "data-orchestrator",
+    "data-product-analyst",
+    "data-quality-analyst",
+    "data-scientist",
+    "data-statistical-analyst",
+    "data-strategist",
+    "data-strategy-analytics-insight-synthesis",
+    "data-visualization-specialist",
+    "design-conduct-user-research",
+    "design-synthesize-research-evidence",
+    "enterprise-delta-impact-propagator",
+    "evidence-provenance-and-knowledge",
+    "ibm-atl-010",
+    "ibm-bob-ads-research",
+    "ibm-career-data-analytics-data-analyst",
+    "ibm-career-research-advisory-data-scientist-ibm-quantum",
+    "ibm-career-research-artificial-intelligence-researcher",
+    "ibm-career-research-cloud-research-scientist",
+    "ibm-career-research-quantum-research-scientist",
+    "ibm-clo-001",
+    "ibm-clo-002",
+    "ibm-clo-003",
+    "ibm-met-001",
+    "ibm-met-002",
+    "ibm-met-003",
+    "ibm-met-005",
+    "ibm-met-006",
+    "ibm-met-007",
+    "ibm-met-008",
+    "ibm-met-009",
+    "ibm-met-csm-001",
+    "ibm-met-se-001",
+    "ibm-met-sm-002",
+    "ibm-met-sm-003",
+    "ibm-met-sm-005",
+    "ibm-met-sm-006",
+    "ibm-met-sm-008",
+    "ibm-met-sm-010",
+    "ibm-met-so-001",
+    "ibm-met-so-002",
+    "ibm-met-tsl-001",
+    "ibm-met-tsl-004",
+    "ibm-neg-001",
+    "ibm-neg-002",
+    "ibm-neg-003",
+    "ibm-neg-006",
+    "ibm-neg-csm-001",
+    "ibm-neg-tss-001",
+    "ibm-pre-001",
+    "ibm-pre-002",
+    "ibm-pre-003",
+    "ibm-pre-004",
+    "ibm-pre-005",
+    "ibm-pre-006",
+    "ibm-pre-007",
+    "ibm-pre-009",
+    "ibm-pre-010",
+    "ibm-pre-apm-002",
+    "ibm-pre-atl-001",
+    "ibm-pre-atl-002",
+    "ibm-pre-atl-003",
+    "ibm-pre-bdm-001",
+    "ibm-pre-cp-001",
+    "ibm-pre-iss-001",
+    "ibm-pre-iss-002",
+    "ibm-pre-iss-003",
+    "ibm-pre-sdr-001",
+    "ibm-pre-sdr-002",
+    "ibm-qua-003",
+    "ibm-qua-004",
+    "ibm-qua-005",
+    "ibm-qua-006",
+    "ibm-qua-007",
+    "ibm-qua-008",
+    "ibm-qua-csm-001",
+    "ibm-qua-iss-001",
+    "ibm-qua-sa-001",
+    "ibm-qua-sdr-001",
+    "ibm-qua-tss-001",
+    "ibm-sales-scale-017",
+    "ibm-sales-scale-031",
+    "ibm-sdr-workflow-002",
+    "intelligence-analyze-patterns-and-trends",
+    "intelligence-build-decision-dashboards",
+    "intelligence-collect-source-metadata",
+    "intelligence-company-intelligence-analyst",
+    "intelligence-competitive-intelligence-analyst",
+    "intelligence-conduct-peer-review",
+    "intelligence-define-intelligence-requirements",
+    "intelligence-discover-public-sources",
+    "intelligence-domain-infrastructure-intelligence-analyst",
+    "intelligence-entity-resolution-specialist",
+    "intelligence-evaluate-source-credibility",
+    "intelligence-evidence-preservation-specialist",
+    "intelligence-executive-intelligence-analyst",
+    "intelligence-geographic-intelligence-analyst",
+    "intelligence-govern-release-and-access",
+    "intelligence-industry-intelligence-analyst",
+    "intelligence-manage-feedback-and-reassessment",
+    "intelligence-map-entities-and-relationships",
+    "intelligence-market-intelligence-analyst",
+    "intelligence-normalize-and-resolve-entities",
+    "intelligence-orchestrator",
+    "intelligence-osint-researcher",
+    "intelligence-partner-intelligence-analyst",
+    "intelligence-preserve-data-provenance",
+    "intelligence-privacy-osint-compliance-reviewer",
+    "intelligence-produce-intelligence-briefings",
+    "intelligence-public-records-researcher",
+    "intelligence-quality-reviewer",
+    "intelligence-quantify-analytic-confidence",
+    "intelligence-relationship-mapping-analyst",
+    "intelligence-report-writer",
+    "intelligence-reputation-intelligence-analyst",
+    "intelligence-source-verification-analyst",
+    "intelligence-supplier-intelligence-analyst",
+    "intelligence-technology-intelligence-analyst",
+    "intelligence-triangulate-and-test-hypotheses",
+    "intelligence-validate-data-quality",
+    "knowledge-work-document-analyst",
+    "knowledge-work-document-classification-specialist",
+    "knowledge-work-document-comparison-specialist",
+    "knowledge-work-document-quality-reviewer",
+    "knowledge-work-document-summarization-specialist",
+    "knowledge-work-information-extraction-specialist",
+    "knowledge-work-knowledge-base-curator",
+    "knowledge-work-knowledge-graph-builder",
+    "knowledge-work-knowledge-retrieval-specialist",
+    "knowledge-work-long-document-synthesis-specialist",
+    "knowledge-work-orchestrator",
+    "knowledge-work-pdf-analysis-specialist",
+    "knowledge-work-structured-extraction-specialist",
+    "knowledge-work-table-extraction-specialist",
+    "master-quality-gate",
+    "meta-skill-dependency-analyst",
+    "prompt-compilation",
+    "quantum-research-evidence-ledger",
+    "quantum-research-orchestrator",
+    "research-academic-search-specialist",
+    "research-certainty-assessment",
+    "research-citation-specialist",
+    "research-citation-verifier",
+    "research-contradiction-detector",
+    "research-critic",
+    "research-data-analyst",
+    "research-data-extraction",
+    "research-deep-research-agent",
+    "research-director",
+    "research-evidence-extraction-specialist",
+    "research-evidence-mapping",
+    "research-evidence-retrieval",
+    "research-evidence-synthesizer",
+    "research-evidence-to-decision",
+    "research-experiment-designer",
+    "research-experiment-management",
+    "research-fact-checker",
+    "research-hypothesis-generator",
+    "research-hypothesis-reviewer",
+    "research-industry-researcher",
+    "research-literature-review-specialist",
+    "research-living-review-monitoring",
+    "research-meta-analysis",
+    "research-primary-source-analyst",
+    "research-protocol-preregistration",
+    "research-provenance-auditor",
+    "research-qualitative-synthesis",
+    "research-question-designer",
+    "research-question-framing",
+    "research-replication-analyst",
+    "research-risk-of-bias-appraisal",
+    "research-scientific-literature-analyst",
+    "research-screening-and-selection",
+    "research-search-strategy-design",
+    "research-source-credibility-analyst",
+    "research-synthesis-method-selection",
+    "research-transparent-reporting",
+    "review-research-reviewer",
+    "review-source-quality-reviewer",
+    "shared-human-approval-manager",
+    "shared-output-validator",
+    "shared-research-github-repository-analyst",
+    "shared-research-market-researcher",
+    "shared-research-pdf-analyst",
+    "shared-research-primary-source-finder",
+    "shared-research-source-verifier",
+    "shared-research-spreadsheet-analyst",
+    "shared-source-provenance",
+    "simulation-competitive-response-simulator",
+    "simulation-critic",
+    "simulation-customer-behavior-simulator",
+    "simulation-decision-tree-analyst",
+    "simulation-evidence-reviewer",
+    "simulation-market-simulation-specialist",
+    "simulation-monte-carlo-modeling-specialist",
+    "simulation-multi-agent-simulation-specialist",
+    "simulation-orchestrator",
+    "simulation-persona-simulation-specialist",
+    "simulation-policy-simulation-specialist",
+    "simulation-pricing-simulation-specialist",
+    "simulation-scenario-modeler",
+    "simulation-sensitivity-analyst",
+    "simulation-stakeholder-simulation-specialist",
+    "simulation-uncertainty-analyst",
+    "strategic-foresight",
+    "tls-competitive-intelligence-battlecard-agent",
+    "tls-territory-intelligence-agent",
+    "tsc-traceability-manager"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

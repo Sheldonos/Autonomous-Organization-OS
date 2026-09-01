@@ -1,0 +1,74 @@
+{
+  "pocket": "acceleratoros",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Program thesis Team",
+      "stage": 1,
+      "responsibility": "Program thesis",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Cohort sourcing Team",
+      "stage": 2,
+      "responsibility": "Cohort sourcing",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Selection Team",
+      "stage": 3,
+      "responsibility": "Selection",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Curriculum & mentor matching Team",
+      "stage": 4,
+      "responsibility": "Curriculum & mentor matching",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Milestones Team",
+      "stage": 5,
+      "responsibility": "Milestones",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Office hours & interventions Team",
+      "stage": 6,
+      "responsibility": "Office hours & interventions",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Demo/placement Team",
+      "stage": 7,
+      "responsibility": "Demo/placement",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Alumni outcomes Team",
+      "stage": 8,
+      "responsibility": "Alumni outcomes",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

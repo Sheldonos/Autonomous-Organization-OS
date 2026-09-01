@@ -1,0 +1,27 @@
+{
+  "pocket": "mandaos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "automation-design-integration-orchestration",
+    "legal-third-party-risk-assessment",
+    "legal-approval-signature-routing",
+    "legal-amendment-change-control",
+    "legal-contract-closeout-records",
+    "legal-contract-drafting-redlining",
+    "legal-contract-performance-monitoring",
+    "legal-contract-risk-issue-spotting",
+    "legal-contract-template-governance",
+    "legal-dispute-claims-management",
+    "legal-legal-hold-evidence-preservation",
+    "legal-legal-work-intake-triage",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "process-acquisition-to-integration",
+    "product-go-to-market-planning",
+    "procurement-assess-supply-chain-risk",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence",
+    "cio-technology-integration-planning"
+  ]
+}

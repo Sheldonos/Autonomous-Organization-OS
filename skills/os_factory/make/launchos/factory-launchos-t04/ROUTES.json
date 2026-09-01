@@ -1,0 +1,27 @@
+{
+  "pocket": "launchos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-fw-001",
+    "ibm-fw-002",
+    "ibm-fw-003",
+    "ibm-fw-005",
+    "marketing-campaign-launch-readiness",
+    "revenue-adoption-analysis",
+    "ibm-sales-ext-platform-model-release",
+    "product-go-to-market-planning",
+    "product-release-readiness-assessment",
+    "marketing-brand-compliance-review",
+    "product-roadmap-planning",
+    "product-product-analytics",
+    "product-backlog-governance",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "product-launch-architect",
+    "product-launch-manager",
+    "product-customer-problem-discovery",
+    "product-requirements-traceability"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "pocket": "enterpriseos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Organizational sensing Team",
+      "stage": 1,
+      "responsibility": "Organizational sensing",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Objective decomposition Team",
+      "stage": 2,
+      "responsibility": "Objective decomposition",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Capability & gap mapping Team",
+      "stage": 3,
+      "responsibility": "Capability & gap mapping",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Pocket/team routing Team",
+      "stage": 4,
+      "responsibility": "Pocket/team routing",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Plan & approval graph Team",
+      "stage": 5,
+      "responsibility": "Plan & approval graph",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Execution coordination Team",
+      "stage": 6,
+      "responsibility": "Execution coordination",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Read-back verification Team",
+      "stage": 7,
+      "responsibility": "Read-back verification",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Outcome telemetry Team",
+      "stage": 8,
+      "responsibility": "Outcome telemetry",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t09",
+      "name": "Continuous improvement Team",
+      "stage": 9,
+      "responsibility": "Continuous improvement",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

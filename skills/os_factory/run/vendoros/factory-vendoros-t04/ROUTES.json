@@ -1,0 +1,27 @@
+{
+  "pocket": "vendoros",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-contract-obligation-extraction",
+    "procurement-contract-renewal-readiness",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "legal-renewal-exit-management",
+    "legal-obligation-milestone-management",
+    "procurement-price-variance-investigation",
+    "procurement-monitor-supplier-performance",
+    "procurement-assess-supply-chain-risk",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence",
+    "procurement-lead-time-exception-triage",
+    "procurement-off-contract-spend-analysis",
+    "procurement-supplier-onboarding-readiness",
+    "procurement-supplier-performance-scorecard",
+    "ibm-sales-scale-064",
+    "procurement-supplier-exit-readiness",
+    "legal-risk-obligation-extraction",
+    "procurement-certificate-expiry-monitoring"
+  ]
+}

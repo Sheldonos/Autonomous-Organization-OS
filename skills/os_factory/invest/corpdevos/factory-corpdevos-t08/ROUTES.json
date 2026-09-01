@@ -1,0 +1,27 @@
+{
+  "pocket": "corpdevos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cio-build-buy-partner-decision",
+    "product-customer-problem-discovery",
+    "product-backlog-governance",
+    "product-go-to-market-planning",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "product-product-analytics",
+    "investment-acquisition-target-researcher",
+    "agency-operations-conflict-of-interest-screening",
+    "finance-driver-based-budgeting",
+    "finance-executive-decision-support",
+    "agency-operations-engagement-qualification",
+    "agency-operations-stakeholder-communications-governance",
+    "automation-assure-business-continuity",
+    "chief-of-staff-principal-transition-handoff",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "ibm-career-enterprise-operations-talent-acquisition-partner",
+    "agency-operations-resource-capacity-planning"
+  ]
+}

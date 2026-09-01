@@ -1,0 +1,27 @@
+{
+  "pocket": "capitalos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-business-case-appraisal",
+    "finance-liquidity-planning",
+    "finance-rolling-forecasting",
+    "finance-working-capital-analysis",
+    "finance-capital-allocation-analyst",
+    "finance-investment-analyst",
+    "finance-valuation-specialist",
+    "finance-working-capital-analyst",
+    "investment-competitive-position-analyst",
+    "finance-scenario-modeling",
+    "finance-driver-based-budgeting",
+    "finance-10-k-analyst",
+    "finance-10-q-analyst",
+    "finance-budget-analyst",
+    "finance-cash-flow-analyst",
+    "finance-cfo-advisor",
+    "finance-comparable-companies-analyst",
+    "finance-corporate-finance-analyst",
+    "finance-credit-analyst",
+    "finance-dcf-specialist"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pocket": "labos",
+  "required_or_optional_classes": [
+    "lab_data",
+    "notebook",
+    "document_store",
+    "data_warehouse"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

@@ -1,0 +1,13 @@
+{
+  "pocket": "commerceos",
+  "required_or_optional_classes": [
+    "storefront",
+    "payments",
+    "erp",
+    "inventory",
+    "analytics",
+    "marketing_automation"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

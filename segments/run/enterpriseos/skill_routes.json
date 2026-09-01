@@ -1,0 +1,1455 @@
+{
+  "schema_version": "2.0",
+  "pocket": "enterpriseos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 482,
+  "skills": [
+    {
+      "slug": "automation-assess-automation-opportunity",
+      "score": 116,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Assess Automation Opportunity** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-assess-automation-opportunity`, `assess-automation-opportunity`, or the corresponding professional workflow: automation-opportunity-assessment | decide whether a candidate is suitable for workflow/RPA/API/AI automation based on stability, rule clarity, exception rate, value, feasibility, and risk | handoff to automation portfolio governance, enterprise architecture, security, legal/privacy, and finance"
+    },
+    {
+      "slug": "automation-prioritize-automation-portfolio",
+      "score": 116,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Prioritize Automation Portfolio** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-prioritize-automation-portfolio`, `prioritize-automation-portfolio`, or the corresponding professional workflow: automation-opportunity-assessment | decide whether a candidate is suitable for workflow/RPA/API/AI automation based on stability, rule clarity, exception rate, value, feasibility, and risk | handoff to automation portfolio governance, enterprise architecture, security, legal/privacy, and finance"
+    },
+    {
+      "slug": "automation-design-integration-orchestration",
+      "score": 108,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Design Integration Orchestration** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-design-integration-orchestration`, `design-integration-orchestration`, or the corresponding professional workflow: solution-design-and-integration | decide orchestration pattern, APIs/connectors, data mappings, identity model, retries, queues, and system-of-record boundaries | handoff to enterprise/application architects, integration engineers, platform owners, and security review"
+    },
+    {
+      "slug": "automation-improve-process-performance",
+      "score": 100,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Improve Process Performance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-improve-process-performance`, `improve-process-performance`, or the corresponding professional workflow: performance-and-conformance-improvement | decide corrective action, redesign, retraining/configuration change, capacity adjustment, or retirement using KPI trends, incidents, and process-mining/conformance evidence | handoff to continuous-improvement lead, process owner, architecture, and governance board"
+    },
+    {
+      "slug": "cio-it-organization-design",
+      "score": 96,
+      "domain": "cio-it",
+      "description": "CIO IT Organization Design for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "data-strategy-business-case-preparation",
+      "score": 96,
+      "domain": "data",
+      "description": "Prepare business-case evidence, assumptions, benefits, costs, risks, and owners. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "automation-govern-access-and-data",
+      "score": 94,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Govern Access And Data** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-govern-access-and-data`, `govern-access-and-data`, or the corresponding professional workflow: access-data-and-records-governance | decide least-privilege access, data minimization, classification, retention/deletion, logging, evidence preservation, and third-party data handling | handoff to IAM, privacy, security operations, records/legal, and audit"
+    },
+    {
+      "slug": "healthcare-health-records-governance",
+      "score": 94,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Health Records Governance** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-health-records-governance`, `health-records-governance`, or the corresponding professional workflow: records-and-information-governance | set retention, access, amendment, release-of-information, legal-hold, and defensible disposal controls for clinical and business records | HIM, privacy officer, legal, IT, clinical and finance process owners"
+    },
+    {
+      "slug": "chief-of-staff-risk-crisis-coordination",
+      "score": 91,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Risk Crisis Coordination** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-risk-crisis-coordination`, `risk-crisis-coordination`, or the corresponding professional workflow: Risk, crisis, and reputational coordination | maintain risk/issues register, define thresholds, convene the right experts, preserve an auditable timeline, and escalate incidents | executive sponsor, enterprise risk, legal, security, communications, business continuity"
+    },
+    {
+      "slug": "program-management-program-governance",
+      "score": 90,
+      "domain": "program-management",
+      "description": "Govern a portfolio of related projects against strategy, dependencies, benefits and risk. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "automation-baseline-process-performance",
+      "score": 89,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Baseline Process Performance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-baseline-process-performance`, `baseline-process-performance`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-discover-process",
+      "score": 89,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Discover Process** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-discover-process`, `discover-process`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-manage-automation-incidents",
+      "score": 89,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Manage Automation Incidents** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-manage-automation-incidents`, `manage-automation-incidents`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-measure-process-conformance",
+      "score": 89,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Measure Process Conformance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-measure-process-conformance`, `measure-process-conformance`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-model-business-process",
+      "score": 89,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Model Business Process** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-model-business-process`, `model-business-process`, or the corresponding professional workflow: process-modeling-and-standardization | decide the canonical current/future-state flow, roles, events, business rules, exceptions, and message exchanges using a shared notation | handoff from process analyst to business owner, solution architect, developers, and operational users"
+    },
+    {
+      "slug": "automation-specify-automation-requirements",
+      "score": 89,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Specify Automation Requirements** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-specify-automation-requirements`, `specify-automation-requirements`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-standardize-process",
+      "score": 89,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Standardize Process** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-standardize-process`, `standardize-process`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-validate-automation-solution",
+      "score": 89,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Validate Automation Solution** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-validate-automation-solution`, `validate-automation-solution`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "data-strategy-portfolio-roadmap-synthesis",
+      "score": 87,
+      "domain": "data",
+      "description": "Synthesize portfolio roadmap dependencies, outcomes, investment, and decision points. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "automation-design-controls-and-approvals",
+      "score": 86,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Design Controls And Approvals** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-design-controls-and-approvals`, `design-controls-and-approvals`, or the corresponding professional workflow: requirements-and-control-design | decide functional requirements, segregation of duties, approvals, audit evidence, access needs, retention, error handling, and human-in-the-loop points | handoff to process owner, compliance/internal audit, security/privacy, records management, and engineering"
+    },
+    {
+      "slug": "automation-manage-release-and-change",
+      "score": 86,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Manage Release And Change** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-manage-release-and-change`, `manage-release-and-change`, or the corresponding professional workflow: deployment-and-change-management | decide go-live, phased rollout, rollback, training, communications, support model, and change-window timing | handoff to change manager, release manager, service desk, business owner, and affected users"
+    },
+    {
+      "slug": "automation-monitor-automation-runs",
+      "score": 86,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Monitor Automation Runs** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-monitor-automation-runs`, `monitor-automation-runs`, or the corresponding professional workflow: run-monitor-and-exception-management | decide whether runs are healthy, retryable, quarantined, routed for manual work, or escalated based on SLAs and risk thresholds | handoff to operations control room, exception owners, service management, and process SMEs"
+    },
+    {
+      "slug": "automation-triage-process-exceptions",
+      "score": 86,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Triage Process Exceptions** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-triage-process-exceptions`, `triage-process-exceptions`, or the corresponding professional workflow: process-modeling-and-standardization | decide the canonical current/future-state flow, roles, events, business rules, exceptions, and message exchanges using a shared notation | handoff from process analyst to business owner, solution architect, developers, and operational users"
+    },
+    {
+      "slug": "chief-of-staff-organizational-sensing",
+      "score": 86,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Organizational Sensing** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-organizational-sensing`, `organizational-sensing`, or the corresponding professional workflow: Organizational sensing and issue triage | collect signals from leaders and operating data, classify urgency/impact, identify root owner, and recommend response options | principal, HR, risk, security, legal, business owners"
+    },
+    {
+      "slug": "enterprise-domain-fixture-builder",
+      "score": 86,
+      "domain": "quality",
+      "description": "Create representative positive, negative, edge, adversarial and degraded fixtures for business-line acceptance testing. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "cio-business-technology-alignment",
+      "score": 85,
+      "domain": "shared-execution",
+      "description": "CIO Business Technology Alignment for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-cio-operating-model-design",
+      "score": 85,
+      "domain": "shared-execution",
+      "description": "CIO CIO Operating Model Design for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-budget-variance",
+      "score": 85,
+      "domain": "cio-it",
+      "description": "CIO IT Budget Variance for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-budgeting",
+      "score": 85,
+      "domain": "cio-it",
+      "description": "CIO IT Budgeting for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-forecasting",
+      "score": 85,
+      "domain": "cio-it",
+      "description": "CIO IT Forecasting for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-role-planning",
+      "score": 85,
+      "domain": "cio-it",
+      "description": "CIO IT Role Planning for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-it-unit-economics",
+      "score": 85,
+      "domain": "cio-it",
+      "description": "CIO IT Unit Economics for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "data-strategy-lineage-evidence-pack",
+      "score": 84,
+      "domain": "data",
+      "description": "Compile data-lineage evidence, transformation scope, and gaps for reviewer use. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Data Engineering Governance Capability Director."
+    },
+    {
+      "slug": "process-strategy-to-portfolio-to-execution-to-outcome",
+      "score": 84,
+      "domain": "shared-execution",
+      "description": "Process Strategy To Portfolio To Execution To Outcome for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "automation-assure-business-continuity",
+      "score": 83,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Assure Business Continuity** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-assure-business-continuity`, `assure-business-continuity`, or the corresponding professional workflow: incident-problem-and-continuity-management | decide incident severity, containment, business workaround, problem root cause, recovery priority, and continuity invocation | handoff to service management, security incident response, business continuity, vendors, and executive risk owners"
+    },
+    {
+      "slug": "healthcare-vendor-business-associate-governance",
+      "score": 83,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Vendor Business Associate Governance** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-vendor-business-associate-governance`, `vendor-business-associate-governance`, or the corresponding professional workflow: vendor-and-business-associate-governance | assess third-party access and service risk, execute appropriate agreements, define security/privacy obligations, and monitor performance | procurement, privacy/security, legal, compliance, vendor owner"
+    },
+    {
+      "slug": "chief-of-staff-strategic-operating-cadence",
+      "score": 80,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Strategic Operating Cadence** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-strategic-operating-cadence`, `strategic-operating-cadence`, or the corresponding professional workflow: Strategic planning and operating cadence | turn priorities into quarterly/monthly/weekly reviews with KPI definitions, pre-reads, decision logs, and follow-up loops | principal, business-unit leaders, PMO, analytics/finance"
+    },
+    {
+      "slug": "continuous-capability-evolution",
+      "score": 80,
+      "domain": "meta",
+      "description": "IBM-aligned Continuous Capability Evolution specialist. Use for Enterprise Meta / Continuous Improvement work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "cross-domain-outcome-verifier",
+      "score": 80,
+      "domain": "review",
+      "description": "IBM-aligned Cross-Domain Outcome Verifier specialist. Use for Enterprise Meta / Continuous Improvement work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "enterprise-domain-harness-orchestrator",
+      "score": 80,
+      "domain": "meta",
+      "description": "Select and operate the correct DomainBob harness for a work item, preserving state, evidence, authority and return routing. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "intelligence-govern-release-and-access",
+      "score": 80,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Govern Release And Access** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-govern-release-and-access`, `govern-release-and-access`, or the corresponding professional workflow: review-and-release-governance | perform peer review, citation/evidence checks, privacy and legal screening, classification/access checks, and release approval | handoff to accountable human approver and records custodian"
+    },
+    {
+      "slug": "chief-of-staff-executive-priority-shaping",
+      "score": 79,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Executive Priority Shaping** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-executive-priority-shaping`, `executive-priority-shaping`, or the corresponding professional workflow: Executive-priority translation and portfolio shaping | convert the principal\u2019s mission into a small set of explicit outcomes, owners, milestones, and trade-offs"
+    },
+    {
+      "slug": "chief-of-staff-principal-transition-handoff",
+      "score": 79,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Principal Transition Handoff** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-principal-transition-handoff`, `principal-transition-handoff`, or the corresponding professional workflow: Principal transition and continuity | document operating preferences, open commitments, authorities, stakeholder map, and succession handoff while avoiding undocumented shadow governance | outgoing/incoming principal, successor COS, HR, legal, executive assistant, key functional owners"
+    },
+    {
+      "slug": "data-strategy-data-access-request-precheck",
+      "score": 79,
+      "domain": "data",
+      "description": "Check data-access request completeness, purpose, classification, and approval routing. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Data Access Governance Capability Director."
+    },
+    {
+      "slug": "cio-business-intelligence-strategy",
+      "score": 77,
+      "domain": "shared-execution",
+      "description": "CIO Business Intelligence Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cybersecurity-cybersecurity-governance",
+      "score": 77,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cybersecurity Governance** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cybersecurity-governance`, `cybersecurity-governance`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "cybersecurity-security-policy-management",
+      "score": 77,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Policy Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-policy-management`, `security-policy-management`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "autonomous-cio-orchestrator",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "Autonomous CIO Orchestrator for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-board-technology-advisory",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "CIO Board Technology Advisory for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ceo-technology-advisory",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "CIO Ceo Technology Advisory for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-digital-transformation-roadmap",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "CIO Digital Transformation Roadmap for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-technology-strategy",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise Technology Strategy for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-competitive-intelligence",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "CIO Technology Competitive Intelligence for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-investment-prioritization",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "CIO Technology Investment Prioritization for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-modernization-strategy",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "CIO Technology Modernization Strategy for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-scenario-planning",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "CIO Technology Scenario Planning for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-strategic-foresight",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "CIO Technology Strategic Foresight for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-strategic-planning",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "CIO Technology Strategic Planning for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-enterprise-portfolio-management",
+      "score": 76,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Portfolio Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "data-strategy-metric-definition-governance",
+      "score": 73,
+      "domain": "data",
+      "description": "Prepare metric-definition governance packet with lineage, owners, and change impact. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Analytics and Decision Support Capability Director."
+    },
+    {
+      "slug": "strategy-portfolio-strategist",
+      "score": 73,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Portfolio Strategist role: portfolio; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "enterprise-business-outcome-ledger",
+      "score": 69,
+      "domain": "shared-execution",
+      "description": "Enterprise Business Outcome Ledger for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-ai-model-routing",
+      "score": 69,
+      "domain": "shared-execution",
+      "description": "Watsonx AI Model Routing for watsonx.ai. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-plan-to-forecast",
+      "score": 68,
+      "domain": "shared-execution",
+      "description": "Process Plan To Forecast for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-policy-to-control-to-evidence",
+      "score": 68,
+      "domain": "shared-execution",
+      "description": "Process Policy To Control To Evidence for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-business-architecture",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "CIO Business Architecture for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-business-continuity-planning",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "CIO Business Continuity Planning for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-foundation-model-selection",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "CIO Foundation Model Selection for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-model-economics",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "CIO Model Economics for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-model-lifecycle-management",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "CIO Model Lifecycle Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-service-management-operating-model",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "CIO Service Management Operating Model for Service Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-business-case",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "CIO Technology Business Case for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-business-management",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "CIO Technology Business Management for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-identity-authority-model",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "Enterprise Identity Authority Model for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-business-case-analysis",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "Eos Business Case Analysis for Finance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-business-performance-review",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "Eos Business Performance Review for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-executive-business-review",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "Eos Executive Business Review for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-ai-model-inventory",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "Watsonx AI Model Inventory for watsonx.ai. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-agent-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Agent Strategy for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-portfolio-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO AI Portfolio Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-analytics-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Analytics Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-portfolio-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Application Portfolio Management for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-benefits-realization",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Benefits Realization for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-cloud-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Cloud Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-crm-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO CRM Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-data-platform-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Data Platform Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-data-protection-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Data Protection Strategy for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-delivery-risk-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Delivery Risk Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-ai-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise AI Strategy for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-collaboration-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise Collaboration Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-data-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise Data Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-erp-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO ERP Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-executive-portfolio-reporting",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Executive Portfolio Reporting for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-hr-systems-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Hr Systems Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-hybrid-cloud-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Hybrid Cloud Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-identity-foundation-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Identity Foundation Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-innovation-portfolio-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Innovation Portfolio Management for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-kubernetes-platform-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Kubernetes Platform Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-managed-service-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Managed Service Strategy for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-milestone-tracking",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Milestone Tracking for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-network-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Network Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-observability-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Observability Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-portfolio-dependency-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Dependency Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-portfolio-prioritization",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Prioritization for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-portfolio-resource-planning",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Resource Planning for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-program-governance",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Program Governance for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-project-portfolio-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Project Portfolio Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-saas-portfolio-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO SAAS Portfolio Management for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-stage-gate-governance",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Stage Gate Governance for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-storage-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Storage Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-negotiation-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Technology Negotiation Strategy for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-resilience-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Technology Resilience Strategy for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-talent-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Technology Talent Strategy for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-zero-trust-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "CIO Zero Trust Strategy for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-strategy-generation",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Cios Customer Strategy Generation for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-benefits-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Benefits Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-content-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Content Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-corporate-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Corporate Strategy for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-deal-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Deal Strategy for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ecosystem-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Ecosystem Strategy for Partnerships / Ecosystem. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-enterprise-dependency-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Dependency Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-enterprise-resource-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Resource Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ma-day1-orchestration",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos MA Day1 Orchestration for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ma-integration-orchestration",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos MA Integration Orchestration for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ma-separation-orchestration",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos MA Separation Orchestration for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-messaging-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Messaging Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-milestone-governance",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Milestone Governance for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-positioning-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Positioning Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-pricing-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Pricing Strategy for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-strategy",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Product Strategy for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-program-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Program Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-project-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Project Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-research-portfolio-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Research Portfolio Management for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-transformation-management",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Transformation Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-transformation-risk",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Eos Transformation Risk for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-acquisition-to-integration",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Acquisition To Integration for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-change-to-release",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Change To Release for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-concept-to-launch",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Concept To Launch for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-customer-to-adoption-to-renewal",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Customer To Adoption To Renewal for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-demand-to-delivery",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Demand To Delivery for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-hire-to-retire",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Hire To Retire for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-idea-to-product",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Idea To Product for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-incident-to-recovery",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Incident To Recovery for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-issue-to-resolution",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Issue To Resolution for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-lead-to-revenue",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Lead To Revenue for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-opportunity-to-cash",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Opportunity To Cash for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-order-to-cash",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Order To Cash for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-procure-to-pay",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Procure To Pay for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-quote-to-cash",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Quote To Cash for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-record-to-report",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Record To Report for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-research-to-experiment-to-decision",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Research To Experiment To Decision for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-risk-to-remediation",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Risk To Remediation for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "process-vendor-to-renewal",
+      "score": 65,
+      "domain": "shared-execution",
+      "description": "Process Vendor To Renewal for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-agentic-orchestration",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "Design, configure, deploy, and operate a governed IBM Sales multi-agent package that connects IBM Bob, watsonx.ai, watsonx Orchestrate, and watsonx.governance. Use for seller onboarding, account research, opportunity execution, sales workflow automation, agent routing, sensitive sales-data handling, IBM Sales dashboards, and enterprise-scale operating design."
+    },
+    {
+      "slug": "cio-technology-control-mapping",
+      "score": 60,
+      "domain": "shared-execution",
+      "description": "CIO Technology Control Mapping for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-control-plane-orchestrator",
+      "score": 60,
+      "domain": "shared-execution",
+      "description": "Enterprise Control Plane Orchestrator for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-evaluation-control-plane",
+      "score": 60,
+      "domain": "shared-execution",
+      "description": "Enterprise Evaluation Control Plane for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-observability-control-plane",
+      "score": 60,
+      "domain": "shared-execution",
+      "description": "Enterprise Observability Control Plane for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-000",
+      "score": 60,
+      "domain": "shared-execution",
+      "description": "The singular IBM Sales orchestration control mode. Routes all seller requests through a governed execution plan \u2014 account intelligence, discovery, qualification, pipeline strategy, value engineering, proposal, negotiation, close, and adoption. Enforces human approval gates before any external write, CRM update, pricing commitment, or outreach. Use as the front door for all IBM Sales work."
+    },
+    {
+      "slug": "ibm-bob-skills-implementation",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "A comprehensive orchestration package that integrates 38 specialized skills into a cohesive IBM Project Bob environment. Use this skill when you need to understand how the 38 distinct skills (covering enterprise strategy, software development, creative direction, and UI/UX) fit together into a hierarchical agentic architecture. It provides the routing logic for complex, multi-stage workflows like \"Idea to IPO\" or \"Enterprise Deal Execution\"."
+    }
+  ],
+  "primary_accountable": [
+    "automation-and-scheduling",
+    "automation-assess-automation-opportunity",
+    "automation-assure-business-continuity",
+    "automation-baseline-process-performance",
+    "automation-business-process-automation-specialist",
+    "automation-design-controls-and-approvals",
+    "automation-design-integration-orchestration",
+    "automation-discover-process",
+    "automation-event-driven-automation-specialist",
+    "automation-govern-access-and-data",
+    "automation-human-in-the-loop-designer",
+    "automation-improve-process-performance",
+    "automation-integration-mapping-specialist",
+    "automation-manage-automation-incidents",
+    "automation-manage-release-and-change",
+    "automation-measure-process-conformance",
+    "automation-model-business-process",
+    "automation-monitor-automation-runs",
+    "automation-n8n-debugging-specialist",
+    "automation-n8n-workflow-architect",
+    "automation-n8n-workflow-builder",
+    "automation-opportunity-analyst",
+    "automation-orchestrator",
+    "automation-prioritize-automation-portfolio",
+    "automation-process-automation-analyst",
+    "automation-roi-analyst",
+    "automation-secrets-credential-reviewer",
+    "automation-specify-automation-requirements",
+    "automation-standardize-process",
+    "automation-strategist",
+    "automation-triage-process-exceptions",
+    "automation-validate-automation-solution",
+    "automation-workflow-architect",
+    "automation-workflow-optimization-specialist",
+    "automation-workflow-reliability-engineer",
+    "automation-workflow-security-reviewer",
+    "autonomous-cio-orchestrator",
+    "cio-agent-strategy",
+    "cio-ai-architecture",
+    "cio-ai-governance",
+    "cio-ai-human-authority-design",
+    "cio-ai-observability",
+    "cio-ai-portfolio-management",
+    "cio-ai-use-case-intake",
+    "cio-analytics-strategy",
+    "cio-application-architecture",
+    "cio-application-criticality-classification",
+    "cio-application-lifecycle-risk",
+    "cio-application-modernization",
+    "cio-application-portfolio-management",
+    "cio-application-retirement-consolidation",
+    "cio-architecture-exception-management",
+    "cio-architecture-standards-management",
+    "cio-benefits-realization",
+    "cio-board-technology-advisory",
+    "cio-business-architecture",
+    "cio-business-continuity-planning",
+    "cio-business-intelligence-strategy",
+    "cio-business-technology-alignment",
+    "cio-capacity-planning",
+    "cio-capex-opex-optimization",
+    "cio-ceo-technology-advisory",
+    "cio-change-management",
+    "cio-chargeback-showback",
+    "cio-cio-operating-model-design",
+    "cio-ciso-collaboration",
+    "cio-cloud-architecture",
+    "cio-cloud-finops",
+    "cio-cloud-resilience-architecture",
+    "cio-cloud-strategy",
+    "cio-cmdb-governance",
+    "cio-compute-capacity-management",
+    "cio-configuration-management",
+    "cio-critical-dependency-mapping",
+    "cio-crm-strategy",
+    "cio-data-access-governance",
+    "cio-data-architecture",
+    "cio-data-governance",
+    "cio-data-lineage-management",
+    "cio-data-platform-strategy",
+    "cio-data-product-management",
+    "cio-data-protection-strategy",
+    "cio-data-quality-management",
+    "cio-data-retention-governance",
+    "cio-developer-experience",
+    "cio-digital-transformation-roadmap",
+    "cio-disaster-recovery",
+    "cio-enterprise-ai-strategy",
+    "cio-enterprise-architecture",
+    "cio-enterprise-collaboration-strategy",
+    "cio-enterprise-data-strategy",
+    "cio-enterprise-technology-strategy",
+    "cio-erp-strategy",
+    "cio-executive-portfolio-reporting",
+    "cio-finops-governance",
+    "cio-foundation-model-selection",
+    "cio-hr-systems-strategy",
+    "cio-hybrid-cloud-strategy",
+    "cio-identity-foundation-strategy",
+    "cio-infrastructure-architecture",
+    "cio-infrastructure-modernization",
+    "cio-innovation-portfolio-management",
+    "cio-integration-architecture",
+    "cio-it-budget-variance",
+    "cio-it-budgeting",
+    "cio-it-forecasting",
+    "cio-it-organization-design",
+    "cio-it-role-planning",
+    "cio-it-unit-economics",
+    "cio-kubernetes-platform-strategy",
+    "cio-ma-data-diligence",
+    "cio-ma-day1-planning",
+    "cio-ma-infrastructure-diligence",
+    "cio-managed-service-strategy",
+    "cio-master-data-management",
+    "cio-metadata-management",
+    "cio-milestone-tracking",
+    "cio-model-economics",
+    "cio-model-lifecycle-management",
+    "cio-network-strategy",
+    "cio-observability-strategy",
+    "cio-platform-architecture",
+    "cio-platform-engineering",
+    "cio-portfolio-dependency-management",
+    "cio-portfolio-prioritization",
+    "cio-portfolio-resource-planning",
+    "cio-problem-management",
+    "cio-program-governance",
+    "cio-project-portfolio-management",
+    "cio-rag-architecture",
+    "cio-recovery-testing",
+    "cio-reference-architecture-management",
+    "cio-responsible-ai",
+    "cio-root-cause-analysis",
+    "cio-rto-rpo-governance",
+    "cio-saas-portfolio-management",
+    "cio-service-catalog-management",
+    "cio-service-continuity-management",
+    "cio-service-health-review",
+    "cio-service-management-operating-model",
+    "cio-service-request-management",
+    "cio-sla-management",
+    "cio-slo-management",
+    "cio-solution-architecture",
+    "cio-stage-gate-governance",
+    "cio-storage-strategy",
+    "cio-technical-debt-governance",
+    "cio-technology-business-case",
+    "cio-technology-business-management",
+    "cio-technology-competitive-intelligence",
+    "cio-technology-control-mapping",
+    "cio-technology-investment-prioritization",
+    "cio-technology-modernization-strategy",
+    "cio-technology-negotiation-strategy",
+    "cio-technology-organizational-health",
+    "cio-technology-resilience-strategy",
+    "cio-technology-scenario-planning",
+    "cio-technology-strategic-foresight",
+    "cio-technology-strategic-planning",
+    "cio-technology-talent-strategy",
+    "cio-tsa-planning",
+    "cio-vendor-economics",
+    "cio-zero-trust-strategy",
+    "cios-continuous-customer-analysis-loop",
+    "cios-cross-agent-insight-mining",
+    "cios-customer-agent-challenge-loop",
+    "cios-customer-contradiction-engine",
+    "cios-customer-convergence-check",
+    "cios-customer-data-ingestion",
+    "cios-customer-delta-propagation",
+    "cios-customer-evidence-normalization",
+    "cios-customer-insight-dashboard",
+    "cios-customer-knowledge-graph",
+    "cios-customer-next-best-action",
+    "cios-customer-opportunity-graph",
+    "cios-customer-skill-relevance-planning",
+    "cios-customer-strategy-generation",
+    "cios-customer-unknown-question-engine",
+    "cios-customer-what-changed-digest",
+    "cios-ibm-role-value-mapping",
+    "continuous-capability-evolution",
+    "cross-domain-outcome-verifier",
+    "customer-intelligence-orchestrator",
+    "data-strategy-ai-use-case-qualification",
+    "data-strategy-benefits-realization-evidence",
+    "data-strategy-business-case-preparation",
+    "data-strategy-carbon-data-quality",
+    "data-strategy-data-access-request-precheck",
+    "data-strategy-data-issue-triage",
+    "data-strategy-data-product-assessment",
+    "data-strategy-data-quality-scorecard",
+    "data-strategy-data-retention-impact",
+    "data-strategy-esg-metric-evidence",
+    "data-strategy-knowledge-refresh-assessment",
+    "data-strategy-lineage-evidence-pack",
+    "data-strategy-master-data-remediation",
+    "data-strategy-metric-definition-governance",
+    "data-strategy-model-inventory-quality",
+    "data-strategy-model-risk-assessment-prep",
+    "data-strategy-okr-progress-review",
+    "data-strategy-portfolio-roadmap-synthesis",
+    "data-strategy-prompt-policy-review",
+    "data-strategy-schema-change-impact",
+    "data-strategy-sustainability-initiative-prioritization",
+    "enterprise-agent-handoff-ledger",
+    "enterprise-approval-ledger",
+    "enterprise-automatic-provisioning-plan",
+    "enterprise-autonomous-loop-engineer",
+    "enterprise-autonomy-level-gate",
+    "enterprise-business-outcome-ledger",
+    "enterprise-control-plane-orchestrator",
+    "enterprise-cost-and-budget-governance",
+    "enterprise-cross-agent-challenge-routing",
+    "enterprise-desired-state-deployment-graph",
+    "enterprise-domain-environment-bootstrapper",
+    "enterprise-domain-fixture-builder",
+    "enterprise-domain-harness-orchestrator",
+    "enterprise-domain-system-of-record-binder",
+    "enterprise-enterprise-data-intake-wizard",
+    "enterprise-enterprise-digital-twin",
+    "enterprise-enterprise-environment-inventory",
+    "enterprise-enterprise-onboarding-compiler",
+    "enterprise-enterprise-operational-graph",
+    "enterprise-evaluation-control-plane",
+    "enterprise-event-ledger",
+    "enterprise-evidence-ledger",
+    "enterprise-idempotent-deployment",
+    "enterprise-identity-authority-model",
+    "enterprise-memory-classification",
+    "enterprise-minimum-viable-organizational-context",
+    "enterprise-observability-control-plane",
+    "enterprise-onboarding-orchestrator",
+    "enterprise-provenance-ledger",
+    "enterprise-repository-inspection",
+    "enterprise-resumable-bootstrap-state",
+    "enterprise-rollback-and-recovery",
+    "enterprise-runtime-validation",
+    "enterprise-saga-transaction-coordinator",
+    "enterprise-self-repair-loop",
+    "enterprise-skill-to-runtime-compilation",
+    "enterprise-source-derived-fact-separation",
+    "enterprise-system-of-action-registry",
+    "enterprise-system-of-record-registry",
+    "enterprise-tenant-isolation",
+    "enterprise-workflow-state-store",
+    "eos-benefits-coordination",
+    "eos-benefits-management",
+    "eos-business-case-analysis",
+    "eos-business-performance-review",
+    "eos-capital-allocation",
+    "eos-ceo-operating-review",
+    "eos-channel-sales",
+    "eos-compensation-support",
+    "eos-content-strategy",
+    "eos-contract-coordination",
+    "eos-corporate-announcements",
+    "eos-corporate-governance-support",
+    "eos-corporate-strategy",
+    "eos-cost-management",
+    "eos-customer-segmentation",
+    "eos-deal-strategy",
+    "eos-devsecops",
+    "eos-digital-marketing",
+    "eos-ecosystem-strategy",
+    "eos-employee-experience",
+    "eos-employee-offboarding",
+    "eos-employee-onboarding",
+    "eos-engineering-quality",
+    "eos-engineering-requirements",
+    "eos-enterprise-budgeting",
+    "eos-enterprise-capital-allocation",
+    "eos-enterprise-competitive-intelligence",
+    "eos-enterprise-dependency-management",
+    "eos-enterprise-forecasting",
+    "eos-enterprise-portfolio-management",
+    "eos-enterprise-resource-management",
+    "eos-event-marketing",
+    "eos-executive-business-review",
+    "eos-facilities-management",
+    "eos-facility-maintenance",
+    "eos-financial-controls",
+    "eos-fp-and-a",
+    "eos-hiring-workflow",
+    "eos-ip-management-support",
+    "eos-legal-records-management",
+    "eos-lifecycle-marketing",
+    "eos-ma-cross-functional-diligence",
+    "eos-ma-day1-orchestration",
+    "eos-ma-integration-orchestration",
+    "eos-ma-separation-orchestration",
+    "eos-management-action-tracking",
+    "eos-management-reporting",
+    "eos-marketing-attribution",
+    "eos-marketing-operations",
+    "eos-messaging-strategy",
+    "eos-milestone-governance",
+    "eos-okr-governance",
+    "eos-opportunity-management",
+    "eos-organizational-health",
+    "eos-performance-management",
+    "eos-platform-engineering-governance",
+    "eos-positioning-strategy",
+    "eos-pricing-strategy",
+    "eos-procurement-renewal-management",
+    "eos-product-strategy",
+    "eos-program-management",
+    "eos-project-management",
+    "eos-proposal-generation",
+    "eos-record-to-report",
+    "eos-recruiting",
+    "eos-regulatory-mapping",
+    "eos-reliability-engineering",
+    "eos-research-portfolio-management",
+    "eos-revenue-recognition-support",
+    "eos-risk-reporting",
+    "eos-sales-engineering",
+    "eos-sales-forecasting",
+    "eos-sales-operations",
+    "eos-space-utilization",
+    "eos-tax-coordination",
+    "eos-technical-debt-management",
+    "eos-technology-scouting-rd",
+    "eos-territory-planning",
+    "eos-transformation-management",
+    "eos-transformation-risk",
+    "eos-treasury-management",
+    "eos-workplace-access-coordination",
+    "eos-workplace-planning",
+    "eos-workplace-services",
+    "explanation-variants",
+    "healthcare-care-coordination-support-specialist",
+    "healthcare-health-records-governance",
+    "healthcare-medical-coding-support-specialist",
+    "healthcare-medical-evidence-synthesizer",
+    "healthcare-medical-literature-researcher",
+    "healthcare-medical-safety-reviewer",
+    "healthcare-medical-terminology-specialist",
+    "healthcare-operations-analyst",
+    "healthcare-orchestrator",
+    "healthcare-patient-education-specialist",
+    "healthcare-population-health-analyst",
+    "healthcare-public-health-analyst",
+    "healthcare-quality-analyst",
+    "healthcare-revenue-cycle-analyst",
+    "healthcare-strategy-analyst",
+    "healthcare-vendor-business-associate-governance",
+    "ibm-bob-skills-implementation",
+    "ibm-business-category-router",
+    "ibm-career-enterprise-operations-communications-professional",
+    "ibm-career-enterprise-operations-finance-accounting-analyst",
+    "ibm-career-enterprise-operations-marketing-professional",
+    "ibm-career-enterprise-operations-talent-acquisition-partner",
+    "ibm-career-infrastructure-technology-mainframe-technical-specialist",
+    "ibm-career-infrastructure-technology-manufacturing-engineer",
+    "ibm-career-infrastructure-technology-mechanical-designer",
+    "ibm-career-infrastructure-technology-model-maker-machinist",
+    "ibm-career-infrastructure-technology-networking-infrastructure",
+    "ibm-career-infrastructure-technology-storage-specialist",
+    "ibm-career-infrastructure-technology-systems-administrator",
+    "ibm-career-infrastructure-technology-technical-support",
+    "ibm-open-position-role-sync",
+    "ibm-sales-agentic-orchestration",
+    "it-cmdb-quality-assessment",
+    "meta-agent-architect",
+    "meta-context-engineer",
+    "meta-evaluation-architect",
+    "meta-governance-architect",
+    "meta-handoff-protocol-architect",
+    "meta-mcp-architect",
+    "meta-memory-architect",
+    "meta-mode-architect",
+    "meta-mode-routing-specialist",
+    "meta-orchestration-architect",
+    "meta-release-architect",
+    "meta-skill-builder",
+    "meta-skill-conversion-specialist",
+    "meta-skill-deduplication-specialist",
+    "meta-skill-expansion-specialist",
+    "meta-skill-library-architect",
+    "meta-skill-provenance-auditor",
+    "meta-skill-quality-reviewer",
+    "meta-skill-regression-engineer",
+    "meta-skill-security-reviewer",
+    "meta-skill-taxonomy-manager",
+    "meta-skill-test-engineer",
+    "meta-swarm-architect",
+    "meta-workflow-architect",
+    "misconception-repair",
+    "model_routing",
+    "music-prompter",
+    "operations-business-operations-analyst",
+    "operations-capacity-analyst",
+    "operations-continuous-improvement-specialist",
+    "operations-coo-advisor",
+    "operations-lean-process-specialist",
+    "operations-metrics-analyst",
+    "operations-orchestrator",
+    "operations-process-analyst",
+    "operations-process-designer",
+    "operations-process-improvement-specialist",
+    "operations-productivity-analyst",
+    "operations-quality-operations-specialist",
+    "operations-root-cause-analyst",
+    "operations-service-operations-analyst",
+    "operations-sop-designer",
+    "operations-sop-reviewer",
+    "operations-strategist",
+    "process-acquisition-to-integration",
+    "process-change-to-release",
+    "process-concept-to-launch",
+    "process-customer-to-adoption-to-renewal",
+    "process-demand-to-delivery",
+    "process-hire-to-retire",
+    "process-idea-to-product",
+    "process-incident-to-recovery",
+    "process-issue-to-resolution",
+    "process-lead-to-revenue",
+    "process-opportunity-to-cash",
+    "process-order-to-cash",
+    "process-plan-to-forecast",
+    "process-policy-to-control-to-evidence",
+    "process-procure-to-pay",
+    "process-quote-to-cash",
+    "process-record-to-report",
+    "process-research-to-experiment-to-decision",
+    "process-risk-to-remediation",
+    "process-strategy-to-portfolio-to-execution-to-outcome",
+    "process-vendor-to-renewal",
+    "quality-gate-design",
+    "quality-process-quality-analyst",
+    "review-final-objective-auditor",
+    "review-sales-strategy-reviewer",
+    "role-responsibility-coverage-auditor",
+    "shared-execution-file-transformation-specialist",
+    "solitude-of-roman-writer",
+    "specialized-prompt-writer",
+    "strategy-portfolio-strategist",
+    "tls-command-center-dashboard-agent",
+    "tls-sales-operations-process-optimization-agent",
+    "tsc-doors-next-author",
+    "tsc-orchestrator",
+    "tts-prompter",
+    "watsonx-ai-cost-performance",
+    "watsonx-ai-deployment-plan",
+    "watsonx-ai-embeddings-rerank",
+    "watsonx-ai-evaluation-handoff",
+    "watsonx-ai-inference",
+    "watsonx-ai-model-inventory",
+    "watsonx-ai-model-routing",
+    "watsonx-ai-platform-discovery",
+    "watsonx-ai-project-space-plan",
+    "watsonx-ai-prompt-asset-lifecycle",
+    "watsonx-ai-rag-ai-service",
+    "watsonx-deployment-compiler-orchestrator",
+    "watsonx-governance-agent-monitoring",
+    "watsonx-governance-agentic-catalog",
+    "watsonx-governance-ai-use-case-registration",
+    "watsonx-governance-approval-workflow",
+    "watsonx-governance-evaluation-policy",
+    "watsonx-governance-factsheet-evidence",
+    "watsonx-governance-guardrail-policy",
+    "watsonx-governance-inventory-design",
+    "watsonx-governance-platform-discovery",
+    "watsonx-governance-reporting",
+    "watsonx-governance-risk-classification",
+    "webdev-image-generation",
+    "wxo-agent-evaluation",
+    "wxo-agent-runtime-monitoring",
+    "wxo-agentops-trace-review",
+    "wxo-collaborator-agent-build",
+    "wxo-connection-plan",
+    "wxo-developer-edition-validation",
+    "wxo-flow-build",
+    "wxo-import-deployment",
+    "wxo-knowledge-base-build",
+    "wxo-native-agent-build",
+    "wxo-openapi-tool-build",
+    "wxo-platform-discovery",
+    "wxo-project-analyzer",
+    "wxo-python-tool-build",
+    "wxo-solution-compiler",
+    "wxo-troubleshooting"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

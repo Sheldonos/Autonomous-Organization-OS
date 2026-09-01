@@ -1,0 +1,13 @@
+{
+  "pocket": "creatoros",
+  "required_or_optional_classes": [
+    "social",
+    "analytics",
+    "storefront",
+    "email",
+    "crm",
+    "asset_store"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "securityos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-cloud-security-analyst",
+    "cybersecurity-cloud-security-architect",
+    "cybersecurity-incident-response-analyst",
+    "cybersecurity-application-security-specialist",
+    "cybersecurity-chief-information-security-officer-advisor",
+    "cybersecurity-defensive-security-tester",
+    "cybersecurity-endpoint-security-analyst",
+    "cybersecurity-enterprise-security-architect",
+    "cybersecurity-iam-specialist",
+    "cybersecurity-network-security-analyst",
+    "cybersecurity-product-security-specialist",
+    "cybersecurity-security-architect",
+    "cybersecurity-security-architecture-reviewer",
+    "cybersecurity-security-awareness-specialist",
+    "cybersecurity-security-configuration-reviewer",
+    "cybersecurity-security-controls-analyst",
+    "cybersecurity-security-evidence-auditor",
+    "cybersecurity-security-operations-analyst",
+    "cybersecurity-soc-analyst",
+    "cybersecurity-third-party-security-analyst"
+  ]
+}

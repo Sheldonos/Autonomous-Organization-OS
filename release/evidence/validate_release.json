@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "canonical_skills": 3212,
+  "canonical_skill_hashes_verified": 3212,
+  "roles": 1244,
+  "segments": 7,
+  "pockets": 48,
+  "wrappers": 540,
+  "connector_requirement_types": 87,
+  "errors": [],
+  "warnings": []
+}

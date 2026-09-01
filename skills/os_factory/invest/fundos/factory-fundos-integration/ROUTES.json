@@ -1,0 +1,27 @@
+{
+  "pocket": "fundos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "investment-committee-analyst",
+    "investment-committee-critic",
+    "cio-ai-portfolio-management",
+    "cio-application-portfolio-management",
+    "cio-delivery-risk-management",
+    "cio-executive-portfolio-reporting",
+    "cio-innovation-portfolio-management",
+    "cio-portfolio-dependency-management",
+    "cio-project-portfolio-management",
+    "cio-saas-portfolio-management",
+    "eos-enterprise-portfolio-management",
+    "eos-research-portfolio-management",
+    "cio-benefits-realization",
+    "cio-milestone-tracking",
+    "cio-portfolio-prioritization",
+    "cio-portfolio-resource-planning",
+    "cio-program-governance",
+    "cio-stage-gate-governance",
+    "it-integration-interface-assessment",
+    "process-strategy-to-portfolio-to-execution-to-outcome"
+  ]
+}

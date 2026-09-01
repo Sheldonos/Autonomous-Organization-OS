@@ -1,0 +1,27 @@
+{
+  "pocket": "dealos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "sales-lead-qualification-analyst",
+    "ibm-sales-000",
+    "sales-opportunity-qualification",
+    "sales-stage-governance",
+    "revenue-opportunity-qualification",
+    "sales-opportunity-qualification-analyst",
+    "agency-operations-engagement-qualification",
+    "sales-seller-intelligence-mcp-integration",
+    "revenue-expansion-signal-qualification",
+    "revenue-reference-candidate-qualification",
+    "sales-close-to-delivery-transition",
+    "sales-contract-approval",
+    "eos-lead-qualification",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-commercial-negotiation",
+    "sales-icp-segmentation",
+    "sales-proposal-management",
+    "sales-expansion-opportunity-analyst",
+    "sales-lead-discovery-specialist"
+  ]
+}

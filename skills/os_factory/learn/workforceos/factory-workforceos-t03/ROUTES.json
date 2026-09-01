@@ -1,0 +1,27 @@
+{
+  "pocket": "workforceos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-analyze-learning-needs",
+    "cio-technology-skills-gap-analysis",
+    "education-map-occupational-competencies",
+    "education-support-career-transition",
+    "enterprise-capability-gap-analysis",
+    "people-learning-development",
+    "people-performance-management",
+    "people-learning-needs-analysis",
+    "people-offboarding-workforce-transition",
+    "education-manage-credentials-records",
+    "people-job-architecture",
+    "people-workforce-planning",
+    "education-coordinate-accommodations",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "education-facilitate-instruction",
+    "people-onboarding-administration",
+    "people-succession-mobility-planning",
+    "education-assure-program-quality",
+    "education-develop-learning-content"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "riskos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "agency-operations-change-impact-assessment",
+    "it-integration-interface-assessment",
+    "legal-third-party-risk-assessment",
+    "it-application-portfolio-assessment",
+    "legal-risk-enterprise-risk-assessment-prep",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "revenue-renewal-risk-assessment",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-resilience-recovery-validation",
+    "cybersecurity-security-policy-management",
+    "ibm-sales-scale-073",
+    "cybersecurity-supply-chain-cyber-risk",
+    "cyber-resilience-cyber-resilience-assessment",
+    "cyber-resilience-endpoint-health-assessment",
+    "cybersecurity-control-selection",
+    "cybersecurity-risk-treatment-planning",
+    "cybersecurity-security-awareness-management"
+  ]
+}

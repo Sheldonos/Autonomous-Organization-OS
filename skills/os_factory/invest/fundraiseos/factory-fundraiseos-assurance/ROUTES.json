@@ -1,0 +1,27 @@
+{
+  "pocket": "fundraiseos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-ar-collections-prioritization",
+    "finance-working-capital-action-plan",
+    "finance-covenant-compliance-check",
+    "finance-management-reporting-pack",
+    "finance-tax-data-readiness",
+    "finance-vendor-master-change-validation",
+    "cio-agent-evaluation",
+    "cio-ai-evaluation",
+    "cio-audit-evidence-collection",
+    "cio-audit-preparation",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "finance-audit-pbc-compilation",
+    "finance-financial-quality-reviewer",
+    "sales-procurement-onboarding",
+    "cio-ai-risk-management",
+    "casting-performance-development",
+    "cio-application-lifecycle-risk",
+    "cio-application-security-governance",
+    "cio-architecture-review-board"
+  ]
+}

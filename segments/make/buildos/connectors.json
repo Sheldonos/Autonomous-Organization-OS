@@ -1,0 +1,13 @@
+{
+  "pocket": "buildos",
+  "required_or_optional_classes": [
+    "code_host",
+    "ci_cd",
+    "cloud",
+    "observability",
+    "artifact_registry",
+    "issue_tracker"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

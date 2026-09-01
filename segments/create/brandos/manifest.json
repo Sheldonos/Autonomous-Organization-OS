@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "brandos",
+  "title": "BrandOS",
+  "segment": "create",
+  "mission": "Maintain brand positioning, identity, messaging, asset governance, campaigns, and brand performance.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 94,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Brand intelligence",
+    "Positioning",
+    "Messaging system",
+    "Identity & asset governance",
+    "Campaign briefs",
+    "Creative QA",
+    "Distribution",
+    "Brand measurement"
+  ],
+  "handoffs": [
+    "mediaos",
+    "creatoros",
+    "revenueos",
+    "agencyos"
+  ],
+  "connectors": [
+    "asset_store",
+    "social",
+    "marketing_automation",
+    "analytics",
+    "document_store"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

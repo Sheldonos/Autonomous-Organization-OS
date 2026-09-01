@@ -1,0 +1,59 @@
+{
+  "name": "Federated Autonomous Organization OS",
+  "version": "1.2.0",
+  "release_date": "2026-09-01",
+  "software_release_status": "PASS",
+  "deployment_status": "PRODUCTION_READY_SOFTWARE__TENANT_CERTIFICATION_REQUIRED",
+  "market_status": "COMMERCIAL_PACKAGE_READY__PUBLIC_SOURCE_REDISTRIBUTION_REQUIRES_PROVENANCE_LICENSE_REVIEW",
+  "canonical_skills": 3212,
+  "canonical_roles": 1244,
+  "segments": 7,
+  "pockets": 48,
+  "execution_assurance_integration_teams": 492,
+  "factory_wrapper_skills": 540,
+  "connector_requirement_types": 87,
+  "resilience": {
+    "event_driven_default": true,
+    "continuous_model_loop": false,
+    "durable_event_queue": true,
+    "dedupe_retry_dlq": true,
+    "deployment_drain": true,
+    "effect_receipts_idempotency_contract": true,
+    "backup_restore_tooling": true,
+    "blue_green_backout_model": true,
+    "dr_3_2_1_1_0": true,
+    "hybrid_compute_to_data": true,
+    "air_gapped_profile": true,
+    "egress_controls": true
+  },
+  "adaptive_autonomy": {
+    "mcp_capability_assimilation": true,
+    "capability_hash_diffing": true,
+    "dynamic_skill_generation": true,
+    "goal_store": true,
+    "bounded_scheduler": true,
+    "worker_plane": true,
+    "direct_mcp_rescan": true,
+    "agent_executor_handoff": true,
+    "staged_self_improvement": true
+  },
+  "embedded_dealos": {
+    "version": "1.0.1",
+    "source_skills": 505,
+    "wrappers": 12,
+    "n8n_workflows": 13,
+    "validation": "PASS",
+    "tests": "2 passed"
+  },
+  "gates": {
+    "canonical_per_skill_sha256": "3212/3212 PASS",
+    "release_validator": "PASS",
+    "factory_tests": "10 passed",
+    "smoke": "PASS",
+    "resilience_smoke": "PASS",
+    "dealos_validation": "PASS",
+    "dealos_tests": "2 passed",
+    "package_audit": "PASS"
+  },
+  "scaling_boundary": "Bundled SQLite event/state implementation is standalone/local/cold-room. Multi-site/active-active must bind an approved HA transactional state backend and external durable event bus."
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "dealos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "sales-seller-intelligence-mcp-integration",
+    "sales-opportunity-qualification",
+    "sales-stage-governance",
+    "sales-commercial-negotiation",
+    "sales-renewal-management",
+    "sales-chief-revenue-officer-advisor",
+    "sales-deal-coach",
+    "sales-deal-desk-specialist",
+    "sales-deal-strategist",
+    "sales-discovery-problem-framing",
+    "ibm-bob-lead-intelligence",
+    "sales-commercial-strategy-analyst",
+    "sales-solution-alignment",
+    "business-development-partnership-business-case-analyst",
+    "business-development-partnership-due-diligence-analyst",
+    "business-development-partnership-strategist",
+    "business-development-strategic-partnership-analyst",
+    "business-development-technology-partnership-analyst",
+    "sales-bant-specialist",
+    "sales-battlecard-specialist"
+  ]
+}

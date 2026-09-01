@@ -1,0 +1,29 @@
+version: 1
+execution:
+  event_driven_default: true
+  bounded_jobs: true
+  model_continuous_loop: false
+  max_event_attempts: 5
+  dead_letter_required: true
+  consequential_effect_idempotency_required: true
+upgrades:
+  immutable_images: true
+  drain_external_writes_before_cutover: true
+  expand_migrate_contract: true
+  pre_upgrade_backup_required: true
+  green_readiness_required: true
+  rollback_window_required: true
+rollback:
+  first_action: disable_consequential_external_writes
+  preserve_event_queue: true
+  preserve_evidence: true
+  destructive_reverse_migration_default: deny
+dr:
+  backup_pattern: 3-2-1-1-0
+  restore_test_required: true
+  offsite_copy_required: true
+  immutable_or_offline_copy_required: true
+data:
+  authoritative_state_in_container: false
+  secrets_in_image_or_git: false
+  open_export_formats_required: true

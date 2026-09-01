@@ -1,0 +1,27 @@
+{
+  "pocket": "acceleratoros",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-i-mentor",
+    "bob-for-z-mentor",
+    "ibm-i",
+    "mission-builder",
+    "qisbob-quantum-mentor",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "project-lab",
+    "accessibility-coverage-audit",
+    "assessment-builder",
+    "bob-for-z",
+    "curriculum-architect",
+    "curriculum-gap-audit",
+    "education-curriculum-architect",
+    "education-curriculum-designer",
+    "education-facilitate-instruction",
+    "ibm-ado-001",
+    "ibm-ado-csm-004",
+    "ibm-met-se-002",
+    "progression-audit"
+  ]
+}

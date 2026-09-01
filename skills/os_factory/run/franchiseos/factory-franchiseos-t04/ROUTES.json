@@ -1,0 +1,27 @@
+{
+  "pocket": "franchiseos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "data-strategy-ai-use-case-qualification",
+    "ibm-qua-atl-001",
+    "revenue-expansion-signal-qualification",
+    "agency-operations-engagement-qualification",
+    "ibm-met-sm-009",
+    "media-media-asset-management",
+    "media-release-management",
+    "media-rights-clearance",
+    "cio-it-unit-economics",
+    "eos-unit-economics",
+    "ibm-met-se-002",
+    "ibm-met-sm-004",
+    "ibm-sales-scale-009",
+    "revenue-territory-coverage-analysis",
+    "automation-monitor-automation-runs",
+    "finance-unit-economics-analyst",
+    "ibm-met-001",
+    "ibm-met-002",
+    "ibm-met-003",
+    "ibm-met-005"
+  ]
+}

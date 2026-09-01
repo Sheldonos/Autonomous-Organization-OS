@@ -1,0 +1,27 @@
+{
+  "pocket": "creatoros",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-content-strategist",
+    "short-form-derivative-production",
+    "ibm-onepager-creator",
+    "ibm-presentation-creator",
+    "webdev-ssr-conversion",
+    "contagious-framework",
+    "ibm-ppt-designer",
+    "markdown-chunker",
+    "read-special-images",
+    "tsc-workbench-modeler",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "media-content-capture",
+    "media-editorial-fact-checking",
+    "media-post-production-editing",
+    "marketing-content-reuse-eligibility",
+    "marketing-event-readiness-checklist",
+    "marketing-seo-content-brief",
+    "media-content-performance-review",
+    "media-correction-takedown-governance"
+  ]
+}

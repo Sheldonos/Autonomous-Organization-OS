@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "id": "fundraiseos",
+  "title": "FundraiseOS",
+  "segment": "invest",
+  "mission": "Plan and execute capital raising from investor thesis and targeting through diligence, commitments, and relationship management.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 20,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Raise strategy",
+    "Investor universe",
+    "Materials & data room",
+    "Outreach",
+    "Meeting pipeline",
+    "Diligence responses",
+    "Terms & commitments",
+    "Close & investor relations"
+  ],
+  "handoffs": [
+    "dealos",
+    "capitalos",
+    "legalos"
+  ],
+  "connectors": [
+    "crm",
+    "email",
+    "calendar",
+    "virtual_data_room",
+    "e_signature"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

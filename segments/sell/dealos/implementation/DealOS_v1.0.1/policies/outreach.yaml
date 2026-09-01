@@ -1,0 +1,22 @@
+version: 1
+first_touch_max_per_day: 40
+total_outbound_max_per_day: 120
+max_followups_per_contact: 3
+minimum_minutes_between_sends: 2
+initial_ramp_first_touch_per_day: 5
+
+required:
+  personalize_with_verified_facts: true
+  identify_sender_accurately: true
+  honor_opt_out_immediately: true
+  maintain_suppression_list: true
+  log_source_and_reason: true
+
+prohibited:
+  - purchased_or_scraped_contact_without_lawful_basis
+  - deceptive_subject_or_identity
+  - fabricated_relationship
+  - fabricated_case_study
+  - fabricated_certification
+  - continue_after_opt_out
+  - bypass_provider_rate_limits

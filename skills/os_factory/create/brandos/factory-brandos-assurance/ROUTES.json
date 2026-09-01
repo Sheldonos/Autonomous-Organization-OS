@@ -1,0 +1,27 @@
+{
+  "pocket": "brandos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-paid-media-anomaly-review",
+    "ibm-bob-ads-create",
+    "design-co-design-service-concepts",
+    "design-model-service-blueprint",
+    "design-motion-principles",
+    "ibm-career-design-ux-service-designer",
+    "ibm-career-design-ux-ux-designer",
+    "ibm-career-design-ux-visual-designer",
+    "ibm-bob-ads-google",
+    "ibm-bob-ads-linkedin",
+    "ibm-bob-ads-microsoft",
+    "ibm-bob-ads-tiktok",
+    "visual-identity-qc",
+    "ibm-bob-ads-monitor",
+    "marketing-lead-quality-review",
+    "agency-operations-stakeholder-communications-governance",
+    "cybersecurity-identity-access-governance",
+    "marketing-brand-compliance-review",
+    "marketing-content-claims-review",
+    "marketing-audience-segmentation-review"
+  ]
+}

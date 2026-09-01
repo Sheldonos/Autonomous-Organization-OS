@@ -1,0 +1,27 @@
+{
+  "pocket": "dealos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-070",
+    "ibm-sales-scale-030",
+    "ibm-sales-000",
+    "sales-close-to-delivery-transition",
+    "sales-contract-approval",
+    "sales-commercial-negotiation",
+    "sales-proposal-management",
+    "sales-renewal-management",
+    "ibm-sales-scale-072",
+    "sales-seller-intelligence-mcp-integration",
+    "ibm-sales-scale-071",
+    "independent-megadeal-originator",
+    "ibm-sales-scale-073",
+    "ibm-sales-scale-074",
+    "sales-opportunity-qualification",
+    "sales-stage-governance",
+    "revenue-opportunity-qualification",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-icp-segmentation"
+  ]
+}

@@ -1,0 +1,63 @@
+services:
+  faos:
+    build: .
+    restart: unless-stopped
+    init: true
+    stop_grace_period: 30s
+    ports:
+      - "127.0.0.1:8080:8080"
+    environment:
+      FAOS_API_KEY: ${FAOS_API_KEY:?set FAOS_API_KEY}
+      FAOS_CAPABILITY_DB: /var/lib/faos/capabilities.db
+      FAOS_DYNAMIC_SKILLS: /var/lib/faos/dynamic_skills
+      FAOS_PRODUCTION_CONFIG: /app/config/production.json
+    volumes:
+      - faos_state:/var/lib/faos
+      - ./config/production.json:/app/config/production.json:ro
+    read_only: true
+    tmpfs:
+      - /tmp
+
+  event-consumer:
+    build: .
+    restart: unless-stopped
+    init: true
+    stop_grace_period: 30s
+    command: ["python","scripts/process_events.py","--daemon","--seconds","1","--db","/var/lib/faos/capabilities.db"]
+    environment:
+      FAOS_CAPABILITY_DB: /var/lib/faos/capabilities.db
+    volumes:
+      - faos_state:/var/lib/faos
+    read_only: true
+    tmpfs: [/tmp]
+
+  worker:
+    build: .
+    restart: unless-stopped
+    init: true
+    stop_grace_period: 60s
+    command: ["python","scripts/run_worker.py","--daemon","--seconds","2","--db","/var/lib/faos/capabilities.db","--dynamic-dir","/var/lib/faos/dynamic_skills"]
+    environment:
+      FAOS_CAPABILITY_DB: /var/lib/faos/capabilities.db
+      FAOS_AGENT_EXECUTOR_URL: ${FAOS_AGENT_EXECUTOR_URL:-}
+      FAOS_AGENT_EXECUTOR_TOKEN: ${FAOS_AGENT_EXECUTOR_TOKEN:-}
+    volumes:
+      - faos_state:/var/lib/faos
+    read_only: true
+    tmpfs: [/tmp]
+
+  reconciler:
+    profiles: ["reconciliation"]
+    build: .
+    restart: unless-stopped
+    init: true
+    command: ["python","scripts/autonomy_tick.py","--daemon","--seconds","3600","--db","/var/lib/faos/capabilities.db"]
+    environment:
+      FAOS_CAPABILITY_DB: /var/lib/faos/capabilities.db
+    volumes:
+      - faos_state:/var/lib/faos
+    read_only: true
+    tmpfs: [/tmp]
+
+volumes:
+  faos_state:

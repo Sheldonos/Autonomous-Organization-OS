@@ -1,0 +1,27 @@
+{
+  "pocket": "studioos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "film-studio-os-onboarding",
+    "pilot-explainer",
+    "higgsfield-production-bridge",
+    "ibm-i-builder",
+    "media-content-capture",
+    "media-post-production-editing",
+    "script-to-film-production",
+    "feature-film-production",
+    "media-post-production-planner",
+    "media-distribution-packaging",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "ai-media-orchestrator",
+    "book-to-film-adaptation",
+    "music-video-production",
+    "media-accessibility-localization",
+    "media-creative-briefing",
+    "media-mastering-quality-control",
+    "media-provenance-tracking",
+    "rspkt-web-designer"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "dealos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "sales-ai-solution-architect",
+    "sales-cloud-solution-architect",
+    "sales-data-solution-architect",
+    "sales-security-solution-architect",
+    "sales-solution-architect",
+    "sales-solution-strategist",
+    "ibm-sales-scale-046",
+    "ibm-sales-scale-049",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-icp-segmentation",
+    "sales-discovery-problem-framing",
+    "b2b-lead-intelligence-generator",
+    "ibm-bob-lead-intelligence",
+    "sales-solution-alignment",
+    "agency-operations-engagement-qualification",
+    "sales-seller-intelligence-mcp-integration",
+    "ibm-sales-000",
+    "sales-close-to-delivery-transition",
+    "sales-contract-approval"
+  ]
+}

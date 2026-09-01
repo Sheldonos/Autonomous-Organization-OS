@@ -1,0 +1,48 @@
+{
+  "deployment_id": "replace-me",
+  "environment": "production",
+  "deployment_tier": "standalone",
+  "enabled_pockets": ["enterpriseos", "researchos", "dealos"],
+  "state_db": "/var/lib/faos/federation.db",
+  "dynamic_skill_dir": "/var/lib/faos/dynamic_skills",
+  "connector_registry_db": "/var/lib/faos/capabilities.db",
+  "api_key_env": "FAOS_API_KEY",
+  "eventing": {
+    "mode": "event_driven",
+    "backend": "sqlite_durable_queue",
+    "reconciliation_seconds": 3600,
+    "max_attempts": 5,
+    "dead_letter": true
+  },
+  "autonomy": {
+    "enabled": true,
+    "continuous_model_loop": false,
+    "default_daily_model_budget_usd": 25,
+    "default_monthly_model_budget_usd": 500
+  },
+  "upgrade": {
+    "strategy": "blue_green_or_canary",
+    "drain_external_writes": true,
+    "pre_upgrade_backup": true,
+    "schema_strategy": "expand_migrate_contract"
+  },
+  "dr": {
+    "tier": "cold",
+    "rpo_minutes": 5,
+    "rto_minutes": 60,
+    "offsite_copy": true,
+    "immutable_or_offline_copy": true,
+    "restore_test": true
+  },
+  "data_sovereignty": {
+    "mode": "connected",
+    "compute_to_data": true,
+    "external_network_allowed": true
+  },
+  "egress": {
+    "monthly_budget_usd": 250,
+    "prefer_locality": true,
+    "bulk_export_requires_approval": true
+  },
+  "connector_instances": {}
+}

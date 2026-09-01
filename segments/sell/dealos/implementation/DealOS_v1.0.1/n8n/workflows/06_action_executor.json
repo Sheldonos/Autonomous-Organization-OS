@@ -1,0 +1,119 @@
+{
+  "name": "DealOS 06 - Action Executor",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 2
+            }
+          ]
+        }
+      },
+      "id": "sched",
+      "name": "Every 2 Minutes",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "url": "={{$env.DEALOS_INTERNAL_URL + \"/actions/next?limit=10\"}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-DealOS-Key",
+              "value": "={{$env.DEALOS_API_KEY}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "get",
+      "name": "Get Actions",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        240,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "return ($json.items || []).map(x => ({json:x}));"
+      },
+      "id": "expand",
+      "name": "Expand",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        460,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Add deterministic branches for calendar_create, drive_write, docusign_prepare, stripe_draft_invoice after credentials are configured.\n// This fail-closed template emits the queued action without executing unknown action types.\nreturn items.map(i=>({json:{...i.json, executor_status:\"UNCONFIGURED_ACTION_TYPE\"}}));"
+      },
+      "id": "route",
+      "name": "Fail Closed Router",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        680,
+        0
+      ]
+    }
+  ],
+  "connections": {
+    "Every 2 Minutes": {
+      "main": [
+        [
+          {
+            "node": "Get Actions",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Actions": {
+      "main": [
+        [
+          {
+            "node": "Expand",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Expand": {
+      "main": [
+        [
+          {
+            "node": "Fail Closed Router",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "versionId": "00000000-0000-0000-0000-000000000001",
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "tags": []
+}

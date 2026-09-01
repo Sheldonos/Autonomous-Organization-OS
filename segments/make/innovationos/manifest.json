@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "id": "innovationos",
+  "title": "InnovationOS",
+  "segment": "make",
+  "mission": "Continuously discover, evaluate, incubate, and scale strategic innovations.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 136,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Signal sensing",
+    "Opportunity thesis",
+    "Strategic fit scoring",
+    "Experiment design",
+    "Prototype",
+    "Evidence review",
+    "Portfolio decision",
+    "Scale or sunset"
+  ],
+  "handoffs": [
+    "researchos",
+    "ventureos",
+    "buildos",
+    "capitalos"
+  ],
+  "connectors": [
+    "web_research",
+    "patent_data",
+    "document_store",
+    "analytics"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

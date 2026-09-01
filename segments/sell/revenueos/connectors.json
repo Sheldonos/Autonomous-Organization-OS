@@ -1,0 +1,13 @@
+{
+  "pocket": "revenueos",
+  "required_or_optional_classes": [
+    "crm",
+    "marketing_automation",
+    "email",
+    "calendar",
+    "analytics",
+    "billing"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

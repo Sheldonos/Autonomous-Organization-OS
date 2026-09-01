@@ -1,0 +1,64 @@
+services:
+  dealos-core:
+    build: ./dealos_core
+    restart: unless-stopped
+    env_file: .env
+    volumes:
+      - ./policies:/app/policies:ro
+      - ./config:/app/config:ro
+      - ./prompts:/app/prompts:ro
+      - ./skills:/app/skills:ro
+      - ./secrets:/run/secrets:ro
+    expose:
+      - "8080"
+
+  n8n:
+    image: docker.n8n.io/n8nio/n8n:latest
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      - N8N_HOST=${N8N_DOMAIN}
+      - N8N_PROTOCOL=https
+      - N8N_WEBHOOK_URL=https://${N8N_DOMAIN}/
+      - N8N_PROXY_HOPS=1
+      - N8N_ENCRYPTION_KEY=${N8N_ENCRYPTION_KEY}
+      - GENERIC_TIMEZONE=${GENERIC_TIMEZONE}
+      - TZ=${GENERIC_TIMEZONE}
+      - EXECUTIONS_DATA_PRUNE=true
+      - EXECUTIONS_DATA_MAX_AGE=168
+      - EXECUTIONS_DATA_PRUNE_MAX_COUNT=10000
+      - EXECUTIONS_DATA_SAVE_ON_ERROR=all
+      - EXECUTIONS_DATA_SAVE_ON_SUCCESS=none
+      - N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=true
+      - DEALOS_INTERNAL_URL=http://dealos-core:8080
+      - DEALOS_API_KEY=${DEALOS_API_KEY}
+      - OWNER_EMAIL=${OWNER_EMAIL}
+      - SAM_API_KEY=${SAM_API_KEY}
+      - MANUS_API_KEY=${MANUS_API_KEY}
+      - MANUS_BASE_URL=${MANUS_BASE_URL}
+    volumes:
+      - n8n_data:/home/node/.n8n
+    expose:
+      - "5678"
+    depends_on:
+      - dealos-core
+
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - n8n
+      - dealos-core
+
+volumes:
+  n8n_data:
+  caddy_data:
+  caddy_config:

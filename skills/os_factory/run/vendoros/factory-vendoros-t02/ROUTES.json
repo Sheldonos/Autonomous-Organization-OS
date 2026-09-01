@@ -1,0 +1,27 @@
+{
+  "pocket": "vendoros",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-assess-supply-chain-risk",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence",
+    "supply-chain-supplier-due-diligence",
+    "legal-third-party-risk-assessment",
+    "cybersecurity-supply-chain-cyber-risk",
+    "sales-procurement-onboarding",
+    "procurement-corrective-action-follow-up",
+    "procurement-contract-renewal-readiness",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-price-variance-investigation",
+    "procurement-monitor-supplier-performance",
+    "procurement-contract-obligation-extraction",
+    "procurement-lead-time-exception-triage",
+    "procurement-off-contract-spend-analysis",
+    "procurement-supplier-onboarding-readiness",
+    "procurement-supplier-performance-scorecard",
+    "procurement-supplier-exit-readiness"
+  ]
+}

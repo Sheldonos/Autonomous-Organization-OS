@@ -1,0 +1,27 @@
+{
+  "pocket": "creatoros",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "media-content-capture",
+    "media-editorial-fact-checking",
+    "media-media-asset-management",
+    "media-post-production-editing",
+    "media-release-management",
+    "media-rights-clearance",
+    "media-accessibility-localization",
+    "media-distribution-packaging",
+    "media-mastering-quality-control",
+    "media-production-scheduling",
+    "media-safety-risk-planning",
+    "rspkt-web-designer",
+    "ai-media-orchestrator",
+    "media-post-production-planner",
+    "media-production-coordinator",
+    "media-production-designer"
+  ]
+}

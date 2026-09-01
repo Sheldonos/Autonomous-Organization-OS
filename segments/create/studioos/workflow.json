@@ -1,0 +1,59 @@
+{
+  "pocket": "studioos",
+  "stages": [
+    {
+      "order": 1,
+      "name": "Concept/IP",
+      "team_id": "t01",
+      "gate": "assurance"
+    },
+    {
+      "order": 2,
+      "name": "Development",
+      "team_id": "t02",
+      "gate": "assurance"
+    },
+    {
+      "order": 3,
+      "name": "Script/story",
+      "team_id": "t03",
+      "gate": "assurance"
+    },
+    {
+      "order": 4,
+      "name": "Pre-production",
+      "team_id": "t04",
+      "gate": "assurance"
+    },
+    {
+      "order": 5,
+      "name": "Production",
+      "team_id": "t05",
+      "gate": "assurance"
+    },
+    {
+      "order": 6,
+      "name": "Post-production",
+      "team_id": "t06",
+      "gate": "assurance"
+    },
+    {
+      "order": 7,
+      "name": "Quality review",
+      "team_id": "t07",
+      "gate": "assurance"
+    },
+    {
+      "order": 8,
+      "name": "Distribution",
+      "team_id": "t08",
+      "gate": "assurance"
+    },
+    {
+      "order": 9,
+      "name": "Audience/franchise learning",
+      "team_id": "t09",
+      "gate": "assurance"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "pmoos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-067",
+    "production-economics",
+    "webdev-owner-notifications",
+    "webdev-readme-mobile",
+    "webdev-readme-static",
+    "generation-failure-repair",
+    "series-continuity",
+    "webdev-manus-oauth",
+    "cio-milestone-tracking",
+    "program-management-program-governance",
+    "program-management-project-governance",
+    "program-management-resource-management",
+    "program-management-dependency-management",
+    "program-management-milestone-management",
+    "ibm-bob-ads-monitor",
+    "cio-delivery-risk-management",
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "cio-portfolio-resource-planning",
+    "construction-field-coordination"
+  ]
+}

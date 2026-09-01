@@ -1,0 +1,74 @@
+{
+  "pocket": "boardos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Agenda & governance calendar Team",
+      "stage": 1,
+      "responsibility": "Agenda & governance calendar",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Information request Team",
+      "stage": 2,
+      "responsibility": "Information request",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Board packet Team",
+      "stage": 3,
+      "responsibility": "Board packet",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Risk & performance synthesis Team",
+      "stage": 4,
+      "responsibility": "Risk & performance synthesis",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Decision preparation Team",
+      "stage": 5,
+      "responsibility": "Decision preparation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Meeting/minutes Team",
+      "stage": 6,
+      "responsibility": "Meeting/minutes",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Action tracking Team",
+      "stage": 7,
+      "responsibility": "Action tracking",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Governance archive Team",
+      "stage": 8,
+      "responsibility": "Governance archive",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

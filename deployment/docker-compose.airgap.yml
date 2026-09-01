@@ -1,0 +1,45 @@
+services:
+  faos:
+    build: ..
+    restart: unless-stopped
+    init: true
+    ports:
+      - "127.0.0.1:8080:8080"
+    environment:
+      FAOS_API_KEY: ${FAOS_API_KEY:?set FAOS_API_KEY}
+      FAOS_CAPABILITY_DB: /var/lib/faos/capabilities.db
+      FAOS_DYNAMIC_SKILLS: /var/lib/faos/dynamic_skills
+      FAOS_PRODUCTION_CONFIG: /app/config/production.json
+      FAOS_HTTP_LOG: "1"
+    volumes:
+      - faos_state:/var/lib/faos
+      - ../config/production.airgap.json:/app/config/production.json:ro
+    networks: [coldroom]
+    read_only: true
+    tmpfs: [/tmp]
+  event-consumer:
+    build: ..
+    restart: unless-stopped
+    command: ["python","scripts/process_events.py","--daemon","--db","/var/lib/faos/capabilities.db"]
+    volumes: ["faos_state:/var/lib/faos"]
+    networks: [coldroom]
+    read_only: true
+    tmpfs: [/tmp]
+  worker:
+    build: ..
+    restart: unless-stopped
+    command: ["python","scripts/run_worker.py","--daemon","--db","/var/lib/faos/capabilities.db","--dynamic-dir","/var/lib/faos/dynamic_skills"]
+    environment:
+      FAOS_CAPABILITY_DB: /var/lib/faos/capabilities.db
+      # Configure only a LOCAL executor address in the cold-room network.
+      FAOS_AGENT_EXECUTOR_URL: ${FAOS_LOCAL_AGENT_EXECUTOR_URL:-}
+      FAOS_AGENT_EXECUTOR_TOKEN: ${FAOS_LOCAL_AGENT_EXECUTOR_TOKEN:-}
+    volumes: ["faos_state:/var/lib/faos"]
+    networks: [coldroom]
+    read_only: true
+    tmpfs: [/tmp]
+volumes:
+  faos_state:
+networks:
+  coldroom:
+    internal: true

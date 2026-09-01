@@ -1,0 +1,27 @@
+{
+  "pocket": "universityos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-course-designer",
+    "assessment-checkpoint",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "education-coordinate-accommodations",
+    "education-teacher-planning-assistant",
+    "curriculum-architect",
+    "course-navigation",
+    "accessibility-coverage-audit",
+    "course-depth-builder",
+    "curriculum-gap-audit",
+    "government-control-delivery-baselines",
+    "education-assure-program-quality",
+    "education-manage-credentials-records",
+    "education-student-progress-analyst",
+    "education-analyze-learning-needs",
+    "education-manage-learner-intake",
+    "education-support-career-transition",
+    "education-facilitate-instruction",
+    "education-map-occupational-competencies"
+  ]
+}

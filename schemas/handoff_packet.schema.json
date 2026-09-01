@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Federated OS Handoff Packet",
+  "type": "object",
+  "required": [
+    "mission_id",
+    "from_pocket",
+    "to_pocket",
+    "objective",
+    "inputs",
+    "evidence_refs",
+    "authority",
+    "expected_output"
+  ],
+  "properties": {
+    "mission_id": {
+      "type": "string"
+    },
+    "from_pocket": {
+      "type": "string"
+    },
+    "to_pocket": {
+      "type": "string"
+    },
+    "objective": {
+      "type": "string"
+    },
+    "inputs": {
+      "type": "object"
+    },
+    "evidence_refs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "authority": {
+      "type": "string"
+    },
+    "expected_output": {
+      "type": "string"
+    },
+    "deadline": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "approval_state": {
+      "type": "string"
+    }
+  }
+}

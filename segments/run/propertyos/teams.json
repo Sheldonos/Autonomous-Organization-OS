@@ -1,0 +1,74 @@
+{
+  "pocket": "propertyos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Market & asset discovery Team",
+      "stage": 1,
+      "responsibility": "Market & asset discovery",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Underwriting Team",
+      "stage": 2,
+      "responsibility": "Underwriting",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Diligence Team",
+      "stage": 3,
+      "responsibility": "Diligence",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Acquisition/lease decision Team",
+      "stage": 4,
+      "responsibility": "Acquisition/lease decision",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Asset operations Team",
+      "stage": 5,
+      "responsibility": "Asset operations",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Tenant/occupancy Team",
+      "stage": 6,
+      "responsibility": "Tenant/occupancy",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Capital planning Team",
+      "stage": 7,
+      "responsibility": "Capital planning",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Disposition/renewal Team",
+      "stage": 8,
+      "responsibility": "Disposition/renewal",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

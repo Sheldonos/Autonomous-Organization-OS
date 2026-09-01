@@ -1,0 +1,27 @@
+{
+  "pocket": "revenueos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "revenue-renewal-risk-assessment",
+    "marketing-lead-quality-review",
+    "revenue-deal-desk-review-pack",
+    "revenue-lead-routing-quality-check",
+    "revenue-pipeline-hygiene-review",
+    "revenue-quote-policy-compliance",
+    "sales-competitive-strategy",
+    "marketing-audience-segmentation-review",
+    "marketing-brand-compliance-review",
+    "marketing-content-claims-review",
+    "marketing-marketing-operations-data-quality",
+    "marketing-nurture-journey-quality-check",
+    "ibm-sales-ext-customer-renewal-risk-route",
+    "revenue-incentive-exception-review",
+    "revenue-rfp-response-evidence",
+    "revenue-sales-activity-capture-review",
+    "ibm-sales-ext-customer-success-plan-govern",
+    "ibm-sales-onboarding-value-data-audit",
+    "ibm-sales-ext-identity-delegation-expiry",
+    "ibm-sales-ext-identity-territory-scope-validate"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "workforceos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-support-career-transition",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "education-facilitate-instruction",
+    "people-compensation-benefits-operations",
+    "people-payroll-time-validation",
+    "education-map-occupational-competencies",
+    "agency-operations-engagement-closeout",
+    "agency-operations-resource-capacity-planning",
+    "ibm-bob-ads-setup",
+    "people-benefits-enrollment-readiness",
+    "people-employee-relations-evidence",
+    "people-leave-case-preparation",
+    "people-mobility-case-readiness",
+    "people-onboarding-readiness-assessment",
+    "people-ethics-training-completion-review",
+    "people-accommodation-handoff-preparation",
+    "people-exit-readiness-check",
+    "ibm-bob-skills-implementation",
+    "ibm-career-project-management-delivery-manager"
+  ]
+}

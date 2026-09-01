@@ -1,0 +1,27 @@
+{
+  "pocket": "customeros",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-068",
+    "ibm-sales-scale-069",
+    "customer-service-troubleshooting-plan-draft",
+    "ibm-sales-scale-071",
+    "customer-success-adoption-strategist",
+    "revenue-renewal-risk-assessment",
+    "ibm-sales-ext-customer-health-signal-intake",
+    "product-product-analytics",
+    "revenue-adoption-analysis",
+    "customer-service-customer-save-case-preparation",
+    "ibm-ado-001",
+    "ibm-ado-002",
+    "ibm-ado-csm-001",
+    "ibm-ado-csm-002",
+    "ibm-ado-csm-003",
+    "ibm-ado-csm-004",
+    "sales-close-to-delivery-transition",
+    "customer-service-case-closure-quality-check",
+    "customer-service-service-level-risk-monitoring",
+    "ibm-dep-csm-001"
+  ]
+}

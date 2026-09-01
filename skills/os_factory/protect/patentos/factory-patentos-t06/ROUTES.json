@@ -1,0 +1,27 @@
+{
+  "pocket": "patentos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-risk-board-governance-pack",
+    "legal-risk-ip-docket-readiness",
+    "legal-dispute-claims-management",
+    "legal-contract-closeout-records",
+    "action_state_tracking",
+    "character_state_tracking",
+    "legal-system-navigator",
+    "legal-contract-drafting-redlining",
+    "legal-contract-risk-issue-spotting",
+    "legal-legal-work-intake-triage",
+    "legal-legal-hold-evidence-preservation",
+    "legal-obligation-management",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "legal-amendment-change-control",
+    "legal-approval-signature-routing",
+    "legal-contract-performance-monitoring",
+    "legal-contract-template-governance",
+    "legal-risk-conflict-of-interest-review",
+    "legal-risk-contract-intake-classification"
+  ]
+}

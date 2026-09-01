@@ -1,0 +1,27 @@
+{
+  "pocket": "complianceos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering",
+    "healthcare-hipaa-privacy-review",
+    "cybersecurity-detection-rule-analyst",
+    "cybersecurity-security-detection-engineer",
+    "legal-risk-compliance-training-exception",
+    "ibm-sales-ext-policy-exception-case",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-identity-access-governance",
+    "legal-risk-audit-finding-remediation",
+    "grc-audit-specialist",
+    "grc-compliance-analyst",
+    "grc-internal-audit-analyst",
+    "grc-policy-management-specialist",
+    "grc-regulatory-compliance-specialist",
+    "government-measure-benefits-and-performance",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "legal-contract-performance-monitoring",
+    "legal-risk-obligation-extraction"
+  ]
+}

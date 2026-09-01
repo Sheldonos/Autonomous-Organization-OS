@@ -1,0 +1,74 @@
+{
+  "pocket": "capitalos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Mandate & thesis Team",
+      "stage": 1,
+      "responsibility": "Mandate & thesis",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Market screen Team",
+      "stage": 2,
+      "responsibility": "Market screen",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Company/asset research Team",
+      "stage": 3,
+      "responsibility": "Company/asset research",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Financial model Team",
+      "stage": 4,
+      "responsibility": "Financial model",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Diligence Team",
+      "stage": 5,
+      "responsibility": "Diligence",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Scenario & risk Team",
+      "stage": 6,
+      "responsibility": "Scenario & risk",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "IC memo Team",
+      "stage": 7,
+      "responsibility": "IC memo",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Portfolio monitoring Team",
+      "stage": 8,
+      "responsibility": "Portfolio monitoring",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

@@ -1,0 +1,12 @@
+{
+  "pocket": "recruitos",
+  "required_or_optional_classes": [
+    "ats",
+    "calendar",
+    "email",
+    "assessment",
+    "hris"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

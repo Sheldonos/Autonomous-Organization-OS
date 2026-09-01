@@ -1,0 +1,1057 @@
+{
+  "schema_version": "2.0",
+  "pocket": "pmoos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 84,
+  "skills": [
+    {
+      "slug": "construction-capital-project-intake",
+      "score": 104,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Capital Project Intake** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-capital-project-intake`, `capital-project-intake`, or the corresponding professional workflow: capital-project intake and business-case development | define need, scope, outcomes, funding, delivery strategy, and risk tier before authorization | owner/sponsor, program manager, finance, users, regulators"
+    },
+    {
+      "slug": "construction-project-closeout",
+      "score": 104,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Closeout** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-closeout`, `project-closeout`, or the corresponding professional workflow: capital-project intake and business-case development | define need, scope, outcomes, funding, delivery strategy, and risk tier before authorization | owner/sponsor, program manager, finance, users, regulators"
+    },
+    {
+      "slug": "program-management-program-governance",
+      "score": 102,
+      "domain": "program-management",
+      "description": "Govern a portfolio of related projects against strategy, dependencies, benefits and risk. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "construction-construction-safety-escalation",
+      "score": 93,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Construction Safety Escalation** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-construction-safety-escalation`, `construction-safety-escalation`, or the corresponding professional workflow: preconstruction planning and mobilization | convert scope into WBS/work packages, baseline schedule, cost plan, resource plan, logistics, permits, and risk controls | owner, general contractor, trade partners, safety, design team, permitting authorities"
+    },
+    {
+      "slug": "construction-project-controls-reporting",
+      "score": 93,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Controls Reporting** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-controls-reporting`, `project-controls-reporting`, or the corresponding professional workflow: project controls and performance reporting | maintain a common data set for scope, cost, schedule, progress, forecasts, risks, decisions, and stakeholder-specific reporting cadence | project manager, project controls, finance, sponsor, contractors, resource managers"
+    },
+    {
+      "slug": "program-management-project-governance",
+      "score": 93,
+      "domain": "program-management",
+      "description": "Govern a project from approved scope through measurable delivery and closure. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "construction-preconstruction-mobilization",
+      "score": 90,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Preconstruction Mobilization** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-preconstruction-mobilization`, `preconstruction-mobilization`, or the corresponding professional workflow: preconstruction planning and mobilization | convert scope into WBS/work packages, baseline schedule, cost plan, resource plan, logistics, permits, and risk controls | owner, general contractor, trade partners, safety, design team, permitting authorities"
+    },
+    {
+      "slug": "program-management-resource-management",
+      "score": 90,
+      "domain": "program-management",
+      "description": "Plan and reconcile capacity, skills, allocation, constraints and utilization against delivery priorities. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "program-management-dependency-management",
+      "score": 82,
+      "domain": "program-management",
+      "description": "Identify, own, sequence and monitor cross-team dependencies and critical path impacts. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "data-strategy-dependency-risk-analysis",
+      "score": 81,
+      "domain": "data",
+      "description": "Analyze cross-program dependency risk and prepare accountable mitigation options. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the PMO and Delivery Governance Capability Director."
+    },
+    {
+      "slug": "program-management-milestone-management",
+      "score": 79,
+      "domain": "program-management",
+      "description": "Define evidence-based milestones, acceptance criteria, forecast confidence and recovery actions. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "program-management-pmo-analyst",
+      "score": 79,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the PMO Analyst role: pmo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-career-project-management-delivery-manager",
+      "score": 76,
+      "domain": "project-management",
+      "description": "IBM-aligned Delivery Manager specialist. Use for Project Management work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "program-management-dependency-manager",
+      "score": 76,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Dependency Manager role: dependency; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-project-manager",
+      "score": 76,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Project Manager role: project; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-project-planner",
+      "score": 76,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Project Planner role: project; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-project-quality-reviewer",
+      "score": 76,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Project Quality Reviewer role: project quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-resource-planner",
+      "score": 76,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Resource Planner role: resource; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-risk-manager",
+      "score": 76,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Risk Manager role: risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-schedule-analyst",
+      "score": 76,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Schedule Analyst role: schedule; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-status-reporting-specialist",
+      "score": 76,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Status Reporting Specialist role: status reporting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-cross-functional-initiative-coordination",
+      "score": 73,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Cross Functional Initiative Coordination** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-cross-functional-initiative-coordination`, `cross-functional-initiative-coordination`, or the corresponding professional workflow: Cross-functional strategic initiative delivery | charter an initiative, resolve dependencies, track risks/issues, and escalate slippage without absorbing line ownership | initiative sponsor, PMO, product/technology, finance, HR, external partners"
+    },
+    {
+      "slug": "agency-operations-delivery-status-control",
+      "score": 71,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Delivery Status Control** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-delivery-status-control`, `delivery-status-control`, or the corresponding professional workflow: delivery-planning-and-status-control | decide work breakdown, milestones, dependencies, risks, issues, reporting cadence, and forecast method | handoff among engagement manager, workstream leads, client product owner/sponsor, PMO, and executives"
+    },
+    {
+      "slug": "cio-delivery-risk-management",
+      "score": 70,
+      "domain": "shared-execution",
+      "description": "CIO Delivery Risk Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "construction-project-charter-planning",
+      "score": 68,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Charter Planning** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-charter-planning`, `project-charter-planning`, or the corresponding professional workflow: project charter and project management plan approval"
+    },
+    {
+      "slug": "program-management-decision-log-manager",
+      "score": 68,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Decision Log Manager role: decision log; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "automation-assess-automation-opportunity",
+      "score": 67,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Assess Automation Opportunity** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-assess-automation-opportunity`, `assess-automation-opportunity`, or the corresponding professional workflow: automation-opportunity-assessment | decide whether a candidate is suitable for workflow/RPA/API/AI automation based on stability, rule clarity, exception rate, value, feasibility, and risk | handoff to automation portfolio governance, enterprise architecture, security, legal/privacy, and finance"
+    },
+    {
+      "slug": "automation-prioritize-automation-portfolio",
+      "score": 67,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Prioritize Automation Portfolio** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-prioritize-automation-portfolio`, `prioritize-automation-portfolio`, or the corresponding professional workflow: automation-opportunity-assessment | decide whether a candidate is suitable for workflow/RPA/API/AI automation based on stability, rule clarity, exception rate, value, feasibility, and risk | handoff to automation portfolio governance, enterprise architecture, security, legal/privacy, and finance"
+    },
+    {
+      "slug": "data-strategy-program-plan-readiness",
+      "score": 65,
+      "domain": "data",
+      "description": "Assess program plan readiness, milestones, resources, dependencies, and risks. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the PMO and Delivery Governance Capability Director."
+    },
+    {
+      "slug": "ibm-career-project-management-scrum-master",
+      "score": 65,
+      "domain": "project-management",
+      "description": "IBM-aligned Scrum Master specialist. Use for Project Management work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-project-management-technical-project-manager",
+      "score": 65,
+      "domain": "project-management",
+      "description": "IBM-aligned Technical Project Manager specialist. Use for Project Management work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "operations-production-schedule-exception",
+      "score": 65,
+      "domain": "operations",
+      "description": "Analyze production schedule exceptions, constraints, and decision dependencies. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Production Operations Capability Director."
+    },
+    {
+      "slug": "program-management-change-management-specialist",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Change Management Specialist role: change management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-critical-path-analyst",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Critical Path Analyst role: critical path; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-issue-manager",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Issue Manager role: issue; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-orchestrator",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Program Orchestrator role: program; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-program-manager",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Program Manager role: program; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-program-orchestrator",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Program Orchestrator role: program; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-raid-manager",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the RAID Manager role: raid; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-release-coordinator",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Release Coordinator role: release coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-requirements-coordinator",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Requirements Coordinator role: requirements coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-stakeholder-manager",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Stakeholder Manager role: stakeholder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-technical-program-manager",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Technical Program Manager role: technical program; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "program-management-work-breakdown-specialist",
+      "score": 65,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Work Breakdown Specialist role: work breakdown; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-operations-privacy-data-handling",
+      "score": 62,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Privacy Data Handling** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-privacy-data-handling`, `privacy-data-handling`, or the corresponding professional workflow: records-knowledge-and-lessons-learned-management | decide which working papers, approvals, versions, decisions, metrics, and lessons must be retained, restricted, archived, or reused | handoff from project team to PMO/operations, information-security/privacy owner, records custodian, and future delivery teams"
+    },
+    {
+      "slug": "agency-operations-records-retention-management",
+      "score": 62,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Records Retention Management** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-records-retention-management`, `records-retention-management`, or the corresponding professional workflow: records-knowledge-and-lessons-learned-management | decide which working papers, approvals, versions, decisions, metrics, and lessons must be retained, restricted, archived, or reused | handoff from project team to PMO/operations, information-security/privacy owner, records custodian, and future delivery teams"
+    },
+    {
+      "slug": "cio-milestone-tracking",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "CIO Milestone Tracking for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-portfolio-resource-planning",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Resource Planning for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "operations-resource-planning-analyst",
+      "score": 62,
+      "domain": "operations",
+      "description": "Use for operations work requiring the Resource Planning Analyst role: resource planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-field-coordination",
+      "score": 60,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Field Coordination** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-field-coordination`, `field-coordination`, or the corresponding professional workflow: field execution and coordination | coordinate daily work, look-ahead planning, site logistics, interfaces, RFIs, submittals, inspections, and design clarifications | superintendent, subcontractors, architect/engineer, owner representative, safety and quality leads"
+    },
+    {
+      "slug": "construction-quality-inspection-management",
+      "score": 60,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Quality Inspection Management** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-quality-inspection-management`, `quality-inspection-management`, or the corresponding professional workflow: field execution and coordination | coordinate daily work, look-ahead planning, site logistics, interfaces, RFIs, submittals, inspections, and design clarifications | superintendent, subcontractors, architect/engineer, owner representative, safety and quality leads"
+    },
+    {
+      "slug": "cio-portfolio-dependency-management",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Dependency Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-program-governance",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "CIO Program Governance for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-project-portfolio-management",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "CIO Project Portfolio Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "construction-assistant-project-manager",
+      "score": 59,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Assistant Project Manager role: assistant project; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-project-controls-analyst",
+      "score": 59,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Project Controls Analyst role: project controls; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-project-executive-advisor",
+      "score": 59,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Project Executive Advisor role: construction project executive; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-project-manager",
+      "score": 59,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Project Manager role: construction project; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-risk-analyst",
+      "score": 59,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Risk Analyst role: construction risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-sales-scale-055",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Draft a migration planning framework with discovery prerequisites, source/target assumptions, dependency inventory, risk, validation gates, and delivery-review needs. Use when IBM Sales selects `solution.migration-plan-draft` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-061",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Prepare an internal resource-planning hypothesis with skill needs, dependency timing, ownership, capacity assumptions, and delivery validation route. Use when IBM Sales selects `commercial.resource-plan` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "operations-ehs-incident-evidence",
+      "score": 59,
+      "domain": "operations",
+      "description": "Compile EHS incident evidence, notifications, and required investigation handoffs. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Safety and Operational Risk Capability Director."
+    },
+    {
+      "slug": "operations-inventory-health-review",
+      "score": 59,
+      "domain": "operations",
+      "description": "Review inventory health, aging, stock risk, and evidence-backed action options. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Inventory and Warehouse Operations Capability Director."
+    },
+    {
+      "slug": "operations-operational-risk-analyst",
+      "score": 59,
+      "domain": "operations",
+      "description": "Use for operations work requiring the Operational Risk Analyst role: operational risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "operations-operations-master-data-review",
+      "score": 59,
+      "domain": "operations",
+      "description": "Review operational master-data changes for provenance, dependency, and approval requirements. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Operational Data Governance Capability Director."
+    },
+    {
+      "slug": "operations-safety-observation-triage",
+      "score": 59,
+      "domain": "operations",
+      "description": "Triage safety observations and route qualified risk cases to safety owners. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Safety and Operational Risk Capability Director."
+    },
+    {
+      "slug": "operations-stockout-risk-monitoring",
+      "score": 59,
+      "domain": "operations",
+      "description": "Monitor qualified stockout-risk signals and route controlled owner alerts. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Inventory and Warehouse Operations Capability Director."
+    },
+    {
+      "slug": "real-estate-capital-project-delivery",
+      "score": 59,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Capital Project Delivery** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-capital-project-delivery`, `capital-project-delivery`, or the corresponding professional workflow: Capital project planning and delivery | define scope, business case, budget, schedule, procurement route, design criteria, commissioning, and change control"
+    },
+    {
+      "slug": "data-strategy-portfolio-roadmap-synthesis",
+      "score": 57,
+      "domain": "data",
+      "description": "Synthesize portfolio roadmap dependencies, outcomes, investment, and decision points. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "automation-assure-business-continuity",
+      "score": 56,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Assure Business Continuity** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-assure-business-continuity`, `assure-business-continuity`, or the corresponding professional workflow: incident-problem-and-continuity-management | decide incident severity, containment, business workaround, problem root cause, recovery priority, and continuity invocation | handoff to service management, security incident response, business continuity, vendors, and executive risk owners"
+    },
+    {
+      "slug": "automation-baseline-process-performance",
+      "score": 56,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Baseline Process Performance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-baseline-process-performance`, `baseline-process-performance`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-discover-process",
+      "score": 56,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Discover Process** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-discover-process`, `discover-process`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-manage-automation-incidents",
+      "score": 56,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Manage Automation Incidents** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-manage-automation-incidents`, `manage-automation-incidents`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-measure-process-conformance",
+      "score": 56,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Measure Process Conformance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-measure-process-conformance`, `measure-process-conformance`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-monitor-automation-runs",
+      "score": 56,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Monitor Automation Runs** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-monitor-automation-runs`, `monitor-automation-runs`, or the corresponding professional workflow: run-monitor-and-exception-management | decide whether runs are healthy, retryable, quarantined, routed for manual work, or escalated based on SLAs and risk thresholds | handoff to operations control room, exception owners, service management, and process SMEs"
+    },
+    {
+      "slug": "automation-specify-automation-requirements",
+      "score": 56,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Specify Automation Requirements** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-specify-automation-requirements`, `specify-automation-requirements`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-standardize-process",
+      "score": 56,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Standardize Process** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-standardize-process`, `standardize-process`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-validate-automation-solution",
+      "score": 56,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Validate Automation Solution** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-validate-automation-solution`, `validate-automation-solution`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "chief-of-staff-strategic-operating-cadence",
+      "score": 56,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Strategic Operating Cadence** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-strategic-operating-cadence`, `strategic-operating-cadence`, or the corresponding professional workflow: Strategic planning and operating cadence | turn priorities into quarterly/monthly/weekly reviews with KPI definitions, pre-reads, decision logs, and follow-up loops | principal, business-unit leaders, PMO, analytics/finance"
+    },
+    {
+      "slug": "engineering-technical-debt-prioritization",
+      "score": 56,
+      "domain": "engineering",
+      "description": "Prioritize technical debt using risk, cost, dependency, and delivery evidence. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Engineering Intelligence Capability Director."
+    },
+    {
+      "slug": "it-integration-interface-assessment",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Assess integration interface health, ownership, dependency, and change risk. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "cio-benefits-realization",
+      "score": 54,
+      "domain": "shared-execution",
+      "description": "CIO Benefits Realization for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "data-strategy-business-case-preparation",
+      "score": 54,
+      "domain": "data",
+      "description": "Prepare business-case evidence, assumptions, benefits, costs, risks, and owners. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "agency-operations-resource-capacity-planning",
+      "score": 51,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Resource Capacity Planning** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-resource-capacity-planning`, `resource-capacity-planning`, or the corresponding professional workflow: resource-and-capacity-planning | decide staffing mix, skills, availability, utilization targets, subcontractor needs, and escalation coverage | handoff from portfolio/resource manager to engagement manager, practice leads, HR/talent, and approved suppliers"
+    },
+    {
+      "slug": "cio-portfolio-prioritization",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Prioritization for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "government-control-delivery-baselines",
+      "score": 51,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Control Delivery Baselines** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-control-delivery-baselines`, `control-delivery-baselines`, or the corresponding professional workflow: delivery planning and integrated control | establish schedule, dependencies, resources, milestones, costs, quality criteria, and reporting cadence | workstream leads, programme controls, finance, suppliers, governance board"
+    },
+    {
+      "slug": "real-estate-portfolio-strategy",
+      "score": 51,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Portfolio Strategy** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-portfolio-strategy`, `portfolio-strategy`, or the corresponding professional workflow: Portfolio and asset strategy | prioritize acquisitions, dispositions, capital allocation, risk, and service outcomes against business strategy"
+    },
+    {
+      "slug": "cio-executive-portfolio-reporting",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Executive Portfolio Reporting for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-stage-gate-governance",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Stage Gate Governance for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "data-strategy-model-risk-assessment-prep",
+      "score": 48,
+      "domain": "data",
+      "description": "Prepare model-risk assessment evidence, validation needs, and human review route. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the AI Governance Capability Director."
+    },
+    {
+      "slug": "eos-enterprise-dependency-management",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Dependency Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-enterprise-portfolio-management",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Portfolio Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-enterprise-resource-management",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Resource Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-milestone-governance",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Milestone Governance for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-program-management",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Program Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-project-management",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Project Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-transformation-risk",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Transformation Risk for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-bob-modernization-sprint-agent",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires **bob-centered engineering acceleration** involving IBM Project Bob, especially when the user expects the work product of a senior delivery engineer, production readiness lead, or modernization sprint lead. Activate it for discovery, planning, configuration d..."
+    },
+    {
+      "slug": "ibm-bob-production-readiness-agent",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires **bob-centered engineering acceleration** involving IBM Project Bob, especially when the user expects the work product of a senior delivery engineer, production readiness lead, or modernization sprint lead. Activate it for discovery, planning, configuration d..."
+    },
+    {
+      "slug": "ibm-sales-ext-partner-alliance-governance",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Validate alliance program rules, partner authorization, deal registration status, incentive boundaries, and escalation routes before joint action. Use when the IBM Sales control mode selects capability `partner-marketing.alliance-governance` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-045",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Create a deal-risk register that records evidence, probability/impact rationale, owner, mitigation option, dependency, and escalation threshold. Use when IBM Sales selects `discover.deal-risk` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "it-application-portfolio-assessment",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Assess application portfolio health, lifecycle, cost, risk, and modernization dependencies. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "it-change-review-readiness",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Assess change-review readiness, risk, dependencies, testing, and rollback evidence. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Change and Release Governance Capability Director."
+    },
+    {
+      "slug": "legal-risk-board-governance-pack",
+      "score": 48,
+      "domain": "legal",
+      "description": "Prepare board-governance evidence pack, decision log, and action-tracking status. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Corporate Governance Capability Director."
+    },
+    {
+      "slug": "media-production-scheduling",
+      "score": 48,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Production Scheduling** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-production-scheduling`, `production-scheduling`, or the corresponding professional workflow: Plan production and resource schedule | choose locations, crew, equipment, vendors, milestones, dependencies, and contingency paths | handoff to line producer, production manager, department heads, procurement, and finance"
+    },
+    {
+      "slug": "revenue-customer-commitment-tracker",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Track material customer commitments, owners, due dates, and escalation risk. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "eos-delivery-risk",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Delivery Risk for Professional Services. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-project-delivery",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Project Delivery for Professional Services. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "game-dev",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Build playable browser games (Babylon.js) end-to-end using the godogen production pipeline adapted to Manus. Use when the user wants to make, generate, rebuild, or substantially extend a web/browser game from a natural-language brief. Runs godogen's staged workflow (visual target, risk decomposition, scaffold, architecture, asset generation, implementation, visual verification) but hosts the game in a Manus WebDev project, replaces godogen's paid art CLIs (Gemini/Grok/Tripo3D) with Manus built-in image generation, and deploys through WebDev Publish instead of temporary links."
+    },
+    {
+      "slug": "government-govern-change-requests",
+      "score": 45,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Govern Change Requests** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-govern-change-requests`, `govern-change-requests`, or the corresponding professional workflow: programme and project initiation | define scope, governance, lifecycle, tolerances, business case, delivery approach, and accountable owner | sponsor, project/programme office, architecture, commercial, security, assurance"
+    },
+    {
+      "slug": "institutional-investment-playbook",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Use when the user asks about hedge fund or private equity investment processes, due diligence, portfolio construction, position sizing, risk management, LBO modeling, investment committee memos, all-weather frameworks, exit strategies, or any topic covered by institutional investment qualification and portfolio construction workflows. Covers the complete 25-step process from sourcing through exit."
+    },
+    {
+      "slug": "it-capacity-risk-monitoring",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Monitor capacity-risk signals and route controlled operational cases. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Cloud and Platform Operations Capability Director."
+    },
+    {
+      "slug": "it-cloud-tagging-quality-check",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Check cloud resource tagging completeness, ownership, and cost allocation integrity. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Cloud and FinOps Operations Capability Director."
+    },
+    {
+      "slug": "it-data-center-operations-review",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Review data-center operational evidence, capacity, maintenance, and risk exceptions. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Infrastructure Operations Capability Director."
+    },
+    {
+      "slug": "it-service-level-evidence",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Compile service-level evidence, breach risk, and owner actions. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the IT Service Operations Capability Director."
+    },
+    {
+      "slug": "it-technology-vendor-risk-review",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Compile technology vendor risk, obligations, and renewal evidence. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Technology Asset and Vendor Management Capability Director."
+    },
+    {
+      "slug": "legal-obligation-milestone-management",
+      "score": 45,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Obligation Milestone Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-obligation-milestone-management`, `obligation-milestone-management`, or the corresponding professional workflow: obligation-and-milestone-management | convert executed terms into owners, dates, deliverables, notice windows, service levels, reporting, renewal, and evidence requirements | handoff to contract owner, procurement/vendor management, finance, operations, security, and legal"
+    },
+    {
+      "slug": "mission-delivery",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Run a real-world mission from launch through milestones, evidence, collaboration boundaries and portfolio reflection."
+    },
+    {
+      "slug": "ibm-sales-scale-010",
+      "score": 43,
+      "domain": "shared-execution",
+      "description": "Quality-review a strategic account plan for evidence, owner coverage, decision clarity, dependencies, risk, and measurable next steps. Use when IBM Sales selects `plan.territory-account.plan-review` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-067",
+      "score": 43,
+      "domain": "shared-execution",
+      "description": "Assemble a delivery-handoff packet with validated scope, requirements, commercial constraints, risks, dependencies, customer roles, and unresolved decisions. Use when IBM Sales selects `close.delivery-handoff` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "it-technology-roadmap-synthesis",
+      "score": 43,
+      "domain": "shared-execution",
+      "description": "Synthesize technology roadmap dependencies, investments, risks, and decision points. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "project-intake-diagnostic",
+      "score": 43,
+      "domain": "shared-execution",
+      "description": "Audit a new book, script, treatment or evidence package for missing decisions, risks and prioritized questions before development begins."
+    },
+    {
+      "slug": "eos-benefits-management",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Eos Benefits Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-solution-delivery-feasibility",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Prepare a delivery feasibility assessment covering scope, skills, dependencies, customer responsibilities, timeline assumptions, and escalation needs. Use when the IBM Sales control mode selects capability `solution-assurance.delivery-feasibility` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-solution-demo-poc-risk",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Define demo or POC objectives, success criteria, data/security constraints, dependencies, risks, owners, and closure evidence. Use when the IBM Sales control mode selects capability `solution-assurance.demo-poc-risk` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "webdev-periodic-updates",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Manus webdev fullstack (web-db-user) & mobile-app (Expo) projects \u2014 scheduled work reference (Heartbeat) for recurring jobs, daily/hourly tasks, end-user-scheduled cron, periodic notifications. Read FIRST before planning or coding anything that runs on a schedule."
+    },
+    {
+      "slug": "webdev-readme-fullstack",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Manus webdev fullstack (web-db-user) projects \u2014 the complete development guide for the template that fullstack webdev projects are built on. Covers what ships out of the box (user auth, database, file storage, backend API, external integrations), coding conventions, file layout, and the map of per-integration skill docs. The same guide arrives auto-injected in webdev_init_project / webdev_add_feature results."
+    },
+    {
+      "slug": "builtin-llm-models",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Reference for Manus's built-in LLM catalog and how to call it correctly. Readthis BEFORE writing any script that calls LLMs in bulk (summarization,translation, classification, extraction, deep analysis, judging/evaluation,map/parallel fan-out) inside the sandbox, AND before using the built-in LLM ina webdev project (invokeLLM / listLLMModels). Use it to discover which modelsexist, each model's price/capabilities, how to pick one, the exact requestshapes (thinking/reasoning, JSON-schema structured output, vision, tools), andthe per-model gotchas (max-token handling, reasoning syntax) verified againstthe live proxy."
+    },
+    {
+      "slug": "cio-data-protection-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Data Protection Strategy for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-zero-trust-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Zero Trust Strategy for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-dependency-order-planning",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Enterprise Dependency Order Planning for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-delivery-planning",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Delivery Planning for Professional Services. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-transformation-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Transformation Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-bob-ads-monitor",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Monitor paid-ad account pacing, delivery, performance, creative fatigue, tracking, policy, and data quality across supported platforms. Use for daily or weekly checks, anomaly review, budget pacing, post-launch verification, or campaign monitoring. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-lead-intelligence",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Generate comprehensive B2B lead databases with deep intelligence including decision maker contacts, pain points, IBM Automation solution mapping, ROI projections, and revenue potential. Use when prospecting for B2B sales, building lead lists, conducting market research, creating sales intelligence databases, preparing for outreach campaigns, or when a user requests lead generation with detailed business intelligence for IBM Project Bob."
+    },
+    {
+      "slug": "ibm-bob-skills-implementation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "A comprehensive orchestration package that integrates 38 specialized skills into a cohesive IBM Project Bob environment. Use this skill when you need to understand how the 38 distinct skills (covering enterprise strategy, software development, creative direction, and UI/UX) fit together into a hierarchical agentic architecture. It provides the routing logic for complex, multi-stage workflows like \"Idea to IPO\" or \"Enterprise Deal Execution\"."
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-proposal-release-qa",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Validate proposal/RFP/SOW release readiness across version, claims, evidence, pricing, legal/compliance sections, approvals, and delivery dependencies. Use when the IBM Sales control mode selects capability `commercial-governance.proposal-release-qa` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-renewal-risk-route",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Route validated renewal risk signals to the accountable account/CSM team with evidence, owner, timing, and permitted mitigation planning. Use when the IBM Sales control mode selects capability `customer-success.renewal-risk-route` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-success-plan-govern",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Prepare a shared success-plan draft with customer goals, owner roles, milestones, dependencies, risk, measurement, and review cadence. Use when the IBM Sales control mode selects capability `customer-success.success-plan-govern` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-solution-architecture-assure",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Assess a proposed architecture option for evidence support, integration assumptions, security/dependency risks, and required technical approvals. Use when the IBM Sales control mode selects capability `solution-assurance.architecture-assure` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-onboarding-value-data-audit",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Audit whether IBM Sales agentic workflows are appropriate for a seller, team, or sales operation; identify benefit hypotheses, process and data readiness, governance gaps, and data-lake opportunities. Use for first onboarding, pilot prioritization, program expansion, data-readiness assessment, or a request to determine whether the package will improve a user\u2019s work."
+    },
+    {
+      "slug": "ibm-sales-scale-008",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Map approved partners, alliance status, partner roles, deal-registration context, and co-sell opportunities for an account. Use when IBM Sales selects `plan.territory-account.partner-landscape` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-012",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Coordinate global-account planning across regions while preserving regional account rights, data residency, language, commercial, and local-delivery boundaries. Use when IBM Sales selects `plan.territory-account.global-coordinate` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-048",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Prioritize customer use-case candidates using validated problem evidence, feasibility, value assumptions, dependencies, risk, and customer-owner confirmation needs. Use when IBM Sales selects `solution.use-case-prioritize` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-062",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Prepare a negotiation-concession decision packet with requested term, rationale, customer evidence, guardrails, alternatives, authority threshold, and downside risk. Use when IBM Sales selects `commercial.concession-plan` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-069",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Track adoption milestones against approved success-plan definitions, evidence sources, owner actions, dependencies, and exceptions. Use when IBM Sales selects `close.adoption-milestone` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-073",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Create an internal churn-prevention assessment from validated risk signals, contract/adoption facts, owners, mitigations, and escalation thresholds. Use when IBM Sales selects `close.churn-prevention` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-solution-architect-web",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "End-to-end workflow for discovering a company use case, generating IBM DevOps Solution Workbench architecture artifacts (C4 diagrams, domain models, OpenAPI specs, scaffolded code), producing a master IBM Project Bob prompt, and deploying a live interactive IBM Solution Designer web app replica that visualizes the full architecture. Use when a user asks to build an IBM Solution Designer output, map architecture for a company use case using IBM tools, or generate a Solution Workbench + Project Bob package with a live web visualization."
+    },
+    {
+      "slug": "it-architecture-decision-pack",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Prepare architecture decision evidence, options, standards, and approver routing. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "it-disaster-recovery-plan-review",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Review disaster-recovery plan completeness, dependencies, and test evidence. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Resilience and Recovery Capability Director."
+    },
+    {
+      "slug": "it-finops-commitment-analysis",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Analyze cloud commitment utilization and prepare human decision options. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Cloud and FinOps Operations Capability Director."
+    },
+    {
+      "slug": "it-incident-triage-preparation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Prepare incident triage evidence, impact, service context, and escalation path. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the IT Service Operations Capability Director."
+    },
+    {
+      "slug": "master-orchestrator",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Autonomously manages complex, multi-stage enterprise projects from start to finish. Use this skill to orchestrate other enterprise skills, manage project state, and execute a project plan with minimal user intervention."
+    },
+    {
+      "slug": "mediator-renter-disruptor",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "A strategic framework for analyzing markets for platform middleman disruption patterns (the \"mediator-renter\" model like Uber, Amazon, DoorDash ). Use when a user asks to analyze a market for platform dependency risks, identify revenue gaps and latency drivers caused by third-party intermediaries, or generate a compelling narrative hook for IBM AES enterprise sales presentations to position proprietary software development velocity as a competitive moat."
+    },
+    {
+      "slug": "motion-performance-planning",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Plan motion and performance with physics, anatomy, interaction, camera-motion and temporal-risk constraints."
+    },
+    {
+      "slug": "process-strategy-to-portfolio-to-execution-to-outcome",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Process Strategy To Portfolio To Execution To Outcome for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "production-economics",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Track budget, schedule, attempts, latency, rework, stale-work cost, provider reliability and critical path for production decisions."
+    },
+    {
+      "slug": "adaptive-content-delivery",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Choose how to deliver an objective based on evidence, goal, time, and stated preferences, then explain the choice."
+    },
+    {
+      "slug": "cio-ai-portfolio-management",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO AI Portfolio Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-risk-management",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO AI Risk Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    }
+  ],
+  "primary_accountable": [
+    "builtin-llm-models",
+    "cio-delivery-risk-management",
+    "construction-assistant-project-manager",
+    "construction-capital-project-intake",
+    "construction-construction-safety-escalation",
+    "construction-preconstruction-mobilization",
+    "construction-project-charter-planning",
+    "construction-project-closeout",
+    "construction-project-controls-analyst",
+    "construction-project-controls-reporting",
+    "construction-project-executive-advisor",
+    "construction-project-manager",
+    "construction-risk-analyst",
+    "data-strategy-dependency-risk-analysis",
+    "data-strategy-program-plan-readiness",
+    "destructive-command-guard",
+    "enterprise-dependency-order-planning",
+    "eos-delivery-risk",
+    "eos-project-delivery",
+    "generation-failure-repair",
+    "ibm-bob-modernization-sprint-agent",
+    "ibm-bob-production-readiness-agent",
+    "ibm-career-project-management-delivery-manager",
+    "ibm-career-project-management-scrum-master",
+    "ibm-career-project-management-technical-project-manager",
+    "ibm-sales-scale-045",
+    "ibm-sales-scale-048",
+    "ibm-sales-scale-055",
+    "ibm-sales-scale-061",
+    "ibm-sales-scale-062",
+    "ibm-sales-scale-067",
+    "ibm-solution-architect-web",
+    "it-change-review-readiness",
+    "it-cloud-tagging-quality-check",
+    "it-data-center-operations-review",
+    "it-disaster-recovery-plan-review",
+    "it-finops-commitment-analysis",
+    "it-incident-triage-preparation",
+    "it-integration-interface-assessment",
+    "it-service-level-evidence",
+    "master-orchestrator",
+    "mediator-renter-disruptor",
+    "mission-delivery",
+    "operations-operational-risk-analyst",
+    "operations-resource-planning-analyst",
+    "production-economics",
+    "program-management-change-management-specialist",
+    "program-management-critical-path-analyst",
+    "program-management-decision-log-manager",
+    "program-management-dependency-management",
+    "program-management-dependency-manager",
+    "program-management-issue-manager",
+    "program-management-milestone-management",
+    "program-management-orchestrator",
+    "program-management-pmo-analyst",
+    "program-management-program-governance",
+    "program-management-program-manager",
+    "program-management-program-orchestrator",
+    "program-management-project-governance",
+    "program-management-project-manager",
+    "program-management-project-planner",
+    "program-management-project-quality-reviewer",
+    "program-management-raid-manager",
+    "program-management-release-coordinator",
+    "program-management-requirements-coordinator",
+    "program-management-resource-management",
+    "program-management-resource-planner",
+    "program-management-risk-manager",
+    "program-management-schedule-analyst",
+    "program-management-stakeholder-manager",
+    "program-management-status-reporting-specialist",
+    "program-management-technical-program-manager",
+    "program-management-work-breakdown-specialist",
+    "project-intake-diagnostic",
+    "score-design",
+    "series-continuity",
+    "shared-execution-dependency-installation-specialist",
+    "spaced-retrieval",
+    "webdev-manus-oauth",
+    "webdev-owner-notifications",
+    "webdev-periodic-updates",
+    "webdev-readme-fullstack",
+    "webdev-readme-mobile",
+    "webdev-readme-static"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "patenttoproductos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-atl-004",
+    "ibm-atl-006",
+    "lemos-strategy-playbook",
+    "ibm-pre-atl-004",
+    "demand-architect",
+    "tls-competitive-intelligence-battlecard-agent",
+    "ibm-des-pri-001",
+    "data-strategy-dashboard-quality-review",
+    "data-strategy-model-inventory-quality",
+    "data-strategy-model-risk-assessment-prep",
+    "data-strategy-okr-progress-review",
+    "data-strategy-prompt-policy-review",
+    "ibm-atl-007",
+    "it-software-asset-license-review",
+    "eos-product-strategy",
+    "cio-software-license-optimization",
+    "marketing-campaign-launch-readiness",
+    "marketing-event-strategy-operations",
+    "marketing-budget-pacing-analysis",
+    "marketing-campaign-brief-preparation"
+  ]
+}

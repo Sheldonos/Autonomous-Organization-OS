@@ -1,0 +1,27 @@
+{
+  "pocket": "commerceos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ecommerce-e-commerce-analytics-specialist",
+    "ecommerce-e-commerce-orchestrator",
+    "ecommerce-e-commerce-seo-specialist",
+    "ecommerce-e-commerce-strategist",
+    "ecommerce-orchestrator",
+    "ecommerce-customer-journey-analyst",
+    "ecommerce-marketplace-analyst",
+    "ecommerce-marketplace-operations-specialist",
+    "reproduction_manifest",
+    "product-roadmap-management",
+    "supply-chain-traceability-recall-response",
+    "eos-product-market-discovery",
+    "eos-product-customer-discovery",
+    "cio-data-product-management",
+    "enterprise-enterprise-environment-inventory",
+    "eos-fulfillment-management",
+    "eos-inventory-management",
+    "eos-product-adoption",
+    "eos-product-analytics",
+    "eos-product-experimentation"
+  ]
+}

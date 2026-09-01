@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "pocket": "creatoros",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 20,
+  "skills": [
+    {
+      "slug": "media-creative-briefing",
+      "score": 70,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Creative Briefing** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-creative-briefing`, `creative-briefing`, or the corresponding professional workflow: Develop creative brief and editorial requirements | approve audience, message, format, budget, schedule, and success criteria before greenlighting | handoff to executive sponsor, commissioning editor, producer, and client"
+    },
+    {
+      "slug": "media-provenance-tracking",
+      "score": 70,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Provenance Tracking** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-provenance-tracking`, `provenance-tracking`, or the corresponding professional workflow: Develop creative brief and editorial requirements | approve audience, message, format, budget, schedule, and success criteria before greenlighting | handoff to executive sponsor, commissioning editor, producer, and client"
+    },
+    {
+      "slug": "marketing-content-reuse-eligibility",
+      "score": 67,
+      "domain": "marketing",
+      "description": "Assess whether content can be reused by checking rights, freshness, claims, and audience fit. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "marketing-event-readiness-checklist",
+      "score": 67,
+      "domain": "marketing",
+      "description": "Prepare event readiness checklist across audience, content, logistics, consent, and follow-up. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Field and Event Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-seo-content-brief",
+      "score": 67,
+      "domain": "marketing",
+      "description": "Prepare SEO content brief using approved keyword, audience, and brand evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Digital Content Operations Capability Director."
+    },
+    {
+      "slug": "media-content-performance-review",
+      "score": 67,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Content Performance Review** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-content-performance-review`, `content-performance-review`, or the corresponding professional workflow: Measure performance and manage corrections | review audience, engagement, completion, complaints, takedowns, and rights or factual issues"
+    },
+    {
+      "slug": "media-correction-takedown-governance",
+      "score": 67,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Correction Takedown Governance** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-correction-takedown-governance`, `correction-takedown-governance`, or the corresponding professional workflow: Measure performance and manage corrections | review audience, engagement, completion, complaints, takedowns, and rights or factual issues"
+    },
+    {
+      "slug": "marketing-campaign-orchestration",
+      "score": 64,
+      "domain": "marketing",
+      "description": "Plan, execute and measure integrated campaigns with channel, audience, content, budget and attribution discipline. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "master-storytelling",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Build, diagnose, and improve compelling stories for videos, speeches, presentations, social posts, brand narratives, personal anecdotes, and educational content. Use when a user asks to become a better storyteller, write or edit a story, improve audience retention, create short-form video scripts, add emotional stakes, build hooks, or turn bland information into a memorable narrative."
+    },
+    {
+      "slug": "media-content-capture",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Content Capture** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-content-capture`, `content-capture`, or the corresponding professional workflow: Produce and capture content | execute approved script, shot list, editorial plan, and technical specifications while logging deviations and incidents | handoff to director/editor, camera/sound departments, production coordinator, and post-production"
+    },
+    {
+      "slug": "media-editorial-fact-checking",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Editorial Fact Checking** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-editorial-fact-checking`, `editorial-fact-checking`, or the corresponding professional workflow: Edit and fact-check | select takes, shape narrative, verify claims, maintain source notes, resolve continuity issues, and obtain editorial sign-off | handoff to editor, producer, subject-matter reviewer, standards/legal, and approver"
+    },
+    {
+      "slug": "media-media-asset-management",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Media Asset Management** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-media-asset-management`, `media-asset-management`, or the corresponding professional workflow: Clear rights and releases | verify ownership, licenses, music/footage/asset permissions, talent releases, location releases, and territory/term/media restrictions | handoff to legal/business affairs, rights holders, talent representatives, and delivery team"
+    },
+    {
+      "slug": "media-post-production-editing",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Post Production Editing** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-post-production-editing`, `post-production-editing`, or the corresponding professional workflow: Produce and capture content | execute approved script, shot list, editorial plan, and technical specifications while logging deviations and incidents | handoff to director/editor, camera/sound departments, production coordinator, and post-production"
+    },
+    {
+      "slug": "media-release-management",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Release Management** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-release-management`, `release-management`, or the corresponding professional workflow: Clear rights and releases | verify ownership, licenses, music/footage/asset permissions, talent releases, location releases, and territory/term/media restrictions | handoff to legal/business affairs, rights holders, talent representatives, and delivery team"
+    },
+    {
+      "slug": "media-rights-clearance",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Rights Clearance** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-rights-clearance`, `rights-clearance`, or the corresponding professional workflow: Clear rights and releases | verify ownership, licenses, music/footage/asset permissions, talent releases, location releases, and territory/term/media restrictions | handoff to legal/business affairs, rights holders, talent representatives, and delivery team"
+    },
+    {
+      "slug": "marketing-account-based-signal-qualification",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Qualify account-based engagement signals for accountable seller or marketer follow-up. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-audience-segmentation-review",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Review audience segmentation logic for eligibility, consent, and data-quality controls. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-brand-compliance-review",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Review assets for approved brand standards, mandatory disclosures, and deviations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "marketing-campaign-brief-preparation",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Prepare a campaign brief with audience, objective, constraints, and measurement plan. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-consent-eligibility-check",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Check communication eligibility against consent, preference, and jurisdiction rules. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-content-claims-review",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Compile content claims, evidence, and required approver review. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "marketing-customer-advocacy-qualification",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Qualify advocacy candidates with consent, relationship, and content approval evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Customer Advocacy Capability Director."
+    },
+    {
+      "slug": "marketing-executive-communication-draft",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Draft executive communication using approved facts, audience requirements, and review routing. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Executive Communications Capability Director."
+    },
+    {
+      "slug": "marketing-nurture-journey-quality-check",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Validate nurture-journey logic for consent, sequencing, personalization, and stop rules. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-social-risk-monitoring",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Monitor approved social signals and open controlled reputational-risk cases. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Communications Risk Capability Director."
+    },
+    {
+      "slug": "marketing-webinar-follow-up-preparation",
+      "score": 56,
+      "domain": "marketing",
+      "description": "Prepare compliant webinar follow-up segments, content, and owner actions. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Field and Event Marketing Capability Director."
+    },
+    {
+      "slug": "media-accessibility-localization",
+      "score": 56,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Accessibility Localization** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-accessibility-localization`, `accessibility-localization`, or the corresponding professional workflow: Create accessible deliverables | plan and quality-check captions, transcripts, speaker identification, audio description, readable graphics, and synchronized timing | handoff to accessibility specialist, localization vendor, platform operations, and final approver"
+    },
+    {
+      "slug": "media-distribution-packaging",
+      "score": 56,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Distribution Packaging** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-distribution-packaging`, `distribution-packaging`, or the corresponding professional workflow: Manage ingest, metadata, and asset versioning | validate media integrity, backups, naming, timecode, rights metadata, chain of custody, and version status | handoff to media manager, editor, colorist, sound team, archive, and distribution operations"
+    },
+    {
+      "slug": "media-mastering-quality-control",
+      "score": 56,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Mastering Quality Control** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-mastering-quality-control`, `mastering-quality-control`, or the corresponding professional workflow: Prepare risk and safety plan | identify hazards, determine controls, appoint competent safety leads, and stop or modify work when risk is unacceptable | handoff to safety advisor, production manager, crew, insurers, and relevant authorities"
+    },
+    {
+      "slug": "media-production-scheduling",
+      "score": 56,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Production Scheduling** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-production-scheduling`, `production-scheduling`, or the corresponding professional workflow: Plan production and resource schedule | choose locations, crew, equipment, vendors, milestones, dependencies, and contingency paths | handoff to line producer, production manager, department heads, procurement, and finance"
+    },
+    {
+      "slug": "media-safety-risk-planning",
+      "score": 56,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Safety Risk Planning** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-safety-risk-planning`, `safety-risk-planning`, or the corresponding professional workflow: Prepare risk and safety plan | identify hazards, determine controls, appoint competent safety leads, and stop or modify work when risk is unacceptable | handoff to safety advisor, production manager, crew, insurers, and relevant authorities"
+    },
+    {
+      "slug": "rspkt-web-designer",
+      "score": 54,
+      "domain": "shared-execution",
+      "description": "A complete creative production system reverse-engineered from Rspkt.co - a full-service creative agency run by Adobe Bryant in Green Bay, WI. This skill encodes not just their web design aesthetic, but their entire creative methodology: brand strategy, visual identity, photography direction, video content, brand voice, and web development. It dynamically adapts every output to the client's geography, audience, services, and brand energy - ensuring no two websites or brand systems are ever the same. Use when building a complete brand from the ground up, redesigning an existing brand, or producing a premium website for any creative agency, restaurant, fitness studio, entertainment brand, product company, or culturally-rooted organization."
+    },
+    {
+      "slug": "marketing-audience-segmentation-analyst",
+      "score": 53,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Audience Segmentation Analyst role: audience segmentation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-planner",
+      "score": 53,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content Planner role: content; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-seo-specialist",
+      "score": 53,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content SEO Specialist role: content seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-strategist",
+      "score": 53,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content Strategist role: content; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-distribution-strategy",
+      "score": 53,
+      "domain": "marketing",
+      "description": "Develop audience, positioning, publicity, festival, sales and delivery strategies tied to rights, evidence and project maturity."
+    },
+    {
+      "slug": "marketing-paid-social-strategist",
+      "score": 53,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Paid Social Strategist role: paid social; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-brand-designer",
+      "score": 51,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Brand Designer role: brand; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-brand-narrative-specialist",
+      "score": 51,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Brand Narrative Specialist role: brand narrative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-visual-identity-specialist",
+      "score": 51,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Visual Identity Specialist role: visual identity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "design-prepare-design-handoff",
+      "score": 50,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Prepare Design Handoff** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-prepare-design-handoff`, `prepare-design-handoff`, or the corresponding professional workflow: Prepare implementation and operational handoff | convert validated designs into specifications, design-system assets, journey/blueprint records, content, analytics, and acceptance tests with version control | engineering, QA, delivery manager, operations, support, training"
+    },
+    {
+      "slug": "ai-media-orchestrator",
+      "score": 48,
+      "domain": "ai-engineering",
+      "description": "Use when the user wants to produce any AI-generated media \u2014 anime, TV series, feature film, book adaptation, music video, face swap, or short-form social content. Routes the request to the correct specialist skill (anime-series-production, tv-series-production, feature-film-production, book-to-film-adaptation, script-to-film-production, music-video-production, identity-replacement-pipeline, short-form-derivative-production) and enforces the 4-level agent hierarchy. Activate on phrases like \"make a film\", \"create an anime\", \"produce a music video\", \"recast this character\", \"make TikToks from this\", or any end-to-end media production request."
+    },
+    {
+      "slug": "creative-art-director",
+      "score": 48,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Art Director role: art; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-campaign-creative-strategist",
+      "score": 48,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Campaign Creative Strategist role: campaign creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-concept-developer",
+      "score": 48,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Creative Concept Developer role: creative concept developer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-copywriter",
+      "score": 48,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Creative Copywriter role: creative copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-graphic-design-advisor",
+      "score": 48,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Graphic Design Advisor role: graphic design; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-naming-strategist",
+      "score": 48,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Naming Strategist role: naming; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-orchestrator",
+      "score": 48,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Creative Orchestrator role: creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-reviewer",
+      "score": 48,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Creative Reviewer role: creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-strategist",
+      "score": 48,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Creative Strategist role: creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-competitive-message-synthesis",
+      "score": 48,
+      "domain": "marketing",
+      "description": "Synthesize approved competitive evidence into a reviewed messaging brief. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Market Intelligence and Messaging Capability Director."
+    },
+    {
+      "slug": "marketing-market-research-synthesis",
+      "score": 48,
+      "domain": "marketing",
+      "description": "Synthesize market-research evidence with source authority and limitations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Market Intelligence and Messaging Capability Director."
+    },
+    {
+      "slug": "design-content-designer",
+      "score": 47,
+      "domain": "design",
+      "description": "Use for design work requiring the Content Designer role: content; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "design-design-inclusive-content",
+      "score": 47,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Design Inclusive Content** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-design-inclusive-content`, `design-inclusive-content`, or the corresponding professional workflow: Design content, interaction patterns, and inclusive components | select understandable language, navigation, interaction states, design-system patterns, and accessible behavior across channels | content design, UX, engineering, accessibility specialists, localization"
+    },
+    {
+      "slug": "design-map-service-journey",
+      "score": 47,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Map Service Journey** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-map-service-journey`, `map-service-journey`, or the corresponding professional workflow: Map end-to-end journeys, ecosystems, and backstage operations | identify stages, channels, pain points, dependencies, failure demand, and ownership across the whole service | service designer, UX/content, operations, frontline teams, partner organizations"
+    },
+    {
+      "slug": "design-prototype-service-interactions",
+      "score": 47,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Prototype Service Interactions** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-prototype-service-interactions`, `prototype-service-interactions`, or the corresponding professional workflow: Prototype interactions and service changes | choose fidelity and scope appropriate to the question, make assumptions explicit, and preserve multiple options until evidence narrows them | UX/UI, content, engineering, operations, representative users"
+    },
+    {
+      "slug": "agency-operations-conflict-of-interest-screening",
+      "score": 45,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Conflict Of Interest Screening** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-conflict-of-interest-screening`, `conflict-of-interest-screening`, or the corresponding professional workflow: qualify-engagement-opportunity | decide fit, conflicts, scope hypothesis, delivery risk, and commercial viability before commitment | handoff from business development/account lead to delivery lead, subject-matter experts, finance, and legal"
+    },
+    {
+      "slug": "agency-operations-delivery-status-control",
+      "score": 45,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Delivery Status Control** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-delivery-status-control`, `delivery-status-control`, or the corresponding professional workflow: delivery-planning-and-status-control | decide work breakdown, milestones, dependencies, risks, issues, reporting cadence, and forecast method | handoff among engagement manager, workstream leads, client product owner/sponsor, PMO, and executives"
+    },
+    {
+      "slug": "agency-operations-engagement-qualification",
+      "score": 45,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Engagement Qualification** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-engagement-qualification`, `engagement-qualification`, or the corresponding professional workflow: qualify-engagement-opportunity | decide fit, conflicts, scope hypothesis, delivery risk, and commercial viability before commitment | handoff from business development/account lead to delivery lead, subject-matter experts, finance, and legal"
+    },
+    {
+      "slug": "marketing-analytics-specialist",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Analytics Specialist role: marketing analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-attribution-explanation-pack",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Prepare an attribution explanation with method, assumptions, and decision limits. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Measurement Capability Director."
+    },
+    {
+      "slug": "marketing-brand-strategist",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Brand Strategist role: brand; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-brand-voice-specialist",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Brand Voice Specialist role: brand voice; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-budget-pacing-analysis",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Analyze campaign budget pacing against approved plan and performance evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-campaign-launch-readiness",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Assess campaign launch readiness, approvals, tracking, assets, and rollback steps. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-channel-performance-synthesis",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Synthesize channel performance with attribution caveats and actionable hypotheses. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Measurement Capability Director."
+    },
+    {
+      "slug": "marketing-editorial-strategist",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Editorial Strategist role: editorial; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-event-strategy-operations",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Design and operate business events from objectives through attendee experience, pipeline/value capture and post-event learning. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "marketing-growth-marketing-strategist",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Growth Marketing Strategist role: growth marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-lead-quality-review",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Review lead-quality evidence, routing outcomes, and data-completeness gaps. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Demand Operations Capability Director."
+    },
+    {
+      "slug": "marketing-marketing-operations-data-quality",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Identify marketing-operations data issues and route owner remediation tasks. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Demand Operations Capability Director."
+    },
+    {
+      "slug": "marketing-paid-media-anomaly-review",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Review paid-media delivery anomalies, spend variance, and escalation evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Measurement Capability Director."
+    },
+    {
+      "slug": "marketing-partner-marketing-readiness",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Assess partner-marketing readiness, co-branding rules, lead handling, and obligations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Partner Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-pr-issue-triage",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Triage potential public-relations issues and prepare controlled communication options. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Communications Risk Capability Director."
+    },
+    {
+      "slug": "marketing-product-marketing-manager",
+      "score": 45,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Product Marketing Manager role: product marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-post-production-planner",
+      "score": 45,
+      "domain": "media",
+      "description": "Use for media work requiring the Post-Production Planner role: post-production; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-production-coordinator",
+      "score": 45,
+      "domain": "media",
+      "description": "Use for media work requiring the Production Coordinator role: production coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-production-designer",
+      "score": 45,
+      "domain": "media",
+      "description": "Use for media work requiring the Production Designer role: production; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "short-form-derivative-production",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests short-form social media content (TikToks, Instagram Reels, YouTube Shorts) derived from existing master videos, films, or anime produced by other skills in the library. Manages vertical reframing, hook optimization, and dynamic captioning. Triggers on phrases like \"make TikToks from this\", \"create Reels from this film\", \"cut this for social media\", \"make Shorts from this anime episode\"."
+    },
+    {
+      "slug": "agency-account-director",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Account Director role: account; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-account-manager",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Account Manager role: account; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-client-communication-specialist",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Client Communication Specialist role: client communication; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-client-services-director",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Client Services Director role: client services; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-consultant",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Consultant role: consultant; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-consulting-engagement-manager",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Consulting Engagement Manager role: consulting engagement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-deliverable-quality-reviewer",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Deliverable Quality Reviewer role: deliverable quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-discovery-consultant",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Discovery Consultant role: discovery consultant; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-engagement-manager",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Engagement Manager role: engagement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-implementation-consultant",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Implementation Consultant role: implementation consultant; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-management-consultant",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Management Consultant role: management consultant; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agency-operations-change-impact-assessment",
+      "score": 42,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Change Impact Assessment** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-change-impact-assessment`, `change-impact-assessment`, or the corresponding professional workflow: change-control-and-variance-management | decide whether a requested change is in scope, its impact on cost, time, quality, risk, and contract, and whether to approve, reject, or rebaseline | handoff from client/requestor to change authority, delivery lead, finance, legal, and affected workstream owners"
+    },
+    {
+      "slug": "agency-operations-contract-handoff",
+      "score": 42,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Contract Handoff** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-contract-handoff`, `contract-handoff`, or the corresponding professional workflow: scope-and-contract-baselining | decide objectives, deliverables, assumptions, exclusions, acceptance criteria, schedule, pricing model, and approval authority | handoff from sales/procurement to engagement manager, client sponsor, finance, and authorized signatory"
+    },
+    {
+      "slug": "agency-operations-engagement-closeout",
+      "score": 42,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Engagement Closeout** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-engagement-closeout`, `engagement-closeout`, or the corresponding professional workflow: engagement-closeout-and-renewal | decide acceptance, outstanding obligations, final billing, asset/credential return, data disposition, benefits review, reference permission, and follow-on opportunity | handoff from engagement manager to client sponsor, finance, legal/security, account lead, and practice leadership"
+    },
+    {
+      "slug": "agency-operations-human-approval-gating",
+      "score": 42,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Human Approval Gating** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-human-approval-gating`, `human-approval-gating`, or the corresponding professional workflow: scope-and-contract-baselining | decide objectives, deliverables, assumptions, exclusions, acceptance criteria, schedule, pricing model, and approval authority | handoff from sales/procurement to engagement manager, client sponsor, finance, and authorized signatory"
+    },
+    {
+      "slug": "agency-operations-invoice-readiness-review",
+      "score": 42,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Invoice Readiness Review** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-invoice-readiness-review`, `invoice-readiness-review`, or the corresponding professional workflow: quality-assurance-and-review | decide readiness against requirements, review criteria, professional standards, test evidence, and independence/peer-review needs | handoff from producer/workstream lead to reviewer or quality lead, client approver, and remediation owner"
+    },
+    {
+      "slug": "ibm-onepager-creator",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires **IBM-branded one-pager creation** involving solution briefs, HTML documents, or single-page marketing materials. Activate it for creating new one-pagers, structuring solution content, applying IBM Design Language, implementing comparison sections, or generat..."
+    },
+    {
+      "slug": "ibm-presentation-creator",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires **IBM-branded presentation creation** involving PowerPoint slides, design templates, or visual content. Activate it for creating new presentations, extracting formatting from existing decks, applying IBM Design Language, structuring content with proper hierar..."
+    },
+    {
+      "slug": "webdev-ssr-conversion",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Convert a client-only React 19 + Vite + Express + tRPC 11 SPA (the Manus \"web-db-user\" full-stack template) into a Server-Side Rendered (SSR) app so crawlers and social scrapers receive fully-populated first-paint HTML with correct per-route title and meta tags. Use when a project built on this template needs SEO, link-preview cards, or crawler-visible content, or when asked to \"make the site SSR\", \"server-render\", \"fix SEO / prerender\", or \"make Googlebot see the content\". Only for projects built on this template (wouter + @trpc/react-query + superjson, Express entry at server/_core). Do NOT use for Next.js/Remix/Astro apps, apps that already render on the server, or general SEO questions unrelated to this template."
+    },
+    {
+      "slug": "cultural-website-rebuilder",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Rebuild or redesign an existing website with an authentic cultural theme rooted in a specific heritage, tradition, or geographic identity. Produces a visually immersive, hand-crafted result by combining AI-generated cultural imagery, culturally-specific typography, a thematically coherent color palette, and section content that reflects genuine cultural knowledge. Use when a user asks to redesign, rebuild, or retheme a website with cultural authenticity \u2014 e.g., Cuban dance school, West African textile brand, Japanese tea ceremony studio, Mexican folk art gallery, or any culturally-rooted organization."
+    },
+    {
+      "slug": "demo-guide-architect",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "A complete workflow for transforming a raw product demo framework document into a polished, audience-calibrated demo guide. Use when a user provides a draft demo script, booth guide, or demonstration framework and asks to refine, finalize, or tailor it for a specific event or audience (e.g., a military symposium, enterprise conference, or government exposition). Produces a final Markdown and PDF guide where audience intelligence is woven into the narrative \u2014 not appended \u2014 so presenters speak the audience's language at every step."
+    },
+    {
+      "slug": "ibm-bob-ads-reddit",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Audit Reddit Ads measurement, campaign structure, community and interest targeting, creative-native fit, catalog advertising, budgets, brand safety, and reporting. Use for Reddit Ads, promoted posts, conversation ads, community targeting, Reddit Pixel, Reddit Conversions API, or Reddit dynamic product ads. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-pro-005",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Activate this mode for slide content writer (by slide) within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination,..."
+    },
+    {
+      "slug": "ibm-pro-007",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Activate this mode for proposal content writer within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, review,..."
+    },
+    {
+      "slug": "intelligence-analyze-patterns-and-trends",
+      "score": 37,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Analyze Patterns And Trends** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-analyze-patterns-and-trends`, `analyze-patterns-and-trends`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-build-decision-dashboards",
+      "score": 37,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Build Decision Dashboards** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-build-decision-dashboards`, `build-decision-dashboards`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-define-intelligence-requirements",
+      "score": 37,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Define Intelligence Requirements** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-define-intelligence-requirements`, `define-intelligence-requirements`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "intelligence-produce-intelligence-briefings",
+      "score": 37,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Produce Intelligence Briefings** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-produce-intelligence-briefings`, `produce-intelligence-briefings`, or the corresponding professional workflow: intelligence-requirements-scoping | define the decision, audience, timeframe, priority intelligence questions, and acceptable confidence before research | handoff to business sponsor, intelligence lead, or requirements owner"
+    },
+    {
+      "slug": "anime-series-production",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests creation of anime-style content \u2014 a series, season, episode, OVA, or anime short \u2014 from a concept, manga source, or series bible. Produces stylized, episodic animated content with locked character designs and genre-correct cinematography. Delegates the shot generation loop to script-to-film-production with anime parameterization."
+    },
+    {
+      "slug": "contagious-framework",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Provides a framework for making products, ideas, and content more contagious by applying the six STEPPS principles from Jonah Berger's book 'Contagious: Why Things Catch On.' Use when developing a viral marketing strategy, seeking to increase word-of-mouth, or making content more shareable."
+    },
+    {
+      "slug": "ibm-des-001",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for mutual action plan (map) creator within IBM BOB's solution design and value architecture lane. Use it when the seller needs the work product of solution consultant, value engineer, technical sales architect, especially when the task should reduce manual research, analysis, ..."
+    },
+    {
+      "slug": "ibm-met-se-001",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for enablement content gap analysis within IBM BOB's sales method and quality lane. Use it when the seller needs the work product of sales manager, sales operations analyst, enablement lead, quality reviewer, especially when the task should reduce manual research, analysis, wri..."
+    },
+    {
+      "slug": "ibm-sales-mcp-connection-governor",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Assess, design, document, and safely prepare MCP or tool connections for IBM Sales workflows on watsonx Orchestrate. Use when a user needs CRM, sales intelligence, CPQ, CLM, calendar, content, knowledge, data-lake, or third-party capabilities connected through MCP, APIs, or existing tools."
+    },
+    {
+      "slug": "ibm-sales-scale-032",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Draft a compliant social-selling post or interaction suggestion using approved public context, brand guidance, and source attribution. Use when IBM Sales selects `engage.social-selling-draft` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-051",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Triage customer security questionnaire content into factual product-source responses, open questions, restricted-data flags, and security-owner routing. Use when IBM Sales selects `solution.security-questionnaire` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "patent-fortress-strategist",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Build a formidable patent portfolio to create a powerful competitive moat, deter litigation, and generate licensing revenue. This skill covers patent research, application drafting, and strategic portfolio management. Use when developing new technologies or entering a competitive market."
+    },
+    {
+      "slug": "sales-discovery-problem-framing",
+      "score": 34,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Discovery Problem Framing** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-discovery-problem-framing`, `discovery-problem-framing`, or the corresponding professional workflow: discovery-and-problem-framing | decide whether the customer has a material business problem, measurable impact, urgency, and executive sponsorship | hand off validated discovery notes to solution consultants, industry specialists, and value engineering"
+    },
+    {
+      "slug": "tls-campaign-architect-agent",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires campaign design, persona targeting, and multi-channel messaging for TLS outreach preparation, especially when the user expects the work product of a campaign strategist or sales content developer. Activate it for MVS campaign building, persona identification,..."
+    },
+    {
+      "slug": "tv-series-production",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests multi-episode serialized content \u2014 a television series, season, mini-series, or web series \u2014 in any live-action-style genre. Manages season-level narrative architecture, per-episode production, and cross-episode continuity. Delegates per-episode shot generation to script-to-film-production."
+    },
+    {
+      "slug": "adaptive-content-delivery",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Choose how to deliver an objective based on evidence, goal, time, and stated preferences, then explain the choice."
+    },
+    {
+      "slug": "audience_promise_mapping",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Audience Promise Mapping specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "communications-community-communications-specialist",
+      "score": 31,
+      "domain": "communications",
+      "description": "Use for communications work requiring the Community Communications Specialist role: community communications; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "communications-social-media-strategist",
+      "score": 31,
+      "domain": "communications",
+      "description": "Use for communications work requiring the Social Media Strategist role: social media; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "content-output-qc",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Review the actual learner-facing output for instructional quality, age fit, accuracy/source grounding, accessibility, safety, cognitive load and active-learning value."
+    },
+    {
+      "slug": "curriculum-architect",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "A complete framework for designing, structuring, and generating comprehensive educational curriculum. Use when a user asks to build out course content by individual lesson, by grade level, or across an entire multi-year (e.g., K-12) spectrum. This skill automates the research, scoping, and generation of end-to-end mastery learning paths, incorporating interactive elements like questions, challenges, and simulations."
+    },
+    {
+      "slug": "director-breakdown",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Translate scene meaning into audience information, performance intention, blocking, coverage priorities and pickup protection."
+    },
+    {
+      "slug": "education-design-curriculum",
+      "score": 31,
+      "domain": "education",
+      "description": "Perform the bounded professional capability **Design Curriculum** for the **Education and Workforce Learning** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `education-design-curriculum`, `design-curriculum`, or the corresponding professional workflow: curriculum-and-course-design | sequence measurable outcomes, content, practice, assessments, and delivery modes"
+    },
+    {
+      "slug": "education-design-validate-assessments",
+      "score": 31,
+      "domain": "education",
+      "description": "Perform the bounded professional capability **Design Validate Assessments** for the **Education and Workforce Learning** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `education-design-validate-assessments`, `design-validate-assessments`, or the corresponding professional workflow: curriculum-and-course-design | sequence measurable outcomes, content, practice, assessments, and delivery modes"
+    },
+    {
+      "slug": "education-develop-learning-content",
+      "score": 31,
+      "domain": "education",
+      "description": "Perform the bounded professional capability **Develop Learning Content** for the **Education and Workforce Learning** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `education-develop-learning-content`, `develop-learning-content`, or the corresponding professional workflow: learning-content-development | author, adapt, version, and peer-review lessons, guides, simulations, and instructor materials"
+    },
+    {
+      "slug": "education-learning-content-reviewer",
+      "score": 31,
+      "domain": "education",
+      "description": "Use for education work requiring the Learning Content Reviewer role: learning content; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "eos-content-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Content Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "government-community-impact-analyst",
+      "score": 31,
+      "domain": "government",
+      "description": "Use for government work requiring the Community Impact Analyst role: community impact; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "healthcare-credentialing-privileging-review",
+      "score": 31,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Credentialing Privileging Review** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-credentialing-privileging-review`, `credentialing-privileging-review`, or the corresponding professional workflow: credentialing-and-privileging | verify licensure, qualifications, competence, sanctions, peer-review evidence, and scope of privileges before appointment or renewal | medical staff office, credentialing committee, HR, licensing boards, governing body"
+    },
+    {
+      "slug": "ibm-bob-ads-microsoft",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Audit Microsoft Advertising measurement, UET, search and audience campaigns, Google imports, syndication, keywords, creative, bidding, budgets, Copilot inventory, and policy. Use for Microsoft Ads, Bing Ads, UET, Microsoft Audience Network, Google Ads import, or Microsoft campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-plan",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Create a professional paid-advertising strategy covering objectives, economics, platform selection, campaign architecture, audiences, budget, creative, measurement, experiments, governance, rollout, and reporting. Use for ad plan, media plan, PPC strategy, paid-social strategy, campaign architecture, advertising roadmap, or channel planning. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-report",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Render Markdown, HTML, or PDF paid-advertising reports from a validated IBM Bob Paid Media Operations JSON run bundle. Use for ads report, client report, audit PDF, executive audience reporting, or exporting prior audit and plan results. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-ppt-designer",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use this mode when creating professional presentations with IBM Plex typography, especially when: - Generating slide decks from blog posts, documents, or structured content - Creating NEW presentations from scratch with intelligent layout suggestions - Converting text-heavy content into visually ..."
+    },
+    {
+      "slug": "ibm-sales-ext-evidence-source-provenance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Register source ownership, authority, access decision, permitted reuse, capture time, excerpt reference, and content lineage for every material evidence item. Use when the IBM Sales control mode selects capability `evidence-quality.source-provenance` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-074",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Assess whether a customer-reference or advocacy request has verified value evidence, customer consent, account-owner alignment, content boundary, and legal/privacy route. Use when IBM Sales selects `close.reference-advocacy` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "learner-simulation-audit",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Run bounded synthetic learner profiles against a content/workflow to find usability, pedagogy, safety and recovery gaps without claiming real-user validation."
+    },
+    {
+      "slug": "localized-content-delivery",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Deliver an approved learning objective in the learner-selected language while preserving meaning, evidence requirements and source-language transparency."
+    },
+    {
+      "slug": "markdown-chunker",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Splits a large Markdown file (like the IBM Data Driven Sales Play Heat Map, territory data exports, or any large .md document) into numbered chunk files that fit safely inside a context window. Use when a user references a .md file that is too large to process in one shot, asks to \"chunk a markdown\", wants to break down a large file before analysis, or needs to split any large table/data markdown into sequentially-numbered micro-chunks without losing content. Produces YAML-front-matter chunk files matching the existing `chunk_NNNN_rows_XXXXXX-YYYYYY.md` naming convention used in data_lake/02_territory_data/."
+    },
+    {
+      "slug": "psychopolitical-campaign-manager",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Design and execute sophisticated psychopolitical campaigns that leverage an understanding of power dynamics, cognitive biases, and social influence to shape public opinion and behavior. Use for high-stakes marketing, public relations, and political campaigns."
+    },
+    {
+      "slug": "publication-readiness-audit",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Independently determine whether curriculum/content has enough evidence to enter a human publication decision; fail closed on missing objective-level evidence."
+    },
+    {
+      "slug": "read-special-images",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Read and OCR unusually tall, wide, high-resolution, or text-dense images without hallucinating content lost to inline vision scaling. Use for long screenshots, panoramic images, large diagrams, dense documents, tiny unreadable text, or any image whose whole-image preview is not reliable; keep ordinary readable images unsplit."
+    },
+    {
+      "slug": "remotion-video-generator",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Create videos programmatically using React and Remotion. Use when generating videos from code, creating animated content, data visualizations, personalized videos, or any programmatic video generation task."
+    },
+    {
+      "slug": "resource-safety-review",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Independently review an exact external learning resource for source integrity, age fit, accessibility and unsafe/injected content."
+    },
+    {
+      "slug": "safe-collaboration-design-audit",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Audit a classroom/Circle/project/challenge/cultural-exchange design for educational purpose and age-appropriate social safety."
+    },
+    {
+      "slug": "shared-source-provenance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Perform the bounded professional capability **Source Provenance** for the **Shared Services** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `shared-source-provenance`, `source-provenance`, or the corresponding professional workflow: Assess source admission, licensing, attribution, freshness, integrity, and acceptable downstream use."
+    },
+    {
+      "slug": "skill-creator",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Guide for creating or updating skills that extend Manus via specialized knowledge, workflows, or tool integrations. For any modification or improvement request, MUST first read this skill and follow its update workflow instead of editing files directly."
+    },
+    {
+      "slug": "slide-deck-copilot",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "A complete workflow for analyzing an existing presentation, clarifying technical ambiguities, and generating new or revised slides that perfectly match the original deck's visual style. Use when a user uploads a presentation and asks to revise a slide, add a new slide, or clarify technical content within the deck."
+    },
+    {
+      "slug": "tsc-jira-intake-analyst",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use this mode when: - Analyzing Jira epics like OMS-28894 (ETS), partner onboarding, Blue Yonder wrapper - User provides a Jira story and asks \"what are the requirements?\" - Starting requirements refinement process - Identifying gaps, conflicts, or ambiguities in Jira content - Preparing content ..."
+    },
+    {
+      "slug": "tsc-test-strategy-engineer",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use this mode when: - Deriving tests from requirements after architecture review - User asks \"create test cases for [feature]\" - Creating test packs for ETS, partner onboarding, Blue Yonder, Store Ops - Preparing DevOps Loop Test content - Designing test automation strategy - Validating test cove..."
+    },
+    {
+      "slug": "tsc-workbench-modeler",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use this mode when: - Preparing C4 models for Solution Workbench - Creating design components, relationships, and sequence flows - User asks \"how do I model this in Workbench?\" - Need to show architecture-decision content linked to requirements - Preparing design artifacts for demo or architectur..."
+    },
+    {
+      "slug": "advanced-web-developer",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "A power-stacked web development workflow that combines Google Stitch (AI mockup generation), Nano Banana 2 (image-based slide presentations), 21st.dev Magic (3D and reactive React component library), and the UI/UX Pro Max design system engine. Use this skill when building any web application, landing page, dashboard, or product UI where you need to go from concept to production-ready code with maximum visual quality and speed. Triggers on tasks involving web design, UI mockups, component generation, design systems, frontend development, or client presentations."
+    },
+    {
+      "slug": "ibm-bob-ads-snapchat",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Audit Snapchat Ads measurement, Snap Pixel and Conversions API, mobile and app campaigns, creative, AR and catalog formats, audiences, budgets, brand safety, and reporting. Use for Snapchat Ads, Snap Ads, Snap Pixel, Snapchat Conversions API, AR Lens ads, app-install campaigns, or Snapchat dynamic product ads. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-pinterest",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Audit Pinterest Ads measurement, Pinterest Tag and Conversions API, catalog and shopping readiness, visual creative, audiences, Performance+ intent, budgets, brand safety, and reporting. Use for Pinterest Ads, promoted Pins, shopping ads, catalog sales, Pinterest Tag, Pinterest Conversions API, or Pinterest Performance+. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-tiktok",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Audit TikTok Ads measurement, Pixel and Events API, mobile-first creative, audiences, Smart+, Shop and commerce campaigns, bidding, budgets, pacing, attribution, and policy. Use for TikTok Ads, TikTok Pixel, Events API, Smart+, TikTok Shop Ads, GMV Max, Spark Ads, or TikTok campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-youtube",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Audit YouTube Ads campaign setup, video and Demand Gen inventory, Shorts, in-stream, CTV, creative, audiences, brand safety, bidding, and measurement. Use for YouTube Ads, video ads, pre-roll, bumper ads, skippable in-stream, Shorts ads, Demand Gen, VAC migration, CTV, or YouTube campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    }
+  ],
+  "primary_accountable": [
+    "contagious-framework",
+    "ibm-des-001",
+    "ibm-onepager-creator",
+    "ibm-ppt-designer",
+    "ibm-presentation-creator",
+    "ibm-sales-mcp-connection-governor",
+    "ibm-sales-scale-032",
+    "markdown-chunker",
+    "marketing-campaign-orchestration",
+    "marketing-content-strategist",
+    "marketing-paid-social-strategist",
+    "marketing-product-marketing-manager",
+    "master-storytelling",
+    "read-special-images",
+    "safe-collaboration-design-audit",
+    "short-form-derivative-production",
+    "skill-creator",
+    "slide-deck-copilot",
+    "tsc-workbench-modeler",
+    "webdev-ssr-conversion"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

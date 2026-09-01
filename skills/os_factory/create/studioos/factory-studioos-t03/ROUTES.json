@@ -1,0 +1,27 @@
+{
+  "pocket": "studioos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ai-media-orchestrator",
+    "book-to-film-adaptation",
+    "script-breakdown-scheduling",
+    "tv-series-production",
+    "costume-hair-makeup",
+    "linkedin-storyteller",
+    "olivia-lanes",
+    "ibm-des-009",
+    "ibm-des-tss-001",
+    "scene-construction",
+    "shared-execution-script-builder",
+    "story-architecture",
+    "tsc-demo-storyboard",
+    "media-content-capture",
+    "media-post-production-editing",
+    "script-to-film-production",
+    "feature-film-production",
+    "music-video-production",
+    "media-script-analyst",
+    "media-script-editor"
+  ]
+}

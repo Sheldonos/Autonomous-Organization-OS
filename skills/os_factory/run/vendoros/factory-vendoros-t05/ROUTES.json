@@ -1,0 +1,27 @@
+{
+  "pocket": "vendoros",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-contract-renewal-readiness",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "legal-contract-performance-monitoring",
+    "procurement-price-variance-investigation",
+    "procurement-monitor-supplier-performance",
+    "procurement-lead-time-exception-triage",
+    "procurement-supplier-performance-scorecard",
+    "procurement-certificate-expiry-monitoring",
+    "supply-chain-supplier-performance-management",
+    "healthcare-vendor-business-associate-governance",
+    "procurement-supplier-performance-analyst",
+    "real-estate-vendor-contract-management",
+    "supply-chain-supply-chain-performance-improvement",
+    "procurement-contract-obligation-extraction",
+    "procurement-assess-supply-chain-risk",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence",
+    "procurement-off-contract-spend-analysis"
+  ]
+}

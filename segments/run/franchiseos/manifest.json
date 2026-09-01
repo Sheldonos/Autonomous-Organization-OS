@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "id": "franchiseos",
+  "title": "FranchiseOS",
+  "segment": "run",
+  "mission": "Design, sell, launch, govern, and optimize a repeatable franchise operating network.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 20,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Franchise model",
+    "Unit economics",
+    "Territory strategy",
+    "Franchisee qualification",
+    "Agreement",
+    "Site/opening",
+    "Operating compliance",
+    "Performance & expansion"
+  ],
+  "handoffs": [
+    "dealos",
+    "brandos",
+    "propertyos",
+    "legalos",
+    "commerceos"
+  ],
+  "connectors": [
+    "crm",
+    "payments",
+    "document_store",
+    "analytics",
+    "training"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

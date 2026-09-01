@@ -1,0 +1,27 @@
+{
+  "pocket": "mediaos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "media-editorial-fact-checking",
+    "marketing-campaign-orchestration",
+    "marketing-content-reuse-eligibility",
+    "marketing-distribution-strategy",
+    "marketing-event-readiness-checklist",
+    "marketing-seo-content-brief",
+    "marketing-account-based-signal-qualification",
+    "marketing-consent-eligibility-check",
+    "marketing-nurture-journey-quality-check",
+    "marketing-audience-segmentation-analyst",
+    "marketing-audience-segmentation-review",
+    "marketing-campaign-brief-preparation",
+    "marketing-executive-communication-draft",
+    "media-content-capture",
+    "media-distribution-packaging",
+    "media-post-production-editing"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "pocket": "legalos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Matter intake Team",
+      "stage": 1,
+      "responsibility": "Matter intake",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Issue spotting Team",
+      "stage": 2,
+      "responsibility": "Issue spotting",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Research Team",
+      "stage": 3,
+      "responsibility": "Research",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Draft/markup Team",
+      "stage": 4,
+      "responsibility": "Draft/markup",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Review & negotiation Team",
+      "stage": 5,
+      "responsibility": "Review & negotiation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Approval/signature Team",
+      "stage": 6,
+      "responsibility": "Approval/signature",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Obligation tracking Team",
+      "stage": 7,
+      "responsibility": "Obligation tracking",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Matter close & knowledge Team",
+      "stage": 8,
+      "responsibility": "Matter close & knowledge",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "pmoos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "construction-construction-safety-escalation",
+    "construction-preconstruction-mobilization",
+    "data-strategy-dependency-risk-analysis",
+    "ibm-career-project-management-delivery-manager",
+    "program-management-project-quality-reviewer",
+    "program-management-risk-manager",
+    "cio-delivery-risk-management",
+    "ibm-career-project-management-scrum-master",
+    "ibm-career-project-management-technical-project-manager",
+    "construction-risk-analyst",
+    "ibm-sales-scale-055",
+    "operations-operational-risk-analyst",
+    "ibm-sales-scale-045",
+    "it-change-review-readiness",
+    "eos-delivery-risk",
+    "it-cloud-tagging-quality-check",
+    "it-data-center-operations-review",
+    "it-service-level-evidence"
+  ]
+}

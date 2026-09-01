@@ -1,0 +1,27 @@
+{
+  "pocket": "commerceos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "supply-chain-procurement-sourcing",
+    "supply-chain-sourcing-analyst",
+    "ecommerce-conversion-specialist",
+    "ecommerce-e-commerce-analytics-specialist",
+    "ecommerce-e-commerce-orchestrator",
+    "ecommerce-e-commerce-seo-specialist",
+    "ecommerce-e-commerce-strategist",
+    "ecommerce-merchandising-specialist",
+    "ecommerce-orchestrator",
+    "ecommerce-product-description-writer",
+    "ecommerce-product-listing-specialist",
+    "ecommerce-cart-optimization-specialist",
+    "ecommerce-catalog-management-specialist",
+    "ecommerce-pricing-analyst",
+    "ecommerce-retention-specialist",
+    "ecommerce-customer-journey-analyst",
+    "ecommerce-marketplace-analyst",
+    "ecommerce-marketplace-operations-specialist",
+    "music-video-production",
+    "supply-chain-inventory-optimization-specialist"
+  ]
+}

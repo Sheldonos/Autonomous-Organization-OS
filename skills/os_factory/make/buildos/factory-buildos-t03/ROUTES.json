@@ -1,0 +1,27 @@
+{
+  "pocket": "buildos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-career-software-engineering-front-end-developer",
+    "ibm-career-software-engineering-full-stack-developer",
+    "engineering-backend-engineer",
+    "engineering-developer-experience-engineer",
+    "engineering-devops-engineer",
+    "engineering-frontend-engineer",
+    "engineering-qa-engineer",
+    "engineering-release-engineer",
+    "engineering-software-architect",
+    "ibm-career-software-engineering-software-engineer",
+    "ai-engineering-memory-systems-engineer",
+    "ai-engineering-multi-agent-systems-architect",
+    "engineering-distributed-systems-engineer",
+    "engineering-systems-architect",
+    "ai-engineering-agent-architect",
+    "ai-engineering-agent-cost-optimization-specialist",
+    "ai-engineering-agent-latency-optimization-specialist",
+    "ai-engineering-agent-observability-engineer",
+    "ai-engineering-agent-runtime-engineer",
+    "ai-engineering-ai-architect"
+  ]
+}

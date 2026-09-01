@@ -1,0 +1,27 @@
+{
+  "pocket": "talentos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-succession-mobility-planning",
+    "people-learning-needs-analysis",
+    "people-offboarding-workforce-transition",
+    "people-job-architecture",
+    "people-workforce-planning",
+    "people-requisition-management",
+    "people-structured-selection",
+    "people-learning-development",
+    "people-performance-management",
+    "education-analyze-learning-needs",
+    "people-absence-accommodation-management",
+    "people-employee-records-governance",
+    "people-employee-relations-investigations",
+    "cio-technology-skills-gap-analysis",
+    "people-candidate-assessment",
+    "people-compensation-benefits-operations",
+    "people-onboarding-administration",
+    "people-payroll-time-validation",
+    "people-mobility-case-readiness",
+    "people-succession-risk-evidence"
+  ]
+}

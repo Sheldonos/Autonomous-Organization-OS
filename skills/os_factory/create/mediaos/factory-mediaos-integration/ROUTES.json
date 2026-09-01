@@ -1,0 +1,27 @@
+{
+  "pocket": "mediaos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-editorial-fact-checking",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "media-content-capture",
+    "media-post-production-editing",
+    "media-media-asset-management",
+    "media-production-scheduling",
+    "media-release-management",
+    "media-rights-clearance",
+    "media-accessibility-specialist",
+    "media-animation-workflow-specialist",
+    "media-captioning-specialist",
+    "media-character-development-specialist",
+    "media-cinematography-planner",
+    "media-costume-concept-specialist",
+    "media-creative-director",
+    "media-dialogue-specialist",
+    "media-executive-producer",
+    "media-location-researcher",
+    "media-music-supervision-planner"
+  ]
+}

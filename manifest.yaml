@@ -1,0 +1,51 @@
+name: Federated Autonomous Organization OS
+version: 1.2.0
+generated_at: '2026-09-01'
+status: PRODUCTION_READY_SOFTWARE_RELEASE
+segments: 7
+pockets: 48
+wrapper_skills: 540
+substrate:
+  name: IBM Enterprise Autonomous Operations OS
+  version: 2.0.0-rc1
+  skills: 3212
+  roles: 1244
+  source_archive_sha256: bf1cbdad213c6ec2f9e6d87c3294ef2a1da95694bea5ce4939f6ad5ec84c93fc
+embedded_products:
+  DealOS:
+    version: 1.0.1
+    source_skills: 505
+    wrapper_skills: 12
+    n8n_workflows: 13
+    source_archive_sha256: 2df0829e8dbb1b4a1e8704acd0b3973534024604948f4566c91eb2fab31759bf
+architecture:
+  - federation-control-plane
+  - full-skill-accountability-ledger
+  - segments-pockets-teams
+  - progressive-disclosure-skill-routing
+  - adaptive-capability-ingestion
+  - mcp-capability-assimilation
+  - goal-directed-proactivity
+  - bounded-self-starting-job-loop
+  - staged-self-improvement
+  - handoff-graph
+  - global-policy-plane
+  - connector-certification
+  - durable-state-and-evidence
+  - assurance-and-release-gates
+  - durable-eventing-and-transactional-outbox
+  - zero-downtime-upgrade-and-rollback
+  - multi-site-disaster-recovery
+  - hybrid-and-air-gapped-runtime
+  - data-portability-and-egress-controls
+  - immutable-container-supply-chain
+entrypoints:
+  - aos.py
+  - scripts/control_api.py
+  - scripts/assimilate_mcp.py
+  - scripts/autonomy_tick.py
+  - scripts/validate_release.py
+  - scripts/audit_package.py
+software_release_ready: true
+deployment_certification_required: true
+public_redistribution_license_review_required: true

@@ -1,0 +1,27 @@
+{
+  "pocket": "securityos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cyber-resilience-certificate-lifecycle-monitoring",
+    "cyber-resilience-forensics-preservation-readiness",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cybersecurity-zero-trust-architecture-review",
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering",
+    "cybersecurity-identity-access-governance",
+    "cybersecurity-cyber-crisis-management",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "cyber-resilience-identity-access-anomaly",
+    "cybersecurity-supply-chain-cyber-risk",
+    "cyber-resilience-threat-intelligence-synthesis",
+    "cybersecurity-cloud-security-analyst",
+    "cybersecurity-cloud-security-architect",
+    "cybersecurity-incident-response-analyst",
+    "cybersecurity-security-detection-engineer",
+    "cyber-resilience-vulnerability-validation",
+    "cyber-resilience-cloud-configuration-review"
+  ]
+}

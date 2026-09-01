@@ -1,0 +1,66 @@
+version: 1
+# Copy to config/business_profile.yaml. This file contains approved facts, not secrets.
+business:
+  legal_name: REQUIRED_USER_CONFIG
+  brand_name: REQUIRED_USER_CONFIG
+  website: REQUIRED_USER_CONFIG
+  sender_name: REQUIRED_USER_CONFIG
+  reply_to_email: REQUIRED_USER_CONFIG
+  legal_entity_for_contracts: REQUIRED_USER_CONFIG
+
+approved_capabilities:
+  # Only claims you can substantiate from Drive/evidence should appear here.
+  - REQUIRED_USER_CONFIG
+
+approved_evidence:
+  # source_uri should point to a controlled Drive/file location or public URL.
+  - claim: REQUIRED_USER_CONFIG
+    source_uri: REQUIRED_USER_CONFIG
+
+lanes:
+  ai_transformation:
+    enabled: false
+    offer_name: Managed AI Transformation
+    one_sentence_value: REQUIRED_USER_CONFIG
+    target_customer: REQUIRED_USER_CONFIG
+    call_to_action: "Would it be useful to compare the workflow against a low-risk automation plan?"
+  mainframe_modernization:
+    enabled: false
+    offer_name: Modernization Origination / Delivery
+    one_sentence_value: REQUIRED_USER_CONFIG
+    target_customer: REQUIRED_USER_CONFIG
+    call_to_action: "Would a short modernization assessment be useful?"
+  ai_governance:
+    enabled: false
+    offer_name: AI Governance Managed Service
+    one_sentence_value: REQUIRED_USER_CONFIG
+    target_customer: REQUIRED_USER_CONFIG
+    call_to_action: "Would a short agent-risk and governance gap assessment be useful?"
+  rfp_proposal:
+    enabled: false
+    offer_name: Proposal and RFP Automation
+    one_sentence_value: REQUIRED_USER_CONFIG
+    target_customer: REQUIRED_USER_CONFIG
+    call_to_action: "Would it help if I mapped the highest-friction proposal workflow first?"
+  federal:
+    enabled: false
+    offer_name: Federal Opportunity Intelligence / Capture Support
+    one_sentence_value: REQUIRED_USER_CONFIG
+    target_customer: Federal prime and subcontractors
+    call_to_action: "Would it be useful to compare the opportunity against your capabilities and teaming needs?"
+
+calendar:
+  timezone: America/New_York
+  allowed_weekdays: [1,2,3,4,5]
+  start_hour_local: 10
+  end_hour_local: 16
+  default_duration_minutes: 30
+
+outreach_voice:
+  style: concise, factual, professional, low-pressure
+  prohibited:
+    - fake familiarity
+    - invented metrics
+    - invented client names
+    - invented certifications
+    - false urgency

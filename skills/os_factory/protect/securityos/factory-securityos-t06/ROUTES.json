@@ -1,0 +1,27 @@
+{
+  "pocket": "securityos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cyber-resilience-endpoint-health-assessment",
+    "cyber-resilience-soar-action-draft",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "ibm-sales-ext-platform-incident-response",
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering",
+    "cybersecurity-cyber-crisis-management",
+    "cyber-resilience-encryption-coverage-review",
+    "automation-assure-business-continuity",
+    "cybersecurity-supply-chain-cyber-risk",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cyber-resilience-threat-intelligence-synthesis",
+    "cybersecurity-zero-trust-architecture-review",
+    "cybersecurity-identity-access-governance",
+    "cybersecurity-cloud-security-analyst",
+    "cybersecurity-cloud-security-architect",
+    "cybersecurity-incident-response-analyst",
+    "cybersecurity-security-detection-engineer"
+  ]
+}

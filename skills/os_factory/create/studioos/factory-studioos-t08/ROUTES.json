@@ -1,0 +1,27 @@
+{
+  "pocket": "studioos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-distribution-packaging",
+    "media-distribution-preparation-specialist",
+    "media-content-capture",
+    "media-post-production-editing",
+    "script-to-film-production",
+    "marketing-distribution-strategy",
+    "feature-film-production",
+    "media-post-production-planner",
+    "supply-chain-distribution-network-analyst",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "ai-media-orchestrator",
+    "book-to-film-adaptation",
+    "music-video-production",
+    "media-accessibility-localization",
+    "media-creative-briefing",
+    "media-mastering-quality-control",
+    "media-provenance-tracking",
+    "rspkt-web-designer",
+    "media-animation-workflow-specialist"
+  ]
+}

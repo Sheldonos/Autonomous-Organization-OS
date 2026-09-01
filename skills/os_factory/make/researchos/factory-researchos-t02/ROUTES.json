@@ -1,0 +1,27 @@
+{
+  "pocket": "researchos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "research-primary-source-analyst",
+    "research-source-credibility-analyst",
+    "shared-research-primary-source-finder",
+    "shared-research-source-verifier",
+    "ibm-pre-atl-001",
+    "evidence-provenance-and-knowledge",
+    "intelligence-collect-source-metadata",
+    "intelligence-discover-public-sources",
+    "intelligence-evaluate-source-credibility",
+    "intelligence-preserve-data-provenance",
+    "research-protocol-preregistration",
+    "quantum-research-evidence-ledger",
+    "intelligence-source-verification-analyst",
+    "research-search-strategy-design",
+    "ibm-pre-apm-001",
+    "ibm-pre-atl-004",
+    "marketing-market-research-synthesis",
+    "intelligence-analyze-patterns-and-trends",
+    "intelligence-build-decision-dashboards",
+    "intelligence-conduct-peer-review"
+  ]
+}

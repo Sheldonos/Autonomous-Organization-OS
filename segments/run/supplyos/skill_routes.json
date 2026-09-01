@@ -1,0 +1,1056 @@
+{
+  "schema_version": "2.0",
+  "pocket": "supplyos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 83,
+  "skills": [
+    {
+      "slug": "supply-chain-order-fulfillment",
+      "score": 116,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Order Fulfillment** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-order-fulfillment`, `order-fulfillment`, or the corresponding professional workflow: Order fulfillment and customer service | validate order terms, promise availability, allocate constrained supply, coordinate shipment/install, invoice, and communicate status | Sales, customers, warehouse, transportation, finance"
+    },
+    {
+      "slug": "supply-chain-inventory-replenishment",
+      "score": 108,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Inventory Replenishment** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-inventory-replenishment`, `inventory-replenishment`, or the corresponding professional workflow: Inventory control and replenishment | set stocking policies, safety stock, reorder parameters, cycle counts, and allocation rules using service and working-capital tradeoffs | Planning, finance, warehouse, sales"
+    },
+    {
+      "slug": "supply-chain-supply-demand-planning",
+      "score": 106,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Demand Planning** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-demand-planning`, `supply-demand-planning`, or the corresponding professional workflow: Supply-and-demand planning | reconcile demand signals, capacity, inventory, lead times, and constraints into an approved plan"
+    },
+    {
+      "slug": "supply-chain-transportation-management",
+      "score": 105,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Transportation Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-transportation-management`, `transportation-management`, or the corresponding professional workflow: Transportation and delivery management | select mode/carrier, plan loads and routes, tender shipments, monitor milestones, manage proof of delivery and exceptions | Carriers/3PLs, warehouse, customers, trade/compliance"
+    },
+    {
+      "slug": "operations-supplier-eta-exception",
+      "score": 104,
+      "domain": "operations",
+      "description": "Triage supplier ETA exceptions and downstream order impact. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Logistics and Order Fulfillment Capability Director."
+    },
+    {
+      "slug": "supply-chain-reverse-logistics",
+      "score": 102,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Reverse Logistics** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-reverse-logistics`, `reverse-logistics`, or the corresponding professional workflow: Returns, reverse logistics, and disposition | authorize return entitlement, inspect condition, decide repair/replace/recycle/scrap/restock, and issue credits | Customer service, quality, finance, warehouse, sustainability"
+    },
+    {
+      "slug": "supply-chain-warehouse-operations",
+      "score": 102,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Warehouse Operations** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-warehouse-operations`, `warehouse-operations`, or the corresponding professional workflow: escalate gaps and scenarios | Sales and operations planning, finance, manufacturing, procurement, logistics"
+    },
+    {
+      "slug": "operations-order-promise-readiness",
+      "score": 98,
+      "domain": "operations",
+      "description": "Assess order-promise readiness using inventory, capacity, and logistics evidence. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Logistics and Order Fulfillment Capability Director."
+    },
+    {
+      "slug": "operations-demand-forecast-exception",
+      "score": 97,
+      "domain": "operations",
+      "description": "Analyze demand forecast exceptions against approved assumptions and owner inputs. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Planning and S&OP Capability Director."
+    },
+    {
+      "slug": "supply-chain-inbound-receiving",
+      "score": 94,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Inbound Receiving** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-inbound-receiving`, `inbound-receiving`, or the corresponding professional workflow: Purchase-order and inbound execution | release orders, confirm quantities/dates, manage acknowledgements, receipts, exceptions, and invoice matching | Suppliers, receiving, warehouse, accounts payable"
+    },
+    {
+      "slug": "supply-chain-purchase-order-management",
+      "score": 94,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Purchase Order Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-purchase-order-management`, `purchase-order-management`, or the corresponding professional workflow: Purchase-order and inbound execution | release orders, confirm quantities/dates, manage acknowledgements, receipts, exceptions, and invoice matching | Suppliers, receiving, warehouse, accounts payable"
+    },
+    {
+      "slug": "operations-warehouse-exception-triage",
+      "score": 93,
+      "domain": "operations",
+      "description": "Classify warehouse exceptions and prepare accountable resolution tasks. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Inventory and Warehouse Operations Capability Director."
+    },
+    {
+      "slug": "supply-chain-inventory-optimization-specialist",
+      "score": 91,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Inventory Optimization Specialist role: inventory optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-inventory-analyst",
+      "score": 88,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Inventory Analyst role: inventory; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-logistics-analyst",
+      "score": 88,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Logistics Analyst role: logistics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-supplier-dependency-analyst",
+      "score": 88,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supplier Dependency Analyst role: supplier dependency; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-supplier-due-diligence",
+      "score": 88,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supplier Due Diligence** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supplier-due-diligence`, `supplier-due-diligence`, or the corresponding professional workflow: Supplier onboarding and due diligence | verify identity, capabilities, financial/operational resilience, sanctions/compliance posture, cybersecurity and responsible-business evidence | Procurement, legal, information security, risk, quality"
+    },
+    {
+      "slug": "supply-chain-supplier-performance-management",
+      "score": 88,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supplier Performance Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supplier-performance-management`, `supplier-performance-management`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "supply-chain-traceability-recall-response",
+      "score": 88,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Traceability Recall Response** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-traceability-recall-response`, `traceability-recall-response`, or the corresponding professional workflow: Traceability, recall, and incident response | preserve chain-of-custody and event records, identify affected lots/locations, quarantine, notify authorized parties, and document disposition | Quality, regulatory/legal, suppliers, logistics, customers, public authorities"
+    },
+    {
+      "slug": "supply-chain-transportation-analyst",
+      "score": 88,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Transportation Analyst role: transportation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-warehouse-operations-analyst",
+      "score": 88,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Warehouse Operations Analyst role: warehouse operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "operations-inventory-health-review",
+      "score": 87,
+      "domain": "operations",
+      "description": "Review inventory health, aging, stock risk, and evidence-backed action options. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Inventory and Warehouse Operations Capability Director."
+    },
+    {
+      "slug": "operations-logistics-disruption-case",
+      "score": 87,
+      "domain": "operations",
+      "description": "Prepare logistics disruption case with route, carrier, customer, and mitigation evidence. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Logistics and Order Fulfillment Capability Director."
+    },
+    {
+      "slug": "operations-return-material-authorization-prep",
+      "score": 87,
+      "domain": "operations",
+      "description": "Prepare return-material authorization evidence and routing without approving disposition. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Logistics and Order Fulfillment Capability Director."
+    },
+    {
+      "slug": "operations-stockout-risk-monitoring",
+      "score": 87,
+      "domain": "operations",
+      "description": "Monitor qualified stockout-risk signals and route controlled owner alerts. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Inventory and Warehouse Operations Capability Director."
+    },
+    {
+      "slug": "supply-chain-procurement-sourcing",
+      "score": 86,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Procurement Sourcing** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-procurement-sourcing`, `procurement-sourcing`, or the corresponding professional workflow: Procurement and sourcing | define specifications, assess bids and total cost, select or renew suppliers under approved policy | Legal, finance, quality, engineering, suppliers"
+    },
+    {
+      "slug": "operations-capacity-constraint-analysis",
+      "score": 80,
+      "domain": "operations",
+      "description": "Analyze capacity constraints, demand/supply scenarios, and escalation needs. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Planning and S&OP Capability Director."
+    },
+    {
+      "slug": "supply-chain-capacity-planning-specialist",
+      "score": 80,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Capacity Planning Specialist role: capacity planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-demand-planner",
+      "score": 80,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Demand Planner role: demand; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-manufacturing-planning-specialist",
+      "score": 80,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Manufacturing Planning Specialist role: manufacturing planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-network-optimization-specialist",
+      "score": 80,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Network Optimization Specialist role: network optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-production-planning-analyst",
+      "score": 80,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Production Planning Analyst role: production planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-production-scheduling",
+      "score": 80,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Production Scheduling** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-production-scheduling`, `production-scheduling`, or the corresponding professional workflow: Production and maintenance scheduling | sequence work against material, labor, equipment, quality, and service constraints"
+    },
+    {
+      "slug": "supply-chain-sourcing-analyst",
+      "score": 80,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Sourcing Analyst role: sourcing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "operations-customs-document-readiness",
+      "score": 79,
+      "domain": "operations",
+      "description": "Assess customs documentation completeness and exception routing. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Trade and Logistics Compliance Capability Director."
+    },
+    {
+      "slug": "supply-chain-distribution-network-analyst",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Distribution Network Analyst role: distribution network; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-kpi-analyst",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain KPI Analyst role: supply chain kpi; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-lead-time-analyst",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Lead-Time Analyst role: lead-time; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-orchestrator",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Orchestrator role: supply chain; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-resilience-strategist",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Resilience Strategist role: supply chain resilience; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-risk-analyst",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Risk Analyst role: supply chain risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-s-and-op-specialist",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the S&OP Specialist role: s&op; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-scenario-modeler",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Scenario Modeler role: supply chain scenario modeler; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-strategist",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Strategist role: supply chain; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-supply-chain-performance-improvement",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Chain Performance Improvement** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-chain-performance-improvement`, `supply-chain-performance-improvement`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "supply-chain-supply-chain-risk-management",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Chain Risk Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-chain-risk-management`, `supply-chain-risk-management`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "supply-chain-supply-planner",
+      "score": 77,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Planner role: supply; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-assess-supply-chain-risk",
+      "score": 76,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Assess Supply Chain Risk** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-assess-supply-chain-risk`, `assess-supply-chain-risk`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "operations-production-schedule-exception",
+      "score": 71,
+      "domain": "operations",
+      "description": "Analyze production schedule exceptions, constraints, and decision dependencies. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Production Operations Capability Director."
+    },
+    {
+      "slug": "sustainability-sustainable-supply-chain-analyst",
+      "score": 71,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the Sustainable Supply Chain Analyst role: sustainable supply chain; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-lead-time-exception-triage",
+      "score": 70,
+      "domain": "procurement",
+      "description": "Triage supplier lead-time exceptions and route supply-risk actions. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "operations-field-service-readiness",
+      "score": 68,
+      "domain": "operations",
+      "description": "Assess field-service visit readiness, technician skills, safety, parts, and customer access. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Field Operations Capability Director."
+    },
+    {
+      "slug": "operations-maintenance-plan-readiness",
+      "score": 68,
+      "domain": "operations",
+      "description": "Assess maintenance plan readiness, asset history, parts, skills, and safety prerequisites. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Maintenance and Reliability Capability Director."
+    },
+    {
+      "slug": "operations-sop-cycle-readiness",
+      "score": 68,
+      "domain": "operations",
+      "description": "Assess S&OP cycle readiness, data quality, scenarios, and decision agenda. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Planning and S&OP Capability Director."
+    },
+    {
+      "slug": "operations-asset-health-evidence",
+      "score": 65,
+      "domain": "operations",
+      "description": "Compile asset-health evidence and condition-monitoring caveats for owner review. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Maintenance and Reliability Capability Director."
+    },
+    {
+      "slug": "operations-corrective-action-verification",
+      "score": 65,
+      "domain": "operations",
+      "description": "Verify corrective-action evidence, effectiveness checks, and unresolved deviations. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Quality Management Capability Director."
+    },
+    {
+      "slug": "operations-ehs-incident-evidence",
+      "score": 65,
+      "domain": "operations",
+      "description": "Compile EHS incident evidence, notifications, and required investigation handoffs. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Safety and Operational Risk Capability Director."
+    },
+    {
+      "slug": "operations-energy-consumption-variance",
+      "score": 65,
+      "domain": "operations",
+      "description": "Analyze energy-consumption variance against approved baselines and operational context. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Operational Performance Capability Director."
+    },
+    {
+      "slug": "operations-nonconformance-evidence-pack",
+      "score": 65,
+      "domain": "operations",
+      "description": "Compile nonconformance evidence, root-cause inputs, and corrective-action requirements. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Quality Management Capability Director."
+    },
+    {
+      "slug": "operations-operations-master-data-review",
+      "score": 65,
+      "domain": "operations",
+      "description": "Review operational master-data changes for provenance, dependency, and approval requirements. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Operational Data Governance Capability Director."
+    },
+    {
+      "slug": "operations-product-recall-readiness",
+      "score": 65,
+      "domain": "operations",
+      "description": "Assess product-recall readiness, traceability, owner actions, and communications dependencies. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Quality Management Capability Director."
+    },
+    {
+      "slug": "operations-quality-deviation-intake",
+      "score": 65,
+      "domain": "operations",
+      "description": "Classify quality deviations, affected scope, containment evidence, and reviewer needs. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Quality Management Capability Director."
+    },
+    {
+      "slug": "operations-safety-observation-triage",
+      "score": 65,
+      "domain": "operations",
+      "description": "Triage safety observations and route qualified risk cases to safety owners. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Safety and Operational Risk Capability Director."
+    },
+    {
+      "slug": "operations-traceability-evidence-pack",
+      "score": 65,
+      "domain": "operations",
+      "description": "Compile product and sustainability traceability evidence with source and coverage gaps. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Responsible Operations Capability Director."
+    },
+    {
+      "slug": "operations-work-order-quality-check",
+      "score": 65,
+      "domain": "operations",
+      "description": "Check work-order scope, asset data, permits, and closure evidence. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Maintenance and Reliability Capability Director."
+    },
+    {
+      "slug": "construction-construction-safety-escalation",
+      "score": 62,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Construction Safety Escalation** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-construction-safety-escalation`, `construction-safety-escalation`, or the corresponding professional workflow: preconstruction planning and mobilization | convert scope into WBS/work packages, baseline schedule, cost plan, resource plan, logistics, permits, and risk controls | owner, general contractor, trade partners, safety, design team, permitting authorities"
+    },
+    {
+      "slug": "construction-field-coordination",
+      "score": 62,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Field Coordination** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-field-coordination`, `field-coordination`, or the corresponding professional workflow: field execution and coordination | coordinate daily work, look-ahead planning, site logistics, interfaces, RFIs, submittals, inspections, and design clarifications | superintendent, subcontractors, architect/engineer, owner representative, safety and quality leads"
+    },
+    {
+      "slug": "construction-preconstruction-mobilization",
+      "score": 62,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Preconstruction Mobilization** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-preconstruction-mobilization`, `preconstruction-mobilization`, or the corresponding professional workflow: preconstruction planning and mobilization | convert scope into WBS/work packages, baseline schedule, cost plan, resource plan, logistics, permits, and risk controls | owner, general contractor, trade partners, safety, design team, permitting authorities"
+    },
+    {
+      "slug": "construction-quality-inspection-management",
+      "score": 62,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Quality Inspection Management** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-quality-inspection-management`, `quality-inspection-management`, or the corresponding professional workflow: field execution and coordination | coordinate daily work, look-ahead planning, site logistics, interfaces, RFIs, submittals, inspections, and design clarifications | superintendent, subcontractors, architect/engineer, owner representative, safety and quality leads"
+    },
+    {
+      "slug": "procurement-demand-intake-qualification",
+      "score": 62,
+      "domain": "procurement",
+      "description": "Qualify a sourcing demand request against business need, budget, and category policy. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Demand and Category Management Capability Director."
+    },
+    {
+      "slug": "eos-demand-planning",
+      "score": 61,
+      "domain": "shared-execution",
+      "description": "Eos Demand Planning for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "procurement-invoice-exception-analysis",
+      "score": 59,
+      "domain": "procurement",
+      "description": "Analyze supplier invoice exceptions and associated purchase evidence. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Payables and Procurement Capability Director."
+    },
+    {
+      "slug": "procurement-purchase-requisition-compliance",
+      "score": 59,
+      "domain": "procurement",
+      "description": "Review purchase requisitions for policy, budget, category, and approval exceptions. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-sourcing-event-design",
+      "score": 59,
+      "domain": "procurement",
+      "description": "Prepare a sourcing-event design packet with scope, criteria, and governance checkpoints. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Demand and Category Management Capability Director."
+    },
+    {
+      "slug": "eos-fulfillment-management",
+      "score": 57,
+      "domain": "shared-execution",
+      "description": "Eos Fulfillment Management for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-inventory-management",
+      "score": 57,
+      "domain": "shared-execution",
+      "description": "Eos Inventory Management for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-logistics-management",
+      "score": 57,
+      "domain": "shared-execution",
+      "description": "Eos Logistics Management for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supplier-risk-management",
+      "score": 57,
+      "domain": "shared-execution",
+      "description": "Eos Supplier Risk Management for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "procurement-category-opportunity-analysis",
+      "score": 56,
+      "domain": "procurement",
+      "description": "Identify evidence-backed category opportunity hypotheses for human prioritization. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Demand and Category Management Capability Director."
+    },
+    {
+      "slug": "procurement-manage-solicitation",
+      "score": 56,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Solicitation** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-solicitation`, `manage-solicitation`, or the corresponding professional workflow: solicitation-and-bid-management | issue requirements and tender documents, manage bidder questions and addenda, preserve equal information, and control submissions | handoff to evaluation panel, procurement operations, legal, and supplier communications"
+    },
+    {
+      "slug": "procurement-monitor-supplier-performance",
+      "score": 56,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Monitor Supplier Performance** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-monitor-supplier-performance`, `monitor-supplier-performance`, or the corresponding professional workflow: supplier-performance-and-relationship-management | set governance cadence, KPIs, service reviews, corrective actions, collaboration model, and escalation path proportional to supplier criticality | handoff to contract manager, service owner, supplier account team, risk/compliance, and executive sponsor"
+    },
+    {
+      "slug": "procurement-purchase-approval-routing",
+      "score": 56,
+      "domain": "procurement",
+      "description": "Route purchase approvals with complete policy, budget, and evidence packets. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-purchase-order-change-triage",
+      "score": 56,
+      "domain": "procurement",
+      "description": "Classify purchase-order change requests and prepare an approval-ready exception packet. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-diversity-certification",
+      "score": 56,
+      "domain": "procurement",
+      "description": "Validate supplier diversity certification evidence and expiration status. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Responsible Sourcing Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-esg-evidence-review",
+      "score": 56,
+      "domain": "procurement",
+      "description": "Review supplier ESG evidence against program requirements and freshness rules. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Responsible Sourcing Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-exit-readiness",
+      "score": 56,
+      "domain": "procurement",
+      "description": "Assess supplier exit readiness, downstream dependencies, and control obligations. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-risk-signal-validation",
+      "score": 56,
+      "domain": "procurement",
+      "description": "Validate supplier-risk signals before case creation or owner notification. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-certificate-expiry-monitoring",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Monitor approved supplier certificate expiry and create controlled follow-up cases. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-contract-obligation-extraction",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Extract supplier obligations, dates, owners, and evidence requirements from approved contracts. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Contract Operations Capability Director."
+    },
+    {
+      "slug": "procurement-contract-renewal-readiness",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Assess supplier contract renewal readiness, obligations, performance, and approval dependencies. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Contract Operations Capability Director."
+    },
+    {
+      "slug": "procurement-corrective-action-follow-up",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Track supplier corrective-action evidence, due dates, and unresolved risks. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Quality and Remediation Capability Director."
+    },
+    {
+      "slug": "procurement-engage-supplier-market",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Engage Supplier Market** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-engage-supplier-market`, `engage-supplier-market`, or the corresponding professional workflow: supplier-market-engagement | decide whether and how to conduct market sounding, supplier briefings, or early supplier involvement without distorting competition | handoff to prospective suppliers, procurement lead, and legal/ethics oversight"
+    },
+    {
+      "slug": "procurement-evaluate-suppliers",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Evaluate Suppliers** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-evaluate-suppliers`, `evaluate-suppliers`, or the corresponding professional workflow: supplier-market-engagement | decide whether and how to conduct market sounding, supplier briefings, or early supplier involvement without distorting competition | handoff to prospective suppliers, procurement lead, and legal/ethics oversight"
+    },
+    {
+      "slug": "procurement-execute-supplier-exit",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Execute Supplier Exit** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-execute-supplier-exit`, `execute-supplier-exit`, or the corresponding professional workflow: supplier-exit-and-continuity-management | decide remediation, transition, termination, replacement, data return/destruction, access revocation, asset recovery, and continuity actions | handoff to business continuity, security/privacy, legal, finance, operations, replacement supplier, and records management"
+    },
+    {
+      "slug": "procurement-manage-contract-change",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Contract Change** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-contract-change`, `manage-contract-change`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-manage-procurement-dispute",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Procurement Dispute** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-procurement-dispute`, `manage-procurement-dispute`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-manage-purchase-orders",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Purchase Orders** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-purchase-orders`, `manage-purchase-orders`, or the corresponding professional workflow: purchase-order-and-order-management | translate approved contracts or catalogs into requisitions, purchase orders, releases, approvals, receipts, and three-way-match controls | handoff to requestor, budget owner, procurement operations, supplier, receiving, and accounts payable"
+    },
+    {
+      "slug": "procurement-manage-renewal",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Renewal** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-renewal`, `manage-renewal`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-off-contract-spend-analysis",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Identify off-contract spend patterns and prepare compliant remediation options. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-onboard-supplier",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Onboard Supplier** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-onboard-supplier`, `onboard-supplier`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-perform-supplier-due-diligence",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Perform Supplier Due Diligence** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-perform-supplier-due-diligence`, `perform-supplier-due-diligence`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-price-variance-investigation",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Investigate price variance against contract, market, and receipt evidence. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-concentration-exposure",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Assess supplier concentration exposure and dependency risks for category owner review. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-discovery-specialist",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Discovery Specialist role: supplier discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-master-validation",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Validate supplier-master changes against approved evidence and segregation rules. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-onboarding-readiness",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Assess supplier onboarding readiness, required evidence, and missing controls. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-performance-analyst",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Performance Analyst role: supplier performance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-performance-scorecard",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Produce a supplier performance scorecard with source evidence and metric caveats. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-qualification-analyst",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Qualification Analyst role: supplier qualification; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-quality-issue-escalation",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Create an evidence-backed supplier quality escalation case. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Quality and Remediation Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-relationship-manager",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Relationship Manager role: supplier relationship; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-researcher",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Researcher role: supplier; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-risk-analyst",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Risk Analyst role: supplier risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-third-party-data-change-review",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Review third-party profile data changes for risk, provenance, and approval needs. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-three-way-match-resolution",
+      "score": 53,
+      "domain": "procurement",
+      "description": "Reconcile purchase order, receipt, and invoice evidence for unresolved matches. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Payables and Procurement Capability Director."
+    },
+    {
+      "slug": "eos-supply-chain-optimization",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "Eos Supply Chain Optimization for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supply-planning",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "Eos Supply Planning for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "construction-project-charter-planning",
+      "score": 48,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Charter Planning** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-charter-planning`, `project-charter-planning`, or the corresponding professional workflow: project charter and project management plan approval"
+    },
+    {
+      "slug": "enterprise-saga-transaction-coordinator",
+      "score": 48,
+      "domain": "operations",
+      "description": "Coordinate cross-system/cross-team actions with serialized writes, checkpoints, compensation plans and verification. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "finance-liquidity-planning",
+      "score": 48,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Liquidity Planning** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-liquidity-planning`, `liquidity-planning`, or the corresponding professional workflow: Cash-flow, liquidity, and working-capital planning | forecast collections, payments, inventory, payables, debt service, and liquidity headroom"
+    },
+    {
+      "slug": "finance-working-capital-analysis",
+      "score": 48,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Working Capital Analysis** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-working-capital-analysis`, `working-capital-analysis`, or the corresponding professional workflow: Cash-flow, liquidity, and working-capital planning | forecast collections, payments, inventory, payables, debt service, and liquidity headroom"
+    },
+    {
+      "slug": "procurement-draft-and-negotiate-contract",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Draft And Negotiate Contract** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-draft-and-negotiate-contract`, `draft-and-negotiate-contract`, or the corresponding professional workflow: contract-drafting-and-negotiation | convert requirements and award assumptions into enforceable terms covering scope, service levels, pricing, data/IP, audit, change, remedies, termination, and exit | handoff to legal counsel, business owner, security/privacy, finance, and delegated contract signatory"
+    },
+    {
+      "slug": "sustainability-carbon-accounting-analyst",
+      "score": 48,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the Carbon Accounting Analyst role: carbon accounting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sustainability-climate-risk-analyst",
+      "score": 48,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the Climate Risk Analyst role: climate risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sustainability-energy-efficiency-analyst",
+      "score": 48,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the Energy Efficiency Analyst role: energy efficiency; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sustainability-environmental-impact-analyst",
+      "score": 48,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the Environmental Impact Analyst role: environmental impact; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sustainability-esg-analyst",
+      "score": 48,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the ESG Analyst role: esg; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sustainability-esg-evidence-reviewer",
+      "score": 48,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the ESG Evidence Reviewer role: esg evidence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sustainability-orchestrator",
+      "score": 48,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the Sustainability Orchestrator role: sustainability; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sustainability-reporting-specialist",
+      "score": 48,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the Sustainability Reporting Specialist role: sustainability reporting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sustainability-strategist",
+      "score": 48,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the Sustainability Strategist role: sustainability; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "eos-supply-capacity-management",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "Eos Supply Capacity Management for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supply-chain-resilience",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "Eos Supply Chain Resilience for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "construction-construction-procurement-support",
+      "score": 45,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Construction Procurement Support** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-construction-procurement-support`, `construction-procurement-support`, or the corresponding professional workflow: design management and design reviews | coordinate requirements, basis of design, constructability, code compliance, and staged reviews before issue-for-construction | owner, architect/engineer of record, specialty engineers, authorities having jurisdiction, contractor"
+    },
+    {
+      "slug": "construction-contract-records-management",
+      "score": 45,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Contract Records Management** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-contract-records-management`, `contract-records-management`, or the corresponding professional workflow: design management and design reviews | coordinate requirements, basis of design, constructability, code compliance, and staged reviews before issue-for-construction | owner, architect/engineer of record, specialty engineers, authorities having jurisdiction, contractor"
+    },
+    {
+      "slug": "construction-cost-controls-analyst",
+      "score": 45,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Cost Controls Analyst role: cost controls; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-cost-estimator",
+      "score": 45,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Cost Estimator role: cost estimator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-design-review-coordination",
+      "score": 45,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Design Review Coordination** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-design-review-coordination`, `design-review-coordination`, or the corresponding professional workflow: design management and design reviews | coordinate requirements, basis of design, constructability, code compliance, and staged reviews before issue-for-construction | owner, architect/engineer of record, specialty engineers, authorities having jurisdiction, contractor"
+    },
+    {
+      "slug": "construction-payment-application-review",
+      "score": 45,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Payment Application Review** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-payment-application-review`, `payment-application-review`, or the corresponding professional workflow: commercial/payment administration | verify measured progress, payment applications, retainage, lien waivers/releases, insurance/bond compliance, and supporting records against contract terms | owner/contract administrator, quantity surveyor/cost engineer, finance, contractor, lender/auditor"
+    },
+    {
+      "slug": "construction-project-controls-reporting",
+      "score": 45,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Controls Reporting** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-controls-reporting`, `project-controls-reporting`, or the corresponding professional workflow: project controls and performance reporting | maintain a common data set for scope, cost, schedule, progress, forecasts, risks, decisions, and stakeholder-specific reporting cadence | project manager, project controls, finance, sponsor, contractors, resource managers"
+    },
+    {
+      "slug": "construction-safety-planning-specialist",
+      "score": 45,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Safety Planning Specialist role: safety planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "operations-resource-planning-analyst",
+      "score": 45,
+      "domain": "operations",
+      "description": "Use for operations work requiring the Resource Planning Analyst role: resource planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-supply-chain-cyber-risk",
+      "score": 43,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Supply Chain Cyber Risk** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-supply-chain-cyber-risk`, `supply-chain-cyber-risk`, or the corresponding professional workflow: Third-party and supply-chain cyber-risk management | tier suppliers, perform due diligence, set security requirements and incident clauses, monitor material changes, and manage exit/contingency plans | procurement, vendor management, legal, privacy, business owners, architecture, and suppliers"
+    },
+    {
+      "slug": "engineering-secure-sdlc-assurance",
+      "score": 43,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Secure Sdlc Assurance** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-secure-sdlc-assurance`, `secure-sdlc-assurance`, or the corresponding professional workflow: Secure software and supply-chain assurance | identify threats, remediate vulnerabilities, validate dependencies/provenance, and decide residual risk disposition | security engineering, privacy/legal, procurement, suppliers, and accountable release owner"
+    },
+    {
+      "slug": "engineering-software-supply-chain-governance",
+      "score": 43,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Software Supply Chain Governance** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-software-supply-chain-governance`, `software-supply-chain-governance`, or the corresponding professional workflow: Secure software and supply-chain assurance | identify threats, remediate vulnerabilities, validate dependencies/provenance, and decide residual risk disposition | security engineering, privacy/legal, procurement, suppliers, and accountable release owner"
+    },
+    {
+      "slug": "ibm-sales-ext-ops-forecast-evidence",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Prepare a transparent forecast-evidence packet from approved opportunity data, stage definitions, next actions, assumptions, and risk signals. Use when the IBM Sales control mode selects capability `sales-operations.forecast-evidence` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "revenue-forecast-rollup-exception",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Analyze forecast rollup exceptions, missing evidence, and confidence gaps. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "finance-forecast-rollup-quality-check",
+      "score": 37,
+      "domain": "finance",
+      "description": "Validate forecast rollup completeness, assumption consistency, and contributor exceptions. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Planning and Performance Capability Director."
+    },
+    {
+      "slug": "process-plan-to-forecast",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Process Plan To Forecast for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-strategic-supplier-management",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Strategic Supplier Management for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-enterprise-environment-inventory",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Enterprise Enterprise Environment Inventory for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supplier-discovery",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Supplier Discovery for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supplier-onboarding",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Supplier Onboarding for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supplier-performance",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Supplier Performance for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "finance-liquidity-forecast-exception",
+      "score": 34,
+      "domain": "finance",
+      "description": "Detect and explain material liquidity forecast variance against approved assumptions. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Liquidity and Cash Operations Capability Director."
+    },
+    {
+      "slug": "location-scouting-logistics",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Translate story needs into creative, technical, access, permit, logistics and safety location evaluation packages."
+    },
+    {
+      "slug": "watsonx-ai-model-inventory",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Watsonx AI Model Inventory for watsonx.ai. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-governance-inventory-design",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance Inventory Design for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "data-strategy-model-inventory-quality",
+      "score": 31,
+      "domain": "data",
+      "description": "Review model-inventory completeness, owners, use cases, and lifecycle evidence. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the AI Governance Capability Director."
+    },
+    {
+      "slug": "intelligence-supplier-intelligence-analyst",
+      "score": 31,
+      "domain": "intelligence",
+      "description": "Use for intelligence work requiring the Supplier Intelligence Analyst role: supplier intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    }
+  ],
+  "primary_accountable": [
+    "eos-demand-planning",
+    "eos-fulfillment-management",
+    "eos-inventory-management",
+    "eos-logistics-management",
+    "eos-supplier-risk-management",
+    "eos-supply-capacity-management",
+    "eos-supply-chain-optimization",
+    "eos-supply-chain-resilience",
+    "eos-supply-planning",
+    "location-scouting-logistics",
+    "operations-asset-health-evidence",
+    "operations-capacity-constraint-analysis",
+    "operations-corrective-action-verification",
+    "operations-customs-document-readiness",
+    "operations-demand-forecast-exception",
+    "operations-ehs-incident-evidence",
+    "operations-energy-consumption-variance",
+    "operations-field-service-readiness",
+    "operations-inventory-health-review",
+    "operations-logistics-disruption-case",
+    "operations-maintenance-plan-readiness",
+    "operations-nonconformance-evidence-pack",
+    "operations-operations-master-data-review",
+    "operations-order-promise-readiness",
+    "operations-product-recall-readiness",
+    "operations-production-schedule-exception",
+    "operations-quality-deviation-intake",
+    "operations-return-material-authorization-prep",
+    "operations-safety-observation-triage",
+    "operations-sop-cycle-readiness",
+    "operations-stockout-risk-monitoring",
+    "operations-supplier-eta-exception",
+    "operations-traceability-evidence-pack",
+    "operations-warehouse-exception-triage",
+    "operations-work-order-quality-check",
+    "supply-chain-capacity-planning-specialist",
+    "supply-chain-demand-planner",
+    "supply-chain-distribution-network-analyst",
+    "supply-chain-inbound-receiving",
+    "supply-chain-inventory-analyst",
+    "supply-chain-inventory-optimization-specialist",
+    "supply-chain-inventory-replenishment",
+    "supply-chain-kpi-analyst",
+    "supply-chain-lead-time-analyst",
+    "supply-chain-logistics-analyst",
+    "supply-chain-manufacturing-planning-specialist",
+    "supply-chain-network-optimization-specialist",
+    "supply-chain-orchestrator",
+    "supply-chain-order-fulfillment",
+    "supply-chain-procurement-sourcing",
+    "supply-chain-production-planning-analyst",
+    "supply-chain-production-scheduling",
+    "supply-chain-purchase-order-management",
+    "supply-chain-resilience-strategist",
+    "supply-chain-reverse-logistics",
+    "supply-chain-risk-analyst",
+    "supply-chain-s-and-op-specialist",
+    "supply-chain-scenario-modeler",
+    "supply-chain-sourcing-analyst",
+    "supply-chain-strategist",
+    "supply-chain-supplier-dependency-analyst",
+    "supply-chain-supplier-due-diligence",
+    "supply-chain-supplier-performance-management",
+    "supply-chain-supply-chain-performance-improvement",
+    "supply-chain-supply-chain-risk-management",
+    "supply-chain-supply-demand-planning",
+    "supply-chain-supply-planner",
+    "supply-chain-traceability-recall-response",
+    "supply-chain-transportation-analyst",
+    "supply-chain-transportation-management",
+    "supply-chain-warehouse-operations",
+    "supply-chain-warehouse-operations-analyst",
+    "sustainability-carbon-accounting-analyst",
+    "sustainability-energy-efficiency-analyst",
+    "sustainability-environmental-impact-analyst",
+    "sustainability-esg-analyst",
+    "sustainability-esg-evidence-reviewer",
+    "sustainability-orchestrator",
+    "sustainability-reporting-specialist",
+    "sustainability-strategist",
+    "sustainability-sustainable-supply-chain-analyst",
+    "tsc-blue-yonder-wrapper-engineer",
+    "tsc-store-ops-petsense-engineer"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

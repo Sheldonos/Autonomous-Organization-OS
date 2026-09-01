@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "id": "labos",
+  "title": "LabOS",
+  "segment": "make",
+  "mission": "Operate R&D programs with hypotheses, experiments, evidence, reproducibility, and portfolio decisions.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 66,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Research question",
+    "Protocol & safety review",
+    "Experiment planning",
+    "Execution tracking",
+    "Data capture",
+    "Analysis",
+    "Replication & critique",
+    "Research decision & knowledge capture"
+  ],
+  "handoffs": [
+    "researchos",
+    "innovationos",
+    "patentos"
+  ],
+  "connectors": [
+    "lab_data",
+    "notebook",
+    "document_store",
+    "data_warehouse"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

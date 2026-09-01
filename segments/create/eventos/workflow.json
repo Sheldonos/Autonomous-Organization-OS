@@ -1,0 +1,59 @@
+{
+  "pocket": "eventos",
+  "stages": [
+    {
+      "order": 1,
+      "name": "Event concept & economics",
+      "team_id": "t01",
+      "gate": "assurance"
+    },
+    {
+      "order": 2,
+      "name": "Venue/date",
+      "team_id": "t02",
+      "gate": "assurance"
+    },
+    {
+      "order": 3,
+      "name": "Program & speakers",
+      "team_id": "t03",
+      "gate": "assurance"
+    },
+    {
+      "order": 4,
+      "name": "Sponsors & partners",
+      "team_id": "t04",
+      "gate": "assurance"
+    },
+    {
+      "order": 5,
+      "name": "Audience acquisition",
+      "team_id": "t05",
+      "gate": "assurance"
+    },
+    {
+      "order": 6,
+      "name": "Production plan",
+      "team_id": "t06",
+      "gate": "assurance"
+    },
+    {
+      "order": 7,
+      "name": "Live operations",
+      "team_id": "t07",
+      "gate": "assurance"
+    },
+    {
+      "order": 8,
+      "name": "Follow-up & content",
+      "team_id": "t08",
+      "gate": "assurance"
+    },
+    {
+      "order": 9,
+      "name": "Event P&L learning",
+      "team_id": "t09",
+      "gate": "assurance"
+    }
+  ]
+}

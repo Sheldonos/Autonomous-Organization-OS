@@ -1,0 +1,27 @@
+{
+  "pocket": "procureos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-off-contract-spend-analysis",
+    "procurement-spend-analyst",
+    "procurement-cost-analysis-specialist",
+    "procurement-manage-purchase-orders",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-define-procurement-need",
+    "procurement-monitor-supplier-performance",
+    "procurement-invoice-exception-analysis",
+    "procurement-analyze-make-buy",
+    "procurement-assess-supply-chain-risk",
+    "procurement-develop-sourcing-strategy",
+    "procurement-draft-and-negotiate-contract",
+    "procurement-manage-solicitation",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence",
+    "procurement-engage-supplier-market",
+    "procurement-evaluate-suppliers",
+    "procurement-execute-supplier-exit"
+  ]
+}

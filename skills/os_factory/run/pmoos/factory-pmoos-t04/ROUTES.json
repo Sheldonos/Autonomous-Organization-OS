@@ -1,0 +1,27 @@
+{
+  "pocket": "pmoos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-061",
+    "mediator-renter-disruptor",
+    "shared-execution-dependency-installation-specialist",
+    "construction-construction-safety-escalation",
+    "construction-project-controls-reporting",
+    "construction-preconstruction-mobilization",
+    "program-management-resource-management",
+    "program-management-dependency-management",
+    "data-strategy-dependency-risk-analysis",
+    "program-management-dependency-manager",
+    "program-management-resource-planner",
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "cio-portfolio-resource-planning",
+    "operations-resource-planning-analyst",
+    "program-management-program-governance",
+    "cio-portfolio-dependency-management",
+    "ibm-sales-scale-055",
+    "operations-operations-master-data-review",
+    "engineering-technical-debt-prioritization"
+  ]
+}

@@ -1,0 +1,29 @@
+version: 1
+classes:
+  source:
+    backend: git
+    immutability: signed_release_tags
+  images:
+    backend: oci_registry
+    immutability: digest
+    sbom_required: true
+    signature_required: true
+  operational_state:
+    backend: transactional_database
+    standalone_default: sqlite_wal
+    scaled_recommendation: tenant_approved_ha_database
+    pitr_or_snapshot_required: true
+  events:
+    backend: durable_event_bus
+    standalone_default: sqlite_durable_queue
+    scaled_recommendation: kafka_compatible_or_enterprise_event_bus
+  artifacts:
+    backend: object_storage_or_byos
+    versioning: true
+    object_lock_for_regulated_evidence: recommended
+  secrets:
+    backend: vault_kms_hsm
+    repository_storage: forbidden
+  evidence:
+    backend: append_oriented_store
+    retention: tenant_policy

@@ -1,0 +1,27 @@
+{
+  "pocket": "talentos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-succession-mobility-planning",
+    "people-mobility-case-readiness",
+    "people-succession-risk-evidence",
+    "people-learning-needs-analysis",
+    "people-offboarding-workforce-transition",
+    "people-workforce-plan-variance",
+    "people-job-architecture",
+    "people-workforce-planning",
+    "people-headcount-control-check",
+    "people-requisition-management",
+    "people-structured-selection",
+    "people-accommodation-handoff-preparation",
+    "people-benefits-enrollment-readiness",
+    "people-employee-relations-evidence",
+    "people-engagement-trend-synthesis",
+    "people-exit-readiness-check",
+    "people-hr-data-quality-remediation",
+    "people-leave-case-preparation",
+    "people-onboarding-readiness-assessment",
+    "people-performance-checkin-preparation"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pocket": "fundraiseos",
+  "required_or_optional_classes": [
+    "crm",
+    "email",
+    "calendar",
+    "virtual_data_room",
+    "e_signature"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

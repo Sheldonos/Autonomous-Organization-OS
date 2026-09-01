@@ -1,0 +1,27 @@
+{
+  "pocket": "educationos",
+  "team": "t09",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "resource-safety-review",
+    "education-coordinate-accommodations",
+    "education-develop-learning-content",
+    "content-output-qc",
+    "education-safety-reviewer",
+    "qisbob-quantum-mentor",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "education-manage-credentials-records",
+    "education-monitor-learner-progress",
+    "education-facilitate-instruction",
+    "education-manage-learner-intake",
+    "marketing-event-strategy-operations",
+    "education-analyze-learning-needs",
+    "education-assure-program-quality",
+    "education-learning-path-architect",
+    "education-personalized-learning-specialist",
+    "education-support-career-transition",
+    "agency-operations-engagement-closeout",
+    "education-adaptive-learning-specialist"
+  ]
+}

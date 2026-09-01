@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "health": {
+    "status": "PASS",
+    "service": "faos-control-plane",
+    "version": "1.2.0"
+  },
+  "ready": {
+    "status": "PASS",
+    "mode": "software_only",
+    "deployment_certified": false,
+    "note": "Set FAOS_PRODUCTION_CONFIG for environment certification."
+  },
+  "pockets": 48,
+  "goal_created": true,
+  "events_processed": 1,
+  "resilience": {
+    "drain_external_writes": false,
+    "queued_events": 0,
+    "queued_jobs": 1,
+    "dead_letters": 0
+  }
+}

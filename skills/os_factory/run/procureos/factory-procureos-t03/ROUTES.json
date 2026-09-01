@@ -1,0 +1,27 @@
+{
+  "pocket": "procureos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-supplier-discovery-specialist",
+    "procurement-supplier-qualification-analyst",
+    "procurement-supplier-relationship-manager",
+    "procurement-supplier-researcher",
+    "procurement-manage-purchase-orders",
+    "procurement-purchase-order-change-triage",
+    "procurement-three-way-match-resolution",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-monitor-supplier-performance",
+    "procurement-off-contract-spend-analysis",
+    "procurement-demand-intake-qualification",
+    "procurement-invoice-exception-analysis",
+    "procurement-supplier-performance-scorecard",
+    "procurement-assess-supply-chain-risk",
+    "procurement-manage-solicitation",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence",
+    "procurement-purchase-approval-routing"
+  ]
+}

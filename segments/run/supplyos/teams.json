@@ -1,0 +1,74 @@
+{
+  "pocket": "supplyos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Demand signal Team",
+      "stage": 1,
+      "responsibility": "Demand signal",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Supply plan Team",
+      "stage": 2,
+      "responsibility": "Supply plan",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Sourcing alignment Team",
+      "stage": 3,
+      "responsibility": "Sourcing alignment",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Inventory policy Team",
+      "stage": 4,
+      "responsibility": "Inventory policy",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Logistics plan Team",
+      "stage": 5,
+      "responsibility": "Logistics plan",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Execution Team",
+      "stage": 6,
+      "responsibility": "Execution",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Exception control tower Team",
+      "stage": 7,
+      "responsibility": "Exception control tower",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Service & cost optimization Team",
+      "stage": 8,
+      "responsibility": "Service & cost optimization",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

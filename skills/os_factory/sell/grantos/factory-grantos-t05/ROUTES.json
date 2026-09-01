@@ -1,0 +1,27 @@
+{
+  "pocket": "grantos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "government-budget-analyst",
+    "sales-contract-approval",
+    "sales-proposal-management",
+    "government-manage-grants-lifecycle",
+    "ibm-bob-ads-plan",
+    "ibm-sales-scale-059",
+    "ibm-bob-ads-math",
+    "ibm-bob-ads-budget",
+    "ibm-bob-ads-monitor",
+    "ibm-bob-ads-optimize",
+    "government-grant-research-specialist",
+    "government-control-delivery-baselines",
+    "government-grant-writer",
+    "government-assess-privacy-and-security",
+    "government-conduct-stage-gate-assurance",
+    "government-manage-public-sector-risks",
+    "government-manage-user-needs",
+    "government-preserve-audit-evidence",
+    "government-public-sector-compliance-reviewer",
+    "government-verify-and-validate-solutions"
+  ]
+}

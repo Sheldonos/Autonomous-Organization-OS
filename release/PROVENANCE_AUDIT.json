@@ -1,0 +1,21 @@
+{
+  "status": "PASS_WITH_DISTRIBUTION_REVIEW_REQUIRED",
+  "substrate": {
+    "archive": "substrate/source_archives/IBM_Enterprise_Autonomous_Operations_OS_v2.0.0-rc1.zip",
+    "sha256": "bf1cbdad213c6ec2f9e6d87c3294ef2a1da95694bea5ce4939f6ad5ec84c93fc",
+    "canonical_skill_payload_hashes_verified": 3212,
+    "registry_skill_count": 3212
+  },
+  "dealos": {
+    "archive": "segments/sell/dealos/source_archive/DealOS_v1.0.1.zip",
+    "sha256": "2df0829e8dbb1b4a1e8704acd0b3973534024604948f4566c91eb2fab31759bf",
+    "version": "1.0.1"
+  },
+  "first_party_factory_layer": {
+    "wrapper_skills": 540,
+    "accountability_records": 3212,
+    "runtime_and_release_tooling": "generated"
+  },
+  "public_source_redistribution_review_required": true,
+  "notice": "See substrate/THIRD_PARTY_NOTICES.md, substrate/PROVENANCE.md, and market/DISTRIBUTION_RIGHTS_CHECKLIST.md."
+}

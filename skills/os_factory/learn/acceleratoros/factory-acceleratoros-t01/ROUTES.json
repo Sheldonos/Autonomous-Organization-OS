@@ -1,0 +1,27 @@
+{
+  "pocket": "acceleratoros",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cinematography-design",
+    "ibm-i-mentor",
+    "ibm-i",
+    "program-management-milestone-management",
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "data-strategy-program-plan-readiness",
+    "healthcare-cms-quality-measure-reporting",
+    "ncfb-sqlcode-805",
+    "procurement-supplier-esg-evidence-review",
+    "program-management-project-governance",
+    "chief-of-staff-cross-functional-program-orchestrator",
+    "startups-founder-advisor",
+    "startups-founder-market-fit-analyst",
+    "startups-orchestrator",
+    "startups-startup-financial-modeler",
+    "startups-startup-growth-strategist",
+    "startups-startup-gtm-strategist",
+    "startups-startup-orchestrator",
+    "startups-venture-risk-critic"
+  ]
+}

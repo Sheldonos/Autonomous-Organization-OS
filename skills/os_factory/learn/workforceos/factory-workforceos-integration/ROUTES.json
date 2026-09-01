@@ -1,0 +1,27 @@
+{
+  "pocket": "workforceos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-map-occupational-competencies",
+    "cio-technology-skills-gap-analysis",
+    "cio-outsourcing-decision",
+    "cio-technology-reskilling",
+    "eos-skills-development",
+    "eos-workforce-analytics",
+    "ibm-bob-ads-setup",
+    "watsonx-ai-credential-requirements",
+    "enterprise-capability-gap-analysis",
+    "ibm-capability-mode",
+    "quantum-hardware-capability-status-controller",
+    "enterprise-skill-runtime-backing-auditor",
+    "enterprise-use-case-satisfaction-auditor",
+    "education-support-career-transition",
+    "cio-it-role-planning",
+    "healthcare-compliance-program-management",
+    "cio-it-organization-design",
+    "cio-managed-service-strategy",
+    "cio-technology-succession-planning",
+    "cio-technology-talent-strategy"
+  ]
+}

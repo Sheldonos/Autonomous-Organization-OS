@@ -1,0 +1,27 @@
+{
+  "pocket": "enterpriseos",
+  "team": "t09",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "automation-improve-process-performance",
+    "continuous-capability-evolution",
+    "enterprise-autonomous-loop-engineer",
+    "ibm-career-enterprise-operations-communications-professional",
+    "ibm-career-enterprise-operations-finance-accounting-analyst",
+    "ibm-career-enterprise-operations-marketing-professional",
+    "ibm-career-enterprise-operations-talent-acquisition-partner",
+    "ibm-open-position-role-sync",
+    "role-responsibility-coverage-auditor",
+    "operations-process-improvement-specialist",
+    "ibm-career-infrastructure-technology-model-maker-machinist",
+    "ibm-career-infrastructure-technology-mainframe-technical-specialist",
+    "ibm-career-infrastructure-technology-manufacturing-engineer",
+    "ibm-career-infrastructure-technology-mechanical-designer",
+    "ibm-career-infrastructure-technology-networking-infrastructure",
+    "ibm-career-infrastructure-technology-storage-specialist",
+    "ibm-career-infrastructure-technology-systems-administrator",
+    "ibm-career-infrastructure-technology-technical-support",
+    "operations-continuous-improvement-specialist",
+    "cross-domain-outcome-verifier"
+  ]
+}

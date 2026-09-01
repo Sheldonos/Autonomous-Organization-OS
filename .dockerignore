@@ -1,0 +1,7 @@
+.git
+__pycache__
+*.pyc
+state/*.db
+proposals/*
+dynamic_skills/*
+release/evidence/runtime-*

@@ -1,0 +1,27 @@
+{
+  "pocket": "enterpriseos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "automation-design-integration-orchestration",
+    "automation-improve-process-performance",
+    "cio-it-organization-design",
+    "data-strategy-business-case-preparation",
+    "automation-govern-access-and-data",
+    "healthcare-health-records-governance",
+    "chief-of-staff-risk-crisis-coordination",
+    "program-management-program-governance",
+    "automation-baseline-process-performance",
+    "automation-discover-process",
+    "automation-manage-automation-incidents",
+    "automation-measure-process-conformance",
+    "automation-model-business-process",
+    "automation-specify-automation-requirements",
+    "automation-standardize-process",
+    "automation-validate-automation-solution",
+    "data-strategy-portfolio-roadmap-synthesis",
+    "automation-design-controls-and-approvals"
+  ]
+}

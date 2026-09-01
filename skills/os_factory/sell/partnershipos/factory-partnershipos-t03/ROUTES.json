@@ -1,0 +1,27 @@
+{
+  "pocket": "partnershipos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "business-development-alliance-management",
+    "ibm-sales-ext-partner-cosell-plan",
+    "sales-renewal-management",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-icp-segmentation",
+    "ibm-des-apm-001",
+    "ibm-pro-apm-001",
+    "sales-customer-value-realization-analyst",
+    "sales-discovery-problem-framing",
+    "sales-proof-of-value-strategist",
+    "sales-value-engineer",
+    "sales-value-hypothesis-designer",
+    "sales-value-realization-modeling",
+    "business-development-channel-partner-analyst",
+    "bob-executive-competitive-deck-builder",
+    "customers-win-suppliers-win-strategist",
+    "tls-partner-ecosystem-channel-agent",
+    "ibm-sales-scale-008",
+    "business-development-partner-enablement-specialist"
+  ]
+}

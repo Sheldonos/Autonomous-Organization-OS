@@ -1,0 +1,74 @@
+{
+  "pocket": "patenttoproductos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "IP discovery Team",
+      "stage": 1,
+      "responsibility": "IP discovery",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Claim and landscape review Team",
+      "stage": 2,
+      "responsibility": "Claim and landscape review",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Market mapping Team",
+      "stage": 3,
+      "responsibility": "Market mapping",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Commercial fit Team",
+      "stage": 4,
+      "responsibility": "Commercial fit",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Prototype or license strategy Team",
+      "stage": 5,
+      "responsibility": "Prototype or license strategy",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Partner discovery Team",
+      "stage": 6,
+      "responsibility": "Partner discovery",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Deal structure Team",
+      "stage": 7,
+      "responsibility": "Deal structure",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Commercialization tracking Team",
+      "stage": 8,
+      "responsibility": "Commercialization tracking",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

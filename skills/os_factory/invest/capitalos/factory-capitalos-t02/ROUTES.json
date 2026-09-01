@@ -1,0 +1,27 @@
+{
+  "pocket": "capitalos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-market-research-analyst",
+    "autonomous-capitalist",
+    "investment-market-due-diligence-analyst",
+    "finance-rolling-forecasting",
+    "real-estate-market-analysis-specialist",
+    "intelligence-market-intelligence-analyst",
+    "simulation-market-simulation-specialist",
+    "product-go-to-market-planning",
+    "finance-capital-allocation",
+    "institutional-investment-playbook",
+    "investment-financial-due-diligence-analyst",
+    "real-estate-portfolio-strategy",
+    "investment-committee-analyst",
+    "investment-committee-critic",
+    "marketing-market-research-synthesis",
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator",
+    "investment-operational-due-diligence-analyst",
+    "investment-technology-due-diligence-analyst"
+  ]
+}

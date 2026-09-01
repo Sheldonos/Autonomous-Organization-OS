@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "event_driven_goal": "6b4ff1a5-dc14-402c-9e2c-0ed058c30fd5",
+  "event_processing": 1,
+  "drain_state": "DRAINED_READY_FOR_AGENT",
+  "airgap_readiness": "PASS",
+  "backup_restore_verify": "PASS"
+}

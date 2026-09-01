@@ -1,0 +1,57 @@
+version: 1
+owner_weekly_review_minutes: 60
+owner_signature_required: true
+autonomous_money_movement_enabled: false
+binding_commitment_owner_approval_usd: 0
+high_value_deal_usd: 100000
+
+levels:
+  green:
+    autonomous: true
+    actions:
+      - research
+      - extract_public_facts
+      - crm_write
+      - classify_email
+      - safe_routine_reply
+      - permitted_followup
+      - draft_proposal
+      - prepare_nonbinding_document
+      - calendar_book_within_policy
+  blue:
+    autonomous: true
+    conditions:
+      max_discount_pct: 10
+      accepted_payment_terms: [prepaid, net_15, net_30]
+      approved_templates_only: true
+  yellow:
+    autonomous_only_if_reversible: true
+    weekly_review: true
+    conditions:
+      max_discount_pct: 20
+      accepted_payment_terms: [net_45]
+  orange:
+    owner_approval_required: true
+    triggers:
+      - signature
+      - docusign_template_envelope
+      - binding_commitment
+      - exclusivity
+      - ip_assignment
+      - personal_guarantee
+      - unusual_indemnification
+      - uncapped_liability
+      - material_discount
+      - new_legal_entity
+      - bank_account_change
+  red:
+    stop_and_alert: true
+    triggers:
+      - suspected_fraud
+      - sanctions_or_identity_concern
+      - credential_compromise
+      - security_incident
+      - request_to_fabricate_claim
+      - prohibited_kickback_concern
+      - federal_contingent_fee_concern
+      - policy_bypass_request

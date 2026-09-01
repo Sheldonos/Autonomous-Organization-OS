@@ -1,0 +1,27 @@
+{
+  "pocket": "enterpriseos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "healthcare-care-coordination-support-specialist",
+    "music-prompter",
+    "shared-execution-file-transformation-specialist",
+    "tls-command-center-dashboard-agent",
+    "specialized-prompt-writer",
+    "explanation-variants",
+    "tts-prompter",
+    "webdev-image-generation",
+    "solitude-of-roman-writer",
+    "chief-of-staff-risk-crisis-coordination",
+    "program-management-program-governance",
+    "enterprise-domain-fixture-builder",
+    "cio-business-technology-alignment",
+    "cio-cio-operating-model-design",
+    "process-strategy-to-portfolio-to-execution-to-outcome",
+    "enterprise-domain-harness-orchestrator",
+    "cio-business-intelligence-strategy",
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "autonomous-cio-orchestrator"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "fundos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "finance-executive-decision-support",
+    "finance-journal-entry-support-pack",
+    "finance-valuation-specialist",
+    "it-it-financial-plan-support",
+    "ibm-pre-005",
+    "sales-close-to-delivery-transition",
+    "institutional-investment-playbook",
+    "customer-service-refund-exception-preparation",
+    "education-support-career-transition",
+    "finance-capital-allocation",
+    "investment-committee-analyst",
+    "investment-committee-critic",
+    "finance-portfolio-analyst",
+    "it-software-asset-license-review",
+    "it-technology-vendor-risk-review",
+    "finance-expense-policy-audit",
+    "finance-financial-policy-query-triage",
+    "finance-management-reporting-pack"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "eventos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-event-strategy-operations",
+    "media-accessibility-localization",
+    "agency-operations-engagement-closeout",
+    "agent-operations-and-learning",
+    "healthcare-patient-safety-event-management",
+    "media-distribution-packaging",
+    "tv-series-production",
+    "people-requisition-quality-review",
+    "agency-operations-contract-handoff",
+    "agency-operations-delivery-status-control",
+    "agency-operations-human-approval-gating",
+    "agency-operations-scope-baselining",
+    "agency-operations-stakeholder-communications-governance",
+    "ibm-met-sm-003",
+    "legal-contract-drafting-redlining",
+    "legal-dispute-claims-management",
+    "legal-risk-ip-docket-readiness",
+    "operations-production-schedule-exception",
+    "operations-sop-cycle-readiness",
+    "physical-production-operations"
+  ]
+}

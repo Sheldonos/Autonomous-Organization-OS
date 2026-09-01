@@ -1,0 +1,27 @@
+{
+  "pocket": "commerceos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-051",
+    "ecommerce-conversion-specialist",
+    "ecommerce-e-commerce-analytics-specialist",
+    "ecommerce-e-commerce-orchestrator",
+    "ecommerce-e-commerce-seo-specialist",
+    "ecommerce-e-commerce-strategist",
+    "ecommerce-merchandising-specialist",
+    "ecommerce-orchestrator",
+    "ecommerce-product-description-writer",
+    "ecommerce-product-listing-specialist",
+    "webdev-ssr-conversion",
+    "anime-series-production",
+    "ecommerce-cart-optimization-specialist",
+    "ecommerce-catalog-management-specialist",
+    "ecommerce-pricing-analyst",
+    "ecommerce-retention-specialist",
+    "short-form-derivative-production",
+    "ecommerce-customer-journey-analyst",
+    "ecommerce-marketplace-analyst",
+    "ecommerce-marketplace-operations-specialist"
+  ]
+}

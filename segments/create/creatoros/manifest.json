@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "id": "creatoros",
+  "title": "CreatorOS",
+  "segment": "create",
+  "mission": "Turn a creator, artist, expert, or audience into a coordinated content, partnership, product, community, and revenue business.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 20,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Identity & audience intelligence",
+    "Editorial/content system",
+    "Production",
+    "Publishing",
+    "Audience growth",
+    "Partnerships",
+    "Products/commerce",
+    "Community",
+    "Revenue analytics"
+  ],
+  "handoffs": [
+    "mediaos",
+    "brandos",
+    "commerceos",
+    "dealos",
+    "revenueos"
+  ],
+  "connectors": [
+    "social",
+    "analytics",
+    "storefront",
+    "email",
+    "crm",
+    "asset_store"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

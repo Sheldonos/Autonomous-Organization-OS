@@ -1,0 +1,27 @@
+{
+  "pocket": "revenueos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "revenue-customer-onboarding-readiness",
+    "customer-success-customer-onboarding-specialist",
+    "sales-close-to-delivery-transition",
+    "sales-seller-intelligence-mcp-integration",
+    "revenue-expansion-signal-qualification",
+    "revenue-renewal-risk-assessment",
+    "ibm-sales-role-workflow-cartographer",
+    "ibm-sales-agentic-orchestration",
+    "marketing-account-based-signal-qualification",
+    "marketing-lead-quality-review",
+    "marketing-partner-marketing-readiness",
+    "ibm-sales-onboarding-value-data-audit",
+    "marketing-event-strategy-operations",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-icp-segmentation",
+    "marketing-competitive-message-synthesis",
+    "marketing-market-research-synthesis",
+    "sales-stakeholder-mapping",
+    "marketing-customer-advocacy-qualification"
+  ]
+}

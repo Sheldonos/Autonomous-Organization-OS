@@ -1,0 +1,27 @@
+{
+  "pocket": "corpdevos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "government-plan-public-acquisitions",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "government-administer-procurement",
+    "agency-operations-stakeholder-communications-governance",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "ibm-sales-scale-055",
+    "executive-okr-operating-system",
+    "product-product-analytics",
+    "strategy-strategic-risk-analyst",
+    "agency-operations-conflict-of-interest-screening",
+    "people-candidate-screening-preparation",
+    "agency-operations-engagement-qualification",
+    "automation-assure-business-continuity",
+    "finance-capital-allocation",
+    "game-dev",
+    "people-requisition-quality-review",
+    "real-estate-portfolio-strategy",
+    "agency-operations-orchestrator"
+  ]
+}

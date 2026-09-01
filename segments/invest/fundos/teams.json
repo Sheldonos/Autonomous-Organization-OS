@@ -1,0 +1,74 @@
+{
+  "pocket": "fundos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Mandate & policy Team",
+      "stage": 1,
+      "responsibility": "Mandate & policy",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Pipeline Team",
+      "stage": 2,
+      "responsibility": "Pipeline",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Diligence & IC Team",
+      "stage": 3,
+      "responsibility": "Diligence & IC",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Portfolio construction Team",
+      "stage": 4,
+      "responsibility": "Portfolio construction",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Monitoring Team",
+      "stage": 5,
+      "responsibility": "Monitoring",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Valuation/NAV support Team",
+      "stage": 6,
+      "responsibility": "Valuation/NAV support",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "LP reporting Team",
+      "stage": 7,
+      "responsibility": "LP reporting",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Governance & audit Team",
+      "stage": 8,
+      "responsibility": "Governance & audit",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

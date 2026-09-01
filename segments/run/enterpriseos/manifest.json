@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "id": "enterpriseos",
+  "title": "EnterpriseOS",
+  "segment": "run",
+  "mission": "Act as the federation control plane that senses organizational state, decomposes objectives, routes work, governs execution, and measures outcomes.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 482,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Organizational sensing",
+    "Objective decomposition",
+    "Capability & gap mapping",
+    "Pocket/team routing",
+    "Plan & approval graph",
+    "Execution coordination",
+    "Read-back verification",
+    "Outcome telemetry",
+    "Continuous improvement"
+  ],
+  "handoffs": [
+    "ventureos",
+    "researchos",
+    "buildos",
+    "innovationos",
+    "launchos",
+    "consultingos",
+    "patenttoproductos",
+    "labos",
+    "dealos",
+    "revenueos",
+    "bidos",
+    "commerceos",
+    "partnershipos",
+    "pricingos",
+    "customeros",
+    "grantos"
+  ],
+  "connectors": [
+    "erp",
+    "crm",
+    "hris",
+    "data_warehouse",
+    "identity",
+    "document_store",
+    "event_bus",
+    "observability"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

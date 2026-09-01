@@ -1,0 +1,18 @@
+{
+  "id": "run",
+  "title": "RUN",
+  "mission": "Coordinate organizational execution, people, vendors, assets, and governance.",
+  "pockets": [
+    "enterpriseos",
+    "executiveos",
+    "procureos",
+    "talentos",
+    "pmoos",
+    "vendoros",
+    "supplyos",
+    "propertyos",
+    "franchiseos",
+    "boardos",
+    "recruitos"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "patenttoproductos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-pre-008",
+    "ibm-pre-apm-001",
+    "ibm-pre-sa-001",
+    "legal-risk-ip-docket-readiness",
+    "data-strategy-model-inventory-quality",
+    "it-software-asset-license-review",
+    "marketing-lead-quality-review",
+    "marketing-quality-reviewer",
+    "ibm-pre-iss-003",
+    "data-strategy-dashboard-quality-review",
+    "data-strategy-model-risk-assessment-prep",
+    "data-strategy-okr-progress-review",
+    "data-strategy-prompt-policy-review",
+    "ibm-sales-ext-marketing-attribution-review",
+    "marketing-event-strategy-operations",
+    "marketing-audience-segmentation-review",
+    "marketing-brand-compliance-review",
+    "marketing-campaign-orchestration",
+    "marketing-content-claims-review",
+    "marketing-paid-media-anomaly-review"
+  ]
+}

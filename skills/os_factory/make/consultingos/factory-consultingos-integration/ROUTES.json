@@ -1,0 +1,27 @@
+{
+  "pocket": "consultingos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "eos-engagement-estimation",
+    "eos-engagement-scope",
+    "eos-engagement-staffing",
+    "eos-solution-development",
+    "eos-change-order-management",
+    "eos-customer-outcomes",
+    "eos-delivery-planning",
+    "eos-knowledge-reuse",
+    "eos-services-opportunity-qualification",
+    "eos-utilization-management",
+    "shared-evidence-ledger",
+    "cio-forward-looking-technology-recommendation",
+    "ibm-sales-scale-050",
+    "agentic-sdlc-lab-guide-builder",
+    "hazard-insurance-comparer",
+    "healthcare-downtime-continuity-planning",
+    "healthcare-compliance-program-management",
+    "healthcare-patient-safety-event-management",
+    "eos-delivery-risk",
+    "eos-project-delivery"
+  ]
+}

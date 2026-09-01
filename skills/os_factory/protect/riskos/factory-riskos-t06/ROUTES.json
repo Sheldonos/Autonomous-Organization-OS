@@ -1,0 +1,27 @@
+{
+  "pocket": "riskos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "finance-covenant-monitoring",
+    "it-capacity-risk-monitoring",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "operations-stockout-risk-monitoring",
+    "procurement-certificate-expiry-monitoring",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-resilience-recovery-validation",
+    "cybersecurity-security-policy-management",
+    "cybersecurity-supply-chain-cyber-risk",
+    "finance-credit-exposure-monitoring",
+    "customer-service-service-level-risk-monitoring",
+    "cyber-resilience-certificate-lifecycle-monitoring",
+    "marketing-social-risk-monitoring",
+    "cybersecurity-control-selection",
+    "cybersecurity-risk-treatment-planning"
+  ]
+}

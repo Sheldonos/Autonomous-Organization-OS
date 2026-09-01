@@ -1,0 +1,27 @@
+{
+  "pocket": "riskos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cybersecurity-control-selection",
+    "cybersecurity-risk-treatment-planning",
+    "agency-operations-change-impact-assessment",
+    "automation-monitor-automation-runs",
+    "eos-control-management",
+    "automation-baseline-process-performance",
+    "automation-discover-process",
+    "automation-manage-automation-incidents",
+    "automation-measure-process-conformance",
+    "automation-specify-automation-requirements",
+    "automation-standardize-process",
+    "automation-validate-automation-solution",
+    "procurement-supplier-exit-readiness",
+    "ibm-sales-ext-customer-renewal-risk-route",
+    "legal-approval-signature-routing",
+    "media-mastering-quality-control",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management"
+  ]
+}

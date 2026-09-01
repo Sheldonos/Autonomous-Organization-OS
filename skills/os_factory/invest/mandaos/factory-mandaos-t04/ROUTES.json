@@ -1,0 +1,27 @@
+{
+  "pocket": "mandaos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-financial-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator",
+    "investment-market-due-diligence-analyst",
+    "investment-operational-due-diligence-analyst",
+    "investment-technology-due-diligence-analyst",
+    "legal-due-diligence-analyst",
+    "legal-third-party-risk-assessment",
+    "institutional-investment-playbook",
+    "independent-megadeal-originator",
+    "procurement-assess-supply-chain-risk",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence",
+    "supply-chain-supplier-due-diligence",
+    "business-development-partnership-due-diligence-analyst",
+    "cio-ma-data-diligence",
+    "cio-ma-infrastructure-diligence",
+    "cio-technology-due-diligence",
+    "eos-ma-cross-functional-diligence"
+  ]
+}

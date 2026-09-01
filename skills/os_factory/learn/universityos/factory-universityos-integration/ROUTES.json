@@ -1,0 +1,27 @@
+{
+  "pocket": "universityos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-manage-credentials-records",
+    "education-student-progress-analyst",
+    "education-analyze-learning-needs",
+    "education-support-career-transition",
+    "education-learner-modeling-specialist",
+    "education-quiz-designer",
+    "education-remediation-specialist",
+    "education-rubric-designer",
+    "education-strategy-advisor",
+    "education-study-coach",
+    "program-management-program-governance",
+    "program-management-project-governance",
+    "program-management-resource-management",
+    "program-management-dependency-management",
+    "program-management-milestone-management",
+    "education-classroom-workflow-specialist",
+    "eos-innovation-program-management",
+    "automation-secrets-credential-reviewer",
+    "cio-program-governance",
+    "eos-program-management"
+  ]
+}

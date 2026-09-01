@@ -1,0 +1,999 @@
+{
+  "schema_version": "2.0",
+  "pocket": "vendoros",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 26,
+  "skills": [
+    {
+      "slug": "procurement-contract-renewal-readiness",
+      "score": 121,
+      "domain": "procurement",
+      "description": "Assess supplier contract renewal readiness, obligations, performance, and approval dependencies. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Contract Operations Capability Director."
+    },
+    {
+      "slug": "procurement-manage-contract-change",
+      "score": 120,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Contract Change** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-contract-change`, `manage-contract-change`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-manage-procurement-dispute",
+      "score": 120,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Procurement Dispute** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-procurement-dispute`, `manage-procurement-dispute`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-manage-renewal",
+      "score": 120,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Renewal** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-renewal`, `manage-renewal`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-price-variance-investigation",
+      "score": 107,
+      "domain": "procurement",
+      "description": "Investigate price variance against contract, market, and receipt evidence. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "procurement-monitor-supplier-performance",
+      "score": 106,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Monitor Supplier Performance** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-monitor-supplier-performance`, `monitor-supplier-performance`, or the corresponding professional workflow: supplier-performance-and-relationship-management | set governance cadence, KPIs, service reviews, corrective actions, collaboration model, and escalation path proportional to supplier criticality | handoff to contract manager, service owner, supplier account team, risk/compliance, and executive sponsor"
+    },
+    {
+      "slug": "procurement-contract-obligation-extraction",
+      "score": 102,
+      "domain": "procurement",
+      "description": "Extract supplier obligations, dates, owners, and evidence requirements from approved contracts. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Contract Operations Capability Director."
+    },
+    {
+      "slug": "procurement-assess-supply-chain-risk",
+      "score": 101,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Assess Supply Chain Risk** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-assess-supply-chain-risk`, `assess-supply-chain-risk`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-onboard-supplier",
+      "score": 101,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Onboard Supplier** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-onboard-supplier`, `onboard-supplier`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-perform-supplier-due-diligence",
+      "score": 101,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Perform Supplier Due Diligence** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-perform-supplier-due-diligence`, `perform-supplier-due-diligence`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-lead-time-exception-triage",
+      "score": 96,
+      "domain": "procurement",
+      "description": "Triage supplier lead-time exceptions and route supply-risk actions. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "procurement-off-contract-spend-analysis",
+      "score": 96,
+      "domain": "procurement",
+      "description": "Identify off-contract spend patterns and prepare compliant remediation options. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-onboarding-readiness",
+      "score": 96,
+      "domain": "procurement",
+      "description": "Assess supplier onboarding readiness, required evidence, and missing controls. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-performance-scorecard",
+      "score": 96,
+      "domain": "procurement",
+      "description": "Produce a supplier performance scorecard with source evidence and metric caveats. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-exit-readiness",
+      "score": 91,
+      "domain": "procurement",
+      "description": "Assess supplier exit readiness, downstream dependencies, and control obligations. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "procurement-certificate-expiry-monitoring",
+      "score": 88,
+      "domain": "procurement",
+      "description": "Monitor approved supplier certificate expiry and create controlled follow-up cases. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-corrective-action-follow-up",
+      "score": 88,
+      "domain": "procurement",
+      "description": "Track supplier corrective-action evidence, due dates, and unresolved risks. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Quality and Remediation Capability Director."
+    },
+    {
+      "slug": "procurement-demand-intake-qualification",
+      "score": 88,
+      "domain": "procurement",
+      "description": "Qualify a sourcing demand request against business need, budget, and category policy. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Demand and Category Management Capability Director."
+    },
+    {
+      "slug": "procurement-purchase-requisition-compliance",
+      "score": 88,
+      "domain": "procurement",
+      "description": "Review purchase requisitions for policy, budget, category, and approval exceptions. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-concentration-exposure",
+      "score": 88,
+      "domain": "procurement",
+      "description": "Assess supplier concentration exposure and dependency risks for category owner review. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-esg-evidence-review",
+      "score": 88,
+      "domain": "procurement",
+      "description": "Review supplier ESG evidence against program requirements and freshness rules. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Responsible Sourcing Capability Director."
+    },
+    {
+      "slug": "procurement-third-party-data-change-review",
+      "score": 88,
+      "domain": "procurement",
+      "description": "Review third-party profile data changes for risk, provenance, and approval needs. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-category-opportunity-analysis",
+      "score": 85,
+      "domain": "procurement",
+      "description": "Identify evidence-backed category opportunity hypotheses for human prioritization. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Demand and Category Management Capability Director."
+    },
+    {
+      "slug": "procurement-invoice-exception-analysis",
+      "score": 85,
+      "domain": "procurement",
+      "description": "Analyze supplier invoice exceptions and associated purchase evidence. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Payables and Procurement Capability Director."
+    },
+    {
+      "slug": "procurement-purchase-approval-routing",
+      "score": 85,
+      "domain": "procurement",
+      "description": "Route purchase approvals with complete policy, budget, and evidence packets. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-purchase-order-change-triage",
+      "score": 85,
+      "domain": "procurement",
+      "description": "Classify purchase-order change requests and prepare an approval-ready exception packet. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-sourcing-event-design",
+      "score": 85,
+      "domain": "procurement",
+      "description": "Prepare a sourcing-event design packet with scope, criteria, and governance checkpoints. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Demand and Category Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-diversity-certification",
+      "score": 85,
+      "domain": "procurement",
+      "description": "Validate supplier diversity certification evidence and expiration status. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Responsible Sourcing Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-master-validation",
+      "score": 85,
+      "domain": "procurement",
+      "description": "Validate supplier-master changes against approved evidence and segregation rules. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-quality-issue-escalation",
+      "score": 85,
+      "domain": "procurement",
+      "description": "Create an evidence-backed supplier quality escalation case. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Quality and Remediation Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-risk-signal-validation",
+      "score": 85,
+      "domain": "procurement",
+      "description": "Validate supplier-risk signals before case creation or owner notification. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-three-way-match-resolution",
+      "score": 85,
+      "domain": "procurement",
+      "description": "Reconcile purchase order, receipt, and invoice evidence for unresolved matches. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Payables and Procurement Capability Director."
+    },
+    {
+      "slug": "supply-chain-supplier-due-diligence",
+      "score": 84,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supplier Due Diligence** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supplier-due-diligence`, `supplier-due-diligence`, or the corresponding professional workflow: Supplier onboarding and due diligence | verify identity, capabilities, financial/operational resilience, sanctions/compliance posture, cybersecurity and responsible-business evidence | Procurement, legal, information security, risk, quality"
+    },
+    {
+      "slug": "supply-chain-supplier-performance-management",
+      "score": 78,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supplier Performance Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supplier-performance-management`, `supplier-performance-management`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "legal-third-party-risk-assessment",
+      "score": 77,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Third Party Risk Assessment** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-third-party-risk-assessment`, `third-party-risk-assessment`, or the corresponding professional workflow: third-party-due-diligence-and-risk-assessment | assess supplier identity, sanctions/integrity, financial and operational resilience, subcontracting, security, privacy, and concentration risk | handoff to procurement, information security, privacy, finance, compliance, and risk acceptance authority"
+    },
+    {
+      "slug": "procurement-draft-and-negotiate-contract",
+      "score": 76,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Draft And Negotiate Contract** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-draft-and-negotiate-contract`, `draft-and-negotiate-contract`, or the corresponding professional workflow: contract-drafting-and-negotiation | convert requirements and award assumptions into enforceable terms covering scope, service levels, pricing, data/IP, audit, change, remedies, termination, and exit | handoff to legal counsel, business owner, security/privacy, finance, and delegated contract signatory"
+    },
+    {
+      "slug": "procurement-execute-supplier-exit",
+      "score": 76,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Execute Supplier Exit** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-execute-supplier-exit`, `execute-supplier-exit`, or the corresponding professional workflow: supplier-exit-and-continuity-management | decide remediation, transition, termination, replacement, data return/destruction, access revocation, asset recovery, and continuity actions | handoff to business continuity, security/privacy, legal, finance, operations, replacement supplier, and records management"
+    },
+    {
+      "slug": "procurement-manage-purchase-orders",
+      "score": 76,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Purchase Orders** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-purchase-orders`, `manage-purchase-orders`, or the corresponding professional workflow: purchase-order-and-order-management | translate approved contracts or catalogs into requisitions, purchase orders, releases, approvals, receipts, and three-way-match controls | handoff to requestor, budget owner, procurement operations, supplier, receiving, and accounts payable"
+    },
+    {
+      "slug": "procurement-manage-solicitation",
+      "score": 76,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Solicitation** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-solicitation`, `manage-solicitation`, or the corresponding professional workflow: solicitation-and-bid-management | issue requirements and tender documents, manage bidder questions and addenda, preserve equal information, and control submissions | handoff to evaluation panel, procurement operations, legal, and supplier communications"
+    },
+    {
+      "slug": "healthcare-vendor-business-associate-governance",
+      "score": 74,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Vendor Business Associate Governance** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-vendor-business-associate-governance`, `vendor-business-associate-governance`, or the corresponding professional workflow: vendor-and-business-associate-governance | assess third-party access and service risk, execute appropriate agreements, define security/privacy obligations, and monitor performance | procurement, privacy/security, legal, compliance, vendor owner"
+    },
+    {
+      "slug": "legal-renewal-exit-management",
+      "score": 73,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Renewal Exit Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-renewal-exit-management`, `renewal-exit-management`, or the corresponding professional workflow: obligation-and-milestone-management | convert executed terms into owners, dates, deliverables, notice windows, service levels, reporting, renewal, and evidence requirements | handoff to contract owner, procurement/vendor management, finance, operations, security, and legal"
+    },
+    {
+      "slug": "procurement-engage-supplier-market",
+      "score": 73,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Engage Supplier Market** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-engage-supplier-market`, `engage-supplier-market`, or the corresponding professional workflow: supplier-market-engagement | decide whether and how to conduct market sounding, supplier briefings, or early supplier involvement without distorting competition | handoff to prospective suppliers, procurement lead, and legal/ethics oversight"
+    },
+    {
+      "slug": "procurement-evaluate-suppliers",
+      "score": 73,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Evaluate Suppliers** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-evaluate-suppliers`, `evaluate-suppliers`, or the corresponding professional workflow: supplier-market-engagement | decide whether and how to conduct market sounding, supplier briefings, or early supplier involvement without distorting competition | handoff to prospective suppliers, procurement lead, and legal/ethics oversight"
+    },
+    {
+      "slug": "legal-contract-performance-monitoring",
+      "score": 70,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Performance Monitoring** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-performance-monitoring`, `contract-performance-monitoring`, or the corresponding professional workflow: contract-performance-and-compliance-monitoring | compare performance evidence, invoices, KPIs, change requests, incidents, and nonconformance against contractual remedies and controls | handoff to contract administrator, vendor manager, finance, operations, legal, and executive risk owner"
+    },
+    {
+      "slug": "legal-obligation-milestone-management",
+      "score": 70,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Obligation Milestone Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-obligation-milestone-management`, `obligation-milestone-management`, or the corresponding professional workflow: obligation-and-milestone-management | convert executed terms into owners, dates, deliverables, notice windows, service levels, reporting, renewal, and evidence requirements | handoff to contract owner, procurement/vendor management, finance, operations, security, and legal"
+    },
+    {
+      "slug": "procurement-supplier-performance-analyst",
+      "score": 70,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Performance Analyst role: supplier performance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-risk-analyst",
+      "score": 70,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Risk Analyst role: supplier risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-vendor-contract-management",
+      "score": 70,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Vendor Contract Management** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-vendor-contract-management`, `vendor-contract-management`, or the corresponding professional workflow: Vendor and contract lifecycle management | define scopes and service levels, evaluate bids, verify insurance and qualifications, administer contracts, monitor performance, and manage renewal or termination"
+    },
+    {
+      "slug": "cybersecurity-supply-chain-cyber-risk",
+      "score": 69,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Supply Chain Cyber Risk** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-supply-chain-cyber-risk`, `supply-chain-cyber-risk`, or the corresponding professional workflow: Third-party and supply-chain cyber-risk management | tier suppliers, perform due diligence, set security requirements and incident clauses, monitor material changes, and manage exit/contingency plans | procurement, vendor management, legal, privacy, business owners, architecture, and suppliers"
+    },
+    {
+      "slug": "supply-chain-supply-chain-performance-improvement",
+      "score": 67,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Chain Performance Improvement** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-chain-performance-improvement`, `supply-chain-performance-improvement`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "procurement-analyze-make-buy",
+      "score": 62,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Analyze Make Buy** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-analyze-make-buy`, `analyze-make-buy`, or the corresponding professional workflow: market-and-make-buy-analysis | decide internal delivery versus external sourcing, market maturity, category strategy, and delivery model | handoff to procurement/category lead, finance, legal, and delivery stakeholders"
+    },
+    {
+      "slug": "procurement-define-procurement-need",
+      "score": 62,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Define Procurement Need** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-define-procurement-need`, `define-procurement-need`, or the corresponding professional workflow: needs-and-specification-definition | decide business need, scope, outcomes, and measurable requirements before sourcing | handoff to business owner, technical/functional subject-matter experts, finance, and procurement"
+    },
+    {
+      "slug": "procurement-develop-sourcing-strategy",
+      "score": 62,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Develop Sourcing Strategy** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-develop-sourcing-strategy`, `develop-sourcing-strategy`, or the corresponding professional workflow: market-and-make-buy-analysis | decide internal delivery versus external sourcing, market maturity, category strategy, and delivery model | handoff to procurement/category lead, finance, legal, and delivery stakeholders"
+    },
+    {
+      "slug": "sales-procurement-onboarding",
+      "score": 62,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Procurement Onboarding** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-procurement-onboarding`, `procurement-onboarding`, or the corresponding professional workflow: procurement-and-vendor-onboarding | decide how the customer\u2019s tender, evaluation, due diligence, supplier onboarding, and purchase-order process will be satisfied | hand off required evidence and negotiated commitments to customer procurement, vendor management, finance, and delivery"
+    },
+    {
+      "slug": "it-technology-vendor-risk-review",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Compile technology vendor risk, obligations, and renewal evidence. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Technology Asset and Vendor Management Capability Director."
+    },
+    {
+      "slug": "procurement-contract-handoff-specialist",
+      "score": 59,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Procurement Contract Handoff Specialist role: procurement contract handoff; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-discovery-specialist",
+      "score": 59,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Discovery Specialist role: supplier discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-qualification-analyst",
+      "score": 59,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Qualification Analyst role: supplier qualification; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-relationship-manager",
+      "score": 59,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Relationship Manager role: supplier relationship; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-researcher",
+      "score": 59,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Supplier Researcher role: supplier; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-vendor-evaluation-specialist",
+      "score": 59,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Vendor Evaluation Specialist role: vendor evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-supply-chain-risk-management",
+      "score": 56,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Chain Risk Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-chain-risk-management`, `supply-chain-risk-management`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "supply-chain-risk-analyst",
+      "score": 53,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Risk Analyst role: supply chain risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-supplier-dependency-analyst",
+      "score": 53,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supplier Dependency Analyst role: supplier dependency; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cyber-resilience-third-party-cyber-risk",
+      "score": 52,
+      "domain": "shared-execution",
+      "description": "Compile third-party cyber-risk evidence, obligations, and review priorities. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Third-Party Cyber Risk Capability Director."
+    },
+    {
+      "slug": "ibm-sales-scale-064",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "Extract and organize explicitly requested contractual obligations, milestones, dependencies, and renewal dates from approved references for legal/commercial review. Use when IBM Sales selects `commercial.contract-obligation-triage` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "operations-inventory-health-review",
+      "score": 50,
+      "domain": "operations",
+      "description": "Review inventory health, aging, stock risk, and evidence-backed action options. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Inventory and Warehouse Operations Capability Director."
+    },
+    {
+      "slug": "operations-stockout-risk-monitoring",
+      "score": 50,
+      "domain": "operations",
+      "description": "Monitor qualified stockout-risk signals and route controlled owner alerts. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Inventory and Warehouse Operations Capability Director."
+    },
+    {
+      "slug": "legal-contract-drafting-redlining",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Drafting Redlining** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-drafting-redlining`, `contract-drafting-redlining`, or the corresponding professional workflow: contract-drafting-and-redlining | identify deviations from playbook, allocate risk positions, and decide whether non-standard terms require specialist review | handoff to counterparties, negotiating counsel, business sponsor, and approval committee"
+    },
+    {
+      "slug": "legal-contract-risk-issue-spotting",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Risk Issue Spotting** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-risk-issue-spotting`, `contract-risk-issue-spotting`, or the corresponding professional workflow: contract-risk-issue-spotting | extract obligations, dependencies, liability, indemnity, IP, confidentiality, data-use, audit, termination, insurance, and governing-law risks | handoff to responsible legal specialist and accountable business risk owner"
+    },
+    {
+      "slug": "legal-legal-work-intake-triage",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Legal Work Intake Triage** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-legal-work-intake-triage`, `legal-work-intake-triage`, or the corresponding professional workflow: intake-and-triage-legal-work | classify matter, urgency, jurisdiction, privilege, and service level against risk and business impact | handoff to in-house counsel, subject-matter counsel, privacy/security, procurement, HR, or compliance"
+    },
+    {
+      "slug": "legal-risk-contract-intake-classification",
+      "score": 48,
+      "domain": "legal",
+      "description": "Classify contract requests, risk profile, required review, and source documents. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Contract Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-obligation-extraction",
+      "score": 48,
+      "domain": "legal",
+      "description": "Extract obligations, dates, owners, and evidence requirements from approved agreements. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Contract Operations Capability Director."
+    },
+    {
+      "slug": "procurement-bid-comparison-analyst",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Bid Comparison Analyst role: bid comparison; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-category-manager",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Category Manager role: category; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-chief-procurement-officer-advisor",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Chief Procurement Officer Advisor role: chief procurement officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-compliance-reviewer",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Procurement Compliance Reviewer role: procurement compliance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-cost-analysis-specialist",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Cost Analysis Specialist role: cost analysis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-demand-analyst",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Demand Analyst role: demand; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-negotiation-strategist",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Procurement Negotiation Strategist role: procurement negotiation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-orchestrator",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Procurement Orchestrator role: procurement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-purchase-order-specialist",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Purchase Order Specialist role: purchase order; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-rfi-specialist",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the RFI Specialist role: rfi; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-rfp-specialist",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the RFP Specialist role: rfp; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-rfq-specialist",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the RFQ Specialist role: rfq; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-should-cost-analyst",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Should-Cost Analyst role: should-cost; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-source-selection-analyst",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Source Selection Analyst role: source selection; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-spend-analyst",
+      "score": 48,
+      "domain": "procurement",
+      "description": "Use for procurement work requiring the Spend Analyst role: spend; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-renewal-management",
+      "score": 48,
+      "domain": "sales",
+      "description": "Own evidence-backed renewal planning from value realization through commercial close and risk mitigation. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "cio-third-party-cyber-risk",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "CIO Third Party Cyber Risk for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "grc-third-party-risk-analyst",
+      "score": 46,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Third-Party Risk Analyst role: third-party risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "automation-baseline-process-performance",
+      "score": 45,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Baseline Process Performance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-baseline-process-performance`, `baseline-process-performance`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "legal-contract-closeout-records",
+      "score": 45,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Closeout Records** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-closeout-records`, `contract-closeout-records`, or the corresponding professional workflow: contract-closeout-and-records-management | confirm completion, final acceptance/payment, unresolved claims, retention schedule, access restrictions, and authoritative record location | handoff to contract administrator, finance, records management, audit, legal, and business owner"
+    },
+    {
+      "slug": "legal-contract-template-governance",
+      "score": 45,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Template Governance** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-template-governance`, `contract-template-governance`, or the corresponding professional workflow: contract-request-and-template-governance | determine approved template, fallback language, required metadata, and escalation thresholds | handoff to business owner, legal reviewer, procurement, finance, security/privacy, and authorized signer"
+    },
+    {
+      "slug": "people-succession-risk-evidence",
+      "score": 45,
+      "domain": "people",
+      "description": "Compile succession-risk evidence and dependency considerations for talent review. Use when a Human Resources, Talent, Workforce Administration, and Learning case needs this bounded procedure under the Performance and Talent Growth Capability Director."
+    },
+    {
+      "slug": "cio-strategic-supplier-management",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Strategic Supplier Management for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-renewal-management",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Technology Renewal Management for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-vendor-risk",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "CIO Technology Vendor Risk for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-renewal-risk",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Renewal Risk for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supplier-onboarding",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Supplier Onboarding for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supplier-performance",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Supplier Performance for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supplier-risk-management",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Supplier Risk Management for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "finance-vendor-master-change-validation",
+      "score": 42,
+      "domain": "finance",
+      "description": "Validate vendor-master change evidence and route high-risk changes for approval. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Master Data Controls Capability Director."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-renewal-risk-route",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Route validated renewal risk signals to the accountable account/CSM team with evidence, owner, timing, and permitted mitigation planning. Use when the IBM Sales control mode selects capability `customer-success.renewal-risk-route` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-071",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Prepare a renewal-readiness plan with contract facts, value evidence, adoption/health context, stakeholder map, risks, commercial dependencies, and owner actions. Use when IBM Sales selects `close.renewal-prepare` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "legal-contract-risk-reviewer",
+      "score": 42,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Risk Reviewer role: contract risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-risk-clause-variance-analysis",
+      "score": 42,
+      "domain": "legal",
+      "description": "Identify clause variance against approved playbook and prepare reviewer evidence. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Contract Operations Capability Director."
+    },
+    {
+      "slug": "motion-performance-planning",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Plan motion and performance with physics, anatomy, interaction, camera-motion and temporal-risk constraints."
+    },
+    {
+      "slug": "process-vendor-to-renewal",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Process Vendor To Renewal for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "revenue-renewal-risk-assessment",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Assess renewal risk using adoption, service, commercial, and stakeholder evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "tsc-partner-onboarding-engineer",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use this mode when: - Implementing partner onboarding portal after specs are approved - User asks \"build the EDI vendor onboarding system\" - Working on validation rules, test data generation, self-service workflows - Creating upload/validate flows, error handling, help documentation - Implementin..."
+    },
+    {
+      "slug": "customer-service-service-level-risk-monitoring",
+      "score": 37,
+      "domain": "customer-success",
+      "description": "Monitor case service-level risk and route controlled owner notifications. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Case Intake and Routing Capability Director."
+    },
+    {
+      "slug": "construction-project-controls-reporting",
+      "score": 34,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Controls Reporting** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-controls-reporting`, `project-controls-reporting`, or the corresponding professional workflow: project controls and performance reporting | maintain a common data set for scope, cost, schedule, progress, forecasts, risks, decisions, and stakeholder-specific reporting cadence | project manager, project controls, finance, sponsor, contractors, resource managers"
+    },
+    {
+      "slug": "engineering-api-contract-review",
+      "score": 34,
+      "domain": "engineering",
+      "description": "Review API contract compatibility, versioning, error behavior, and consumer impacts. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Technical Design and Architecture Capability Director."
+    },
+    {
+      "slug": "engineering-delivery-performance-improvement",
+      "score": 34,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Delivery Performance Improvement** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-delivery-performance-improvement`, `delivery-performance-improvement`, or the corresponding professional workflow: Learn and improve delivery | analyze delivery/reliability measures, incident reviews, customer feedback, and escaped defects to select improvement experiments | engineering leadership, product, operations, security, and organizational learning/quality functions"
+    },
+    {
+      "slug": "enterprise-adapter-contract-engineer",
+      "score": 34,
+      "domain": "engineering",
+      "description": "Define and validate system-of-record/action adapters with least privilege, idempotency, read-back verification and evidence. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "eos-business-performance-review",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Business Performance Review for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-contract-intake",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Contract Intake for Legal. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-contract-obligation-management",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Contract Obligation Management for Legal. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-contract-review-support",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Contract Review Support for Legal. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-legal-risk-review",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Legal Risk Review for Legal. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "casting-performance-development",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Develop casting breakdowns, audition materials and evidence-based evaluation plans while preserving human hiring, consent and accessibility authority."
+    },
+    {
+      "slug": "cio-ai-risk-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO AI Risk Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-lifecycle-risk",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Application Lifecycle Risk for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-cio-risk-summary",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO CIO Risk Summary for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-delivery-risk-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Delivery Risk Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-sla-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO SLA Management for Service Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-concentration-risk",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Concentration Risk for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-contracting-support",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Contracting Support for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-risk-register",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Risk Register for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-vendor-evaluation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Vendor Evaluation for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-vendor-economics",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Vendor Economics for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "customer-success-churn-risk-analyst",
+      "score": 31,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Churn Risk Analyst role: churn risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-customer-onboarding-specialist",
+      "score": 31,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Customer Onboarding Specialist role: customer onboarding; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-renewal-specialist",
+      "score": 31,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Renewal Specialist role: renewal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cyber-resilience-security-risk-register-update",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Prepare security risk-register update evidence, treatment options, and owners. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Governance Capability Director."
+    },
+    {
+      "slug": "engineering-performance-engineer",
+      "score": 31,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Performance Engineer role: performance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-performance-regression-analysis",
+      "score": 31,
+      "domain": "engineering",
+      "description": "Analyze performance regression evidence, baselines, affected flows, and test gaps. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "enterprise-enterprise-onboarding-compiler",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Enterprise Enterprise Onboarding Compiler for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-onboarding-orchestrator",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Enterprise Onboarding Orchestrator for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-contract-coordination",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Contract Coordination for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-customer-onboarding",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Customer Onboarding for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-delivery-risk",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Delivery Risk for Professional Services. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-employee-offboarding",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Employee Offboarding for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-employee-onboarding",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Employee Onboarding for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-enterprise-risk-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Risk Management for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-partner-performance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Partner Performance for Partnerships / Ecosystem. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-performance-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Performance Management for Human Resources. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-procurement-renewal-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Procurement Renewal Management for Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-renewal-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Renewal Management for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-risk-evidence-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Risk Evidence Management for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-risk-exception-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Risk Exception Management for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-risk-remediation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Risk Remediation for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-risk-reporting",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Risk Reporting for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "generation_risk_previs",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Generation Risk Previsualization specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "imitation_risk_audit",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Originality / Imitation Risk Audit specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "performance_objective_design",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Performance Objective Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "performance_prompting",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Performance Prompting specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "rights_risk_triage",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Rights / Clearance Risk Triage specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "temp_track_risk_audit",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Temp Track Risk Audit specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    }
+  ],
+  "primary_accountable": [
+    "cio-technology-renewal-management",
+    "cio-third-party-cyber-risk",
+    "motion-performance-planning",
+    "procurement-assess-supply-chain-risk",
+    "procurement-certificate-expiry-monitoring",
+    "procurement-contract-obligation-extraction",
+    "procurement-contract-renewal-readiness",
+    "procurement-corrective-action-follow-up",
+    "procurement-lead-time-exception-triage",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-monitor-supplier-performance",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence",
+    "procurement-price-variance-investigation",
+    "procurement-supplier-concentration-exposure",
+    "procurement-supplier-exit-readiness",
+    "procurement-supplier-master-validation",
+    "procurement-supplier-onboarding-readiness",
+    "procurement-supplier-quality-issue-escalation",
+    "procurement-supplier-risk-signal-validation",
+    "procurement-third-party-data-change-review",
+    "rights_risk_triage",
+    "temp_track_risk_audit",
+    "tsc-partner-onboarding-engineer"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

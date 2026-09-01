@@ -1,0 +1,27 @@
+{
+  "pocket": "talentos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-succession-mobility-planning",
+    "people-succession-risk-evidence",
+    "people-accommodation-handoff-preparation",
+    "people-hr-data-quality-remediation",
+    "people-performance-checkin-preparation",
+    "people-employee-records-governance",
+    "people-employee-relations-investigations",
+    "people-skill-profile-quality-check",
+    "people-contingent-worker-compliance",
+    "people-ethics-training-completion-review",
+    "people-payroll-exception-triage",
+    "people-time-attendance-exception",
+    "people-hr-compliance-reviewer",
+    "people-hr-policy-specialist",
+    "people-performance-review-writer",
+    "agentic-systems-architect",
+    "casting-performance-development",
+    "healthcare-cms-quality-measure-reporting",
+    "government-measure-benefits-and-performance",
+    "people-candidate-evaluation-specialist"
+  ]
+}

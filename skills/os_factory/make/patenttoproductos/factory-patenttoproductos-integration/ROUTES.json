@@ -1,0 +1,27 @@
+{
+  "pocket": "patenttoproductos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "eos-product-market-discovery",
+    "cio-software-license-optimization",
+    "eos-product-analytics",
+    "eos-product-experimentation",
+    "eos-product-lifecycle-management",
+    "eos-product-prioritization",
+    "eos-product-requirements",
+    "eos-product-roadmap",
+    "marketing-event-strategy-operations",
+    "marketing-campaign-orchestration",
+    "eos-event-marketing",
+    "marketing-event-marketing-strategist",
+    "legal-risk-ip-docket-readiness",
+    "eos-product-customer-discovery",
+    "eos-product-strategy",
+    "cio-data-product-management",
+    "eos-market-research",
+    "eos-product-adoption",
+    "eos-product-launch",
+    "eos-product-marketing"
+  ]
+}

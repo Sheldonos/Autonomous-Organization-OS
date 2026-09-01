@@ -1,0 +1,27 @@
+{
+  "pocket": "customeros",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "customer-success-customer-onboarding-specialist",
+    "ibm-sales-scale-068",
+    "customer-service-customer-save-case-preparation",
+    "customer-service-case-closure-quality-check",
+    "customer-service-service-level-risk-monitoring",
+    "customer-service-troubleshooting-plan-draft",
+    "ibm-dep-csm-001",
+    "ibm-dep-sa-001",
+    "customer-service-backlog-prioritization-support",
+    "customer-service-case-intake-classification",
+    "customer-service-digital-channel-health-review",
+    "customer-service-knowledge-evidence-retrieval",
+    "customer-service-self-service-gap-analysis",
+    "engineering-developer-environment-readiness",
+    "eos-customer-onboarding",
+    "ibm-dep-001",
+    "ibm-dep-002",
+    "ibm-dep-csm-002",
+    "ibm-dep-sa-002",
+    "ibm-sales-role-workflow-cartographer"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "deployment_id": "coldroom-replace-me",
+  "environment": "production",
+  "deployment_tier": "air_gapped",
+  "enabled_pockets": ["enterpriseos", "researchos"],
+  "state_db": "/var/lib/faos/federation.db",
+  "dynamic_skill_dir": "/var/lib/faos/dynamic_skills",
+  "connector_registry_db": "/var/lib/faos/capabilities.db",
+  "eventing": {"mode":"event_driven","backend":"sqlite_durable_queue","reconciliation_seconds":3600,"max_attempts":5,"dead_letter":true},
+  "autonomy": {"enabled":true,"continuous_model_loop":false,"default_daily_model_budget_usd":0,"default_monthly_model_budget_usd":0},
+  "upgrade": {"strategy":"guarded_offline_blue_green","drain_external_writes":true,"pre_upgrade_backup":true,"schema_strategy":"expand_migrate_contract"},
+  "dr": {"tier":"cold","rpo_minutes":60,"rto_minutes":240,"offsite_copy":true,"immutable_or_offline_copy":true,"restore_test":true},
+  "data_sovereignty": {"mode":"air_gapped","compute_to_data":true,"external_network_allowed":false},
+  "egress": {"monthly_budget_usd":0,"prefer_locality":true,"bulk_export_requires_approval":true},
+  "connector_instances": {}
+}

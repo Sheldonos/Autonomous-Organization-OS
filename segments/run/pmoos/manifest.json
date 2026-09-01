@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "id": "pmoos",
+  "title": "PMO OS",
+  "segment": "run",
+  "mission": "Translate strategy into portfolios, programs, projects, dependencies, risks, decisions, and measurable outcomes.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 84,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Portfolio intake",
+    "Prioritization",
+    "Program planning",
+    "Dependency & resource map",
+    "Execution tracking",
+    "Risk/issues",
+    "Decision & escalation",
+    "Benefits realization"
+  ],
+  "handoffs": [
+    "enterpriseos",
+    "executiveos",
+    "buildos"
+  ],
+  "connectors": [
+    "project_mgmt",
+    "calendar",
+    "finance",
+    "document_store",
+    "analytics"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

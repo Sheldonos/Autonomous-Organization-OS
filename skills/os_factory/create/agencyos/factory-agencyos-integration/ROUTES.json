@@ -1,0 +1,27 @@
+{
+  "pocket": "agencyos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "agency-operations-delivery-status-control",
+    "agency-operations-records-retention-management",
+    "agency-operations-privacy-data-handling",
+    "agency-operations-resource-capacity-planning",
+    "agency-utilization-analyst",
+    "agency-account-director",
+    "agency-account-manager",
+    "agency-management-consultant",
+    "agency-technology-consultant",
+    "agency-consultant",
+    "agency-consulting-engagement-manager",
+    "agency-engagement-manager",
+    "agency-implementation-consultant",
+    "agency-orchestrator",
+    "agency-principal-advisor",
+    "agency-proposal-consultant",
+    "agency-solution-consultant",
+    "agency-statement-of-work-specialist",
+    "agency-strategy-consultant",
+    "ibm-bob-ads-launch"
+  ]
+}

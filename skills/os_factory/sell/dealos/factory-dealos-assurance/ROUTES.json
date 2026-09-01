@@ -1,0 +1,27 @@
+{
+  "pocket": "dealos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "sales-deal-risk-analyst",
+    "ibm-sales-scale-072",
+    "ibm-career-sales-brand-technical-sales-specialist",
+    "ibm-career-sales-partner-technical-specialist",
+    "ibm-career-sales-technology-sales-leader",
+    "ibm-career-sales-territory-sales-specialist",
+    "ibm-sales-scale-044",
+    "ibm-sales-scale-071",
+    "independent-megadeal-originator",
+    "ibm-sales-scale-073",
+    "ibm-sales-scale-074",
+    "ibm-sales-ext-commercial-deal-desk-route",
+    "sales-value-realization-modeling",
+    "ibm-met-sm-001",
+    "ibm-met-sm-007",
+    "ibm-sales-scale-038",
+    "sales-contract-approval",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "sales-proposal-management",
+    "revenue-quote-policy-compliance"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "pocket": "brandos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Brand intelligence Team",
+      "stage": 1,
+      "responsibility": "Brand intelligence",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Positioning Team",
+      "stage": 2,
+      "responsibility": "Positioning",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Messaging system Team",
+      "stage": 3,
+      "responsibility": "Messaging system",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Identity & asset governance Team",
+      "stage": 4,
+      "responsibility": "Identity & asset governance",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Campaign briefs Team",
+      "stage": 5,
+      "responsibility": "Campaign briefs",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Creative QA Team",
+      "stage": 6,
+      "responsibility": "Creative QA",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Distribution Team",
+      "stage": 7,
+      "responsibility": "Distribution",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Brand measurement Team",
+      "stage": 8,
+      "responsibility": "Brand measurement",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

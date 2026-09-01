@@ -1,0 +1,16 @@
+Tool,Role,Configuration,Credential,When,Guardrail
+ChatGPT,Owner console,Action/OpenAPI -> DealOS only,X-DealOS-Key,Optional,"Read/approve, never raw credentials"
+OpenAI API,Reasoning,Luna/Terra/Sol cascade,OPENAI_API_KEY,Required,Budget caps + structured output
+Manus,Deep research fallback,v2 tasks + signed webhook,MANUS_API_KEY,Optional,Only > expected value threshold
+n8n,Orchestration,Self-hosted HTTPS,N8N_ENCRYPTION_KEY,Required,Credential boundary
+Gmail,Email,Dedicated mailbox + labels,Google OAuth in n8n,Required,SPF/DKIM/DMARC
+Google Calendar,Scheduling,Dedicated/shared calendar,Google OAuth in n8n,Required,Booking envelope
+Google Drive,Knowledge files,Dedicated root folder,Google OAuth in n8n,Required,Least privilege
+Supabase/Postgres,System of record,schema.sql,DATABASE_URL,Required,Server-side only
+Hunter,Qualified contact discovery,Email Finder/Verifier,HUNTER_API_KEY,Private-market lane,Call only after qualification
+SAM.gov,Gov opportunities,Opportunities v2 API,SAM_API_KEY,Gov lane,Hourly scan
+USAspending,Award intelligence,REST API,None,Gov lane,No auth
+DocuSign,E-signature,JWT/OAuth server integration,JWT private key,Closing,Owner signature by default
+Stripe,Billing,Invoices/subscriptions/ACH,Secret + webhook secret,Closing,No autonomous payouts/refunds
+Caddy,TLS,Reverse proxy,DNS,Required,Expose only 80/443
+GitHub,Source control,Private repo/protected policies,GitHub auth,Recommended,Never commit secrets

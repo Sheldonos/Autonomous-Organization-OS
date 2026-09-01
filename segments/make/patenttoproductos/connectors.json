@@ -1,0 +1,11 @@
+{
+  "pocket": "patenttoproductos",
+  "required_or_optional_classes": [
+    "patent_data",
+    "web_research",
+    "document_store",
+    "crm"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

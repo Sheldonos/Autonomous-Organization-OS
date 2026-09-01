@@ -1,0 +1,27 @@
+{
+  "pocket": "launchos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-bob-ads-monitor",
+    "marketing-campaign-launch-readiness",
+    "product-launch-architect",
+    "product-launch-manager",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "ibm-bob-ads-launch",
+    "ibm-sales-ext-platform-model-release",
+    "eos-product-launch",
+    "marketing-launch-marketing-strategist",
+    "product-go-to-market-planning",
+    "product-release-readiness-assessment",
+    "product-roadmap-planning",
+    "product-product-analytics",
+    "product-backlog-governance",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "product-customer-problem-discovery",
+    "product-requirements-traceability"
+  ]
+}

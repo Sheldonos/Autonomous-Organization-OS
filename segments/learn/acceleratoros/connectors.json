@@ -1,0 +1,12 @@
+{
+  "pocket": "acceleratoros",
+  "required_or_optional_classes": [
+    "applications",
+    "lms",
+    "crm",
+    "calendar",
+    "analytics"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

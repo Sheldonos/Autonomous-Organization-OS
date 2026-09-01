@@ -1,0 +1,27 @@
+{
+  "pocket": "revenueos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "sales-expansion-strategist",
+    "tls-customer-success-expansion-agent",
+    "sales-close-to-delivery-transition",
+    "revenue-expansion-signal-qualification",
+    "revenue-renewal-risk-assessment",
+    "revenue-account-health-scorecard",
+    "revenue-adoption-analysis",
+    "revenue-churn-root-cause-analysis",
+    "revenue-qbr-pack-preparation",
+    "customer-service-customer-save-case-preparation",
+    "customer-success-expansion-specialist",
+    "ibm-exp-tss-001",
+    "sales-expansion-opportunity-analyst",
+    "ibm-sales-scale-072",
+    "sales-seller-intelligence-mcp-integration",
+    "marketing-account-based-signal-qualification",
+    "marketing-lead-quality-review",
+    "marketing-partner-marketing-readiness",
+    "eos-customer-expansion",
+    "ibm-sales-onboarding-value-data-audit"
+  ]
+}

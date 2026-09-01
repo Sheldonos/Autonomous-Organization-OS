@@ -1,0 +1,27 @@
+{
+  "pocket": "pricingos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-unit-economics-analyst",
+    "revenue-pricing-exception-preparation",
+    "business-development-alliance-management",
+    "cio-it-unit-economics",
+    "eos-unit-economics",
+    "ibm-bob-ads-math",
+    "ecommerce-pricing-analyst",
+    "ecommerce-catalog-management-specialist",
+    "ecommerce-cart-optimization-specialist",
+    "ecommerce-conversion-specialist",
+    "ecommerce-customer-journey-analyst",
+    "ecommerce-e-commerce-analytics-specialist",
+    "ecommerce-e-commerce-orchestrator",
+    "ecommerce-e-commerce-seo-specialist",
+    "ecommerce-e-commerce-strategist",
+    "ecommerce-marketplace-analyst",
+    "ecommerce-marketplace-operations-specialist",
+    "ecommerce-merchandising-specialist",
+    "ecommerce-orchestrator",
+    "ecommerce-product-description-writer"
+  ]
+}

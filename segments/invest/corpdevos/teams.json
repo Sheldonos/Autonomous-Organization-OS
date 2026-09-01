@@ -1,0 +1,74 @@
+{
+  "pocket": "corpdevos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Strategic gap Team",
+      "stage": 1,
+      "responsibility": "Strategic gap",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Build/buy/partner/invest analysis Team",
+      "stage": 2,
+      "responsibility": "Build/buy/partner/invest analysis",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Target universe Team",
+      "stage": 3,
+      "responsibility": "Target universe",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Screening Team",
+      "stage": 4,
+      "responsibility": "Screening",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Diligence Team",
+      "stage": 5,
+      "responsibility": "Diligence",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Synergy & valuation Team",
+      "stage": 6,
+      "responsibility": "Synergy & valuation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Executive decision Team",
+      "stage": 7,
+      "responsibility": "Executive decision",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Transaction/partner handoff Team",
+      "stage": 8,
+      "responsibility": "Transaction/partner handoff",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

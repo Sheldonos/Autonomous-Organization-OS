@@ -1,0 +1,27 @@
+{
+  "pocket": "complianceos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-audit-evidence-management",
+    "legal-risk-audit-finding-remediation",
+    "cybersecurity-vulnerability-exposure-management",
+    "legal-risk-issue-triage",
+    "ibm-sales-ext-platform-incident-response",
+    "eos-risk-remediation",
+    "it-patch-compliance-evidence",
+    "education-remediation-specialist",
+    "enterprise-human-remediation-instruction",
+    "process-risk-to-remediation",
+    "cybersecurity-identity-access-governance",
+    "grc-audit-specialist",
+    "grc-compliance-analyst",
+    "grc-internal-audit-analyst",
+    "grc-policy-management-specialist",
+    "grc-regulatory-compliance-specialist",
+    "government-measure-benefits-and-performance",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-control-assessment"
+  ]
+}

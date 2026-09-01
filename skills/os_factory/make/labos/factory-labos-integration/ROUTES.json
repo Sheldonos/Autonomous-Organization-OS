@@ -1,0 +1,27 @@
+{
+  "pocket": "labos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "quantum-research-publication-gate",
+    "quantum-experiment-state-manager",
+    "quantum-simulation-reproducibility-auditor",
+    "qisbob-quantum-mentor",
+    "quantum-classical-baseline-analyst",
+    "quantum-hardware-capability-status-controller",
+    "quantum-hardware-job-lifecycle-manager",
+    "shared-research-api-documentation-researcher",
+    "enterprise-domain-simulation-engineer",
+    "quantum-algorithm-specialist",
+    "quantum-circuit-designer",
+    "quantum-classical-vs-quantum-evaluator",
+    "quantum-computing-educator",
+    "quantum-hardware-specialist",
+    "quantum-optimization-specialist",
+    "quantum-orchestrator",
+    "quantum-resource-estimator",
+    "quantum-results-reviewer",
+    "quantum-simulation-specialist",
+    "quantum-workflow-specialist"
+  ]
+}

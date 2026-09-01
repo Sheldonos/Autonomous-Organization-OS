@@ -1,0 +1,1049 @@
+{
+  "schema_version": "2.0",
+  "pocket": "propertyos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 76,
+  "skills": [
+    {
+      "slug": "real-estate-lease-administration",
+      "score": 105,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Lease Administration** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-lease-administration`, `lease-administration`, or the corresponding professional workflow: Lease and occupancy administration | abstract lease terms, critical dates, options, rent escalations, recoveries, obligations, and tenant/landlord actions"
+    },
+    {
+      "slug": "real-estate-facilities-financial-reporting",
+      "score": 89,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Facilities Financial Reporting** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-facilities-financial-reporting`, `facilities-financial-reporting`, or the corresponding professional workflow: Financial planning, operating expense control, and reporting | build operating and capital budgets, forecast recoveries and utility costs, reconcile invoices, analyze variances, and produce owner/tenant/management reports"
+    },
+    {
+      "slug": "real-estate-portfolio-strategy",
+      "score": 86,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Portfolio Strategy** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-portfolio-strategy`, `portfolio-strategy`, or the corresponding professional workflow: Portfolio and asset strategy | prioritize acquisitions, dispositions, capital allocation, risk, and service outcomes against business strategy"
+    },
+    {
+      "slug": "real-estate-property-operations",
+      "score": 86,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Property Operations** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-property-operations`, `property-operations`, or the corresponding professional workflow: Property operations and service delivery | coordinate cleaning, security, grounds, utilities, access, customer service, and vendor performance against service levels"
+    },
+    {
+      "slug": "real-estate-space-utilization-planning",
+      "score": 86,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Space Utilization Planning** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-space-utilization-planning`, `space-utilization-planning`, or the corresponding professional workflow: Space planning and workplace utilization | translate occupancy, adjacency, accessibility, hybrid-work, and growth requirements into scenario options and a preferred plan"
+    },
+    {
+      "slug": "real-estate-area-measurement",
+      "score": 83,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Area Measurement** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-area-measurement`, `area-measurement`, or the corresponding professional workflow: Area measurement and charge allocation | apply the property-type-appropriate ANSI/BOMA method to calculate rentable, usable, gross, or leasable areas and allocate common-area or operating costs"
+    },
+    {
+      "slug": "real-estate-compliance-inspection",
+      "score": 83,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Compliance Inspection** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-compliance-inspection`, `compliance-inspection`, or the corresponding professional workflow: Compliance, accessibility, and life-safety management | identify applicable laws, codes, permits, accessibility requirements, fire/life-safety controls, and inspection obligations for the jurisdiction and asset"
+    },
+    {
+      "slug": "real-estate-preventive-maintenance",
+      "score": 83,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Preventive Maintenance** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-preventive-maintenance`, `preventive-maintenance`, or the corresponding professional workflow: Preventive maintenance and asset reliability | inspect building systems, assess condition and criticality, schedule preventive/predictive work, and manage corrective backlog"
+    },
+    {
+      "slug": "real-estate-property-due-diligence-analyst",
+      "score": 83,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Property Due Diligence Analyst role: property due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-property-operations-analyst",
+      "score": 83,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Property Operations Analyst role: property operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-acquisition-analyst",
+      "score": 80,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Acquisition Analyst role: acquisition; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-asset-management-analyst",
+      "score": 80,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Asset Management Analyst role: asset management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-lease-analyst",
+      "score": 80,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Lease Analyst role: lease; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-property-research-specialist",
+      "score": 80,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Property Research Specialist role: property research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-property-valuation-analyst",
+      "score": 80,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Property Valuation Analyst role: property valuation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-tenant-analysis-specialist",
+      "score": 80,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Tenant Analysis Specialist role: tenant analysis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-underwriting-specialist",
+      "score": 80,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Real Estate Underwriting Specialist role: real estate underwriting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-capital-project-delivery",
+      "score": 78,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Capital Project Delivery** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-capital-project-delivery`, `capital-project-delivery`, or the corresponding professional workflow: Capital project planning and delivery | define scope, business case, budget, schedule, procurement route, design criteria, commissioning, and change control"
+    },
+    {
+      "slug": "real-estate-emergency-continuity-planning",
+      "score": 75,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Emergency Continuity Planning** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-emergency-continuity-planning`, `emergency-continuity-planning`, or the corresponding professional workflow: Emergency preparedness and business continuity | assess hazards, maintain emergency plans, drills, communications, critical-service dependencies, and recovery priorities"
+    },
+    {
+      "slug": "real-estate-vendor-contract-management",
+      "score": 75,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Vendor Contract Management** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-vendor-contract-management`, `vendor-contract-management`, or the corresponding professional workflow: Vendor and contract lifecycle management | define scopes and service levels, evaluate bids, verify insurance and qualifications, administer contracts, monitor performance, and manage renewal or termination"
+    },
+    {
+      "slug": "construction-commissioning-turnover",
+      "score": 74,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Commissioning Turnover** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-commissioning-turnover`, `commissioning-turnover`, or the corresponding professional workflow: commissioning, turnover, and closeout | complete punch lists, functional performance testing, commissioning, training, as-builts, O&M manuals, warranties, permits, final inspections, lessons learned, and post-occupancy transition | commissioning authority, contractor, design team, owner/facilities operations, authorities having jurisdiction"
+    },
+    {
+      "slug": "real-estate-market-analysis-specialist",
+      "score": 72,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Market Analysis Specialist role: market analysis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-sustainability-performance",
+      "score": 72,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Sustainability Performance** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-sustainability-performance`, `sustainability-performance`, or the corresponding professional workflow: Energy, water, carbon, and sustainability management | establish baselines, meter and verify consumption, identify efficiency projects, track emissions and water, and document sustainable-building performance"
+    },
+    {
+      "slug": "real-estate-cap-rate-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Cap Rate Analyst role: cap rate; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-commercial-real-estate-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Commercial Real Estate Analyst role: commercial real estate; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-comparable-sales-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Comparable Sales Analyst role: comparable sales; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-development-feasibility-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Development Feasibility Analyst role: development feasibility; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-investment-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Real Estate Investment Analyst role: real estate investment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-investment-memo-writer",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Investment Memo Writer role: investment memo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-location-intelligence-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Location Intelligence Analyst role: location intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-noi-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the NOI Analyst role: noi; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-orchestrator",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Real Estate Orchestrator role: real estate; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-portfolio-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Portfolio Analyst role: portfolio; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-rent-comparable-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Rent Comparable Analyst role: rent comparable; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-residential-real-estate-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Residential Real Estate Analyst role: residential real estate; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-risk-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Real Estate Risk Analyst role: real estate risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "real-estate-site-selection-analyst",
+      "score": 69,
+      "domain": "real-estate",
+      "description": "Use for real estate work requiring the Site Selection Analyst role: site selection; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-construction-safety-escalation",
+      "score": 63,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Construction Safety Escalation** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-construction-safety-escalation`, `construction-safety-escalation`, or the corresponding professional workflow: preconstruction planning and mobilization | convert scope into WBS/work packages, baseline schedule, cost plan, resource plan, logistics, permits, and risk controls | owner, general contractor, trade partners, safety, design team, permitting authorities"
+    },
+    {
+      "slug": "construction-field-coordination",
+      "score": 63,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Field Coordination** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-field-coordination`, `field-coordination`, or the corresponding professional workflow: field execution and coordination | coordinate daily work, look-ahead planning, site logistics, interfaces, RFIs, submittals, inspections, and design clarifications | superintendent, subcontractors, architect/engineer, owner representative, safety and quality leads"
+    },
+    {
+      "slug": "construction-preconstruction-mobilization",
+      "score": 63,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Preconstruction Mobilization** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-preconstruction-mobilization`, `preconstruction-mobilization`, or the corresponding professional workflow: preconstruction planning and mobilization | convert scope into WBS/work packages, baseline schedule, cost plan, resource plan, logistics, permits, and risk controls | owner, general contractor, trade partners, safety, design team, permitting authorities"
+    },
+    {
+      "slug": "construction-project-charter-planning",
+      "score": 63,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Charter Planning** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-charter-planning`, `project-charter-planning`, or the corresponding professional workflow: project charter and project management plan approval"
+    },
+    {
+      "slug": "construction-quality-inspection-management",
+      "score": 63,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Quality Inspection Management** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-quality-inspection-management`, `quality-inspection-management`, or the corresponding professional workflow: field execution and coordination | coordinate daily work, look-ahead planning, site logistics, interfaces, RFIs, submittals, inspections, and design clarifications | superintendent, subcontractors, architect/engineer, owner representative, safety and quality leads"
+    },
+    {
+      "slug": "construction-capital-project-intake",
+      "score": 60,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Capital Project Intake** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-capital-project-intake`, `capital-project-intake`, or the corresponding professional workflow: capital-project intake and business-case development | define need, scope, outcomes, funding, delivery strategy, and risk tier before authorization | owner/sponsor, program manager, finance, users, regulators"
+    },
+    {
+      "slug": "construction-change-order-governance",
+      "score": 60,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Change Order Governance** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-change-order-governance`, `change-order-governance`, or the corresponding professional workflow: no autonomous change order, payment, or claim decision"
+    },
+    {
+      "slug": "construction-construction-procurement-support",
+      "score": 60,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Construction Procurement Support** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-construction-procurement-support`, `construction-procurement-support`, or the corresponding professional workflow: design management and design reviews | coordinate requirements, basis of design, constructability, code compliance, and staged reviews before issue-for-construction | owner, architect/engineer of record, specialty engineers, authorities having jurisdiction, contractor"
+    },
+    {
+      "slug": "construction-contract-records-management",
+      "score": 60,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Contract Records Management** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-contract-records-management`, `contract-records-management`, or the corresponding professional workflow: design management and design reviews | coordinate requirements, basis of design, constructability, code compliance, and staged reviews before issue-for-construction | owner, architect/engineer of record, specialty engineers, authorities having jurisdiction, contractor"
+    },
+    {
+      "slug": "construction-design-review-coordination",
+      "score": 60,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Design Review Coordination** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-design-review-coordination`, `design-review-coordination`, or the corresponding professional workflow: design management and design reviews | coordinate requirements, basis of design, constructability, code compliance, and staged reviews before issue-for-construction | owner, architect/engineer of record, specialty engineers, authorities having jurisdiction, contractor"
+    },
+    {
+      "slug": "construction-payment-application-review",
+      "score": 60,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Payment Application Review** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-payment-application-review`, `payment-application-review`, or the corresponding professional workflow: commercial/payment administration | verify measured progress, payment applications, retainage, lien waivers/releases, insurance/bond compliance, and supporting records against contract terms | owner/contract administrator, quantity surveyor/cost engineer, finance, contractor, lender/auditor"
+    },
+    {
+      "slug": "construction-project-closeout",
+      "score": 60,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Closeout** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-closeout`, `project-closeout`, or the corresponding professional workflow: capital-project intake and business-case development | define need, scope, outcomes, funding, delivery strategy, and risk tier before authorization | owner/sponsor, program manager, finance, users, regulators"
+    },
+    {
+      "slug": "construction-project-controls-reporting",
+      "score": 60,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Controls Reporting** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-controls-reporting`, `project-controls-reporting`, or the corresponding professional workflow: project controls and performance reporting | maintain a common data set for scope, cost, schedule, progress, forecasts, risks, decisions, and stakeholder-specific reporting cadence | project manager, project controls, finance, sponsor, contractors, resource managers"
+    },
+    {
+      "slug": "construction-safety-planning-specialist",
+      "score": 57,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Safety Planning Specialist role: safety planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-assistant-project-manager",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Assistant Project Manager role: assistant project; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-bid-analyst",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Bid Analyst role: bid; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-change-order-analyst",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Change Order Analyst role: change order; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-change-order-writer",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Change Order Writer role: change order; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-claims-documentation-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Claims Documentation Specialist role: claims documentation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-closeout-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Closeout Specialist role: closeout; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-cost-controls-analyst",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Cost Controls Analyst role: cost controls; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-cost-estimator",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Cost Estimator role: cost estimator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-critical-path-analyst",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Critical Path Analyst role: critical path; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-daily-report-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Daily Report Specialist role: daily report; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-document-analyst",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Document Analyst role: construction document; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-drawing-review-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Drawing Review Specialist role: drawing review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-estimator",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Estimator role: estimator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-orchestrator",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Orchestrator role: construction; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-preconstruction-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Preconstruction Specialist role: preconstruction; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-procurement-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Procurement Specialist role: construction procurement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-progress-tracking-analyst",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Progress Tracking Analyst role: progress tracking; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-project-controls-analyst",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Project Controls Analyst role: project controls; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-project-executive-advisor",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Project Executive Advisor role: construction project executive; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-project-manager",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Project Manager role: construction project; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-punch-list-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Punch List Specialist role: punch list; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-quality-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Quality Specialist role: construction quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-quantity-takeoff-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Quantity Takeoff Specialist role: quantity takeoff; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-rfi-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the RFI Specialist role: rfi; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-risk-analyst",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Risk Analyst role: construction risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-scheduler",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Scheduler role: construction scheduler; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-scope-analyst",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Scope Analyst role: scope; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-specification-review-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Specification Review Specialist role: specification review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-subcontractor-comparison-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Subcontractor Comparison Specialist role: subcontractor comparison; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-submittal-specialist",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Submittal Specialist role: submittal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-superintendent-advisor",
+      "score": 54,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Construction Superintendent Advisor role: construction superintendent; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "independent-megadeal-originator",
+      "score": 52,
+      "domain": "shared-execution",
+      "description": "Identify and package independent megadeal origination opportunities for human-led closing. Use when searching for, qualifying, or preparing deal context for high-value opportunities such as autonomous niche media/data platform rollups, off-grid data center real estate and power allocations, or cross-border luxury expedition/asset consortiums. Produces human-in-the-loop briefing packs with opportunity thesis, owner/buyer maps, diligence gaps, risk flags, MNDA/non-circumvention gating, SPV setup guidance, and success-fee LOI close checklists."
+    },
+    {
+      "slug": "agency-operations-engagement-closeout",
+      "score": 51,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Engagement Closeout** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-engagement-closeout`, `engagement-closeout`, or the corresponding professional workflow: engagement-closeout-and-renewal | decide acceptance, outstanding obligations, final billing, asset/credential return, data disposition, benefits review, reference permission, and follow-on opportunity | handoff from engagement manager to client sponsor, finance, legal/security, account lead, and practice leadership"
+    },
+    {
+      "slug": "operations-return-material-authorization-prep",
+      "score": 45,
+      "domain": "operations",
+      "description": "Prepare return-material authorization evidence and routing without approving disposition. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Logistics and Order Fulfillment Capability Director."
+    },
+    {
+      "slug": "eos-corporate-real-estate",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Eos Corporate Real Estate for Facilities / Workplace. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "engineering-secure-sdlc-assurance",
+      "score": 34,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Secure Sdlc Assurance** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-secure-sdlc-assurance`, `secure-sdlc-assurance`, or the corresponding professional workflow: Secure software and supply-chain assurance | identify threats, remediate vulnerabilities, validate dependencies/provenance, and decide residual risk disposition | security engineering, privacy/legal, procurement, suppliers, and accountable release owner"
+    },
+    {
+      "slug": "engineering-software-supply-chain-governance",
+      "score": 34,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Software Supply Chain Governance** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-software-supply-chain-governance`, `software-supply-chain-governance`, or the corresponding professional workflow: Secure software and supply-chain assurance | identify threats, remediate vulnerabilities, validate dependencies/provenance, and decide residual risk disposition | security engineering, privacy/legal, procurement, suppliers, and accountable release owner"
+    },
+    {
+      "slug": "game-dev",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Build playable browser games (Babylon.js) end-to-end using the godogen production pipeline adapted to Manus. Use when the user wants to make, generate, rebuild, or substantially extend a web/browser game from a natural-language brief. Runs godogen's staged workflow (visual target, risk decomposition, scaffold, architecture, asset generation, implementation, visual verification) but hosts the game in a Manus WebDev project, replaces godogen's paid art CLIs (Gemini/Grok/Tripo3D) with Manus built-in image generation, and deploys through WebDev Publish instead of temporary links."
+    },
+    {
+      "slug": "ibm-career-enterprise-operations-talent-acquisition-partner",
+      "score": 34,
+      "domain": "enterprise-operations",
+      "description": "IBM-aligned Talent Acquisition Partner specialist. Use for Enterprise Operations work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-sales-ext-platform-tool-security-assess",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Assess a proposed MCP, API, connector, or tool for ownership, authentication, operations allowlist, data handling, tenant isolation, logging, rate limits, and action safety. Use when the IBM Sales control mode selects capability `platform-governance.tool-security-assess` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "it-software-asset-license-review",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Review software-asset and license evidence for compliance and optimization opportunities. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Technology Asset and Vendor Management Capability Director."
+    },
+    {
+      "slug": "media-media-asset-management",
+      "score": 34,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Media Asset Management** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-media-asset-management`, `media-asset-management`, or the corresponding professional workflow: Clear rights and releases | verify ownership, licenses, music/footage/asset permissions, talent releases, location releases, and territory/term/media restrictions | handoff to legal/business affairs, rights holders, talent representatives, and delivery team"
+    },
+    {
+      "slug": "media-release-management",
+      "score": 34,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Release Management** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-release-management`, `release-management`, or the corresponding professional workflow: Clear rights and releases | verify ownership, licenses, music/footage/asset permissions, talent releases, location releases, and territory/term/media restrictions | handoff to legal/business affairs, rights holders, talent representatives, and delivery team"
+    },
+    {
+      "slug": "media-rights-clearance",
+      "score": 34,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Rights Clearance** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-rights-clearance`, `rights-clearance`, or the corresponding professional workflow: Clear rights and releases | verify ownership, licenses, music/footage/asset permissions, talent releases, location releases, and territory/term/media restrictions | handoff to legal/business affairs, rights holders, talent representatives, and delivery team"
+    },
+    {
+      "slug": "operations-asset-health-evidence",
+      "score": 34,
+      "domain": "operations",
+      "description": "Compile asset-health evidence and condition-monitoring caveats for owner review. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Maintenance and Reliability Capability Director."
+    },
+    {
+      "slug": "asset_registration",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Asset Registration specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "enterprise-tenant-isolation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Enterprise Tenant Isolation for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-facility-maintenance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Facility Maintenance for Facilities / Workplace. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "finance-fixed-asset-lifecycle-review",
+      "score": 31,
+      "domain": "finance",
+      "description": "Review fixed-asset lifecycle evidence for capitalization, transfer, and retirement exceptions. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "hazard-insurance-comparer",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Compares hazard (homeowners) insurance quotes for US properties by collecting detailed property data from the user, dynamically finding available insurance providers in the user's state, programmatically scraping or navigating online quote tools, and generating a ranked comparison table with a best-pick recommendation. Use when a user asks to compare home or hazard insurance quotes."
+    },
+    {
+      "slug": "ibm-sales-ext-identity-session-bind",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Bind an authenticated seller or approver session to tenant, region, role, and short-lived work context before any sales artifact or tool request is processed. Use when the IBM Sales control mode selects capability `identity-access.session-bind` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-platform-cost-latency-budget",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Assign and monitor cost, concurrency, latency, token/model, retrieval, and connector budgets by tenant, role, workflow, and capability. Use when the IBM Sales control mode selects capability `platform-governance.cost-latency-budget` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "investment-acquisition-target-researcher",
+      "score": 31,
+      "domain": "investment",
+      "description": "Use for investment work requiring the Acquisition Target Researcher role: acquisition target; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "people-talent-acquisition-strategist",
+      "score": 31,
+      "domain": "people",
+      "description": "Use for people work requiring the Talent Acquisition Strategist role: talent acquisition; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "process-acquisition-to-integration",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Process Acquisition To Integration for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-ai-prompt-asset-lifecycle",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx AI Prompt Asset Lifecycle for watsonx.ai. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "automation-manage-release-and-change",
+      "score": 26,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Manage Release And Change** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-manage-release-and-change`, `manage-release-and-change`, or the corresponding professional workflow: deployment-and-change-management | decide go-live, phased rollout, rollback, training, communications, support model, and change-window timing | handoff to change manager, release manager, service desk, business owner, and affected users"
+    },
+    {
+      "slug": "engineering-requirements-traceability-review",
+      "score": 26,
+      "domain": "engineering",
+      "description": "Review requirement traceability from business intent through acceptance criteria. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Product Delivery Planning Capability Director."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-renewal-risk-route",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Route validated renewal risk signals to the accountable account/CSM team with evidence, owner, timing, and permitted mitigation planning. Use when the IBM Sales control mode selects capability `customer-success.renewal-risk-route` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-ops-capacity-coverage",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Produce an aggregated, privacy-aware analysis of account coverage, role capacity, specialist demand, and workflow backlog for operating planning. Use when the IBM Sales control mode selects capability `sales-operations.capacity-coverage` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "product-release-readiness-assessment",
+      "score": 26,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Release Readiness Assessment** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-release-readiness-assessment`, `release-readiness-assessment`, or the corresponding professional workflow: govern-agile-delivery-and-backlog | decide backlog ordering, release scope, trade-offs, readiness, and changes using transparent inspection and adaptation | handoff to product owner/team, Scrum or delivery partners, QA, operations, and stakeholders"
+    },
+    {
+      "slug": "repository-release-audit",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Audit the Film Studio OS repository through discovery, classified findings, gated remediation, verification and release triage."
+    },
+    {
+      "slug": "engineering-architecture-decision-record",
+      "score": 23,
+      "domain": "engineering",
+      "description": "Prepare architecture decision record evidence, tradeoffs, standards, and reviewers. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Technical Design and Architecture Capability Director."
+    },
+    {
+      "slug": "engineering-backlog-refinement-support",
+      "score": 23,
+      "domain": "engineering",
+      "description": "Prepare backlog refinement packet with scope, dependencies, risks, and acceptance evidence. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Product Delivery Planning Capability Director."
+    },
+    {
+      "slug": "engineering-configuration-change-management",
+      "score": 23,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Configuration Change Management** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-configuration-change-management`, `configuration-change-management`, or the corresponding professional workflow: Manage configuration, versions, and change | maintain baselines, trace changes to approved work, assess impact, and approve or reject controlled changes | configuration management, change authority, release management, and audit/compliance"
+    },
+    {
+      "slug": "engineering-issue-backlog-health",
+      "score": 23,
+      "domain": "engineering",
+      "description": "Analyze issue backlog health, aging, duplication, priority evidence, and owner actions. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Product Delivery Planning Capability Director."
+    },
+    {
+      "slug": "engineering-release-deployment-management",
+      "score": 23,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Release Deployment Management** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-release-deployment-management`, `release-deployment-management`, or the corresponding professional workflow: Manage configuration, versions, and change | maintain baselines, trace changes to approved work, assess impact, and approve or reject controlled changes | configuration management, change authority, release management, and audit/compliance"
+    },
+    {
+      "slug": "engineering-release-readiness-gate",
+      "score": 23,
+      "domain": "engineering",
+      "description": "Assess release readiness across requirements, tests, security, operations, and approvals. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Release Management Capability Director."
+    },
+    {
+      "slug": "government-plan-public-acquisitions",
+      "score": 23,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Plan Public Acquisitions** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-plan-public-acquisitions`, `plan-public-acquisitions`, or the corresponding professional workflow: policy-to-delivery alignment and intervention evaluation | confirm statutory/policy objectives, outcomes, evidence plan, and value-for-money case | policy owners, analysts, finance, senior responsible owner, assurance"
+    },
+    {
+      "slug": "ibm-bob-ads-research",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Refresh IBM Bob Paid Media Operations platform, API, policy, regulation, benchmark, issue, pull-request, fork, and repository evidence. Use for ads research refresh, expired refresh_due dates, stale API or platform claims, reverify-or-demote decisions, release-current claim validation, ecosystem review, current platform changes, or updating paid-media knowledge. When tools or sources are unavailable, still demote the stale claim for the current run and block dependent release-current assertions before requesting access. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-validate",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Validate IBM Bob Paid Media Operations contracts, scoring inputs, run bundles, capabilities, source freshness, safety, installation, uninstall, or release readiness. Use for ads validate, ads status, ads next, stale claims with missing tool access, maturity checks, ownership-manifest uninstall, preserving unrelated ads-* skills, checksum verification, preflight, QA, or release audits. Missing access must demote stale evidence for the run and block dependent release-current claims before recovery guidance. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-deal-desk-route",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Route commercial requests to the correct deal-desk, pricing, finance, legal, and executive authorities with complete evidence and decision scope. Use when the IBM Sales control mode selects capability `commercial-governance.deal-desk-route` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-evidence-source-provenance",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Register source ownership, authority, access decision, permitted reuse, capture time, excerpt reference, and content lineage for every material evidence item. Use when the IBM Sales control mode selects capability `evidence-quality.source-provenance` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-identity-profile-reconcile",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Compare seller-declared profile fields against approved HR, sales-operations, and identity records; retain source labels and create a discrepancy route. Use when the IBM Sales control mode selects capability `identity-access.profile-reconcile` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-ops-crm-hygiene",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Identify missing, inconsistent, stale, or invalid CRM data against approved business rules and prepare owner-specific remediation drafts. Use when the IBM Sales control mode selects capability `sales-operations.crm-hygiene` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-platform-model-release",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Govern release of model, prompt, agent, knowledge, or workflow assets through versioning, factsheets, validation, monitoring, owner approval, and rollback preparation. Use when the IBM Sales control mode selects capability `platform-governance.model-release` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "intelligence-govern-release-and-access",
+      "score": 23,
+      "domain": "intelligence",
+      "description": "Perform the bounded professional capability **Govern Release And Access** for the **Business Intelligence and OSINT** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `intelligence-govern-release-and-access`, `govern-release-and-access`, or the corresponding professional workflow: review-and-release-governance | perform peer review, citation/evidence checks, privacy and legal screening, classification/access checks, and release approval | handoff to accountable human approver and records custodian"
+    },
+    {
+      "slug": "bob-agentic-sdlc-mode-designer",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A complete workflow for designing, configuring, and deploying IBM Project Bob custom modes that act as an autonomous \"Digital Workforce Swarm\" for the Agentic Engineering SDLC. Use when a user asks to create Bob modes, build an agentic SDLC pipeline, replace manual SDLC roles (like BAs, QA, or Release Coordinators) with agents, or configure a swarm architecture in IBM Project Bob."
+    },
+    {
+      "slug": "boomer-business-buyout-engine",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A complete playbook for acquiring, automating, and rolling up baby boomer-owned small businesses. Use when a user asks to find highly automatable businesses for sale, audit automation feasibility, structure seller-financed acquisitions, or design a mini-monopoly rollup strategy for a high-multiple exit."
+    },
+    {
+      "slug": "communications-press-release-writer",
+      "score": 20,
+      "domain": "communications",
+      "description": "Use for communications work requiring the Press Release Writer role: press release; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cyber-resilience-vulnerability-validation",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Validate vulnerability evidence, affected assets, exploit context, and owner routing. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Vulnerability Management Capability Director."
+    },
+    {
+      "slug": "engineering-accessibility-quality-review",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Review accessibility evidence against approved standards and remediation priorities. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-api-contract-review",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Review API contract compatibility, versioning, error behavior, and consumer impacts. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Technical Design and Architecture Capability Director."
+    },
+    {
+      "slug": "engineering-ci-pipeline-failure-analysis",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Analyze CI pipeline failures, evidence, affected components, and recovery options. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Platform Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-code-review-preparation",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Prepare code-review evidence, change summary, tests, and risk prompts. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Secure Code Delivery Capability Director."
+    },
+    {
+      "slug": "engineering-codebase-exploration-brief",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Create a bounded codebase exploration brief with files, dependencies, and uncertainty. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Engineering Intelligence Capability Director."
+    },
+    {
+      "slug": "engineering-database-migration-readiness",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Assess database migration readiness, data impact, rollback, and approval needs. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Technical Design and Architecture Capability Director."
+    },
+    {
+      "slug": "engineering-dependency-update-assessment",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Assess dependency-update scope, compatibility, vulnerability, and rollback evidence. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Secure Code Delivery Capability Director."
+    },
+    {
+      "slug": "engineering-developer-environment-readiness",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Assess developer-environment readiness, onboarding gaps, and platform support needs. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Developer Experience Capability Director."
+    },
+    {
+      "slug": "engineering-developer-productivity-insight",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Synthesize developer productivity evidence with methodology, limitations, and improvement hypotheses. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Developer Experience Capability Director."
+    },
+    {
+      "slug": "engineering-documentation-coverage-review",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Assess technical documentation coverage, freshness, ownership, and gaps. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Developer Experience Capability Director."
+    },
+    {
+      "slug": "engineering-feature-flag-readiness",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Assess feature-flag readiness, targeting, metrics, rollback, and owner controls. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Release Management Capability Director."
+    },
+    {
+      "slug": "engineering-incident-postmortem-preparation",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Prepare incident postmortem evidence, timeline, contributing factors, and follow-up ownership. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Engineering Intelligence Capability Director."
+    },
+    {
+      "slug": "engineering-mobile-quality-readiness",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Assess mobile release quality across devices, performance, accessibility, and telemetry. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-observability-instrumentation-review",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Review service instrumentation coverage, signal usefulness, and implementation gaps. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Platform Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-open-source-compliance-prep",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Compile open-source component evidence, notices, and policy review needs. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Secure Code Delivery Capability Director."
+    },
+    {
+      "slug": "engineering-performance-regression-analysis",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Analyze performance regression evidence, baselines, affected flows, and test gaps. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-release-engineer",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Release Engineer role: release; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-release-notes-preparation",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Draft release notes from approved changes, known limitations, and communication owners. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Release Management Capability Director."
+    },
+    {
+      "slug": "engineering-technical-debt-prioritization",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Prioritize technical debt using risk, cost, dependency, and delivery evidence. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Engineering Intelligence Capability Director."
+    },
+    {
+      "slug": "engineering-test-failure-triage",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Triage test failures with evidence, reproducibility, suspected scope, and routing. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-test-plan-design",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Prepare test plan scope, risks, datasets, environments, and pass criteria. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "enterprise-harness-release-engineer",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Package, validate, version, activate, roll back and evidence DomainBob harness releases. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "eos-release-management",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Eos Release Management for Engineering. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "evaluation-and-release-governance",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Test, certify, promote, update, or retire IBM Mode capability packages. Use before pilot or production release and after material changes to skills, knowledge, tools, models, policies, or authority."
+    },
+    {
+      "slug": "ibm-bob-ads-generate",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Generate paid-ad image assets from a validated creative brief and brand profile using an explicitly configured image provider. Triggers on: generate ads, generate ad images, create ad creatives, create ad images, make ad images, generate visuals, make campaign visuals, generate images from campaign brief. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-google",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit Google Ads measurement, Search, Shopping, Performance Max, Demand Gen, YouTube-linked inventory, keywords and search terms, negative-keyword generation or review, creative assets, bidding, budgets, settings, and policy. Use for Google Ads, AdWords, Search campaigns, search terms reports, broad negatives, Shopping, Performance Max, PMax, Demand Gen, GAQL, Google conversion tracking, or Google campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ibmi-office-hours",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create client-ready IBM Bob for IBM i office-hours assets. Use when asked to prepare or revise an IBM Bob / IBM i / RPG modernization presentation, align to a client-provided agenda, research attendees, create hand-drawn Bob-style slides, produce client leave-behind master prompts, or generate presentation scripts for IBM i modernization meetings."
+    },
+    {
+      "slug": "ibm-bob-whiteboard-storyboard",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Reverse-engineer reference visuals into a reusable IBM Bob whiteboard storyboard theme and apply it to presentations, infographics, one-pagers, enablement decks, and seller workspace packages. Use when the user asks to recreate, extend, standardize, or package the hand-drawn IBM Bob visual style; add slides to an existing IBM Bob deck; create Bob-ready theme prompts; or produce consistent whiteboard-style sales enablement assets."
+    }
+  ],
+  "primary_accountable": [
+    "construction-bid-analyst",
+    "construction-change-order-analyst",
+    "construction-change-order-governance",
+    "construction-change-order-writer",
+    "construction-claims-documentation-specialist",
+    "construction-closeout-specialist",
+    "construction-commissioning-turnover",
+    "construction-construction-procurement-support",
+    "construction-contract-records-management",
+    "construction-cost-controls-analyst",
+    "construction-cost-estimator",
+    "construction-critical-path-analyst",
+    "construction-daily-report-specialist",
+    "construction-design-review-coordination",
+    "construction-document-analyst",
+    "construction-drawing-review-specialist",
+    "construction-estimator",
+    "construction-field-coordination",
+    "construction-orchestrator",
+    "construction-payment-application-review",
+    "construction-preconstruction-specialist",
+    "construction-procurement-specialist",
+    "construction-progress-tracking-analyst",
+    "construction-punch-list-specialist",
+    "construction-quality-inspection-management",
+    "construction-quality-specialist",
+    "construction-quantity-takeoff-specialist",
+    "construction-rfi-specialist",
+    "construction-safety-planning-specialist",
+    "construction-scheduler",
+    "construction-scope-analyst",
+    "construction-specification-review-specialist",
+    "construction-subcontractor-comparison-specialist",
+    "construction-submittal-specialist",
+    "construction-superintendent-advisor",
+    "eos-corporate-real-estate",
+    "ibm-bob-whiteboard-storyboard",
+    "ibm-sales-ext-identity-profile-reconcile",
+    "ibm-sales-ext-identity-session-bind",
+    "ibm-sales-ext-platform-cost-latency-budget",
+    "real-estate-acquisition-analyst",
+    "real-estate-area-measurement",
+    "real-estate-asset-management-analyst",
+    "real-estate-cap-rate-analyst",
+    "real-estate-capital-project-delivery",
+    "real-estate-commercial-real-estate-analyst",
+    "real-estate-comparable-sales-analyst",
+    "real-estate-compliance-inspection",
+    "real-estate-development-feasibility-analyst",
+    "real-estate-emergency-continuity-planning",
+    "real-estate-facilities-financial-reporting",
+    "real-estate-investment-analyst",
+    "real-estate-investment-memo-writer",
+    "real-estate-lease-administration",
+    "real-estate-lease-analyst",
+    "real-estate-location-intelligence-analyst",
+    "real-estate-market-analysis-specialist",
+    "real-estate-noi-analyst",
+    "real-estate-orchestrator",
+    "real-estate-portfolio-analyst",
+    "real-estate-portfolio-strategy",
+    "real-estate-preventive-maintenance",
+    "real-estate-property-due-diligence-analyst",
+    "real-estate-property-operations",
+    "real-estate-property-operations-analyst",
+    "real-estate-property-research-specialist",
+    "real-estate-property-valuation-analyst",
+    "real-estate-rent-comparable-analyst",
+    "real-estate-residential-real-estate-analyst",
+    "real-estate-risk-analyst",
+    "real-estate-site-selection-analyst",
+    "real-estate-space-utilization-planning",
+    "real-estate-sustainability-performance",
+    "real-estate-tenant-analysis-specialist",
+    "real-estate-underwriting-specialist",
+    "real-estate-vendor-contract-management"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

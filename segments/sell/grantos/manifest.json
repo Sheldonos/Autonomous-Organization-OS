@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "id": "grantos",
+  "title": "GrantOS",
+  "segment": "sell",
+  "mission": "Discover, qualify, assemble, submit, manage, and report on grant opportunities.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 20,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Opportunity discovery",
+    "Eligibility",
+    "Funder research",
+    "Requirement matrix",
+    "Narrative & budget",
+    "Internal approvals",
+    "Submission",
+    "Award setup",
+    "Compliance reporting"
+  ],
+  "handoffs": [
+    "bidos",
+    "researchos",
+    "fundraiseos",
+    "complianceos"
+  ],
+  "connectors": [
+    "grant_feeds",
+    "document_store",
+    "calendar",
+    "finance",
+    "e_signature"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

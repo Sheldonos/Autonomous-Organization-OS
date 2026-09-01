@@ -1,0 +1,27 @@
+{
+  "pocket": "supplyos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "supply-chain-inventory-replenishment",
+    "supply-chain-warehouse-operations",
+    "supply-chain-inbound-receiving",
+    "supply-chain-purchase-order-management",
+    "eos-demand-planning",
+    "eos-fulfillment-management",
+    "eos-inventory-management",
+    "eos-logistics-management",
+    "eos-supply-chain-optimization",
+    "eos-supply-planning",
+    "sustainability-carbon-accounting-analyst",
+    "sustainability-energy-efficiency-analyst",
+    "sustainability-environmental-impact-analyst",
+    "sustainability-esg-analyst",
+    "sustainability-esg-evidence-reviewer",
+    "sustainability-orchestrator",
+    "sustainability-reporting-specialist",
+    "sustainability-strategist",
+    "eos-supply-capacity-management",
+    "eos-supply-chain-resilience"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "fundos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "government-measure-benefits-and-performance",
+    "finance-capital-allocation",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "finance-expense-policy-audit",
+    "finance-financial-policy-query-triage",
+    "data-strategy-portfolio-roadmap-synthesis",
+    "product-product-analytics",
+    "finance-audit-pbc-compilation",
+    "operations-operations-master-data-review",
+    "cio-ai-portfolio-management",
+    "cio-application-portfolio-management",
+    "cio-delivery-risk-management",
+    "cio-executive-portfolio-reporting",
+    "cio-innovation-portfolio-management",
+    "cio-portfolio-dependency-management",
+    "cio-project-portfolio-management",
+    "cio-saas-portfolio-management",
+    "data-strategy-business-case-preparation",
+    "eos-enterprise-portfolio-management"
+  ]
+}

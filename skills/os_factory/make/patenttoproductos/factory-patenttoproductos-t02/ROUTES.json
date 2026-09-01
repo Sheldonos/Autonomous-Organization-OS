@@ -1,0 +1,27 @@
+{
+  "pocket": "patenttoproductos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-pre-008",
+    "ibm-pre-apm-001",
+    "ibm-pre-sa-001",
+    "ibm-pre-003",
+    "ibm-pre-004",
+    "ibm-pre-006",
+    "ibm-pre-009",
+    "ibm-pre-010",
+    "ibm-pre-apm-002",
+    "ibm-pre-bdm-001",
+    "ibm-pre-cp-001",
+    "ibm-pre-iss-003",
+    "ibm-pre-sdr-001",
+    "ibm-pre-sdr-002",
+    "data-strategy-dashboard-quality-review",
+    "data-strategy-model-inventory-quality",
+    "data-strategy-model-risk-assessment-prep",
+    "data-strategy-okr-progress-review",
+    "data-strategy-prompt-policy-review",
+    "it-software-asset-license-review"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FAOS MCP Capability Snapshot",
+  "type": "object",
+  "required": ["connector_id", "protocol_version"],
+  "properties": {
+    "connector_id": {"type": "string", "minLength": 1},
+    "server_info": {"type": "object"},
+    "protocol_version": {"type": "string"},
+    "server_capabilities": {"type": "object"},
+    "tools": {"type": "array", "items": {"type": "object", "required": ["name"]}},
+    "resources": {"type": "array", "items": {"type": "object"}},
+    "resource_templates": {"type": "array", "items": {"type": "object"}},
+    "prompts": {"type": "array", "items": {"type": "object", "required": ["name"]}},
+    "discovered_at": {"type": "string"}
+  },
+  "additionalProperties": true
+}

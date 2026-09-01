@@ -1,0 +1,12 @@
+{
+  "pocket": "brandos",
+  "required_or_optional_classes": [
+    "asset_store",
+    "social",
+    "marketing_automation",
+    "analytics",
+    "document_store"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

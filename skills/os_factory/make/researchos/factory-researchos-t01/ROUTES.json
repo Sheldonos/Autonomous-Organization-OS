@@ -1,0 +1,27 @@
+{
+  "pocket": "researchos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "research-question-designer",
+    "research-question-framing",
+    "quantum-research-orchestrator",
+    "intelligence-collect-source-metadata",
+    "intelligence-discover-public-sources",
+    "intelligence-evaluate-source-credibility",
+    "intelligence-preserve-data-provenance",
+    "research-search-strategy-design",
+    "intelligence-analyze-patterns-and-trends",
+    "intelligence-build-decision-dashboards",
+    "intelligence-conduct-peer-review",
+    "intelligence-define-intelligence-requirements",
+    "intelligence-produce-intelligence-briefings",
+    "research-living-review-monitoring",
+    "research-protocol-preregistration",
+    "intelligence-map-entities-and-relationships",
+    "intelligence-normalize-and-resolve-entities",
+    "intelligence-quantify-analytic-confidence",
+    "research-certainty-assessment",
+    "research-data-extraction"
+  ]
+}

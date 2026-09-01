@@ -1,0 +1,27 @@
+{
+  "pocket": "ventureos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "startups-venture-risk-critic",
+    "product-quality-reviewer",
+    "product-requirements-traceability",
+    "customer-service-entitlement-validation",
+    "product-prototype-validation",
+    "product-roadmap-management",
+    "marketing-quality-reviewer",
+    "product-experiment-design",
+    "product-privacy-by-design-review",
+    "product-product-analytics",
+    "data-strategy-model-risk-assessment-prep",
+    "strategy-strategic-risk-analyst",
+    "executive-okr-operating-system",
+    "data-strategy-data-product-assessment",
+    "sales-competitive-strategy",
+    "marketing-event-strategy-operations",
+    "eos-product-customer-discovery",
+    "eos-product-market-discovery",
+    "ibm-pre-003",
+    "data-strategy-ai-use-case-qualification"
+  ]
+}

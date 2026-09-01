@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "launchos",
+  "title": "LaunchOS",
+  "segment": "make",
+  "mission": "Coordinate a cross-functional product, service, or market launch from readiness through post-launch learning.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 20,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Launch charter",
+    "Dependency map",
+    "Readiness gates",
+    "Enablement & assets",
+    "Channel activation",
+    "Release coordination",
+    "Launch monitoring",
+    "Post-launch learning"
+  ],
+  "handoffs": [
+    "buildos",
+    "revenueos",
+    "brandos",
+    "customeros"
+  ],
+  "connectors": [
+    "project_mgmt",
+    "analytics",
+    "crm",
+    "marketing_automation",
+    "code_host"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

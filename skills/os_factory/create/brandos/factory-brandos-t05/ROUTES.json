@@ -1,0 +1,27 @@
+{
+  "pocket": "brandos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "creative-campaign-creative-strategist",
+    "psychopolitical-campaign-manager",
+    "ibm-bob-ads-create",
+    "marketing-channel-performance-synthesis",
+    "marketing-attribution-explanation-pack",
+    "marketing-budget-pacing-analysis",
+    "marketing-campaign-brief-preparation",
+    "marketing-paid-media-anomaly-review",
+    "marketing-campaign-launch-readiness",
+    "marketing-campaign-orchestration",
+    "ibm-bob-ads-x",
+    "marketing-campaign-analyst",
+    "marketing-campaign-planner",
+    "ibm-bob-ads-reddit",
+    "ibm-bob-ads-youtube",
+    "ibm-bob-ads-generate",
+    "tls-campaign-architect-agent",
+    "ibm-bob-ads-google",
+    "ibm-bob-ads-linkedin",
+    "ibm-bob-ads-microsoft"
+  ]
+}

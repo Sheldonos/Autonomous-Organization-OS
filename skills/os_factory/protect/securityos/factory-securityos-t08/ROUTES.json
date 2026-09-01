@@ -1,0 +1,27 @@
+{
+  "pocket": "securityos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-career-security-security-engineer",
+    "ibm-career-security-security-specialist",
+    "cyber-resilience-crisis-coordination-case",
+    "cyber-resilience-data-loss-case-preparation",
+    "cyber-resilience-disaster-recovery-exercise-pack",
+    "cyber-resilience-fraud-security-collaboration",
+    "cyber-resilience-phishing-evidence-triage",
+    "cyber-resilience-privacy-breach-intake",
+    "cyber-resilience-security-alert-triage",
+    "cyber-resilience-security-incident-case",
+    "ibm-career-cloud-cloud-data-engineer",
+    "ibm-career-cloud-cloud-platform-architect",
+    "ibm-career-cloud-infrastructure-specialist",
+    "ibm-career-cloud-technical-architect",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering",
+    "cybersecurity-control-selection",
+    "cybersecurity-risk-treatment-planning"
+  ]
+}

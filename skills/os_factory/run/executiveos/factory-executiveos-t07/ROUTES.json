@@ -1,0 +1,27 @@
+{
+  "pocket": "executiveos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "chief-of-staff-board-materials-governance",
+    "chief-of-staff-escalation-triage",
+    "chief-of-staff-decision-rights-mapping",
+    "chief-of-staff-organizational-sensing",
+    "chief-of-staff-risk-crisis-coordination",
+    "chief-of-staff-executive-communications-control",
+    "legal-risk-board-governance-pack",
+    "chief-of-staff-risk-escalation-coordinator",
+    "strategy-strategic-risk-analyst",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "chief-of-staff-decision-record-management",
+    "chief-of-staff-executive-meeting-orchestration",
+    "chief-of-staff-executive-priority-shaping",
+    "chief-of-staff-privacy-aware-information-handling",
+    "chief-of-staff-strategic-operating-cadence",
+    "automation-assure-business-continuity",
+    "legal-dispute-claims-management",
+    "sales-competitive-strategy",
+    "chief-of-staff-cross-functional-initiative-coordination"
+  ]
+}

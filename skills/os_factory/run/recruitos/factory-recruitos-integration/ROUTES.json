@@ -1,0 +1,27 @@
+{
+  "pocket": "recruitos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-candidate-assessment",
+    "people-job-architecture",
+    "people-workforce-planning",
+    "people-talent-acquisition-strategist",
+    "people-job-architecture-specialist",
+    "people-job-description-writer",
+    "quantum-hardware-job-lifecycle-manager",
+    "people-requisition-management",
+    "people-structured-selection",
+    "procurement-sourcing-event-design",
+    "cio-ma-application-assessment",
+    "cio-ma-cybersecurity-assessment",
+    "eos-enterprise-sourcing",
+    "eos-hiring-workflow",
+    "it-integration-interface-assessment",
+    "cio-analytics-strategy",
+    "autonomous-cio-orchestrator",
+    "cio-agent-strategy",
+    "cio-board-technology-advisory",
+    "eos-recruiting"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "workforceos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "agent-lifecycle-manager",
+    "people-mobility-case-readiness",
+    "people-offboarding-workforce-transition",
+    "education-map-occupational-competencies",
+    "education-support-career-transition",
+    "people-benefits-enrollment-readiness",
+    "people-employee-relations-evidence",
+    "people-leave-case-preparation",
+    "people-onboarding-readiness-assessment",
+    "people-ethics-training-completion-review",
+    "people-accommodation-handoff-preparation",
+    "people-exit-readiness-check",
+    "people-learning-needs-analysis",
+    "education-manage-credentials-records",
+    "people-headcount-control-check",
+    "people-job-architecture",
+    "people-requisition-quality-review",
+    "people-skill-profile-quality-check",
+    "people-workforce-planning",
+    "education-analyze-learning-needs"
+  ]
+}

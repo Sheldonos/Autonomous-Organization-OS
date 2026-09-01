@@ -1,0 +1,27 @@
+{
+  "pocket": "propertyos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "real-estate-tenant-analysis-specialist",
+    "ibm-sales-ext-identity-session-bind",
+    "real-estate-lease-administration",
+    "real-estate-facilities-financial-reporting",
+    "real-estate-space-utilization-planning",
+    "construction-commissioning-turnover",
+    "real-estate-portfolio-strategy",
+    "real-estate-property-operations",
+    "real-estate-area-measurement",
+    "real-estate-compliance-inspection",
+    "real-estate-preventive-maintenance",
+    "real-estate-property-due-diligence-analyst",
+    "real-estate-property-operations-analyst",
+    "real-estate-acquisition-analyst",
+    "real-estate-asset-management-analyst",
+    "real-estate-lease-analyst",
+    "real-estate-property-research-specialist",
+    "real-estate-property-valuation-analyst",
+    "real-estate-underwriting-specialist",
+    "real-estate-capital-project-delivery"
+  ]
+}

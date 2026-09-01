@@ -1,0 +1,27 @@
+{
+  "pocket": "patentos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-contract-drafting-redlining",
+    "legal-obligation-management",
+    "legal-risk-conflict-of-interest-review",
+    "legal-risk-contract-intake-classification",
+    "legal-risk-insurance-claim-evidence",
+    "legal-risk-regulatory-horizon-scan",
+    "legal-msa-review-specialist",
+    "legal-nda-review-specialist",
+    "legal-risk-compliance-training-exception",
+    "legal-risk-gifts-hospitality-review",
+    "legal-risk-records-retention-review",
+    "legal-risk-sanctions-screening-case-prep",
+    "legal-saas-agreement-review-specialist",
+    "legal-sow-review-specialist",
+    "ibm-bob-ads-research",
+    "patent-fortress-strategist",
+    "quantum-research-publication-gate",
+    "finance-expense-policy-audit",
+    "marketing-content-claims-review",
+    "mastery-review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "fundraiseos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-variance-commentary-draft",
+    "line-function-presentation-strategist",
+    "ibm-sales-000",
+    "finance-scenario-modeling",
+    "finance-strategic-planning",
+    "cio-analytics-strategy",
+    "autonomous-cio-orchestrator",
+    "celebrity-brand-strategist",
+    "cio-agent-strategy",
+    "cio-board-technology-advisory",
+    "adr_strategy",
+    "boomer-business-buyout-engine",
+    "finance-ar-collections-prioritization",
+    "startups-fundraising-strategist",
+    "startups-investor-research-specialist",
+    "startups-pitch-deck-reviewer",
+    "startups-pitch-strategist",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "finance-working-capital-action-plan"
+  ]
+}

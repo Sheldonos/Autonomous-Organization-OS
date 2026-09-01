@@ -1,0 +1,27 @@
+{
+  "pocket": "eventos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "agent-operations-and-learning",
+    "physical-production-operations",
+    "production-design-art-department",
+    "production-sound-capture",
+    "production-team-simulation",
+    "production-safety-coordination",
+    "media-accessibility-localization",
+    "media-content-capture",
+    "media-post-production-editing",
+    "media-mastering-quality-control",
+    "media-production-scheduling",
+    "media-safety-risk-planning",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "rspkt-web-designer",
+    "advanced-web-developer",
+    "anime-series-production",
+    "feature-film-production",
+    "media-content-performance-review",
+    "media-correction-takedown-governance"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "make": {
+    "id": "make",
+    "title": "MAKE",
+    "mission": "Invent, research, validate, build, and launch.",
+    "pockets": [
+      "ventureos",
+      "researchos",
+      "buildos",
+      "innovationos",
+      "launchos",
+      "consultingos",
+      "patenttoproductos",
+      "labos"
+    ]
+  },
+  "sell": {
+    "id": "sell",
+    "title": "SELL",
+    "mission": "Discover demand, win opportunities, transact, and grow revenue.",
+    "pockets": [
+      "dealos",
+      "revenueos",
+      "bidos",
+      "commerceos",
+      "partnershipos",
+      "pricingos",
+      "customeros",
+      "grantos"
+    ]
+  },
+  "run": {
+    "id": "run",
+    "title": "RUN",
+    "mission": "Coordinate organizational execution, people, vendors, assets, and governance.",
+    "pockets": [
+      "enterpriseos",
+      "executiveos",
+      "procureos",
+      "talentos",
+      "pmoos",
+      "vendoros",
+      "supplyos",
+      "propertyos",
+      "franchiseos",
+      "boardos",
+      "recruitos"
+    ]
+  },
+  "protect": {
+    "id": "protect",
+    "title": "PROTECT",
+    "mission": "Manage cyber, legal, compliance, IP, and enterprise risk.",
+    "pockets": [
+      "securityos",
+      "legalos",
+      "complianceos",
+      "riskos",
+      "patentos"
+    ]
+  },
+  "invest": {
+    "id": "invest",
+    "title": "INVEST",
+    "mission": "Allocate capital, execute corporate development, and manage funds.",
+    "pockets": [
+      "capitalos",
+      "corpdevos",
+      "mandaos",
+      "fundos",
+      "fundraiseos"
+    ]
+  },
+  "create": {
+    "id": "create",
+    "title": "CREATE",
+    "mission": "Produce media, entertainment, brands, creator businesses, events, and agency work.",
+    "pockets": [
+      "mediaos",
+      "studioos",
+      "creatoros",
+      "brandos",
+      "eventos",
+      "agencyos"
+    ]
+  },
+  "learn": {
+    "id": "learn",
+    "title": "LEARN",
+    "mission": "Operate adaptive education, university, workforce, and accelerator systems.",
+    "pockets": [
+      "educationos",
+      "learningos",
+      "universityos",
+      "workforceos",
+      "acceleratoros"
+    ]
+  }
+}

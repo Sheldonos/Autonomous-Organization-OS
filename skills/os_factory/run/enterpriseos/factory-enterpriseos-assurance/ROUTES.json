@@ -1,0 +1,27 @@
+{
+  "pocket": "enterpriseos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "automation-govern-access-and-data",
+    "healthcare-health-records-governance",
+    "automation-baseline-process-performance",
+    "automation-discover-process",
+    "automation-manage-automation-incidents",
+    "automation-measure-process-conformance",
+    "automation-specify-automation-requirements",
+    "automation-standardize-process",
+    "automation-validate-automation-solution",
+    "automation-design-controls-and-approvals",
+    "automation-monitor-automation-runs",
+    "automation-assure-business-continuity",
+    "healthcare-vendor-business-associate-governance",
+    "cross-domain-outcome-verifier",
+    "eos-business-performance-review",
+    "eos-executive-business-review",
+    "cio-data-protection-strategy",
+    "cio-zero-trust-strategy"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pocket": "fundos",
+  "required_or_optional_classes": [
+    "portfolio_system",
+    "fund_admin",
+    "financial_data",
+    "document_store"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "customeros",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-ado-001",
+    "ibm-ado-002",
+    "ibm-ado-csm-001",
+    "ibm-ado-csm-002",
+    "ibm-ado-csm-003",
+    "ibm-ado-csm-004",
+    "eos-value-realization",
+    "ibm-sales-ext-customer-value-realization-evidence",
+    "product-product-analytics",
+    "customer-service-customer-save-case-preparation",
+    "tls-customer-success-expansion-agent",
+    "customer-service-case-closure-quality-check",
+    "customer-service-service-level-risk-monitoring",
+    "customer-service-troubleshooting-plan-draft",
+    "customer-service-backlog-prioritization-support",
+    "customer-service-case-intake-classification",
+    "customer-service-digital-channel-health-review",
+    "customer-service-knowledge-evidence-retrieval",
+    "customer-service-self-service-gap-analysis",
+    "ibm-sales-scale-071"
+  ]
+}

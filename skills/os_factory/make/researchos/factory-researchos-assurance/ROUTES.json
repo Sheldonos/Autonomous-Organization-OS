@@ -1,0 +1,27 @@
+{
+  "pocket": "researchos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "research-search-strategy-design",
+    "intelligence-conduct-peer-review",
+    "research-living-review-monitoring",
+    "research-certainty-assessment",
+    "research-evidence-to-decision",
+    "research-risk-of-bias-appraisal",
+    "research-transparent-reporting",
+    "intelligence-govern-release-and-access",
+    "intelligence-triangulate-and-test-hypotheses",
+    "intelligence-validate-data-quality",
+    "intelligence-source-verification-analyst",
+    "research-literature-review-specialist",
+    "data-quality-analyst",
+    "intelligence-quality-reviewer",
+    "ibm-pre-003",
+    "ibm-pre-004",
+    "ibm-pre-006",
+    "ibm-pre-009",
+    "ibm-pre-010",
+    "ibm-pre-apm-002"
+  ]
+}

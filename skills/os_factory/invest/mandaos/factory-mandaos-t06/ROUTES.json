@@ -1,0 +1,27 @@
+{
+  "pocket": "mandaos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-approval-signature-routing",
+    "legal-third-party-risk-assessment",
+    "legal-amendment-change-control",
+    "legal-contract-closeout-records",
+    "legal-contract-drafting-redlining",
+    "legal-contract-performance-monitoring",
+    "legal-contract-risk-issue-spotting",
+    "legal-contract-template-governance",
+    "legal-dispute-claims-management",
+    "legal-legal-hold-evidence-preservation",
+    "legal-legal-work-intake-triage",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "legal-contract-risk-reviewer",
+    "legal-risk-aml-case-evidence-prep",
+    "legal-risk-audit-finding-remediation",
+    "legal-risk-board-governance-pack",
+    "legal-risk-clause-variance-analysis",
+    "legal-risk-compliance-training-exception",
+    "legal-risk-conflict-of-interest-review"
+  ]
+}

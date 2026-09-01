@@ -1,0 +1,27 @@
+{
+  "pocket": "executiveos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "chief-of-staff-board-materials-governance",
+    "chief-of-staff-decision-record-management",
+    "chief-of-staff-executive-meeting-orchestration",
+    "chief-of-staff-executive-priority-shaping",
+    "chief-of-staff-privacy-aware-information-handling",
+    "chief-of-staff-risk-crisis-coordination",
+    "chief-of-staff-executive-communications-control",
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "chief-of-staff-principal-transition-handoff",
+    "chief-of-staff-stakeholder-engagement-planning",
+    "executive-okr-operating-system",
+    "strategy-board-strategy-advisor",
+    "chief-of-staff-cross-functional-program-orchestrator",
+    "chief-of-staff-dependency-planner",
+    "chief-of-staff-evidence-coordinator",
+    "chief-of-staff-handoff-coordinator",
+    "chief-of-staff-objective-completion-auditor",
+    "chief-of-staff-orchestrator",
+    "chief-of-staff-parallelization-planner",
+    "chief-of-staff-strategic-advisor"
+  ]
+}

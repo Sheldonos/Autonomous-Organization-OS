@@ -1,0 +1,27 @@
+{
+  "pocket": "creatoros",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-campaign-orchestration",
+    "marketing-paid-social-strategist",
+    "marketing-product-marketing-manager",
+    "skill-creator",
+    "slide-deck-copilot",
+    "marketing-event-strategy-operations",
+    "marketing-event-readiness-checklist",
+    "media-editorial-fact-checking",
+    "marketing-webinar-follow-up-preparation",
+    "demo-guide-architect",
+    "eos-content-strategy",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "media-content-capture",
+    "media-media-asset-management",
+    "media-post-production-editing",
+    "media-release-management",
+    "media-rights-clearance"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "innovationos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "product-innovation-funnel-management",
+    "cio-technology-experiment-design",
+    "cio-emerging-technology-radar",
+    "cio-technology-pilot-management",
+    "cio-technology-poc-management",
+    "cio-technology-scouting",
+    "cio-innovation-scale-stop-decision",
+    "adr_strategy",
+    "era_technology_consistency",
+    "lens_strategy",
+    "lip_sync_strategy",
+    "motion_strategy",
+    "production_strategy_selection",
+    "shot_repair_strategy",
+    "cio-technology-anomaly-identification",
+    "cio-technology-contracting-support",
+    "cio-technology-due-diligence",
+    "cio-technology-integration-planning",
+    "cio-technology-kpi-interpretation",
+    "cio-technology-lifecycle-management"
+  ]
+}

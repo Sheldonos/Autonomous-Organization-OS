@@ -1,0 +1,27 @@
+{
+  "pocket": "bidos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-pro-008",
+    "ibm-pro-cp-002",
+    "sales-contract-approval",
+    "sales-proposal-management",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "procurement-draft-and-negotiate-contract",
+    "ibm-pro-011",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-purchase-orders",
+    "procurement-manage-renewal",
+    "procurement-purchase-approval-routing",
+    "government-manage-grants-lifecycle",
+    "government-grant-research-specialist",
+    "government-grant-writer",
+    "government-procurement-specialist",
+    "ibm-sales-scale-058",
+    "sales-procurement-response-strategist",
+    "sales-rfp-response-strategist",
+    "government-administer-procurement"
+  ]
+}

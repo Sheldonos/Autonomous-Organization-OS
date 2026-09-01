@@ -1,0 +1,27 @@
+{
+  "pocket": "bidos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "government-procurement-specialist",
+    "government-community-impact-analyst",
+    "government-contract-analyst",
+    "government-legislative-analyst",
+    "government-orchestrator",
+    "government-program-analyst",
+    "government-public-administration-analyst",
+    "government-public-sector-data-analyst",
+    "sales-procurement-simulator",
+    "eos-bid-analysis",
+    "eos-procurement-rfi",
+    "eos-procurement-rfp",
+    "ibm-sales-scale-058",
+    "sales-contract-approval",
+    "sales-proposal-management",
+    "cio-technology-rfp-creation",
+    "cio-technology-rfp-scoring",
+    "cio-incident-response-governance",
+    "cio-saas-procurement",
+    "eos-procurement-negotiation-support"
+  ]
+}

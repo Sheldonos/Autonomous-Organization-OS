@@ -1,0 +1,27 @@
+{
+  "pocket": "enterpriseos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "data-strategy-business-case-preparation",
+    "data-strategy-portfolio-roadmap-synthesis",
+    "data-strategy-lineage-evidence-pack",
+    "data-strategy-data-access-request-precheck",
+    "data-strategy-metric-definition-governance",
+    "data-strategy-benefits-realization-evidence",
+    "data-strategy-data-retention-impact",
+    "data-strategy-data-issue-triage",
+    "data-strategy-knowledge-refresh-assessment",
+    "data-strategy-master-data-remediation",
+    "data-strategy-sustainability-initiative-prioritization",
+    "ibm-business-category-router",
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "automation-design-integration-orchestration",
+    "automation-improve-process-performance",
+    "cio-technology-control-mapping",
+    "cio-it-organization-design",
+    "automation-govern-access-and-data",
+    "healthcare-health-records-governance"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "eventos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-event-readiness-checklist",
+    "marketing-webinar-follow-up-preparation",
+    "rspkt-web-designer",
+    "ibm-eng-006",
+    "ibm-eng-iss-001",
+    "ibm-sales-ext-marketing-campaign-event",
+    "ibm-sales-scale-029",
+    "ibm-sales-scale-035",
+    "revenue-expansion-signal-qualification",
+    "revenue-win-loss-synthesis",
+    "media-accessibility-localization",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "media-content-capture",
+    "media-post-production-editing",
+    "agency-operations-engagement-closeout",
+    "anime-series-production",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "media-distribution-packaging"
+  ]
+}

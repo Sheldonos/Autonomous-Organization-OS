@@ -1,0 +1,27 @@
+{
+  "pocket": "talentos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-performance-management-specialist",
+    "tsc-modernization-value-analyst",
+    "shot-specification",
+    "people-succession-risk-evidence",
+    "people-learning-needs-analysis",
+    "people-engagement-trend-synthesis",
+    "people-performance-checkin-preparation",
+    "people-learning-development",
+    "people-performance-management",
+    "people-succession-mobility-planning",
+    "people-performance-review-writer",
+    "people-mobility-case-readiness",
+    "people-offboarding-workforce-transition",
+    "people-workforce-plan-variance",
+    "people-job-architecture",
+    "people-workforce-planning",
+    "people-headcount-control-check",
+    "people-requisition-management",
+    "people-structured-selection",
+    "people-accommodation-handoff-preparation"
+  ]
+}

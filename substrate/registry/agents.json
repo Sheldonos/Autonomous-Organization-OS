@@ -1,0 +1,1197 @@
+[
+  {
+    "name": "agency-operations-analyst",
+    "slug": "agency-operations-analyst",
+    "path": ".bob/agents/agency-operations-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "a222ae9811e86c038c5222d7172e7e9332d0551c52ae4b34f0d235faa8074e53",
+    "runtime_verified": false
+  },
+  {
+    "name": "agency-operations-critic",
+    "slug": "agency-operations-critic",
+    "path": ".bob/agents/agency-operations-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "561e124bca2aee44e72f12d66288429ce6575ee72c5db6918259d3cb0b345fe5",
+    "runtime_verified": false
+  },
+  {
+    "name": "agency-operations-orchestration-reviewer",
+    "slug": "agency-operations-orchestration-reviewer",
+    "path": ".bob/agents/agency-operations-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "384a124f3f1d87f8a754fe4ec244ce129a6d121dd6847f297102c37c99a3d54f",
+    "runtime_verified": false
+  },
+  {
+    "name": "architecture-reviewer",
+    "slug": "architecture-reviewer",
+    "path": ".bob/agents/architecture-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "d1045241b2234aaef8690cac37608d6350194fd85d1a6082a4fd00e888a366ef",
+    "runtime_verified": false
+  },
+  {
+    "name": "automation-analyst",
+    "slug": "automation-analyst",
+    "path": ".bob/agents/automation-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "1fdf195edc2125ab0b27cfe14d0a0398f576c8339a3350e925425b4d1ded4e71",
+    "runtime_verified": false
+  },
+  {
+    "name": "automation-critic",
+    "slug": "automation-critic",
+    "path": ".bob/agents/automation-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "ccf7be21da573bf092d6e5b2df696cb2756589d4800ee598858092a4c80a76f4",
+    "runtime_verified": false
+  },
+  {
+    "name": "automation-orchestration-reviewer",
+    "slug": "automation-orchestration-reviewer",
+    "path": ".bob/agents/automation-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "574d3d52927a1cc44d55446a7bb6aca8482e2f3f6ee26863c20fde2e4f225127",
+    "runtime_verified": false
+  },
+  {
+    "name": "capability-evolution-agent",
+    "slug": "capability-evolution-agent",
+    "path": ".bob/agents/capability-evolution-agent.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "02c6f166ee8a54bb82d487599459a103c03d533b7c8fbd83770690787a7fec81",
+    "runtime_verified": false
+  },
+  {
+    "name": "chief-of-staff-analyst",
+    "slug": "chief-of-staff-analyst",
+    "path": ".bob/agents/chief-of-staff-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "420ab1294972dbfcad26d99d76d5b6e0eaa3272aac9eab3eb815cafe43636290",
+    "runtime_verified": false
+  },
+  {
+    "name": "chief-of-staff-critic",
+    "slug": "chief-of-staff-critic",
+    "path": ".bob/agents/chief-of-staff-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "2b1dec9660707f11504cf362b7b263c91e68a99ccecd5b09ac542b3521f30717",
+    "runtime_verified": false
+  },
+  {
+    "name": "chief-of-staff-orchestration-reviewer",
+    "slug": "chief-of-staff-orchestration-reviewer",
+    "path": ".bob/agents/chief-of-staff-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "7f820b5a404bb77b33627b88d4316394e9e3fdc95d697c2aa7fb4a5ea792ae33",
+    "runtime_verified": false
+  },
+  {
+    "name": "chief-of-staff-synthesizer",
+    "slug": "chief-of-staff-synthesizer",
+    "path": ".bob/agents/chief-of-staff-synthesizer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "e7139eb53fcd4aa2f758ae22ea0183d3edd9a70d172cec53aeb0883af906edde",
+    "runtime_verified": false
+  },
+  {
+    "name": "construction-analyst",
+    "slug": "construction-analyst",
+    "path": ".bob/agents/construction-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "72123e7463ef6ef433a359c62aacd5e510287397ad646233997f361332641e51",
+    "runtime_verified": false
+  },
+  {
+    "name": "construction-critic",
+    "slug": "construction-critic",
+    "path": ".bob/agents/construction-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "39422bc64faefea5228f77457955b8f1611c4a16710551a1a8d5229da9c93dcc",
+    "runtime_verified": false
+  },
+  {
+    "name": "construction-orchestration-reviewer",
+    "slug": "construction-orchestration-reviewer",
+    "path": ".bob/agents/construction-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "d3ac39b8cff300be177bbecb990b638a2682c76a93cb3f54ec6ac05d2e223549",
+    "runtime_verified": false
+  },
+  {
+    "name": "cross-domain-outcome-reviewer",
+    "slug": "cross-domain-outcome-reviewer",
+    "path": ".bob/agents/cross-domain-outcome-reviewer.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "dbc7b7c6210d1ea8ebeafd9ebe532e314b11dc6f5104483768195b6c86b53a87",
+    "runtime_verified": false
+  },
+  {
+    "name": "cross-team-routing-controller",
+    "slug": "cross-team-routing-controller",
+    "path": ".bob/agents/cross-team-routing-controller.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "3e068bd9e7644786a5598e70f370cae34ce0503f58d881dccc58236ae1e2f561",
+    "runtime_verified": false
+  },
+  {
+    "name": "cto-infrastructure",
+    "slug": "cto-infrastructure",
+    "path": ".bob/agents/cto-infrastructure.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "e67b8a656f354a48ce5f1e164feaac71f9b1dc356bf7849409d019dd10762389",
+    "runtime_verified": false
+  },
+  {
+    "name": "customer-intelligence-analyst",
+    "slug": "customer-intelligence-analyst",
+    "path": ".bob/agents/customer-intelligence-analyst.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "f75aa9967af78d7bab22ad1a90152e4b765551b3298d9acb5beb1d0225a600fd",
+    "runtime_verified": false
+  },
+  {
+    "name": "customer-intelligence-critic",
+    "slug": "customer-intelligence-critic",
+    "path": ".bob/agents/customer-intelligence-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "1fa410a5b1ad6b13e95a9d12281422999e3280abfd50262e52800aa23011ba1e",
+    "runtime_verified": false
+  },
+  {
+    "name": "cybersecurity-analyst",
+    "slug": "cybersecurity-analyst",
+    "path": ".bob/agents/cybersecurity-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "969a193fd1338d939fbb221904b7606a5c7e8078400b3c8fff4954903954717b",
+    "runtime_verified": false
+  },
+  {
+    "name": "cybersecurity-critic",
+    "slug": "cybersecurity-critic",
+    "path": ".bob/agents/cybersecurity-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "5d780994ba538874b6d2e90b4c409599505493ed2fe4da5645a6141204e40aa9",
+    "runtime_verified": false
+  },
+  {
+    "name": "cybersecurity-orchestration-reviewer",
+    "slug": "cybersecurity-orchestration-reviewer",
+    "path": ".bob/agents/cybersecurity-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "74625c5877f2477f3367732a6b662b378aa67f021e2e4d9daff1b89139eef013",
+    "runtime_verified": false
+  },
+  {
+    "name": "data-ai-executive",
+    "slug": "data-ai-executive",
+    "path": ".bob/agents/data-ai-executive.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "8ada5de2615027dcba08e024d6d09f747e498d145b6bdfc1a5d88985041ee87c",
+    "runtime_verified": false
+  },
+  {
+    "name": "data-quality-reviewer",
+    "slug": "data-quality-reviewer",
+    "path": ".bob/agents/data-quality-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "c734f4218f88f5352ebecd4c3ecd723b4536dd59ea682a5d29451a454b576ea5",
+    "runtime_verified": false
+  },
+  {
+    "name": "design-analyst",
+    "slug": "design-analyst",
+    "path": ".bob/agents/design-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "3ec7b919c6b8ec45a26b6cabcfe70a471ba5de4041fba956ebe2f00a4e268281",
+    "runtime_verified": false
+  },
+  {
+    "name": "design-critic",
+    "slug": "design-critic",
+    "path": ".bob/agents/design-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "4949ba91421b690bb6010681a48694270a8019a2dfa0a6d6f8b9e85a9c056619",
+    "runtime_verified": false
+  },
+  {
+    "name": "design-orchestration-reviewer",
+    "slug": "design-orchestration-reviewer",
+    "path": ".bob/agents/design-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "b7c2d9af9e7babbbf913400c3035fb49c39f5f745ae6ab75d701348b3c83eb75",
+    "runtime_verified": false
+  },
+  {
+    "name": "devils-advocate-enterprise",
+    "slug": "devils-advocate-enterprise",
+    "path": ".bob/agents/devils-advocate-enterprise.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "9dd7faa2d72441806ca56e901429aa7925ed8d487adb75205d77542d93e27b1f",
+    "runtime_verified": false
+  },
+  {
+    "name": "education-analyst",
+    "slug": "education-analyst",
+    "path": ".bob/agents/education-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "27a7bc6f598f105047ffed34fded34886e24e28d04a6b73c496dd1ed1df89cb4",
+    "runtime_verified": false
+  },
+  {
+    "name": "education-critic",
+    "slug": "education-critic",
+    "path": ".bob/agents/education-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "3b5b20a9a3da1861d3bd35b2ae88c76cb4e95fa2c87dd23a6bc0d416a14072af",
+    "runtime_verified": false
+  },
+  {
+    "name": "education-orchestration-reviewer",
+    "slug": "education-orchestration-reviewer",
+    "path": ".bob/agents/education-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "8caefcd5bca626724af08b2c0c78e15c6f80b589ed9085b2a278c85e640f9342",
+    "runtime_verified": false
+  },
+  {
+    "name": "engineering-analyst",
+    "slug": "engineering-analyst",
+    "path": ".bob/agents/engineering-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "ef5a74084175f50f7d64bfcde93e7381a35eb4ce05fd5cf4987b4f32fe9e753b",
+    "runtime_verified": false
+  },
+  {
+    "name": "engineering-critic",
+    "slug": "engineering-critic",
+    "path": ".bob/agents/engineering-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "b1fade4428b588f569475d5315b218f62d183793e1a70229357bbcbdc3a63b2e",
+    "runtime_verified": false
+  },
+  {
+    "name": "engineering-orchestration-reviewer",
+    "slug": "engineering-orchestration-reviewer",
+    "path": ".bob/agents/engineering-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "9bb656e69997c9a4c88fb83029278f4f51e779a69e3d6e81b34a9801bb3661a1",
+    "runtime_verified": false
+  },
+  {
+    "name": "enterprise-architecture-reviewer",
+    "slug": "enterprise-architecture-reviewer",
+    "path": ".bob/agents/enterprise-architecture-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "a899bc83e658c8c6e8f597e33f64e7e2f6a26ca1ddd2e3ee30e8b3f9bf71490a",
+    "runtime_verified": false
+  },
+  {
+    "name": "enterprise-autonomous-loop-engineer",
+    "slug": "enterprise-autonomous-loop-engineer",
+    "path": ".bob/agents/enterprise-autonomous-loop-engineer.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "ddb7611fee501719ae6616aeae8af49a015ac6e1365bc3af366e97ae591539eb",
+    "runtime_verified": false
+  },
+  {
+    "name": "enterprise-control-plane",
+    "slug": "enterprise-control-plane",
+    "path": ".bob/agents/enterprise-control-plane.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "5c4a17688292535cb9d6130ddd66d7070e57abd80712d2877f6c24d797f43000",
+    "runtime_verified": false
+  },
+  {
+    "name": "enterprise-data-plane-architect",
+    "slug": "enterprise-data-plane-architect",
+    "path": ".bob/agents/enterprise-data-plane-architect.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "b57ce2ff9257da7d6872e2f20cd2fc2a882ae5ae9409fc5026b3f1b6688667ae",
+    "runtime_verified": false
+  },
+  {
+    "name": "enterprise-harness-router",
+    "slug": "enterprise-harness-router",
+    "path": ".bob/agents/enterprise-harness-router.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "3bf99ed158d8c75a3478577429c5e36ac4bcfc71528661c19d30733734e47cba",
+    "runtime_verified": false
+  },
+  {
+    "name": "enterprise-runtime-verifier",
+    "slug": "enterprise-runtime-verifier",
+    "path": ".bob/agents/enterprise-runtime-verifier.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "4c83b2a8b476079097c1f7ff26b5fcbccf805acfd492c0278da61fe575f35e45",
+    "runtime_verified": false
+  },
+  {
+    "name": "enterprise-use-case-critic",
+    "slug": "enterprise-use-case-critic",
+    "path": ".bob/agents/enterprise-use-case-critic.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "978a04f40aaec9f8ab9ee61dbe7e2e971047e66029c62d11e5777a16573a8f14",
+    "runtime_verified": false
+  },
+  {
+    "name": "evidence-reviewer",
+    "slug": "evidence-reviewer",
+    "path": ".bob/agents/evidence-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "ad3249b9f121148d872abbe5fe266ccf1277c0142101ae4028906c5e093082c5",
+    "runtime_verified": false
+  },
+  {
+    "name": "executive-cio",
+    "slug": "executive-cio",
+    "path": ".bob/agents/executive-cio.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "5cb3042b0d5fc3d22a03ea6733f919c033f60a1e0ea2c18698bfb1b0207a9aec",
+    "runtime_verified": false
+  },
+  {
+    "name": "finance-analyst",
+    "slug": "finance-analyst",
+    "path": ".bob/agents/finance-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "ee5a963e800036b3b43bee389e12a9ec37808b3c91bfd247fa75b1cbe0a919d5",
+    "runtime_verified": false
+  },
+  {
+    "name": "finance-critic",
+    "slug": "finance-critic",
+    "path": ".bob/agents/finance-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "15a815e0ab7e1c4e74f864c5185f1d6cc729bb61b40d184abb9e2737a3ad1baa",
+    "runtime_verified": false
+  },
+  {
+    "name": "finance-orchestration-reviewer",
+    "slug": "finance-orchestration-reviewer",
+    "path": ".bob/agents/finance-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "ed30d4516b8b00d322812737bc5cba28e2e01cc6591d825061e175ceb39dc713",
+    "runtime_verified": false
+  },
+  {
+    "name": "financial-reviewer-enterprise",
+    "slug": "financial-reviewer-enterprise",
+    "path": ".bob/agents/financial-reviewer-enterprise.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "628ec8790e5fb403d836d956ad3a73f7dff6ca8ed7994f527a9b7f937d9572c5",
+    "runtime_verified": false
+  },
+  {
+    "name": "financial-reviewer",
+    "slug": "financial-reviewer",
+    "path": ".bob/agents/financial-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "d8da623d3b7c7840abfc16b189ee4c4a64a7ff7b66ce035075cccfda86599828",
+    "runtime_verified": false
+  },
+  {
+    "name": "governance-reviewer-enterprise",
+    "slug": "governance-reviewer-enterprise",
+    "path": ".bob/agents/governance-reviewer-enterprise.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "3c55ff92f3f7f042e06dadc29ec1687052494da1189e97b3c81fe564b15aafd8",
+    "runtime_verified": false
+  },
+  {
+    "name": "government-analyst",
+    "slug": "government-analyst",
+    "path": ".bob/agents/government-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "c7b9e65fe87f566d46b14a5be468d005f0bccdd94d356754982baad1a7a59c48",
+    "runtime_verified": false
+  },
+  {
+    "name": "government-critic",
+    "slug": "government-critic",
+    "path": ".bob/agents/government-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "912ef003bdb4927fb1d0e69f0d65d2d6fad46f511d5027bff3eae6c74ac743d2",
+    "runtime_verified": false
+  },
+  {
+    "name": "government-orchestration-reviewer",
+    "slug": "government-orchestration-reviewer",
+    "path": ".bob/agents/government-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "74fa3e7d498fcc45333253ae92c773e5449e392b62f9c286b9bd8847688caa4f",
+    "runtime_verified": false
+  },
+  {
+    "name": "healthcare-analyst",
+    "slug": "healthcare-analyst",
+    "path": ".bob/agents/healthcare-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "6880f0fcc7afa64c6b1a4536cb5ca57f26f95e7da3d141f600a70a2d83f40945",
+    "runtime_verified": false
+  },
+  {
+    "name": "healthcare-critic",
+    "slug": "healthcare-critic",
+    "path": ".bob/agents/healthcare-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "1ff48f7fe175a609aca6eae28570c70f0750ee04028366d0f60c0cbb02e9c724",
+    "runtime_verified": false
+  },
+  {
+    "name": "healthcare-orchestration-reviewer",
+    "slug": "healthcare-orchestration-reviewer",
+    "path": ".bob/agents/healthcare-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "dc7e70e73fe13a74f4765918164565f19943c2c542eec376f1f5685a38391e86",
+    "runtime_verified": false
+  },
+  {
+    "name": "healthcare-safety-reviewer",
+    "slug": "healthcare-safety-reviewer",
+    "path": ".bob/agents/healthcare-safety-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "1c2ec918d8db5b576abc0453a9d96a2afecca03c151d2c91b246cddb30624637",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-ai-watsonx-analyst",
+    "slug": "ibm-career-ai-watsonx-analyst",
+    "path": ".bob/agents/ibm-career-ai-watsonx-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "65ca8c10f11bbc083da301dc42d702c6e6d34e0c254b0ded9b746a0abf93e7f3",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-cloud-analyst",
+    "slug": "ibm-career-cloud-analyst",
+    "path": ".bob/agents/ibm-career-cloud-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "04a18ad3391c0f0f79c94dd2659afce89bc8a25280efa4cfa331092911dbc197",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-consulting-analyst",
+    "slug": "ibm-career-consulting-analyst",
+    "path": ".bob/agents/ibm-career-consulting-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "1d848d392c217f674ede5bf2ba2ff661d679afd3e03ef0b40eb5ed06e45d1691",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-data-analytics-analyst",
+    "slug": "ibm-career-data-analytics-analyst",
+    "path": ".bob/agents/ibm-career-data-analytics-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "cff020786053b0f6962a537fb77959897deffac103af6576c55fe88c960171d0",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-design-ux-analyst",
+    "slug": "ibm-career-design-ux-analyst",
+    "path": ".bob/agents/ibm-career-design-ux-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "6528fbe7034ed3d2b95bf341b1008abf20fce4d29a2e7438428c9c1e2365f482",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-enterprise-operations-analyst",
+    "slug": "ibm-career-enterprise-operations-analyst",
+    "path": ".bob/agents/ibm-career-enterprise-operations-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "be4e9d0eb009cb9c42cb7e04bca042135381f7ea9dd75f1fc7f0ea65bd0cfe63",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-infrastructure-technology-analyst",
+    "slug": "ibm-career-infrastructure-technology-analyst",
+    "path": ".bob/agents/ibm-career-infrastructure-technology-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "744f6c64e1d09c016a0f99bfca0f475b425209ae8d80cf4efd1d45692d203a59",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-product-management-analyst",
+    "slug": "ibm-career-product-management-analyst",
+    "path": ".bob/agents/ibm-career-product-management-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "d7795e1e16e7f2766c1bad7da431f4cb7522573a762a2d13552b6dd4f1d2a8d6",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-project-management-analyst",
+    "slug": "ibm-career-project-management-analyst",
+    "path": ".bob/agents/ibm-career-project-management-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "ec190a1a07a0e1030c95913fe878276f12e7ec116f552ddba3ef349d58a5e477",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-research-analyst",
+    "slug": "ibm-career-research-analyst",
+    "path": ".bob/agents/ibm-career-research-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "d127d69a1b4f40e2eb5f1cb91033d1fa8df833ec63122291262e2d0ef802979b",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-sales-analyst",
+    "slug": "ibm-career-sales-analyst",
+    "path": ".bob/agents/ibm-career-sales-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "46a6f679037341cacc93eeb3508d441fec59dc32bae4fd59993007059540456f",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-security-analyst",
+    "slug": "ibm-career-security-analyst",
+    "path": ".bob/agents/ibm-career-security-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "1d11c804f33d0c2c89b68a4bad50e9a3f8936497c5ebb6f5735ca8dea37c28bd",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-career-software-engineering-analyst",
+    "slug": "ibm-career-software-engineering-analyst",
+    "path": ".bob/agents/ibm-career-software-engineering-analyst.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "973fa663cb044388b9daaf1fd50db7e726c930b765d5f239d4d75788180979e8",
+    "runtime_verified": false
+  },
+  {
+    "name": "ibm-workforce-role-sync-agent",
+    "slug": "ibm-workforce-role-sync-agent",
+    "path": ".bob/agents/ibm-workforce-role-sync-agent.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "3554344a237c45dbfe79f77b6bb33bf2a5e6ae64dc9b32a1fcfe8a8281dbb043",
+    "runtime_verified": false
+  },
+  {
+    "name": "intelligence-analyst",
+    "slug": "intelligence-analyst",
+    "path": ".bob/agents/intelligence-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "a2943034b740cc50079d4f87e67f875469d29438c8fa0cf4065a8bc0bc400ece",
+    "runtime_verified": false
+  },
+  {
+    "name": "intelligence-critic",
+    "slug": "intelligence-critic",
+    "path": ".bob/agents/intelligence-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "5e606b4e103796afdf788a8432af26dafe7187f75421a331616d7a1024cda438",
+    "runtime_verified": false
+  },
+  {
+    "name": "intelligence-orchestration-reviewer",
+    "slug": "intelligence-orchestration-reviewer",
+    "path": ".bob/agents/intelligence-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "4f8985a7120af57391b00d29526d45d568a9e4b6a1d7a9abc5861568e637eb1b",
+    "runtime_verified": false
+  },
+  {
+    "name": "legal-analyst",
+    "slug": "legal-analyst",
+    "path": ".bob/agents/legal-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "5b23a9d3c3a3041612e9b935c9ab0b24fc0814d562be80f07a70e09c0ffa048f",
+    "runtime_verified": false
+  },
+  {
+    "name": "legal-critic",
+    "slug": "legal-critic",
+    "path": ".bob/agents/legal-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "f19ba71f424a439324e7a6125c626b6f338440dd3477ec630d62e473659dcc95",
+    "runtime_verified": false
+  },
+  {
+    "name": "legal-orchestration-reviewer",
+    "slug": "legal-orchestration-reviewer",
+    "path": ".bob/agents/legal-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "34157b6a20abc9ac085c45a0a3e66ddc10a79a3d06725275e9a1f896a49242e4",
+    "runtime_verified": false
+  },
+  {
+    "name": "legal-risk-reviewer",
+    "slug": "legal-risk-reviewer",
+    "path": ".bob/agents/legal-risk-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "f372990964414df1e676686f2882e476effa40dba5738273f927624d7dc31e63",
+    "runtime_verified": false
+  },
+  {
+    "name": "media-analyst",
+    "slug": "media-analyst",
+    "path": ".bob/agents/media-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "a69b26f67e4386a519eec59a7a92a7bad34e023ddb0cc2a37934b0dcc84cfbf4",
+    "runtime_verified": false
+  },
+  {
+    "name": "media-critic",
+    "slug": "media-critic",
+    "path": ".bob/agents/media-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "d8093f8ba2a9d8e0187661bdd0993f25f4f7fe8f09d5e0b998c0f0460ae35878",
+    "runtime_verified": false
+  },
+  {
+    "name": "media-orchestration-reviewer",
+    "slug": "media-orchestration-reviewer",
+    "path": ".bob/agents/media-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "1a2d408ce150f49dfedcf341a06ffc15172ceb39ad6f7f0dd8c817f79d5d5da5",
+    "runtime_verified": false
+  },
+  {
+    "name": "people-analyst",
+    "slug": "people-analyst",
+    "path": ".bob/agents/people-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "7ac2e4939167da1f8b75d6d0b7084ccf0d3d809cb2cfb1136a9afd52947d2828",
+    "runtime_verified": false
+  },
+  {
+    "name": "people-critic",
+    "slug": "people-critic",
+    "path": ".bob/agents/people-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "59a55e8c738adae21c26145dd0cf89183114f2c45c54adf00987e21368085a0f",
+    "runtime_verified": false
+  },
+  {
+    "name": "people-orchestration-reviewer",
+    "slug": "people-orchestration-reviewer",
+    "path": ".bob/agents/people-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "94e2511b9265aaaeae70fc58f296597617d11fc1b828ddb7a93246b495d5ac7a",
+    "runtime_verified": false
+  },
+  {
+    "name": "procurement-analyst",
+    "slug": "procurement-analyst",
+    "path": ".bob/agents/procurement-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "8bc053dee5b926a87cea72bb1b1e066a58c01f77d08c48a7442875ea09840d67",
+    "runtime_verified": false
+  },
+  {
+    "name": "procurement-critic",
+    "slug": "procurement-critic",
+    "path": ".bob/agents/procurement-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "cd5920492c62796a0de77725aff44e8f5c137d2d1ec5966e245d12c959ac39c5",
+    "runtime_verified": false
+  },
+  {
+    "name": "procurement-orchestration-reviewer",
+    "slug": "procurement-orchestration-reviewer",
+    "path": ".bob/agents/procurement-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "0aa7d3846836dead5e08ba4880f63b4b855b90fffeedc3c221201f8928b8df90",
+    "runtime_verified": false
+  },
+  {
+    "name": "product-analyst",
+    "slug": "product-analyst",
+    "path": ".bob/agents/product-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "fd43752354e83c9537a0eb3c2994a48c8a7c4a320f0fcf7fe4ee573b333339df",
+    "runtime_verified": false
+  },
+  {
+    "name": "product-critic",
+    "slug": "product-critic",
+    "path": ".bob/agents/product-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "8c8d369c8e85d95d91519f81459b56634e5b0357cbb47b6ad76691e2d6c85fe6",
+    "runtime_verified": false
+  },
+  {
+    "name": "product-orchestration-reviewer",
+    "slug": "product-orchestration-reviewer",
+    "path": ".bob/agents/product-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "b3508c425573fef7af0789ad7289c19d1077fa62145086d56adab13beeb321ac",
+    "runtime_verified": false
+  },
+  {
+    "name": "quantum-research-reviewer",
+    "slug": "quantum-research-reviewer",
+    "path": ".bob/agents/quantum-research-reviewer.md",
+    "tools": [
+      "read",
+      "skill",
+      "subagent"
+    ],
+    "sha256": "32c2b3cf3136717d4b83afaac2d7a8e264e91230d784798f4abd78710cbb433e",
+    "runtime_verified": false
+  },
+  {
+    "name": "quantum-results-reviewer",
+    "slug": "quantum-results-reviewer",
+    "path": ".bob/agents/quantum-results-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "4bd9d08b17014994927c7f14f93417404bd5a936323463dd88a4146d1c7ce312",
+    "runtime_verified": false
+  },
+  {
+    "name": "real-estate-analyst",
+    "slug": "real-estate-analyst",
+    "path": ".bob/agents/real-estate-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "06af4e24c224f18c118e817db98448602a09e69bdbc7a095f23e42a67896b2a8",
+    "runtime_verified": false
+  },
+  {
+    "name": "real-estate-critic",
+    "slug": "real-estate-critic",
+    "path": ".bob/agents/real-estate-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "e9bbb24c49475208c40f6359e52d6219bad8f5db160bfd22df40b5b73e0169b8",
+    "runtime_verified": false
+  },
+  {
+    "name": "real-estate-orchestration-reviewer",
+    "slug": "real-estate-orchestration-reviewer",
+    "path": ".bob/agents/real-estate-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "41a9365fd9df8158f1d2b371296636c071733c7eb3af6e587484738f63acc6e6",
+    "runtime_verified": false
+  },
+  {
+    "name": "research-analyst",
+    "slug": "research-analyst",
+    "path": ".bob/agents/research-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "99d9d1eb3b163b6eea793fdbd060cc032534f07779a7e914e90b30de9ba40c3e",
+    "runtime_verified": false
+  },
+  {
+    "name": "research-critic",
+    "slug": "research-critic",
+    "path": ".bob/agents/research-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "11f04614154b946f137a56d9a70d1744cbea26c8d3c99289f090030f98674d61",
+    "runtime_verified": false
+  },
+  {
+    "name": "research-orchestration-reviewer",
+    "slug": "research-orchestration-reviewer",
+    "path": ".bob/agents/research-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "57a085722da42650ad17fdee52e14bf8b90bf32d399be227475a94604467b215",
+    "runtime_verified": false
+  },
+  {
+    "name": "research-peer-reviewer",
+    "slug": "research-peer-reviewer",
+    "path": ".bob/agents/research-peer-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "2a6cd4a4c89d2d7b45521158058af12714f4c44b2d031835a003082f8c3c8469",
+    "runtime_verified": false
+  },
+  {
+    "name": "sales-analyst",
+    "slug": "sales-analyst",
+    "path": ".bob/agents/sales-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "52d330c48dbca7e707bf56dbb0e1447521c4ca8317463136a71b58f2f6096aca",
+    "runtime_verified": false
+  },
+  {
+    "name": "sales-critic",
+    "slug": "sales-critic",
+    "path": ".bob/agents/sales-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "bd22c9cbf6f26eacc7fce89d69c1d25d464f1b26898c19b8e6167402b4a436f0",
+    "runtime_verified": false
+  },
+  {
+    "name": "sales-deal-critic",
+    "slug": "sales-deal-critic",
+    "path": ".bob/agents/sales-deal-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "f4833c749d4dee28d24f7443fdbc1de3b5b8fd75d9b7e7ae0b2c827afe1454a1",
+    "runtime_verified": false
+  },
+  {
+    "name": "sales-orchestration-reviewer",
+    "slug": "sales-orchestration-reviewer",
+    "path": ".bob/agents/sales-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "731d8459c8c85ea2a0c191d2ad765b84769b67c9179ada5eaaa04ccfde77297d",
+    "runtime_verified": false
+  },
+  {
+    "name": "security-reviewer",
+    "slug": "security-reviewer",
+    "path": ".bob/agents/security-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "eca3617fef9396dc4cbe582db9e967e42226d1b9d5512ca8627969ba7d086ef0",
+    "runtime_verified": false
+  },
+  {
+    "name": "security-risk-reviewer-enterprise",
+    "slug": "security-risk-reviewer-enterprise",
+    "path": ".bob/agents/security-risk-reviewer-enterprise.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "6b74167220e077ae09802614edefb52d575c3e59e9d2de508b8a19d4238753c0",
+    "runtime_verified": false
+  },
+  {
+    "name": "skill-depth-auditor",
+    "slug": "skill-depth-auditor",
+    "path": ".bob/agents/skill-depth-auditor.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "c01704e584eb53287c09151bc91296733a47f07ed270637fb4fe9524b2ac4ee2",
+    "runtime_verified": false
+  },
+  {
+    "name": "supply-chain-analyst",
+    "slug": "supply-chain-analyst",
+    "path": ".bob/agents/supply-chain-analyst.md",
+    "tools": [
+      "read",
+      "browser"
+    ],
+    "sha256": "53a631eab5e50dec67c1a2b206885ffc64b47590e07282014085a43aee791d2b",
+    "runtime_verified": false
+  },
+  {
+    "name": "supply-chain-critic",
+    "slug": "supply-chain-critic",
+    "path": ".bob/agents/supply-chain-critic.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "2daa8c889b339077b8cbf5a10f490c3e0bec90404ac3494e2f4e511286debbc2",
+    "runtime_verified": false
+  },
+  {
+    "name": "supply-chain-orchestration-reviewer",
+    "slug": "supply-chain-orchestration-reviewer",
+    "path": ".bob/agents/supply-chain-orchestration-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "b39902329897689a828f2754ce3a6d2d4f897971c5e63d0798d7ad3c4666ac61",
+    "runtime_verified": false
+  },
+  {
+    "name": "ux-accessibility-reviewer",
+    "slug": "ux-accessibility-reviewer",
+    "path": ".bob/agents/ux-accessibility-reviewer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "0d23c95e522c568cae375ff31889f610ccd26392aedf2e44d515153375695494",
+    "runtime_verified": false
+  },
+  {
+    "name": "watsonx-ai-platform-engineer",
+    "slug": "watsonx-ai-platform-engineer",
+    "path": ".bob/agents/watsonx-ai-platform-engineer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "961c90d761c00d26ca14d2bbbb3dd90590f7de230f506dee0994892122a84ca6",
+    "runtime_verified": false
+  },
+  {
+    "name": "watsonx-governance-engineer",
+    "slug": "watsonx-governance-engineer",
+    "path": ".bob/agents/watsonx-governance-engineer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "60734f072aaae716d05316b8f0f83ff26b07282e4fefb64db4d52ec285261e95",
+    "runtime_verified": false
+  },
+  {
+    "name": "wxo-platform-engineer",
+    "slug": "wxo-platform-engineer",
+    "path": ".bob/agents/wxo-platform-engineer.md",
+    "tools": [
+      "read"
+    ],
+    "sha256": "e4627e4edf73a26748a1fe5ea886c4f7e4023e5529d9b6716e90da49c81c9fa0",
+    "runtime_verified": false
+  }
+]

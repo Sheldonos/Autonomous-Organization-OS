@@ -1,0 +1,27 @@
+{
+  "pocket": "complianceos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-ext-ops-crm-hygiene",
+    "tsc-eco-change-control",
+    "cio-technology-control-mapping",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cybersecurity-control-selection",
+    "cybersecurity-risk-treatment-planning",
+    "government-control-delivery-baselines",
+    "quality-control-analyst",
+    "legal-risk-control-test-evidence",
+    "automation-design-controls-and-approvals",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "ibm-sales-ext-platform-incident-response",
+    "ibm-sales-scale-058",
+    "legal-amendment-change-control",
+    "eos-control-testing",
+    "cyber-resilience-compliance-evidence-compilation",
+    "eos-audit-control-traceability",
+    "eos-control-management",
+    "ibm-sales-ext-customer-value-realization-evidence"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "checks": [
+    [
+      "router_has_deal_or_bid",
+      true
+    ],
+    [
+      "mission_composes",
+      true
+    ],
+    [
+      "policy_requires_approval",
+      true
+    ],
+    [
+      "policy_allows_analysis",
+      true
+    ],
+    [
+      "hydration_extracts",
+      true
+    ],
+    [
+      "team_hydration_extracts",
+      true
+    ],
+    [
+      "durable_state",
+      true
+    ],
+    [
+      "mcp_assimilation",
+      true
+    ],
+    [
+      "proactivity_queues_bounded_job",
+      true
+    ],
+    [
+      "bounded_context",
+      true
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "dealos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "revenue-contract-handoff-readiness",
+    "sales-account-planner",
+    "sales-account-researcher",
+    "sales-account-signal-analyst",
+    "sales-account-strategist",
+    "sales-account-technical-leader",
+    "b2b-lead-intelligence-generator",
+    "ibm-sales-scale-023",
+    "ibm-atl-002",
+    "ibm-atl-003",
+    "ibm-atl-007",
+    "enterprise-sales-playbook",
+    "ibm-sales-scale-011",
+    "ibm-sales-scale-002",
+    "ibm-sales-scale-015",
+    "ibm-neg-005",
+    "ibm-neg-004",
+    "ibm-atl-001",
+    "ibm-atl-008",
+    "ibm-atl-009"
+  ]
+}

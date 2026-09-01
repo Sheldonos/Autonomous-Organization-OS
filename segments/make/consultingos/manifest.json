@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "id": "consultingos",
+  "title": "ConsultingOS",
+  "segment": "make",
+  "mission": "Run evidence-driven consulting engagements from discovery through implementation and outcome measurement.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 57,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Engagement charter",
+    "Discovery",
+    "Data & interview intake",
+    "Diagnosis",
+    "Benchmarking",
+    "Solution design",
+    "Executive deliverable",
+    "Implementation PMO",
+    "Outcome measurement"
+  ],
+  "handoffs": [
+    "researchos",
+    "pmoos",
+    "buildos",
+    "revenueos"
+  ],
+  "connectors": [
+    "document_store",
+    "calendar",
+    "email",
+    "data_warehouse",
+    "project_mgmt"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

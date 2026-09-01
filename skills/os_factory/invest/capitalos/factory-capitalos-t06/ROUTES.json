@@ -1,0 +1,27 @@
+{
+  "pocket": "capitalos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-scenario-modeling-specialist",
+    "finance-capital-allocation",
+    "institutional-investment-playbook",
+    "real-estate-portfolio-strategy",
+    "finance-covenant-monitoring",
+    "finance-scenario-modeling",
+    "finance-risk-analyst",
+    "finance-vendor-master-change-validation",
+    "real-estate-space-utilization-planning",
+    "investment-market-due-diligence-analyst",
+    "investment-financial-due-diligence-analyst",
+    "investment-committee-analyst",
+    "investment-committee-critic",
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator",
+    "investment-operational-due-diligence-analyst",
+    "investment-technology-due-diligence-analyst",
+    "it-application-portfolio-assessment",
+    "finance-business-case-appraisal"
+  ]
+}

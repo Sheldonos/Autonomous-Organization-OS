@@ -1,0 +1,27 @@
+{
+  "pocket": "brandos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-distribution-strategy",
+    "marketing-channel-performance-synthesis",
+    "marketing-attribution-explanation-pack",
+    "marketing-budget-pacing-analysis",
+    "marketing-campaign-brief-preparation",
+    "marketing-competitive-message-synthesis",
+    "marketing-market-research-synthesis",
+    "marketing-paid-media-anomaly-review",
+    "marketing-campaign-launch-readiness",
+    "communications-reputation-analyst",
+    "marketing-brand-compliance-review",
+    "marketing-content-claims-review",
+    "marketing-content-reuse-eligibility",
+    "marketing-account-based-signal-qualification",
+    "marketing-audience-segmentation-review",
+    "marketing-consent-eligibility-check",
+    "marketing-customer-advocacy-qualification",
+    "marketing-event-readiness-checklist",
+    "marketing-executive-communication-draft",
+    "marketing-lead-quality-review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "recruitos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-candidate-screening-preparation",
+    "people-requisition-quality-review",
+    "people-offer-approval-preparation",
+    "people-candidate-evaluation-specialist",
+    "supply-chain-procurement-sourcing",
+    "watsonx-ai-evaluation-handoff",
+    "cio-agent-evaluation",
+    "cio-ai-evaluation",
+    "cio-audit-evidence-collection",
+    "cio-audit-preparation",
+    "people-contingent-worker-compliance",
+    "people-skill-profile-quality-check",
+    "people-succession-mobility-planning",
+    "people-employee-relations-investigations",
+    "people-hr-compliance-reviewer",
+    "agency-operations-change-impact-assessment",
+    "legal-third-party-risk-assessment",
+    "casting-performance-development",
+    "healthcare-ephi-security-risk-assessment",
+    "healthcare-healthcare-compliance-risk-assessment"
+  ]
+}

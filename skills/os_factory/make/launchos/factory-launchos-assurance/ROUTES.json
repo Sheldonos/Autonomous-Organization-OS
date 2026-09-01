@@ -1,0 +1,27 @@
+{
+  "pocket": "launchos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "product-product-analytics",
+    "ibm-sales-ext-marketing-attribution-review",
+    "tsc-release-readiness-manager",
+    "ibm-bob-ads-monitor",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "product-requirements-traceability",
+    "product-quality-reviewer",
+    "engineering-release-deployment-management",
+    "enterprise-harness-release-engineer",
+    "eos-audit-evidence-readiness",
+    "legal-risk-ip-docket-readiness",
+    "product-experiment-design",
+    "product-privacy-by-design-review",
+    "product-prototype-validation",
+    "product-roadmap-management",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "program-management-dependency-management",
+    "sales-competitive-strategy",
+    "it-change-review-readiness"
+  ]
+}

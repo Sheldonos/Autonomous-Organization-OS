@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "learningos",
+  "title": "LearningOS",
+  "segment": "learn",
+  "mission": "Provide the shared lifelong-learning and adaptive mastery layer across school, university, workforce, and self-directed learning.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 36,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Learner graph",
+    "Goal/construct map",
+    "Adaptive path",
+    "Learning interaction",
+    "Evidence capture",
+    "Mastery inference",
+    "Intervention",
+    "Credential & next-step routing"
+  ],
+  "handoffs": [
+    "educationos",
+    "universityos",
+    "workforceos",
+    "talentos"
+  ],
+  "connectors": [
+    "lms",
+    "content_store",
+    "credentialing",
+    "analytics",
+    "identity"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

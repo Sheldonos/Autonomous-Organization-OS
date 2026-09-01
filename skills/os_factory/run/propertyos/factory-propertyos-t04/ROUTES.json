@@ -1,0 +1,27 @@
+{
+  "pocket": "propertyos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "real-estate-lease-administration",
+    "real-estate-acquisition-analyst",
+    "real-estate-lease-analyst",
+    "real-estate-facilities-financial-reporting",
+    "real-estate-portfolio-strategy",
+    "real-estate-property-operations",
+    "real-estate-space-utilization-planning",
+    "real-estate-area-measurement",
+    "real-estate-compliance-inspection",
+    "real-estate-preventive-maintenance",
+    "real-estate-capital-project-delivery",
+    "real-estate-emergency-continuity-planning",
+    "real-estate-vendor-contract-management",
+    "construction-commissioning-turnover",
+    "real-estate-sustainability-performance",
+    "construction-construction-safety-escalation",
+    "construction-field-coordination",
+    "construction-preconstruction-mobilization",
+    "construction-project-charter-planning",
+    "construction-quality-inspection-management"
+  ]
+}

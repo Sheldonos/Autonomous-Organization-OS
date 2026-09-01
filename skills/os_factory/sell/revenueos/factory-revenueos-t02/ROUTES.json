@@ -1,0 +1,27 @@
+{
+  "pocket": "revenueos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-distribution-strategy",
+    "marketing-positioning-strategist",
+    "sales-close-to-delivery-transition",
+    "sales-seller-intelligence-mcp-integration",
+    "revenue-expansion-signal-qualification",
+    "revenue-renewal-risk-assessment",
+    "marketing-account-based-signal-qualification",
+    "marketing-lead-quality-review",
+    "marketing-partner-marketing-readiness",
+    "marketing-event-strategy-operations",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-icp-segmentation",
+    "marketing-competitive-message-synthesis",
+    "marketing-market-research-synthesis",
+    "sales-stakeholder-mapping",
+    "marketing-customer-advocacy-qualification",
+    "revenue-account-health-scorecard",
+    "revenue-account-plan-preparation",
+    "revenue-adoption-analysis"
+  ]
+}

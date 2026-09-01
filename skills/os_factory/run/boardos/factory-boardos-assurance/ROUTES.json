@@ -1,0 +1,27 @@
+{
+  "pocket": "boardos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "legal-risk-board-governance-pack",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "data-strategy-dashboard-quality-review",
+    "cio-architecture-review-board",
+    "cio-technology-governance-committee",
+    "watsonx-governance-evaluation-policy",
+    "government-conduct-stage-gate-assurance",
+    "government-preserve-audit-evidence",
+    "government-measure-benefits-and-performance",
+    "healthcare-patient-safety-event-management",
+    "ibm-sales-ext-ops-pipeline-governance",
+    "government-control-delivery-baselines",
+    "chief-of-staff-board-materials-governance",
+    "agency-operations-stakeholder-communications-governance",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "healthcare-vendor-business-associate-governance"
+  ]
+}

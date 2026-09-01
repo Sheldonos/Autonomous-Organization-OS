@@ -1,0 +1,27 @@
+{
+  "pocket": "buildos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "engineering-developer-environment-readiness",
+    "engineering-developer-productivity-insight",
+    "engineering-dependency-update-assessment",
+    "engineering-ci-pipeline-failure-analysis",
+    "engineering-codebase-exploration-brief",
+    "engineering-feature-flag-readiness",
+    "engineering-incident-postmortem-preparation",
+    "engineering-release-notes-preparation",
+    "engineering-automated-testing",
+    "engineering-api-contract-review",
+    "engineering-database-migration-readiness",
+    "engineering-requirements-traceability-review",
+    "engineering-documentation-coverage-review",
+    "engineering-architecture-decision-record",
+    "engineering-backlog-refinement-support",
+    "engineering-issue-backlog-health",
+    "engineering-code-review-preparation",
+    "engineering-observability-instrumentation-review",
+    "engineering-open-source-compliance-prep",
+    "engineering-release-readiness-gate"
+  ]
+}

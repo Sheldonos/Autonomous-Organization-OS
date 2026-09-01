@@ -1,0 +1,12 @@
+{
+  "pocket": "capitalos",
+  "required_or_optional_classes": [
+    "market_data",
+    "financial_data",
+    "document_store",
+    "portfolio_system",
+    "data_warehouse"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

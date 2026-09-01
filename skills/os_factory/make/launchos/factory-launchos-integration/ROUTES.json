@@ -1,0 +1,27 @@
+{
+  "pocket": "launchos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "product-go-to-market-planning",
+    "product-release-readiness-assessment",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "ibm-sales-ext-marketing-campaign-event",
+    "ibm-sales-ext-platform-model-release",
+    "eos-campaign-management",
+    "eos-product-launch",
+    "eos-product-marketing",
+    "ibm-sales-workflow-intake-autopilot",
+    "marketing-event-strategy-operations",
+    "product-roadmap-management",
+    "program-management-dependency-management",
+    "marketing-campaign-orchestration",
+    "enterprise-harness-release-engineer",
+    "eos-event-marketing",
+    "marketing-event-marketing-strategist",
+    "eos-product-adoption",
+    "marketing-event-readiness-checklist",
+    "engineering-release-deployment-management"
+  ]
+}

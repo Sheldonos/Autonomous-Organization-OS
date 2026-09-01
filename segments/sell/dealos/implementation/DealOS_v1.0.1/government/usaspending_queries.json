@@ -1,0 +1,18 @@
+{
+  "advanced_award_search_endpoint": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+  "examples": [
+    {
+      "name": "recipient_history",
+      "purpose": "Inspect awards for a known recipient; construct filters using current API docs."
+    },
+    {
+      "name": "agency_naics_history",
+      "purpose": "Inspect historical awards by agency/NAICS to identify incumbents and value bands."
+    },
+    {
+      "name": "subaward_history",
+      "purpose": "Inspect subcontract relationships where relevant."
+    }
+  ],
+  "note": "USAspending does not require API authentication. Keep exact query filters versioned because API fields can change."
+}

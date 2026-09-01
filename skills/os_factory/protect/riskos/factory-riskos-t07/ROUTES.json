@@ -1,0 +1,27 @@
+{
+  "pocket": "riskos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "supply-chain-supplier-performance-management",
+    "supply-chain-supply-chain-performance-improvement",
+    "supply-chain-supply-chain-risk-management",
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering",
+    "chief-of-staff-decision-rights-mapping",
+    "chief-of-staff-escalation-triage",
+    "procurement-monitor-supplier-performance",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "ibm-sales-scale-045",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-resilience-recovery-validation",
+    "cybersecurity-security-policy-management",
+    "ibm-sales-scale-073",
+    "cybersecurity-supply-chain-cyber-risk",
+    "legal-risk-aml-case-evidence-prep",
+    "cyber-resilience-data-loss-case-preparation"
+  ]
+}

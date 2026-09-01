@@ -1,0 +1,27 @@
+{
+  "pocket": "grantos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "government-conduct-stage-gate-assurance",
+    "government-preserve-audit-evidence",
+    "cybersecurity-identity-access-governance",
+    "government-manage-grants-lifecycle",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "government-grant-research-specialist",
+    "government-control-delivery-baselines",
+    "government-grant-writer",
+    "government-assess-privacy-and-security",
+    "government-budget-analyst",
+    "government-manage-public-sector-risks",
+    "government-manage-user-needs",
+    "government-public-sector-compliance-reviewer",
+    "government-verify-and-validate-solutions",
+    "government-administer-procurement",
+    "government-align-policy-to-outcomes",
+    "government-community-impact-analyst",
+    "government-contract-analyst",
+    "government-evaluate-policy-interventions",
+    "government-govern-change-requests"
+  ]
+}

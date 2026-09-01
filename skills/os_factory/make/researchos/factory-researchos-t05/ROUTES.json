@@ -1,0 +1,27 @@
+{
+  "pocket": "researchos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-pre-007",
+    "ibm-pre-001",
+    "ibm-pre-002",
+    "ibm-pre-005",
+    "ibm-pre-atl-002",
+    "ibm-pre-atl-003",
+    "ibm-pre-iss-001",
+    "ibm-pre-iss-002",
+    "tls-competitive-intelligence-battlecard-agent",
+    "ibm-qua-004",
+    "tls-territory-intelligence-agent",
+    "ibm-qua-003",
+    "ibm-qua-iss-001",
+    "ibm-qua-sdr-001",
+    "ibm-qua-tss-001",
+    "ibm-atl-010",
+    "ibm-neg-001",
+    "ibm-neg-002",
+    "ibm-neg-003",
+    "ibm-neg-006"
+  ]
+}

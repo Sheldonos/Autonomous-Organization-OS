@@ -1,0 +1,27 @@
+{
+  "pocket": "educationos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-learning-path-architect",
+    "education-personalized-learning-specialist",
+    "education-adaptive-learning-specialist",
+    "education-learning-coach",
+    "education-learning-content-reviewer",
+    "education-learning-objective-designer",
+    "learning-session",
+    "education-coordinate-accommodations",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "education-manage-credentials-records",
+    "education-monitor-learner-progress",
+    "education-facilitate-instruction",
+    "education-manage-learner-intake",
+    "education-analyze-learning-needs",
+    "education-assure-program-quality",
+    "education-develop-learning-content",
+    "education-support-career-transition",
+    "education-evaluate-learning-impact",
+    "education-govern-learning-analytics"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "acceleratoros",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "agentic-sdlc-lab-guide-builder",
+    "startups-founder-advisor",
+    "startups-founder-market-fit-analyst",
+    "startups-orchestrator",
+    "startups-startup-financial-modeler",
+    "startups-startup-growth-strategist",
+    "startups-startup-gtm-strategist",
+    "startups-startup-orchestrator",
+    "startups-venture-risk-critic",
+    "startups-venture-strategist",
+    "startups-business-model-specialist",
+    "startups-category-creation-strategist",
+    "startups-fundraising-strategist",
+    "startups-idea-validation-specialist",
+    "startups-investor-research-specialist",
+    "startups-market-validation-specialist",
+    "startups-mvp-strategist",
+    "startups-opportunity-discovery-analyst",
+    "startups-pitch-deck-reviewer",
+    "startups-pitch-strategist"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "pocket": "educationos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Learner/context intake Team",
+      "stage": 1,
+      "responsibility": "Learner/context intake",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Curriculum mapping Team",
+      "stage": 2,
+      "responsibility": "Curriculum mapping",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Learning path Team",
+      "stage": 3,
+      "responsibility": "Learning path",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Instruction Team",
+      "stage": 4,
+      "responsibility": "Instruction",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Practice & feedback Team",
+      "stage": 5,
+      "responsibility": "Practice & feedback",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Assessment Team",
+      "stage": 6,
+      "responsibility": "Assessment",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Mastery update Team",
+      "stage": 7,
+      "responsibility": "Mastery update",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Credential/evidence Team",
+      "stage": 8,
+      "responsibility": "Credential/evidence",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t09",
+      "name": "Progression & safety review Team",
+      "stage": 9,
+      "responsibility": "Progression & safety review",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

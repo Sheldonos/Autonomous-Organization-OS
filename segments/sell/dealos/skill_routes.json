@@ -1,0 +1,1143 @@
+{
+  "schema_version": "2.0",
+  "pocket": "dealos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 170,
+  "skills": [
+    {
+      "slug": "sales-seller-intelligence-mcp-integration",
+      "score": 104,
+      "domain": "sales",
+      "description": "Connect IBM Bob sales skills to the five-MCP seller intelligence stack \u2014 Firecrawl (web research), SEC Intelligence (10-K/10-Q/8-K filings), Lead Enrichment (accounts, executives, personas), CRM (ownership, opportunities, activity), and PostgreSQL (evidence persistence). Use when any revenue skill needs live research, filing analysis, contact enrichment, account validation, or durable evidence storage."
+    },
+    {
+      "slug": "ibm-sales-000",
+      "score": 100,
+      "domain": "shared-execution",
+      "description": "The singular IBM Sales orchestration control mode. Routes all seller requests through a governed execution plan \u2014 account intelligence, discovery, qualification, pipeline strategy, value engineering, proposal, negotiation, close, and adoption. Enforces human approval gates before any external write, CRM update, pricing commitment, or outreach. Use as the front door for all IBM Sales work."
+    },
+    {
+      "slug": "sales-close-to-delivery-transition",
+      "score": 93,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Close To Delivery Transition** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-close-to-delivery-transition`, `close-to-delivery-transition`, or the corresponding professional workflow: close-to-delivery-transition-and-expansion | decide whether exit criteria, success metrics, governance, funding, and delivery readiness support signature and later expansion | hand off signed scope, assumptions, risks, success plan, and relationship context to delivery, customer success, support, and account management"
+    },
+    {
+      "slug": "sales-contract-approval",
+      "score": 93,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Contract Approval** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-contract-approval`, `contract-approval`, or the corresponding professional workflow: bid-rfp-and-proposal-management | decide bid/no-bid, compliance matrix, response strategy, pricing narrative, references, and approval path | hand off controlled proposal package to proposal manager, SMEs, pricing, legal, contracts, and authorized approvers"
+    },
+    {
+      "slug": "sales-opportunity-qualification",
+      "score": 93,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Opportunity Qualification** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-opportunity-qualification`, `opportunity-qualification`, or the corresponding professional workflow: opportunity-qualification-and-stage-governance | decide pursue, nurture, disqualify, or no-bid using evidence for need, access, timing, competition, budget, and decision process | hand off stage evidence and forecast recommendation to sales leadership and revenue operations"
+    },
+    {
+      "slug": "sales-stage-governance",
+      "score": 93,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Stage Governance** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-stage-governance`, `stage-governance`, or the corresponding professional workflow: opportunity-qualification-and-stage-governance | decide pursue, nurture, disqualify, or no-bid using evidence for need, access, timing, competition, budget, and decision process | hand off stage evidence and forecast recommendation to sales leadership and revenue operations"
+    },
+    {
+      "slug": "revenue-opportunity-qualification",
+      "score": 92,
+      "domain": "shared-execution",
+      "description": "Qualify opportunities against approved stages, evidence, and next-step standards. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "sales-account-intelligence",
+      "score": 82,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Account Intelligence** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-account-intelligence`, `account-intelligence`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "sales-bid-no-bid",
+      "score": 82,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Bid No Bid** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-bid-no-bid`, `bid-no-bid`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "sales-commercial-negotiation",
+      "score": 82,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Commercial Negotiation** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-commercial-negotiation`, `commercial-negotiation`, or the corresponding professional workflow: commercial-negotiation-and-contracting | decide acceptable price, terms, liability, data/security commitments, concessions, dependencies, and escalation thresholds | hand off redlined terms and approval record to legal, finance, security, procurement, and signing authority"
+    },
+    {
+      "slug": "sales-icp-segmentation",
+      "score": 82,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Icp Segmentation** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-icp-segmentation`, `icp-segmentation`, or the corresponding professional workflow: account-intelligence-and-segmentation | decide ICP fit, strategic relevance, buying trigger, and account priority from verified public/internal evidence | hand off account brief to account executive, sales development, marketing, and solution leadership"
+    },
+    {
+      "slug": "sales-proposal-management",
+      "score": 82,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Proposal Management** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-proposal-management`, `proposal-management`, or the corresponding professional workflow: bid-rfp-and-proposal-management | decide bid/no-bid, compliance matrix, response strategy, pricing narrative, references, and approval path | hand off controlled proposal package to proposal manager, SMEs, pricing, legal, contracts, and authorized approvers"
+    },
+    {
+      "slug": "sales-expansion-opportunity-analyst",
+      "score": 79,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Expansion Opportunity Analyst role: expansion opportunity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-lead-discovery-specialist",
+      "score": 79,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Lead Discovery Specialist role: lead discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-lead-qualification-analyst",
+      "score": 79,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Lead Qualification Analyst role: lead qualification; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-opportunity-qualification-analyst",
+      "score": 79,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Opportunity Qualification Analyst role: opportunity qualification; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-renewal-management",
+      "score": 79,
+      "domain": "sales",
+      "description": "Own evidence-backed renewal planning from value realization through commercial close and risk mitigation. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "revenue-contract-handoff-readiness",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Assess contract handoff completeness for delivery, billing, and customer success teams. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-quote-policy-compliance",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Check quote configuration against approved pricing and commercial policy. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "business-development-partnership-negotiation-specialist",
+      "score": 76,
+      "domain": "business-development",
+      "description": "Use for business development work requiring the Partnership Negotiation Specialist role: partnership negotiation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-account-planner",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Account Planner role: account; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-account-researcher",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Account Researcher role: account; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-account-signal-analyst",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Account Signal Analyst role: account signal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-account-strategist",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Account Strategist role: account; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-account-technical-leader",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Account Technical Leader role: account technical leader; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-chief-revenue-officer-advisor",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Chief Revenue Officer Advisor role: chief revenue officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-competitive-strategy",
+      "score": 76,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Competitive Strategy** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-competitive-strategy`, `competitive-strategy`, or the corresponding professional workflow: competitive-and-risk-strategy | decide differentiation, competitive posture, red-team risks, win themes, and claims that can be substantiated | hand off battlecard and risk register to account leadership, product marketing, executives, and bid team"
+    },
+    {
+      "slug": "sales-deal-coach",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Deal Coach role: deal coach; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-deal-desk-specialist",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Deal Desk Specialist role: deal desk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-deal-risk-analyst",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Deal Risk Analyst role: deal risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-deal-strategist",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Deal Strategist role: deal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-email-outreach-specialist",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Email Outreach Specialist role: email outreach; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-executive-outreach-specialist",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Executive Outreach Specialist role: executive outreach; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-negotiation-strategist",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Negotiation Strategist role: negotiation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-outreach-strategist",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Outreach Strategist role: outreach; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-proposal-architect",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Proposal Architect role: proposal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-proposal-reviewer",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Proposal Reviewer role: proposal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-proposal-writer",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Proposal Writer role: proposal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-stakeholder-mapping",
+      "score": 76,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Stakeholder Mapping** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-stakeholder-mapping`, `stakeholder-mapping`, or the corresponding professional workflow: stakeholder-and-power-mapping | decide economic buyer, technical buyer, users, procurement, legal, security, champion, detractor, and influence paths | hand off stakeholder map and engagement plan to account team, executives, partners, and customer success"
+    },
+    {
+      "slug": "sales-technical-outreach-specialist",
+      "score": 76,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Technical Outreach Specialist role: technical outreach; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-deal-desk-review-pack",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Compile deal-desk review evidence for pricing, terms, risk, and approvals. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "revenue-pricing-exception-preparation",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Prepare a pricing exception case with policy, economics, and approver evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "sales-discovery-problem-framing",
+      "score": 71,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Discovery Problem Framing** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-discovery-problem-framing`, `discovery-problem-framing`, or the corresponding professional workflow: discovery-and-problem-framing | decide whether the customer has a material business problem, measurable impact, urgency, and executive sponsorship | hand off validated discovery notes to solution consultants, industry specialists, and value engineering"
+    },
+    {
+      "slug": "b2b-lead-intelligence-generator",
+      "score": 70,
+      "domain": "shared-execution",
+      "description": "Generate comprehensive B2B lead databases with deep intelligence including decision maker contacts, pain points, solution matching, ROI projections, and revenue potential. Use when prospecting for B2B sales, building lead lists, conducting market research, creating sales intelligence databases, preparing for outreach campaigns, or when a user requests lead generation with detailed business intelligence."
+    },
+    {
+      "slug": "ibm-bob-lead-intelligence",
+      "score": 70,
+      "domain": "shared-execution",
+      "description": "Generate comprehensive B2B lead databases with deep intelligence including decision maker contacts, pain points, IBM Automation solution mapping, ROI projections, and revenue potential. Use when prospecting for B2B sales, building lead lists, conducting market research, creating sales intelligence databases, preparing for outreach campaigns, or when a user requests lead generation with detailed business intelligence for IBM Project Bob."
+    },
+    {
+      "slug": "revenue-operations-pipeline-analyst",
+      "score": 70,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Pipeline Analyst role: pipeline; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-sales-capacity-analyst",
+      "score": 70,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Sales Capacity Analyst role: sales capacity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-sales-compensation-analyst",
+      "score": 70,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Sales Compensation Analyst role: sales compensation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-ai-solution-architect",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the AI Solution Architect role: ai solution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-business-discovery-specialist",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Business Discovery Specialist role: business discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-cloud-solution-architect",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Cloud Solution Architect role: cloud solution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-commercial-strategy-analyst",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Commercial Strategy Analyst role: commercial strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-competitor-response-simulator",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Competitor Response Simulator role: competitor response simulator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-contact-discovery-specialist",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Contact Discovery Specialist role: contact discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-data-solution-architect",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Data Solution Architect role: data solution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-discovery-call-planner",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Discovery Call Planner role: discovery call; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-discovery-evidence-synthesizer",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Discovery Evidence Synthesizer role: discovery evidence synthesizer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-discovery-strategist",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Discovery Strategist role: discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-expansion-strategist",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Expansion Strategist role: expansion; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-financial-discovery-specialist",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Financial Discovery Specialist role: financial discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-operational-discovery-specialist",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Operational Discovery Specialist role: operational discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-procurement-response-strategist",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Procurement Response Strategist role: procurement response; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-rfp-response-strategist",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the RFP Response Strategist role: rfp response; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-security-solution-architect",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Security Solution Architect role: security solution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-solution-alignment",
+      "score": 68,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Solution Alignment** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-solution-alignment`, `solution-alignment`, or the corresponding professional workflow: solution-alignment-and-scope-design | decide which capabilities, architecture, assumptions, exclusions, and implementation approach address the stated outcomes | hand off solution outline to solution engineering, delivery, product, security, legal, and implementation partners"
+    },
+    {
+      "slug": "sales-solution-architect",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Solution Architect role: solution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-solution-strategist",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Solution Strategist role: solution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-technical-discovery-specialist",
+      "score": 68,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Technical Discovery Specialist role: technical discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-sales-scale-072",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Identify expansion hypotheses from approved value, adoption, account, and whitespace evidence with transparent confidence and validation questions. Use when IBM Sales selects `close.expansion-opportunity` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "revenue-rfp-response-evidence",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Compile RFP response evidence, source citations, and review dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal Enablement Capability Director."
+    },
+    {
+      "slug": "agency-operations-engagement-qualification",
+      "score": 65,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Engagement Qualification** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-engagement-qualification`, `engagement-qualification`, or the corresponding professional workflow: qualify-engagement-opportunity | decide fit, conflicts, scope hypothesis, delivery risk, and commercial viability before commitment | handoff from business development/account lead to delivery lead, subject-matter experts, finance, and legal"
+    },
+    {
+      "slug": "business-development-partnership-business-case-analyst",
+      "score": 65,
+      "domain": "business-development",
+      "description": "Use for business development work requiring the Partnership Business Case Analyst role: partnership business case; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "business-development-partnership-due-diligence-analyst",
+      "score": 65,
+      "domain": "business-development",
+      "description": "Use for business development work requiring the Partnership Due Diligence Analyst role: partnership due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "business-development-partnership-strategist",
+      "score": 65,
+      "domain": "business-development",
+      "description": "Use for business development work requiring the Partnership Strategist role: partnership; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "business-development-strategic-partnership-analyst",
+      "score": 65,
+      "domain": "business-development",
+      "description": "Use for business development work requiring the Strategic Partnership Analyst role: strategic partnership; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "business-development-technology-partnership-analyst",
+      "score": 65,
+      "domain": "business-development",
+      "description": "Use for business development work requiring the Technology Partnership Analyst role: technology partnership; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-career-sales-brand-technical-sales-specialist",
+      "score": 65,
+      "domain": "sales",
+      "description": "IBM-aligned Brand Technical Sales Specialist specialist. Use for Sales work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-sales-partner-technical-specialist",
+      "score": 65,
+      "domain": "sales",
+      "description": "IBM-aligned Partner Technical Specialist specialist. Use for Sales work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-sales-technology-sales-leader",
+      "score": 65,
+      "domain": "sales",
+      "description": "IBM-aligned Technology Sales Leader specialist. Use for Sales work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-sales-territory-sales-specialist",
+      "score": 65,
+      "domain": "sales",
+      "description": "IBM-aligned Territory Sales Specialist specialist. Use for Sales work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "negotiation-batna-analyst",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the BATNA Analyst role: batna; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-concession-strategist",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Concession Strategist role: concession; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-conflict-resolution-advisor",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Conflict Resolution Advisor role: conflict resolution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-counterparty-simulator",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Counterparty Simulator role: counterparty simulator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-influence-strategy-analyst",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Influence Strategy Analyst role: influence strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-objection-analyst",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Objection Analyst role: objection; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-orchestrator",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Negotiation Orchestrator role: negotiation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-preparation-specialist",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Negotiation Preparation Specialist role: negotiation preparation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-reviewer",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Negotiation Reviewer role: negotiation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-simulator",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Negotiation Simulator role: negotiation simulator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-stakeholder-analyst",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Stakeholder Analyst role: stakeholder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-stakeholder-mapping-specialist",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Stakeholder Mapping Specialist role: stakeholder mapping; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "negotiation-strategist",
+      "score": 65,
+      "domain": "negotiation",
+      "description": "Use for negotiation work requiring the Negotiation Strategist role: negotiation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-bant-specialist",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the BANT Specialist role: bant; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-battlecard-specialist",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Battlecard Specialist role: battlecard; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-brand-sales-specialist",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Brand Sales Specialist role: brand sales; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-brand-technical-specialist",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Brand Technical Specialist role: brand technical; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-business-case-builder",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Business Case Builder role: business case builder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-buyer-simulator",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Buyer Simulator role: buyer simulator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-buying-committee-mapper",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Buying Committee Mapper role: buying committee mapper; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-champion-analyst",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Champion Analyst role: champion; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-client-engineering-orchestrator",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Client Engineering Orchestrator role: client engineering; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-closing-strategist",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Closing Strategist role: closing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-co-creation-specialist",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Co-Creation Specialist role: co-creation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-competitive-differentiation-strategist",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Competitive Differentiation Strategist role: competitive differentiation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-competitive-intelligence-analyst",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Competitive Intelligence Analyst role: competitive intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-competitive-objection-specialist",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Competitive Objection Specialist role: competitive objection; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-copy-reviewer",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Sales Copy Reviewer role: sales copy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-customer-value-realization-analyst",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Customer Value Realization Analyst role: customer value realization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-decision-process-analyst",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Decision Process Analyst role: decision process; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-design-thinking-facilitator",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Design Thinking Facilitator role: design thinking facilitator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-director",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Sales Director role: sales; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-discount-strategy-analyst",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Discount Strategy Analyst role: discount strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-displacement-strategist",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Displacement Strategist role: displacement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-economic-buyer-analyst",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Economic Buyer Analyst role: economic buyer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-enterprise-architect",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Enterprise Architect role: enterprise; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-executive-buyer-simulator",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Executive Buyer Simulator role: executive buyer simulator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-follow-up-strategist",
+      "score": 65,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Follow-Up Strategist role: follow-up; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-customer-commitment-tracker",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Track material customer commitments, owners, due dates, and escalation risk. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-customer-onboarding-readiness",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Assess customer onboarding prerequisites, commitments, and unresolved dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-lead-routing-quality-check",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Validate lead-routing records against territory, consent, and service-level rules. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-pipeline-hygiene-review",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Identify pipeline record quality gaps and draft owner remediation actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-expansion-signal-qualification",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "Qualify expansion signals and draft accountable account follow-up. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "revenue-reference-candidate-qualification",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "Qualify customer reference candidates against consent, relationship, and eligibility criteria. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Advocacy Capability Director."
+    },
+    {
+      "slug": "ibm-sales-scale-023",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Evaluate whether a proposed relationship-path workflow uses permitted relationship data, user consent, correct account scope, and appropriate outreach boundaries. Use when IBM Sales selects `research.relationship-path-ethics` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "agency-operations-engagement-closeout",
+      "score": 56,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Engagement Closeout** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-engagement-closeout`, `engagement-closeout`, or the corresponding professional workflow: engagement-closeout-and-renewal | decide acceptance, outstanding obligations, final billing, asset/credential return, data disposition, benefits review, reference permission, and follow-on opportunity | handoff from engagement manager to client sponsor, finance, legal/security, account lead, and practice leadership"
+    },
+    {
+      "slug": "ibm-atl-002",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for whitespace analysis & opportunity mapping within IBM BOB's account team leadership lane. Use it when the seller needs the work product of account team leader, strategic account director, complex-deal orchestrator, especially when the task should reduce manual research, anal..."
+    },
+    {
+      "slug": "ibm-atl-003",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for cross-brand opportunity identifier within IBM BOB's account team leadership lane. Use it when the seller needs the work product of account team leader, strategic account director, complex-deal orchestrator, especially when the task should reduce manual research, analysis, w..."
+    },
+    {
+      "slug": "ibm-atl-007",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for deal negotiation preparation & strategy within IBM BOB's account team leadership lane. Use it when the seller needs the work product of account team leader, strategic account director, complex-deal orchestrator, especially when the task should reduce manual research, analys..."
+    },
+    {
+      "slug": "ibm-sales-agentic-orchestration",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Design, configure, deploy, and operate a governed IBM Sales multi-agent package that connects IBM Bob, watsonx.ai, watsonx Orchestrate, and watsonx.governance. Use for seller onboarding, account research, opportunity execution, sales workflow automation, agent routing, sensitive sales-data handling, IBM Sales dashboards, and enterprise-scale operating design."
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-redline-boundary",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Separate factual contract-clause extraction and issue triage from legal interpretation, negotiation position, or acceptance authority. Use when the IBM Sales control mode selects capability `commercial-governance.redline-boundary` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-008",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Map approved partners, alliance status, partner roles, deal-registration context, and co-sell opportunities for an account. Use when IBM Sales selects `plan.territory-account.partner-landscape` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-044",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Validate meeting notes or transcript-derived facts before they become account, opportunity, MEDDICC, or CRM evidence. Use when IBM Sales selects `discover.note-validate` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-071",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Prepare a renewal-readiness plan with contract facts, value evidence, adoption/health context, stakeholder map, risks, commercial dependencies, and owner actions. Use when IBM Sales selects `close.renewal-prepare` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "independent-megadeal-originator",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Identify and package independent megadeal origination opportunities for human-led closing. Use when searching for, qualifying, or preparing deal context for high-value opportunities such as autonomous niche media/data platform rollups, off-grid data center real estate and power allocations, or cross-border luxury expedition/asset consortiums. Produces human-in-the-loop briefing packs with opportunity thesis, owner/buyer maps, diligence gaps, risk flags, MNDA/non-circumvention gating, SPV setup guidance, and success-fee LOI close checklists."
+    },
+    {
+      "slug": "revenue-churn-root-cause-analysis",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Analyze churn drivers using validated customer, product, service, and commercial evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-renewal-risk-assessment",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Assess renewal risk using adoption, service, commercial, and stakeholder evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-stakeholder-map-preparation",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Prepare stakeholder maps from approved relationship and interaction evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "enterprise-sales-playbook",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "A strategic framework for executing complex enterprise sales cycles, from initial account intelligence to value proposition design and C-level proposal delivery. Use for developing account penetration strategies, building strategic customer presentations, and managing multi-stakeholder sales campaigns."
+    },
+    {
+      "slug": "gov-contract-broker",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Automates government contract partnership origination by scanning SAM.gov/USASpending for recent awards, identifying awardees, sending partnership outreach emails, and matching them with subcontractors for a commission. Use when a user asks to find government contracts, broker subcontracts, or reach out to government contract winners."
+    },
+    {
+      "slug": "ibm-sales-scale-011",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Coordinate a complex-deal war-room packet that consolidates validated deal facts, decision blockers, dependencies, risks, stakeholders, and next owner actions. Use when IBM Sales selects `plan.territory-account.deal-war-room` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-073",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Create an internal churn-prevention assessment from validated risk signals, contract/adoption facts, owners, mitigations, and escalation thresholds. Use when IBM Sales selects `close.churn-prevention` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-074",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Assess whether a customer-reference or advocacy request has verified value evidence, customer consent, account-owner alignment, content boundary, and legal/privacy route. Use when IBM Sales selects `close.reference-advocacy` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "revenue-account-health-scorecard",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Produce an account-health scorecard with evidence, uncertainty, and owner actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-account-plan-preparation",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Prepare evidence-backed account plans, stakeholder hypotheses, and growth priorities. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "revenue-adoption-analysis",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Analyze customer adoption evidence and route accountable enablement actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-customer-escalation-coordination",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Coordinate a customer escalation case, evidence set, action owners, and communications draft. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Escalation Management Capability Director."
+    },
+    {
+      "slug": "revenue-forecast-rollup-exception",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Analyze forecast rollup exceptions, missing evidence, and confidence gaps. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-incentive-exception-review",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Review sales-incentive exception evidence for authorized compensation processing. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-qbr-pack-preparation",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Prepare a quarterly business review packet with agreed metrics and source references. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-sales-activity-capture-review",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Review sales activity capture completeness and data-quality remediation needs. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-territory-coverage-analysis",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Analyze account and rep coverage gaps against approved territory design. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-win-loss-synthesis",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Synthesize win/loss evidence into controlled insights and follow-up hypotheses. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "tls-contract-intelligence-negotiation-agent",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires contract analysis, negotiation support, and legal intelligence for TLS deal acceleration, especially when the user expects the work product of a contract specialist or deal desk analyst."
+    },
+    {
+      "slug": "b2b-personalized-outreach",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Researches B2B leads and crafts two hyper-personalized outreach messages for each, transitioning from a human connection to a commercial conversation. Use when asked to perform personalized outreach, connect with leads, or generate sales messages."
+    },
+    {
+      "slug": "eos-lead-qualification",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Lead Qualification for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-deal-desk-route",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Route commercial requests to the correct deal-desk, pricing, finance, legal, and executive authorities with complete evidence and decision scope. Use when the IBM Sales control mode selects capability `commercial-governance.deal-desk-route` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-proposal-release-qa",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Validate proposal/RFP/SOW release readiness across version, claims, evidence, pricing, legal/compliance sections, approvals, and delivery dependencies. Use when the IBM Sales control mode selects capability `commercial-governance.proposal-release-qa` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-002",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Identify coverage gaps across accounts, personas, opportunities, technical overlays, and partner participation without converting incomplete data into a staffing recommendation. Use when IBM Sales selects `plan.territory-account.coverage-gap` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-015",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Track validated business initiatives, transformation programs, leadership statements, and strategic priorities for an account with a freshness and evidence register. Use when IBM Sales selects `research.business-initiative-track` for an authorized work item with the necessary source, policy, and owner controls."
+    }
+  ],
+  "primary_accountable": [
+    "b2b-lead-intelligence-generator",
+    "b2b-personalized-outreach",
+    "business-development-partnership-business-case-analyst",
+    "business-development-partnership-due-diligence-analyst",
+    "business-development-partnership-negotiation-specialist",
+    "business-development-partnership-strategist",
+    "business-development-strategic-partnership-analyst",
+    "business-development-technology-partnership-analyst",
+    "enterprise-sales-playbook",
+    "eos-lead-qualification",
+    "gov-contract-broker",
+    "ibm-atl-001",
+    "ibm-atl-002",
+    "ibm-atl-003",
+    "ibm-atl-007",
+    "ibm-atl-008",
+    "ibm-atl-009",
+    "ibm-bob-lead-intelligence",
+    "ibm-career-sales-brand-technical-sales-specialist",
+    "ibm-career-sales-partner-technical-specialist",
+    "ibm-career-sales-technology-sales-leader",
+    "ibm-career-sales-territory-sales-specialist",
+    "ibm-met-sm-001",
+    "ibm-met-sm-007",
+    "ibm-neg-004",
+    "ibm-neg-005",
+    "ibm-sales-000",
+    "ibm-sales-ext-commercial-deal-desk-route",
+    "ibm-sales-scale-002",
+    "ibm-sales-scale-011",
+    "ibm-sales-scale-015",
+    "ibm-sales-scale-023",
+    "ibm-sales-scale-025",
+    "ibm-sales-scale-030",
+    "ibm-sales-scale-037",
+    "ibm-sales-scale-038",
+    "ibm-sales-scale-044",
+    "ibm-sales-scale-046",
+    "ibm-sales-scale-049",
+    "ibm-sales-scale-070",
+    "ibm-sales-scale-071",
+    "ibm-sales-scale-072",
+    "ibm-sales-scale-073",
+    "ibm-sales-scale-074",
+    "independent-megadeal-originator",
+    "negotiation-batna-analyst",
+    "negotiation-concession-strategist",
+    "negotiation-conflict-resolution-advisor",
+    "negotiation-counterparty-simulator",
+    "negotiation-influence-strategy-analyst",
+    "negotiation-objection-analyst",
+    "negotiation-orchestrator",
+    "negotiation-preparation-specialist",
+    "negotiation-reviewer",
+    "negotiation-simulator",
+    "negotiation-stakeholder-analyst",
+    "negotiation-stakeholder-mapping-specialist",
+    "negotiation-strategist",
+    "revenue-contract-handoff-readiness",
+    "revenue-opportunity-qualification",
+    "sales-account-planner",
+    "sales-account-researcher",
+    "sales-account-signal-analyst",
+    "sales-account-strategist",
+    "sales-account-technical-leader",
+    "sales-ai-solution-architect",
+    "sales-bant-specialist",
+    "sales-battlecard-specialist",
+    "sales-brand-sales-specialist",
+    "sales-brand-technical-specialist",
+    "sales-business-case-builder",
+    "sales-business-discovery-specialist",
+    "sales-buyer-simulator",
+    "sales-buying-committee-mapper",
+    "sales-champion-analyst",
+    "sales-chief-revenue-officer-advisor",
+    "sales-client-engineering-orchestrator",
+    "sales-closing-strategist",
+    "sales-cloud-solution-architect",
+    "sales-co-creation-specialist",
+    "sales-commercial-negotiation",
+    "sales-commercial-strategy-analyst",
+    "sales-competitive-differentiation-strategist",
+    "sales-competitive-intelligence-analyst",
+    "sales-competitive-objection-specialist",
+    "sales-competitor-response-simulator",
+    "sales-contact-discovery-specialist",
+    "sales-copy-reviewer",
+    "sales-customer-value-realization-analyst",
+    "sales-data-solution-architect",
+    "sales-deal-coach",
+    "sales-deal-desk-specialist",
+    "sales-deal-risk-analyst",
+    "sales-deal-strategist",
+    "sales-decision-process-analyst",
+    "sales-design-thinking-facilitator",
+    "sales-director",
+    "sales-discount-strategy-analyst",
+    "sales-discovery-call-planner",
+    "sales-discovery-evidence-synthesizer",
+    "sales-discovery-problem-framing",
+    "sales-discovery-strategist",
+    "sales-displacement-strategist",
+    "sales-economic-buyer-analyst",
+    "sales-email-outreach-specialist",
+    "sales-enterprise-architect",
+    "sales-executive-buyer-simulator",
+    "sales-executive-outreach-specialist",
+    "sales-expansion-opportunity-analyst",
+    "sales-financial-discovery-specialist",
+    "sales-follow-up-strategist",
+    "sales-gtm-simulation-analyst",
+    "sales-icp-analyst",
+    "sales-integration-architect",
+    "sales-lead-discovery-specialist",
+    "sales-lead-qualification-analyst",
+    "sales-manager",
+    "sales-meddpicc-specialist",
+    "sales-messaging-reaction-simulator",
+    "sales-negotiation-strategist",
+    "sales-objection-handling-specialist",
+    "sales-operational-discovery-specialist",
+    "sales-opportunity-qualification",
+    "sales-opportunity-qualification-analyst",
+    "sales-orchestrator",
+    "sales-org-chart-intelligence-analyst",
+    "sales-outcome-mapping-specialist",
+    "sales-outreach-strategist",
+    "sales-persona-messaging-specialist",
+    "sales-pilot-designer",
+    "sales-pilot-results-analyst",
+    "sales-pricing-reaction-simulator",
+    "sales-pricing-strategist",
+    "sales-procurement-response-strategist",
+    "sales-proof-of-concept-architect",
+    "sales-proof-of-value-strategist",
+    "sales-proposal-architect",
+    "sales-proposal-reviewer",
+    "sales-proposal-writer",
+    "sales-prospect-enrichment-specialist",
+    "sales-quota-planning-analyst",
+    "sales-renewal-management",
+    "sales-rfp-response-strategist",
+    "sales-roi-analyst",
+    "sales-security-solution-architect",
+    "sales-seller-intelligence-mcp-integration",
+    "sales-solution-alignment",
+    "sales-solution-architect",
+    "sales-solution-strategist",
+    "sales-stage-governance",
+    "sales-stakeholder-simulation-analyst",
+    "sales-success-criteria-designer",
+    "sales-tco-analyst",
+    "sales-technical-buyer-simulator",
+    "sales-technical-discovery-specialist",
+    "sales-technical-outreach-specialist",
+    "sales-technical-sales-specialist",
+    "sales-technology-seller",
+    "sales-territory-strategist",
+    "sales-to-delivery-handoff-specialist",
+    "sales-trigger-event-analyst",
+    "sales-value-engineer",
+    "sales-value-hypothesis-designer",
+    "sales-value-realization-modeling",
+    "sales-vp-sales-advisor",
+    "sales-whitespace-analyst",
+    "tls-contract-intelligence-negotiation-agent",
+    "tls-discovery-call-strategist-agent",
+    "tls-mvs-opportunity-qualifier-agent",
+    "webdev-custom-dockerfile"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

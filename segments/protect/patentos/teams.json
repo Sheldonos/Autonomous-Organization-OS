@@ -1,0 +1,74 @@
+{
+  "pocket": "patentos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Invention intake Team",
+      "stage": 1,
+      "responsibility": "Invention intake",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Prior-art research Team",
+      "stage": 2,
+      "responsibility": "Prior-art research",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Claim/landscape analysis Team",
+      "stage": 3,
+      "responsibility": "Claim/landscape analysis",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Disclosure package Team",
+      "stage": 4,
+      "responsibility": "Disclosure package",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Counsel handoff Team",
+      "stage": 5,
+      "responsibility": "Counsel handoff",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Prosecution tracking Team",
+      "stage": 6,
+      "responsibility": "Prosecution tracking",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Portfolio review Team",
+      "stage": 7,
+      "responsibility": "Portfolio review",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "License/renewal obligations Team",
+      "stage": 8,
+      "responsibility": "License/renewal obligations",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

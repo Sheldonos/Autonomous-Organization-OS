@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "id": "eventos",
+  "title": "EventOS",
+  "segment": "create",
+  "mission": "Design and operate events from concept and economics through speakers, sponsors, attendees, production, and post-event monetization.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 22,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Event concept & economics",
+    "Venue/date",
+    "Program & speakers",
+    "Sponsors & partners",
+    "Audience acquisition",
+    "Production plan",
+    "Live operations",
+    "Follow-up & content",
+    "Event P&L learning"
+  ],
+  "handoffs": [
+    "dealos",
+    "brandos",
+    "mediaos",
+    "revenueos"
+  ],
+  "connectors": [
+    "ticketing",
+    "crm",
+    "email",
+    "calendar",
+    "payments",
+    "production_mgmt"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "fundos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-capital-allocation",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "it-software-asset-license-review",
+    "it-technology-vendor-risk-review",
+    "it-cloud-cost-anomaly-review",
+    "it-observability-health-review",
+    "government-measure-benefits-and-performance",
+    "operations-corrective-action-verification",
+    "finance-audit-pbc-compilation",
+    "operations-asset-health-evidence",
+    "cio-delivery-risk-management",
+    "operations-customs-document-readiness",
+    "operations-ehs-incident-evidence",
+    "operations-inventory-health-review",
+    "operations-logistics-disruption-case",
+    "operations-nonconformance-evidence-pack",
+    "operations-order-promise-readiness",
+    "operations-quality-deviation-intake",
+    "operations-return-material-authorization-prep"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "universityos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "curriculum-architect",
+    "eos-innovation-program-management",
+    "program-management-program-governance",
+    "research-academic-search-specialist",
+    "bob-executive-competitive-deck-builder",
+    "ibm-sales-scale-015",
+    "manus-api",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "b2b-lead-intelligence-generator",
+    "education-assure-program-quality",
+    "education-coordinate-accommodations",
+    "education-manage-credentials-records",
+    "education-course-designer",
+    "education-student-progress-analyst",
+    "education-analyze-learning-needs",
+    "education-manage-learner-intake",
+    "education-support-career-transition"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "id": "bidos",
+  "title": "BidOS",
+  "segment": "sell",
+  "mission": "Find and win structured opportunities such as RFPs, RFIs, RFQs, grants, prizes, and procurement competitions.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 33,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Opportunity intake",
+    "Eligibility & fit",
+    "Requirement extraction",
+    "Compliance matrix",
+    "Solution & win strategy",
+    "Pricing & approvals",
+    "Submission assembly",
+    "Submission & follow-up",
+    "Award transition"
+  ],
+  "handoffs": [
+    "dealos",
+    "researchos",
+    "pricingos",
+    "legalos",
+    "grantos"
+  ],
+  "connectors": [
+    "opportunity_feeds",
+    "document_store",
+    "calendar",
+    "crm",
+    "e_signature"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

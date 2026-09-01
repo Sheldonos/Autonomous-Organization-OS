@@ -1,0 +1,27 @@
+{
+  "pocket": "legalos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-obligation-extraction-specialist",
+    "legal-obligation-management",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "legal-risk-obligation-extraction",
+    "legal-risk-board-governance-pack",
+    "ibm-sales-scale-064",
+    "legal-dispute-claims-management",
+    "legal-legal-work-intake-triage",
+    "legal-legal-hold-evidence-preservation",
+    "legal-contract-drafting-redlining",
+    "legal-approval-signature-routing",
+    "eos-contract-obligation-management",
+    "legal-contract-risk-issue-spotting",
+    "procurement-contract-obligation-extraction",
+    "legal-risk-clause-variance-analysis",
+    "legal-risk-litigation-evidence-compilation",
+    "legal-litigation-research-analyst",
+    "legal-contract-clause-extractor",
+    "legal-risk-contract-intake-classification"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "creatoros",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "master-storytelling",
+    "ibm-des-001",
+    "ibm-sales-mcp-connection-governor",
+    "rspkt-web-designer",
+    "demo-guide-architect",
+    "intelligence-analyze-patterns-and-trends",
+    "intelligence-build-decision-dashboards",
+    "intelligence-define-intelligence-requirements",
+    "intelligence-produce-intelligence-briefings",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "marketing-content-reuse-eligibility",
+    "marketing-event-readiness-checklist",
+    "marketing-seo-content-brief",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "marketing-campaign-orchestration",
+    "marketing-account-based-signal-qualification",
+    "marketing-audience-segmentation-review",
+    "marketing-campaign-brief-preparation"
+  ]
+}

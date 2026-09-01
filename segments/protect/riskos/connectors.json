@@ -1,0 +1,11 @@
+{
+  "pocket": "riskos",
+  "required_or_optional_classes": [
+    "grc",
+    "analytics",
+    "document_store",
+    "event_bus"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

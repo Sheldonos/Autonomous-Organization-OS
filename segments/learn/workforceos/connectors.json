@@ -1,0 +1,12 @@
+{
+  "pocket": "workforceos",
+  "required_or_optional_classes": [
+    "hris",
+    "lms",
+    "project_mgmt",
+    "credentialing",
+    "analytics"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

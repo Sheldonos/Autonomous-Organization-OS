@@ -1,0 +1,27 @@
+{
+  "pocket": "studioos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-bob-ads-creative",
+    "repository-release-audit",
+    "bob-package-validation",
+    "script-audit-revision",
+    "master-developer",
+    "model-routing",
+    "enterprise-sales-pearl-gatherer",
+    "ibm-sales-scale-052",
+    "media-accessibility-localization",
+    "media-mastering-quality-control",
+    "casting-performance-development",
+    "lesson-builder",
+    "supply-chain-production-scheduling",
+    "keyframe-evaluation",
+    "media-distribution-packaging",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "ibm-sales-scale-044",
+    "media-safety-risk-planning",
+    "advanced-web-developer"
+  ]
+}

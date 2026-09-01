@@ -1,0 +1,2773 @@
+as_of: '2026-08-23'
+source: enterprise-autonomous-operations-build-spec section 6
+use_cases:
+- business_line: Executive Management
+  domain: strategy
+  use_case: CEO operations
+  skills:
+  - executive-okr-operating-system
+  - strategy-board-strategy-advisor
+  - strategy-business-model-designer
+  - strategy-business-strategy-analyst
+  - strategy-competitive-strategy-analyst
+  - strategy-corporate-strategist
+  - strategy-growth-strategist
+  - strategy-market-entry-strategist
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: executive decision support
+  skills:
+  - executive-okr-operating-system
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: corporate strategy
+  skills:
+  - strategy-corporate-strategist
+  - strategy-board-strategy-advisor
+  - strategy-business-model-designer
+  - strategy-business-strategy-analyst
+  - strategy-competitive-strategy-analyst
+  - strategy-growth-strategist
+  - strategy-market-entry-strategist
+  - strategy-moat-analyst
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: strategic planning
+  skills:
+  - strategy-strategic-planning-specialist
+  - strategy-strategic-initiative-designer
+  - strategy-strategic-risk-analyst
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: OKRs
+  skills:
+  - executive-okr-operating-system
+  - strategy-board-strategy-advisor
+  - strategy-business-model-designer
+  - strategy-business-strategy-analyst
+  - strategy-competitive-strategy-analyst
+  - strategy-corporate-strategist
+  - strategy-growth-strategist
+  - strategy-market-entry-strategist
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: scenario planning
+  skills:
+  - strategy-scenario-strategist
+  - strategy-strategic-planning-specialist
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: business performance
+  skills:
+  - strategy-business-model-designer
+  - strategy-business-strategy-analyst
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: capital allocation
+  skills:
+  - executive-okr-operating-system
+  - strategy-board-strategy-advisor
+  - strategy-business-model-designer
+  - strategy-business-strategy-analyst
+  - strategy-competitive-strategy-analyst
+  - strategy-corporate-strategist
+  - strategy-growth-strategist
+  - strategy-market-entry-strategist
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: board support
+  skills:
+  - strategy-board-strategy-advisor
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: organizational health
+  skills:
+  - executive-okr-operating-system
+  - strategy-board-strategy-advisor
+  - strategy-business-model-designer
+  - strategy-business-strategy-analyst
+  - strategy-competitive-strategy-analyst
+  - strategy-corporate-strategist
+  - strategy-growth-strategist
+  - strategy-market-entry-strategist
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: competitive intelligence
+  skills:
+  - strategy-competitive-strategy-analyst
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Executive Management
+  domain: strategy
+  use_case: strategic foresight.
+  skills:
+  - strategy-strategic-initiative-designer
+  - strategy-strategic-planning-specialist
+  - strategy-strategic-risk-analyst
+  harness: harnesses/domain-bobs/strategy
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: FP&A
+  skills:
+  - finance-orchestrator
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: accounting
+  skills:
+  - finance-orchestrator
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: record-to-report
+  skills:
+  - finance-management-reporting
+  - finance-management-reporting-pack
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: budgeting
+  skills:
+  - finance-driver-based-budgeting
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: forecasting
+  skills:
+  - finance-forecasting-specialist
+  - finance-rolling-forecasting
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: treasury
+  skills:
+  - finance-treasury-analyst
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: tax coordination
+  skills:
+  - finance-indirect-tax-exception-review
+  - finance-tax-data-readiness
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: revenue recognition
+  skills:
+  - finance-revenue-close-tie-out
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: cost management
+  skills:
+  - finance-orchestrator
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: financial controls
+  skills:
+  - finance-financial-analyst
+  - finance-financial-close-support
+  - finance-financial-modeling-specialist
+  - finance-financial-policy-query-triage
+  - finance-financial-quality-reviewer
+  - finance-financial-statement-analyst
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: capital allocation
+  skills:
+  - finance-capital-allocation
+  - finance-capital-allocation-analyst
+  - finance-working-capital-action-plan
+  - finance-working-capital-analysis
+  - finance-working-capital-analyst
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: unit economics
+  skills:
+  - finance-unit-economics-analyst
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: management reporting
+  skills:
+  - finance-management-reporting
+  - finance-management-reporting-pack
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: business cases
+  skills:
+  - finance-business-case-appraisal
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Finance
+  domain: finance
+  use_case: investment analysis.
+  skills:
+  - finance-billing-dispute-analysis
+  - finance-investment-analyst
+  - finance-profitability-analysis
+  - finance-ratio-analysis-specialist
+  - finance-variance-analysis
+  - finance-working-capital-analysis
+  harness: harnesses/domain-bobs/finance
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: territory planning
+  skills:
+  - ibm-career-sales-territory-sales-specialist
+  - sales-quota-planning-analyst
+  - sales-territory-strategist
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: account planning
+  skills:
+  - sales-account-intelligence
+  - sales-account-planner
+  - sales-account-researcher
+  - sales-account-signal-analyst
+  - sales-account-strategist
+  - sales-account-technical-leader
+  - sales-quota-planning-analyst
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: lead qualification
+  skills:
+  - sales-lead-qualification-analyst
+  - ibm-career-sales-technology-sales-leader
+  - sales-account-technical-leader
+  - sales-lead-discovery-specialist
+  - sales-opportunity-qualification
+  - sales-opportunity-qualification-analyst
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: opportunity management
+  skills:
+  - sales-expansion-opportunity-analyst
+  - sales-opportunity-qualification
+  - sales-opportunity-qualification-analyst
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: pipeline management
+  skills:
+  - sales-client-engineering-orchestrator
+  - sales-orchestrator
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: deal strategy
+  skills:
+  - sales-commercial-strategy-analyst
+  - sales-competitive-strategy
+  - sales-deal-coach
+  - sales-deal-desk-specialist
+  - sales-deal-risk-analyst
+  - sales-deal-strategist
+  - sales-discount-strategy-analyst
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: sales engineering
+  skills:
+  - sales-client-engineering-orchestrator
+  - ibm-career-sales-brand-technical-sales-specialist
+  - ibm-career-sales-partner-technical-specialist
+  - ibm-career-sales-technology-sales-leader
+  - ibm-career-sales-territory-sales-specialist
+  - sales-account-intelligence
+  - sales-account-planner
+  - sales-account-researcher
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: pricing
+  skills:
+  - sales-pricing-reaction-simulator
+  - sales-pricing-strategist
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: proposal generation
+  skills:
+  - sales-proposal-architect
+  - sales-proposal-management
+  - sales-proposal-reviewer
+  - sales-proposal-writer
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: forecasting
+  skills:
+  - sales-client-engineering-orchestrator
+  - sales-orchestrator
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: renewals
+  skills:
+  - sales-client-engineering-orchestrator
+  - sales-orchestrator
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: expansion
+  skills:
+  - sales-expansion-opportunity-analyst
+  - sales-expansion-strategist
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: channel sales
+  skills:
+  - ibm-career-sales-brand-technical-sales-specialist
+  - ibm-career-sales-partner-technical-specialist
+  - ibm-career-sales-technology-sales-leader
+  - ibm-career-sales-territory-sales-specialist
+  - sales-account-intelligence
+  - sales-account-planner
+  - sales-account-researcher
+  - sales-account-signal-analyst
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Sales
+  domain: sales
+  use_case: sales operations.
+  skills:
+  - ibm-career-sales-brand-technical-sales-specialist
+  - ibm-career-sales-partner-technical-specialist
+  - ibm-career-sales-technology-sales-leader
+  - ibm-career-sales-territory-sales-specialist
+  - sales-account-intelligence
+  - sales-account-planner
+  - sales-account-researcher
+  - sales-account-signal-analyst
+  harness: harnesses/domain-bobs/sales
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: market research
+  skills:
+  - marketing-customer-researcher
+  - marketing-keyword-researcher
+  - marketing-market-research-analyst
+  - marketing-market-research-synthesis
+  - marketing-persona-researcher
+  - marketing-account-based-marketing-specialist
+  - marketing-account-based-signal-qualification
+  - marketing-ad-copywriter
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: segmentation
+  skills:
+  - marketing-audience-segmentation-analyst
+  - marketing-audience-segmentation-review
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: positioning
+  skills:
+  - marketing-positioning-strategist
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: messaging
+  skills:
+  - marketing-messaging-strategist
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: brand
+  skills:
+  - marketing-brand-compliance-review
+  - marketing-brand-strategist
+  - marketing-brand-voice-specialist
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: campaigns
+  skills:
+  - marketing-orchestrator
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: demand generation
+  skills:
+  - marketing-demand-generation-strategist
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: content
+  skills:
+  - marketing-content-claims-review
+  - marketing-content-planner
+  - marketing-content-reuse-eligibility
+  - marketing-content-seo-specialist
+  - marketing-content-strategist
+  - marketing-seo-content-brief
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: events
+  skills:
+  - marketing-orchestrator
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: digital marketing
+  skills:
+  - marketing-account-based-marketing-specialist
+  - marketing-account-based-signal-qualification
+  - marketing-ad-copywriter
+  - marketing-ad-creative-strategist
+  - marketing-advertising-strategist
+  - marketing-analytics-specialist
+  - marketing-attribution-explanation-pack
+  - marketing-audience-segmentation-analyst
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: lifecycle marketing
+  skills:
+  - marketing-lifecycle-marketing-specialist
+  - marketing-account-based-marketing-specialist
+  - marketing-account-based-signal-qualification
+  - marketing-ad-copywriter
+  - marketing-ad-creative-strategist
+  - marketing-advertising-strategist
+  - marketing-analytics-specialist
+  - marketing-attribution-explanation-pack
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: product marketing
+  skills:
+  - marketing-product-marketing-manager
+  - marketing-account-based-marketing-specialist
+  - marketing-account-based-signal-qualification
+  - marketing-ad-copywriter
+  - marketing-ad-creative-strategist
+  - marketing-advertising-strategist
+  - marketing-analytics-specialist
+  - marketing-attribution-explanation-pack
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: attribution
+  skills:
+  - marketing-attribution-explanation-pack
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Marketing
+  domain: marketing
+  use_case: marketing operations.
+  skills:
+  - marketing-event-strategy-operations
+  - marketing-marketing-operations-data-quality
+  - marketing-account-based-marketing-specialist
+  - marketing-account-based-signal-qualification
+  - marketing-ad-copywriter
+  - marketing-ad-creative-strategist
+  - marketing-advertising-strategist
+  - marketing-analytics-specialist
+  harness: harnesses/domain-bobs/marketing
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Success
+  domain: customer-success
+  use_case: onboarding
+  skills:
+  - customer-success-customer-onboarding-specialist
+  harness: harnesses/domain-bobs/customer-success
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Success
+  domain: customer-success
+  use_case: adoption
+  skills:
+  - customer-success-adoption-strategist
+  harness: harnesses/domain-bobs/customer-success
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Success
+  domain: customer-success
+  use_case: account health
+  skills:
+  - customer-service-digital-channel-health-review
+  - customer-success-customer-health-analyst
+  - customer-success-technical-account-manager
+  harness: harnesses/domain-bobs/customer-success
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Success
+  domain: customer-success
+  use_case: value realization
+  skills:
+  - customer-service-case-intake-classification
+  - customer-success-orchestrator
+  harness: harnesses/domain-bobs/customer-success
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Success
+  domain: customer-success
+  use_case: renewal risk
+  skills:
+  - customer-service-service-level-risk-monitoring
+  - customer-success-churn-risk-analyst
+  - customer-success-renewal-specialist
+  harness: harnesses/domain-bobs/customer-success
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Success
+  domain: customer-success
+  use_case: expansion opportunity
+  skills:
+  - customer-success-expansion-specialist
+  harness: harnesses/domain-bobs/customer-success
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Success
+  domain: customer-success
+  use_case: executive business review
+  skills:
+  - customer-service-digital-channel-health-review
+  - customer-success-service-quality-reviewer
+  harness: harnesses/domain-bobs/customer-success
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Success
+  domain: customer-success
+  use_case: advocacy
+  skills:
+  - customer-service-case-intake-classification
+  - customer-success-orchestrator
+  harness: harnesses/domain-bobs/customer-success
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Success
+  domain: customer-success
+  use_case: churn prevention.
+  skills:
+  - customer-success-churn-risk-analyst
+  harness: harnesses/domain-bobs/customer-success
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Support
+  domain: customer-support
+  use_case: intake
+  skills:
+  - customer-service-case-intake-classification
+  - eos-support-intake
+  harness: harnesses/domain-bobs/customer-support
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Support
+  domain: customer-support
+  use_case: classification
+  skills:
+  - customer-service-case-intake-classification
+  - customer-service-complaint-classification
+  harness: harnesses/domain-bobs/customer-support
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Support
+  domain: customer-support
+  use_case: routing
+  skills:
+  - eos-support-routing
+  harness: harnesses/domain-bobs/customer-support
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Support
+  domain: customer-support
+  use_case: resolution
+  skills:
+  - customer-service-case-intake-classification
+  - eos-support-intake
+  harness: harnesses/domain-bobs/customer-support
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Support
+  domain: customer-support
+  use_case: escalation
+  skills:
+  - customer-service-case-escalation-preparation
+  - eos-support-escalation
+  harness: harnesses/domain-bobs/customer-support
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Support
+  domain: customer-support
+  use_case: knowledge management
+  skills:
+  - customer-service-knowledge-evidence-retrieval
+  - customer-success-support-knowledge-specialist
+  - eos-support-knowledge-management
+  harness: harnesses/domain-bobs/customer-support
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Support
+  domain: customer-support
+  use_case: SLA management
+  skills:
+  - eos-support-sla-management
+  harness: harnesses/domain-bobs/customer-support
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Support
+  domain: customer-support
+  use_case: root cause analysis
+  skills:
+  - eos-support-root-cause-analysis
+  - customer-service-root-cause-evidence-compilation
+  - customer-service-self-service-gap-analysis
+  harness: harnesses/domain-bobs/customer-support
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Support
+  domain: customer-support
+  use_case: support analytics
+  skills:
+  - customer-service-support-analytics-pack
+  - eos-support-analytics
+  harness: harnesses/domain-bobs/customer-support
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Customer Support
+  domain: customer-support
+  use_case: customer communication.
+  skills:
+  - eos-customer-support-communication
+  - customer-service-accessibility-accommodation-handoff
+  - customer-service-agent-coaching-preparation
+  - customer-service-backlog-prioritization-support
+  - customer-service-case-closure-quality-check
+  - customer-service-case-escalation-preparation
+  - customer-service-case-intake-classification
+  - customer-service-complaint-classification
+  harness: harnesses/domain-bobs/customer-support
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: workforce planning
+  skills:
+  - people-workforce-planning
+  - people-workforce-planning-specialist
+  - people-offboarding-workforce-transition
+  - people-succession-mobility-planning
+  - people-succession-planning-specialist
+  - people-workforce-plan-variance
+  - people-workforce-strategy-analyst
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: recruiting
+  skills:
+  - people-orchestrator
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: hiring
+  skills:
+  - people-orchestrator
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: onboarding
+  skills:
+  - people-onboarding-administration
+  - people-onboarding-readiness-assessment
+  - people-onboarding-specialist
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: performance management
+  skills:
+  - people-performance-checkin-preparation
+  - people-performance-management
+  - people-performance-management-specialist
+  - people-performance-review-writer
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: compensation
+  skills:
+  - people-compensation-analyst
+  - people-compensation-benefits-operations
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: benefits coordination
+  skills:
+  - people-benefits-analyst
+  - people-benefits-enrollment-readiness
+  - people-compensation-benefits-operations
+  - people-interview-coordination-readiness
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: workforce analytics
+  skills:
+  - people-analytics-specialist
+  - people-offboarding-workforce-transition
+  - people-workforce-plan-variance
+  - people-workforce-planning
+  - people-workforce-planning-specialist
+  - people-workforce-strategy-analyst
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: learning
+  skills:
+  - people-learning-and-development-specialist
+  - people-learning-development
+  - people-learning-needs-analysis
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: skills development
+  skills:
+  - people-career-development-advisor
+  - people-learning-and-development-specialist
+  - people-learning-development
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: succession
+  skills:
+  - people-succession-mobility-planning
+  - people-succession-planning-specialist
+  - people-succession-risk-evidence
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: employee experience
+  skills:
+  - people-employee-experience-specialist
+  - people-employee-engagement-analyst
+  - people-employee-records-governance
+  - people-employee-relations-evidence
+  - people-employee-relations-investigations
+  - people-employee-relations-support-specialist
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Human Resources
+  domain: people
+  use_case: offboarding.
+  skills:
+  - people-offboarding-workforce-transition
+  harness: harnesses/domain-bobs/people
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: contract intake
+  skills:
+  - legal-contract-intake-specialist
+  - legal-risk-contract-intake-classification
+  - legal-contract-clause-extractor
+  - legal-contract-closeout-records
+  - legal-contract-drafting-redlining
+  - legal-contract-lifecycle-specialist
+  - legal-contract-negotiation-specialist
+  - legal-contract-parser
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: contract review support
+  skills:
+  - legal-contract-risk-reviewer
+  - legal-citation-reviewer
+  - legal-contract-clause-extractor
+  - legal-contract-closeout-records
+  - legal-contract-drafting-redlining
+  - legal-contract-intake-specialist
+  - legal-contract-lifecycle-specialist
+  - legal-contract-negotiation-specialist
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: matter management
+  skills:
+  - legal-contract-intake-specialist
+  - legal-legal-work-intake-triage
+  - legal-orchestrator
+  - legal-risk-contract-intake-classification
+  - legal-risk-ethics-allegation-intake
+  - legal-risk-privacy-request-intake
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: legal research support
+  skills:
+  - legal-case-law-researcher
+  - legal-litigation-research-analyst
+  - legal-regulatory-research-analyst
+  - legal-research-specialist
+  - legal-statutory-researcher
+  - legal-amendment-change-control
+  - legal-approval-signature-routing
+  - legal-citation-reviewer
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: obligations
+  skills:
+  - legal-contract-intake-specialist
+  - legal-legal-work-intake-triage
+  - legal-orchestrator
+  - legal-risk-contract-intake-classification
+  - legal-risk-ethics-allegation-intake
+  - legal-risk-privacy-request-intake
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: corporate governance
+  skills:
+  - legal-contract-template-governance
+  - legal-risk-board-governance-pack
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: IP management
+  skills:
+  - legal-contract-intake-specialist
+  - legal-legal-work-intake-triage
+  - legal-orchestrator
+  - legal-risk-contract-intake-classification
+  - legal-risk-ethics-allegation-intake
+  - legal-risk-privacy-request-intake
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: litigation support
+  skills:
+  - legal-litigation-research-analyst
+  - legal-risk-litigation-evidence-compilation
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: records
+  skills:
+  - legal-contract-closeout-records
+  - legal-risk-records-retention-review
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: legal risk
+  skills:
+  - legal-contract-risk-issue-spotting
+  - legal-contract-risk-reviewer
+  - legal-risk-aml-case-evidence-prep
+  - legal-risk-audit-finding-remediation
+  - legal-risk-board-governance-pack
+  - legal-risk-clause-variance-analysis
+  - legal-risk-compliance-training-exception
+  - legal-risk-conflict-of-interest-review
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Legal
+  domain: legal
+  use_case: outside counsel management.
+  skills:
+  - legal-general-counsel-advisor
+  harness: harnesses/domain-bobs/legal
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: sourcing
+  skills:
+  - procurement-develop-sourcing-strategy
+  - procurement-sourcing-event-design
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: supplier discovery
+  skills:
+  - procurement-supplier-discovery-specialist
+  - procurement-engage-supplier-market
+  - procurement-evaluate-suppliers
+  - procurement-execute-supplier-exit
+  - procurement-monitor-supplier-performance
+  - procurement-onboard-supplier
+  - procurement-perform-supplier-due-diligence
+  - procurement-supplier-concentration-exposure
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: RFI
+  skills:
+  - procurement-rfi-specialist
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: RFP
+  skills:
+  - procurement-rfp-specialist
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: bid analysis
+  skills:
+  - procurement-bid-comparison-analyst
+  - procurement-category-opportunity-analysis
+  - procurement-cost-analysis-specialist
+  - procurement-invoice-exception-analysis
+  - procurement-off-contract-spend-analysis
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: negotiation support
+  skills:
+  - procurement-negotiation-strategist
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: purchase approval
+  skills:
+  - procurement-purchase-approval-routing
+  - procurement-manage-purchase-orders
+  - procurement-purchase-order-change-triage
+  - procurement-purchase-order-specialist
+  - procurement-purchase-requisition-compliance
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: supplier onboarding
+  skills:
+  - procurement-supplier-onboarding-readiness
+  - procurement-engage-supplier-market
+  - procurement-evaluate-suppliers
+  - procurement-execute-supplier-exit
+  - procurement-monitor-supplier-performance
+  - procurement-onboard-supplier
+  - procurement-perform-supplier-due-diligence
+  - procurement-supplier-concentration-exposure
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: contract coordination
+  skills:
+  - procurement-contract-handoff-specialist
+  - procurement-contract-obligation-extraction
+  - procurement-contract-renewal-readiness
+  - procurement-draft-and-negotiate-contract
+  - procurement-manage-contract-change
+  - procurement-off-contract-spend-analysis
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: spend analysis
+  skills:
+  - procurement-off-contract-spend-analysis
+  - procurement-category-opportunity-analysis
+  - procurement-cost-analysis-specialist
+  - procurement-invoice-exception-analysis
+  - procurement-spend-analyst
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: renewal management
+  skills:
+  - procurement-contract-renewal-readiness
+  - procurement-manage-renewal
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Procurement
+  domain: procurement
+  use_case: supplier performance.
+  skills:
+  - procurement-monitor-supplier-performance
+  - procurement-supplier-performance-analyst
+  - procurement-supplier-performance-scorecard
+  - procurement-engage-supplier-market
+  - procurement-evaluate-suppliers
+  - procurement-execute-supplier-exit
+  - procurement-onboard-supplier
+  - procurement-perform-supplier-due-diligence
+  harness: harnesses/domain-bobs/procurement
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Supply Chain Where Applicable
+  domain: supply-chain
+  use_case: demand
+  skills:
+  - supply-chain-demand-planner
+  - supply-chain-supply-demand-planning
+  harness: harnesses/domain-bobs/supply-chain
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Supply Chain Where Applicable
+  domain: supply-chain
+  use_case: planning
+  skills:
+  - supply-chain-capacity-planning-specialist
+  - supply-chain-manufacturing-planning-specialist
+  - supply-chain-production-planning-analyst
+  - supply-chain-supply-demand-planning
+  harness: harnesses/domain-bobs/supply-chain
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Supply Chain Where Applicable
+  domain: supply-chain
+  use_case: procurement
+  skills:
+  - supply-chain-procurement-sourcing
+  harness: harnesses/domain-bobs/supply-chain
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Supply Chain Where Applicable
+  domain: supply-chain
+  use_case: inventory
+  skills:
+  - supply-chain-inventory-analyst
+  - supply-chain-inventory-optimization-specialist
+  - supply-chain-inventory-replenishment
+  harness: harnesses/domain-bobs/supply-chain
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Supply Chain Where Applicable
+  domain: supply-chain
+  use_case: logistics
+  skills:
+  - supply-chain-logistics-analyst
+  - supply-chain-reverse-logistics
+  harness: harnesses/domain-bobs/supply-chain
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Supply Chain Where Applicable
+  domain: supply-chain
+  use_case: supplier risk
+  skills:
+  - supply-chain-risk-analyst
+  - supply-chain-supplier-dependency-analyst
+  - supply-chain-supplier-due-diligence
+  - supply-chain-supplier-performance-management
+  - supply-chain-supply-chain-risk-management
+  harness: harnesses/domain-bobs/supply-chain
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Supply Chain Where Applicable
+  domain: supply-chain
+  use_case: fulfillment
+  skills:
+  - supply-chain-order-fulfillment
+  harness: harnesses/domain-bobs/supply-chain
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Supply Chain Where Applicable
+  domain: supply-chain
+  use_case: resilience
+  skills:
+  - supply-chain-resilience-strategist
+  harness: harnesses/domain-bobs/supply-chain
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Supply Chain Where Applicable
+  domain: supply-chain
+  use_case: capacity
+  skills:
+  - supply-chain-capacity-planning-specialist
+  harness: harnesses/domain-bobs/supply-chain
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Supply Chain Where Applicable
+  domain: supply-chain
+  use_case: optimization.
+  skills:
+  - supply-chain-inventory-optimization-specialist
+  - supply-chain-network-optimization-specialist
+  harness: harnesses/domain-bobs/supply-chain
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Product Management
+  domain: product
+  use_case: market discovery
+  skills:
+  - product-customer-problem-discovery
+  - product-discovery-specialist
+  - product-go-to-market-planning
+  harness: harnesses/domain-bobs/product
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Product Management
+  domain: product
+  use_case: customer discovery
+  skills:
+  - product-customer-problem-discovery
+  - product-customer-interview-specialist
+  - product-discovery-specialist
+  harness: harnesses/domain-bobs/product
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Product Management
+  domain: product
+  use_case: strategy
+  skills:
+  - product-orchestrator
+  harness: harnesses/domain-bobs/product
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Product Management
+  domain: product
+  use_case: roadmaps
+  skills:
+  - product-orchestrator
+  harness: harnesses/domain-bobs/product
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Product Management
+  domain: product
+  use_case: requirements
+  skills:
+  - product-requirements-analyst
+  - product-requirements-traceability
+  harness: harnesses/domain-bobs/product
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Product Management
+  domain: product
+  use_case: prioritization
+  skills:
+  - product-portfolio-prioritization
+  - product-prioritization-analyst
+  harness: harnesses/domain-bobs/product
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Product Management
+  domain: product
+  use_case: experimentation
+  skills:
+  - product-orchestrator
+  harness: harnesses/domain-bobs/product
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Product Management
+  domain: product
+  use_case: product analytics
+  skills:
+  - product-analytics-specialist
+  - product-product-analytics
+  - product-acceptance-criteria-specialist
+  - product-ai-product-manager
+  - product-backlog-governance
+  - product-chief-product-officer-advisor
+  - product-critic
+  - product-customer-interview-specialist
+  harness: harnesses/domain-bobs/product
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Product Management
+  domain: product
+  use_case: launch
+  skills:
+  - product-launch-architect
+  - product-launch-manager
+  harness: harnesses/domain-bobs/product
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Product Management
+  domain: product
+  use_case: lifecycle management.
+  skills:
+  - product-lifecycle-retirement
+  harness: harnesses/domain-bobs/product
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Research & Development
+  domain: research
+  use_case: research
+  skills:
+  - ibm-career-research-advisory-data-scientist-ibm-quantum
+  - ibm-career-research-artificial-intelligence-researcher
+  - ibm-career-research-cloud-research-scientist
+  - ibm-career-research-quantum-research-scientist
+  - quantum-research-evidence-ledger
+  - quantum-research-orchestrator
+  - quantum-research-publication-gate
+  - research-academic-search-specialist
+  harness: harnesses/domain-bobs/research
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Research & Development
+  domain: research
+  use_case: technology scouting
+  skills:
+  - quantum-research-orchestrator
+  - research-orchestrator
+  harness: harnesses/domain-bobs/research
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Research & Development
+  domain: research
+  use_case: experiments
+  skills:
+  - quantum-research-orchestrator
+  - research-orchestrator
+  harness: harnesses/domain-bobs/research
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Research & Development
+  domain: research
+  use_case: hypothesis management
+  skills:
+  - research-hypothesis-generator
+  - research-hypothesis-reviewer
+  harness: harnesses/domain-bobs/research
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Research & Development
+  domain: research
+  use_case: research portfolio
+  skills:
+  - ibm-career-research-advisory-data-scientist-ibm-quantum
+  - ibm-career-research-artificial-intelligence-researcher
+  - ibm-career-research-cloud-research-scientist
+  - ibm-career-research-quantum-research-scientist
+  - quantum-research-evidence-ledger
+  - quantum-research-orchestrator
+  - quantum-research-publication-gate
+  - research-academic-search-specialist
+  harness: harnesses/domain-bobs/research
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Research & Development
+  domain: research
+  use_case: IP discovery
+  skills:
+  - quantum-research-orchestrator
+  - research-orchestrator
+  harness: harnesses/domain-bobs/research
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Research & Development
+  domain: research
+  use_case: technical evaluation
+  skills:
+  - quantum-research-orchestrator
+  - research-orchestrator
+  harness: harnesses/domain-bobs/research
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Research & Development
+  domain: research
+  use_case: innovation programs.
+  skills:
+  - quantum-research-orchestrator
+  - research-orchestrator
+  harness: harnesses/domain-bobs/research
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: requirements
+  skills:
+  - engineering-requirements-traceability
+  - engineering-requirements-traceability-review
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: architecture
+  skills:
+  - engineering-architecture-decision-record
+  - engineering-architecture-decision-recording
+  - engineering-architecture-reviewer
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: development
+  skills:
+  - engineering-orchestrator
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: testing
+  skills:
+  - engineering-automated-testing
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: DevSecOps
+  skills:
+  - engineering-orchestrator
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: release
+  skills:
+  - engineering-release-deployment-management
+  - engineering-release-engineer
+  - engineering-release-notes-preparation
+  - engineering-release-readiness-gate
+  - enterprise-harness-release-engineer
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: reliability
+  skills:
+  - engineering-reliability-engineer
+  - engineering-site-reliability-engineer
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: quality
+  skills:
+  - engineering-accessibility-quality-review
+  - engineering-mobile-quality-readiness
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: technical debt
+  skills:
+  - engineering-technical-debt-analyst
+  - engineering-technical-debt-prioritization
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: developer productivity
+  skills:
+  - engineering-developer-productivity-insight
+  - engineering-developer-environment-readiness
+  - engineering-developer-experience-engineer
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Engineering
+  domain: engineering
+  use_case: platform engineering.
+  skills:
+  - engineering-platform-engineer
+  - engineering-accessibility-quality-review
+  - engineering-api-contract-review
+  - engineering-api-engineer
+  - engineering-architecture-decision-record
+  - engineering-architecture-decision-recording
+  - engineering-architecture-reviewer
+  - engineering-automated-testing
+  harness: harnesses/domain-bobs/engineering
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: security strategy
+  skills:
+  - cybersecurity-application-security-specialist
+  - cybersecurity-attack-surface-analyst
+  - cybersecurity-audit-evidence-management
+  - cybersecurity-chief-information-security-officer-advisor
+  - cybersecurity-cloud-security-analyst
+  - cybersecurity-cloud-security-architect
+  - cybersecurity-control-selection
+  - cybersecurity-cyber-crisis-management
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: IAM
+  skills:
+  - cybersecurity-iam-specialist
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: SOC
+  skills:
+  - cybersecurity-soc-analyst
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: vulnerability
+  skills:
+  - cybersecurity-vulnerability-analyst
+  - cybersecurity-vulnerability-exposure-management
+  - cybersecurity-vulnerability-prioritization-analyst
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: application security
+  skills:
+  - cybersecurity-application-security-specialist
+  - cybersecurity-attack-surface-analyst
+  - cybersecurity-audit-evidence-management
+  - cybersecurity-chief-information-security-officer-advisor
+  - cybersecurity-cloud-security-analyst
+  - cybersecurity-cloud-security-architect
+  - cybersecurity-control-selection
+  - cybersecurity-cyber-crisis-management
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: cloud security
+  skills:
+  - cybersecurity-cloud-security-analyst
+  - cybersecurity-cloud-security-architect
+  - cybersecurity-application-security-specialist
+  - cybersecurity-attack-surface-analyst
+  - cybersecurity-audit-evidence-management
+  - cybersecurity-chief-information-security-officer-advisor
+  - cybersecurity-control-selection
+  - cybersecurity-cyber-crisis-management
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: data security
+  skills:
+  - cybersecurity-application-security-specialist
+  - cybersecurity-attack-surface-analyst
+  - cybersecurity-audit-evidence-management
+  - cybersecurity-chief-information-security-officer-advisor
+  - cybersecurity-cloud-security-analyst
+  - cybersecurity-cloud-security-architect
+  - cybersecurity-control-selection
+  - cybersecurity-cyber-crisis-management
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: threat intelligence
+  skills:
+  - cybersecurity-threat-intelligence-analyst
+  - cybersecurity-threat-modeling-specialist
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: incident response
+  skills:
+  - cybersecurity-incident-response-analyst
+  - cybersecurity-incident-response-coordination
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: zero trust
+  skills:
+  - cybersecurity-zero-trust-architect
+  - cybersecurity-zero-trust-architecture-review
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: security architecture
+  skills:
+  - cybersecurity-security-architecture-reviewer
+  - cybersecurity-zero-trust-architecture-review
+  - cybersecurity-application-security-specialist
+  - cybersecurity-attack-surface-analyst
+  - cybersecurity-audit-evidence-management
+  - cybersecurity-chief-information-security-officer-advisor
+  - cybersecurity-cloud-security-analyst
+  - cybersecurity-cloud-security-architect
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Cybersecurity
+  domain: cybersecurity
+  use_case: third-party security.
+  skills:
+  - cybersecurity-third-party-security-analyst
+  - cybersecurity-application-security-specialist
+  - cybersecurity-attack-surface-analyst
+  - cybersecurity-audit-evidence-management
+  - cybersecurity-chief-information-security-officer-advisor
+  - cybersecurity-cloud-security-analyst
+  - cybersecurity-cloud-security-architect
+  - cybersecurity-control-selection
+  harness: harnesses/domain-bobs/cybersecurity
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: data strategy
+  skills:
+  - data-strategy-ai-use-case-qualification
+  - data-strategy-analytics-insight-synthesis
+  - data-strategy-benefits-realization-evidence
+  - data-strategy-business-case-preparation
+  - data-strategy-carbon-data-quality
+  - data-strategy-dashboard-quality-review
+  - data-strategy-data-access-request-precheck
+  - data-strategy-data-issue-triage
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: architecture
+  skills:
+  - data-orchestrator
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: engineering
+  skills:
+  - data-orchestrator
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: governance
+  skills:
+  - data-governance-analyst
+  - data-strategy-metric-definition-governance
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: quality
+  skills:
+  - data-quality-analyst
+  - data-strategy-carbon-data-quality
+  - data-strategy-dashboard-quality-review
+  - data-strategy-data-quality-scorecard
+  - data-strategy-model-inventory-quality
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: metadata
+  skills:
+  - data-orchestrator
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: lineage
+  skills:
+  - data-lineage-specialist
+  - data-strategy-lineage-evidence-pack
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: master data
+  skills:
+  - data-strategy-master-data-remediation
+  - data-analytics-engineer
+  - data-architect
+  - data-business-analyst
+  - data-business-intelligence-analyst
+  - data-causal-inference-analyst
+  - data-chief-data-officer-advisor
+  - data-dashboard-designer
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: analytics
+  skills:
+  - data-analytics-engineer
+  - data-strategy-analytics-insight-synthesis
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: BI
+  skills:
+  - data-orchestrator
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Data
+  domain: data
+  use_case: data products.
+  skills:
+  - data-analytics-engineer
+  - data-architect
+  - data-business-analyst
+  - data-business-intelligence-analyst
+  - data-causal-inference-analyst
+  - data-chief-data-officer-advisor
+  - data-dashboard-designer
+  - data-documentation-specialist
+  harness: harnesses/domain-bobs/data
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: AI strategy
+  skills:
+  - ai-engineering-orchestrator
+  - cio-ai-use-case-intake
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: use-case discovery
+  skills:
+  - cio-ai-use-case-intake
+  - ai-engineering-computer-use-agent-engineer
+  - ai-engineering-tool-use-architect
+  - watsonx-ai-platform-discovery
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: model lifecycle
+  skills:
+  - agent-lifecycle-manager
+  - ai-engineering-model-evaluation-engineer
+  - ai-engineering-model-selection-analyst
+  - model-routing
+  - watsonx-ai-model-inventory
+  - watsonx-ai-model-routing
+  - watsonx-ai-prompt-asset-lifecycle
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: agent lifecycle
+  skills:
+  - agent-lifecycle-manager
+  - ai-engineering-agent-architect
+  - ai-engineering-agent-cost-optimization-specialist
+  - ai-engineering-agent-evaluation-specialist
+  - ai-engineering-agent-latency-optimization-specialist
+  - ai-engineering-agent-observability-engineer
+  - ai-engineering-agent-runtime-engineer
+  - ai-engineering-agent-workflow-designer
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: model routing
+  skills:
+  - model-routing
+  - watsonx-ai-model-routing
+  - ai-engineering-model-evaluation-engineer
+  - ai-engineering-model-selection-analyst
+  - watsonx-ai-model-inventory
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: RAG
+  skills:
+  - ai-engineering-rag-engineer
+  - watsonx-ai-rag-ai-service
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: AI evaluation
+  skills:
+  - ai-engineering-agent-evaluation-specialist
+  - ai-engineering-llm-evaluation-specialist
+  - ai-engineering-model-evaluation-engineer
+  - cio-ai-evaluation
+  - watsonx-ai-evaluation-handoff
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: agent evaluation
+  skills:
+  - ai-engineering-agent-evaluation-specialist
+  - agent-lifecycle-manager
+  - ai-engineering-agent-architect
+  - ai-engineering-agent-cost-optimization-specialist
+  - ai-engineering-agent-latency-optimization-specialist
+  - ai-engineering-agent-observability-engineer
+  - ai-engineering-agent-runtime-engineer
+  - ai-engineering-agent-workflow-designer
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: AI governance
+  skills:
+  - ai-engineering-ai-governance-engineer
+  - cio-ai-governance
+  - grc-ai-governance-specialist
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: AI security
+  skills:
+  - cio-ai-security
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: model economics
+  skills:
+  - ai-engineering-model-evaluation-engineer
+  - ai-engineering-model-selection-analyst
+  - model-routing
+  - watsonx-ai-model-inventory
+  - watsonx-ai-model-routing
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Artificial Intelligence
+  domain: artificial-intelligence
+  use_case: AI operations.
+  skills:
+  - ai-engineering-orchestrator
+  - cio-ai-use-case-intake
+  harness: harnesses/domain-bobs/artificial-intelligence
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: PMO / Enterprise Transformation
+  domain: pmo-transformation
+  use_case: programs
+  skills:
+  - program-management-orchestrator
+  - program-management-program-orchestrator
+  harness: harnesses/domain-bobs/pmo-transformation
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: PMO / Enterprise Transformation
+  domain: pmo-transformation
+  use_case: projects
+  skills:
+  - program-management-orchestrator
+  - program-management-program-orchestrator
+  harness: harnesses/domain-bobs/pmo-transformation
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: PMO / Enterprise Transformation
+  domain: pmo-transformation
+  use_case: dependencies
+  skills:
+  - program-management-orchestrator
+  - program-management-program-orchestrator
+  harness: harnesses/domain-bobs/pmo-transformation
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: PMO / Enterprise Transformation
+  domain: pmo-transformation
+  use_case: resources
+  skills:
+  - program-management-orchestrator
+  - program-management-program-orchestrator
+  harness: harnesses/domain-bobs/pmo-transformation
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: PMO / Enterprise Transformation
+  domain: pmo-transformation
+  use_case: milestones
+  skills:
+  - program-management-orchestrator
+  - program-management-program-orchestrator
+  harness: harnesses/domain-bobs/pmo-transformation
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: PMO / Enterprise Transformation
+  domain: pmo-transformation
+  use_case: portfolio
+  skills:
+  - cio-project-portfolio-management
+  harness: harnesses/domain-bobs/pmo-transformation
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: PMO / Enterprise Transformation
+  domain: pmo-transformation
+  use_case: risk
+  skills:
+  - program-management-risk-manager
+  harness: harnesses/domain-bobs/pmo-transformation
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: PMO / Enterprise Transformation
+  domain: pmo-transformation
+  use_case: benefits
+  skills:
+  - program-management-orchestrator
+  - program-management-program-orchestrator
+  harness: harnesses/domain-bobs/pmo-transformation
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: PMO / Enterprise Transformation
+  domain: pmo-transformation
+  use_case: transformation management.
+  skills:
+  - program-management-orchestrator
+  - program-management-program-orchestrator
+  harness: harnesses/domain-bobs/pmo-transformation
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Risk / Compliance
+  domain: grc
+  use_case: enterprise risk
+  skills:
+  - grc-enterprise-risk-analyst
+  - enterprise-loop-budget-controller
+  - grc-ai-risk-analyst
+  - grc-model-risk-analyst
+  - grc-operational-risk-analyst
+  - grc-technology-risk-analyst
+  - grc-third-party-risk-analyst
+  harness: harnesses/domain-bobs/grc
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Risk / Compliance
+  domain: grc
+  use_case: regulatory mapping
+  skills:
+  - grc-regulatory-compliance-specialist
+  harness: harnesses/domain-bobs/grc
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Risk / Compliance
+  domain: grc
+  use_case: controls
+  skills:
+  - grc-controls-designer
+  - grc-controls-tester
+  harness: harnesses/domain-bobs/grc
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Risk / Compliance
+  domain: grc
+  use_case: policy
+  skills:
+  - grc-policy-management-specialist
+  harness: harnesses/domain-bobs/grc
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Risk / Compliance
+  domain: grc
+  use_case: testing
+  skills:
+  - grc-orchestrator
+  harness: harnesses/domain-bobs/grc
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Risk / Compliance
+  domain: grc
+  use_case: evidence
+  skills:
+  - grc-evidence-collection-specialist
+  harness: harnesses/domain-bobs/grc
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Risk / Compliance
+  domain: grc
+  use_case: exceptions
+  skills:
+  - grc-orchestrator
+  harness: harnesses/domain-bobs/grc
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Risk / Compliance
+  domain: grc
+  use_case: remediation
+  skills:
+  - grc-orchestrator
+  harness: harnesses/domain-bobs/grc
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Risk / Compliance
+  domain: grc
+  use_case: reporting.
+  skills:
+  - grc-orchestrator
+  harness: harnesses/domain-bobs/grc
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Corporate Communications
+  domain: communications
+  use_case: executive communications
+  skills:
+  - communications-executive-communications-writer
+  - communications-community-communications-specialist
+  - communications-corporate-communications-strategist
+  - communications-crisis-communications-specialist
+  - communications-internal-communications-specialist
+  - communications-investor-communications-specialist
+  - communications-media-relations-specialist
+  - communications-narrative-strategist
+  harness: harnesses/domain-bobs/communications
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Corporate Communications
+  domain: communications
+  use_case: internal communications
+  skills:
+  - communications-internal-communications-specialist
+  - communications-community-communications-specialist
+  - communications-corporate-communications-strategist
+  - communications-crisis-communications-specialist
+  - communications-executive-communications-writer
+  - communications-investor-communications-specialist
+  - communications-media-relations-specialist
+  - communications-narrative-strategist
+  harness: harnesses/domain-bobs/communications
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Corporate Communications
+  domain: communications
+  use_case: crisis communications
+  skills:
+  - communications-crisis-communications-specialist
+  - communications-community-communications-specialist
+  - communications-corporate-communications-strategist
+  - communications-executive-communications-writer
+  - communications-internal-communications-specialist
+  - communications-investor-communications-specialist
+  - communications-media-relations-specialist
+  - communications-narrative-strategist
+  harness: harnesses/domain-bobs/communications
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Corporate Communications
+  domain: communications
+  use_case: announcements
+  skills:
+  - communications-orchestrator
+  harness: harnesses/domain-bobs/communications
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Corporate Communications
+  domain: communications
+  use_case: stakeholder communications.
+  skills:
+  - communications-community-communications-specialist
+  - communications-corporate-communications-strategist
+  - communications-crisis-communications-specialist
+  - communications-executive-communications-writer
+  - communications-internal-communications-specialist
+  - communications-investor-communications-specialist
+  - communications-media-relations-specialist
+  - communications-narrative-strategist
+  harness: harnesses/domain-bobs/communications
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Facilities / Workplace
+  domain: facilities-workplace
+  use_case: workplace planning
+  skills:
+  - eos-workplace-planning
+  - eos-workplace-access-coordination
+  - eos-workplace-services
+  - real-estate-emergency-continuity-planning
+  - real-estate-space-utilization-planning
+  harness: harnesses/domain-bobs/facilities-workplace
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Facilities / Workplace
+  domain: facilities-workplace
+  use_case: facilities
+  skills:
+  - real-estate-facilities-financial-reporting
+  harness: harnesses/domain-bobs/facilities-workplace
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Facilities / Workplace
+  domain: facilities-workplace
+  use_case: real estate
+  skills:
+  - eos-corporate-real-estate
+  - real-estate-acquisition-analyst
+  - real-estate-area-measurement
+  - real-estate-asset-management-analyst
+  - real-estate-cap-rate-analyst
+  - real-estate-capital-project-delivery
+  - real-estate-commercial-real-estate-analyst
+  - real-estate-comparable-sales-analyst
+  harness: harnesses/domain-bobs/facilities-workplace
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Facilities / Workplace
+  domain: facilities-workplace
+  use_case: access coordination
+  skills:
+  - eos-workplace-access-coordination
+  harness: harnesses/domain-bobs/facilities-workplace
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Facilities / Workplace
+  domain: facilities-workplace
+  use_case: space utilization
+  skills:
+  - real-estate-space-utilization-planning
+  harness: harnesses/domain-bobs/facilities-workplace
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Facilities / Workplace
+  domain: facilities-workplace
+  use_case: maintenance
+  skills:
+  - eos-facility-maintenance
+  - real-estate-preventive-maintenance
+  harness: harnesses/domain-bobs/facilities-workplace
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Facilities / Workplace
+  domain: facilities-workplace
+  use_case: workplace services.
+  skills:
+  - eos-workplace-services
+  - eos-workplace-access-coordination
+  - eos-workplace-planning
+  harness: harnesses/domain-bobs/facilities-workplace
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: opportunity qualification
+  skills:
+  - agency-operations-engagement-qualification
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: solution development
+  skills:
+  - agency-solution-consultant
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: scope
+  skills:
+  - agency-operations-scope-baselining
+  - agency-scope-manager
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: estimation
+  skills:
+  - agency-operations-orchestrator
+  - agency-orchestrator
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: staffing
+  skills:
+  - agency-project-staffing-specialist
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: delivery planning
+  skills:
+  - agency-operations-delivery-status-control
+  - agency-operations-resource-capacity-planning
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: project execution
+  skills:
+  - agency-project-staffing-specialist
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: utilization
+  skills:
+  - agency-utilization-analyst
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: quality
+  skills:
+  - agency-deliverable-quality-reviewer
+  - agency-operations-quality-review-orchestration
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: delivery risk
+  skills:
+  - agency-operations-delivery-status-control
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: change orders
+  skills:
+  - agency-operations-change-impact-assessment
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: customer outcomes
+  skills:
+  - agency-operations-orchestrator
+  - agency-orchestrator
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Professional Services
+  domain: agency
+  use_case: knowledge reuse.
+  skills:
+  - agency-operations-orchestrator
+  - agency-orchestrator
+  harness: harnesses/domain-bobs/agency
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Partnerships / Ecosystem
+  domain: partnerships-ecosystem
+  use_case: partner discovery
+  skills:
+  - eos-partner-discovery
+  - business-development-channel-partner-analyst
+  - business-development-partner-enablement-specialist
+  - business-development-partner-research-specialist
+  - business-development-partnership-business-case-analyst
+  - business-development-partnership-due-diligence-analyst
+  - business-development-partnership-negotiation-specialist
+  - business-development-partnership-strategist
+  harness: harnesses/domain-bobs/partnerships-ecosystem
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Partnerships / Ecosystem
+  domain: partnerships-ecosystem
+  use_case: partner management
+  skills:
+  - business-development-channel-partner-analyst
+  - business-development-partner-enablement-specialist
+  - business-development-partner-research-specialist
+  - business-development-partnership-business-case-analyst
+  - business-development-partnership-due-diligence-analyst
+  - business-development-partnership-negotiation-specialist
+  - business-development-partnership-strategist
+  - business-development-strategic-partnership-analyst
+  harness: harnesses/domain-bobs/partnerships-ecosystem
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Partnerships / Ecosystem
+  domain: partnerships-ecosystem
+  use_case: alliances
+  skills:
+  - business-development-orchestrator
+  harness: harnesses/domain-bobs/partnerships-ecosystem
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Partnerships / Ecosystem
+  domain: partnerships-ecosystem
+  use_case: co-sell
+  skills:
+  - eos-partner-co-sell
+  - ibm-sales-ext-partner-cosell-plan
+  harness: harnesses/domain-bobs/partnerships-ecosystem
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Partnerships / Ecosystem
+  domain: partnerships-ecosystem
+  use_case: ecosystem strategy
+  skills:
+  - business-development-channel-strategy-specialist
+  - business-development-ecosystem-analyst
+  - tls-partner-ecosystem-channel-agent
+  harness: harnesses/domain-bobs/partnerships-ecosystem
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: Partnerships / Ecosystem
+  domain: partnerships-ecosystem
+  use_case: performance.
+  skills:
+  - eos-partner-performance
+  harness: harnesses/domain-bobs/partnerships-ecosystem
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: M&A
+  domain: ma-enterprise
+  use_case: target intelligence
+  skills:
+  - eos-ma-target-intelligence
+  - investment-acquisition-target-researcher
+  harness: harnesses/domain-bobs/ma-enterprise
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: M&A
+  domain: ma-enterprise
+  use_case: diligence
+  skills:
+  - cio-ma-data-diligence
+  - cio-ma-infrastructure-diligence
+  - eos-ma-cross-functional-diligence
+  - investment-commercial-due-diligence-analyst
+  - investment-cybersecurity-due-diligence-analyst
+  - investment-financial-due-diligence-analyst
+  - investment-legal-due-diligence-coordinator
+  - investment-market-due-diligence-analyst
+  harness: harnesses/domain-bobs/ma-enterprise
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: M&A
+  domain: ma-enterprise
+  use_case: financial coordination
+  skills:
+  - investment-financial-due-diligence-analyst
+  harness: harnesses/domain-bobs/ma-enterprise
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: M&A
+  domain: ma-enterprise
+  use_case: technology diligence
+  skills:
+  - investment-technology-due-diligence-analyst
+  - cio-ma-data-diligence
+  - cio-ma-infrastructure-diligence
+  - eos-ma-cross-functional-diligence
+  - investment-commercial-due-diligence-analyst
+  - investment-cybersecurity-due-diligence-analyst
+  - investment-financial-due-diligence-analyst
+  - investment-legal-due-diligence-coordinator
+  harness: harnesses/domain-bobs/ma-enterprise
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: M&A
+  domain: ma-enterprise
+  use_case: security diligence
+  skills:
+  - investment-cybersecurity-due-diligence-analyst
+  - cio-ma-cybersecurity-assessment
+  - cio-ma-data-diligence
+  - cio-ma-infrastructure-diligence
+  - eos-ma-cross-functional-diligence
+  - investment-commercial-due-diligence-analyst
+  - investment-financial-due-diligence-analyst
+  - investment-legal-due-diligence-coordinator
+  harness: harnesses/domain-bobs/ma-enterprise
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: M&A
+  domain: ma-enterprise
+  use_case: HR diligence
+  skills:
+  - cio-ma-data-diligence
+  - cio-ma-infrastructure-diligence
+  - eos-ma-cross-functional-diligence
+  - investment-commercial-due-diligence-analyst
+  - investment-cybersecurity-due-diligence-analyst
+  - investment-financial-due-diligence-analyst
+  - investment-legal-due-diligence-coordinator
+  - investment-market-due-diligence-analyst
+  harness: harnesses/domain-bobs/ma-enterprise
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: M&A
+  domain: ma-enterprise
+  use_case: integration
+  skills:
+  - eos-ma-integration-orchestration
+  - process-acquisition-to-integration
+  harness: harnesses/domain-bobs/ma-enterprise
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: M&A
+  domain: ma-enterprise
+  use_case: Day 1
+  skills:
+  - cio-ma-day1-planning
+  - eos-ma-day1-orchestration
+  harness: harnesses/domain-bobs/ma-enterprise
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: M&A
+  domain: ma-enterprise
+  use_case: synergy tracking
+  skills:
+  - eos-ma-synergy-tracking
+  - investment-synergy-analyst
+  harness: harnesses/domain-bobs/ma-enterprise
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true
+- business_line: M&A
+  domain: ma-enterprise
+  use_case: separation.
+  skills:
+  - eos-ma-separation-orchestration
+  harness: harnesses/domain-bobs/ma-enterprise
+  pass1_skill_coverage: true
+  pass2_runtime_backing: true
+  pass3_fixture_evidence: true

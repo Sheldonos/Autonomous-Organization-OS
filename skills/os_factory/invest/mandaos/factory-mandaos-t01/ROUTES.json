@@ -1,0 +1,27 @@
+{
+  "pocket": "mandaos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-055",
+    "investment-acquisition-target-researcher",
+    "product-go-to-market-planning",
+    "game-dev",
+    "bob-executive-competitive-deck-builder",
+    "cybersecurity-security-policy-management",
+    "ibm-sales-scale-050",
+    "eos-ma-target-intelligence",
+    "ibm-bob-ads-budget",
+    "shared-policy-gate",
+    "legal-third-party-risk-assessment",
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-financial-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator",
+    "investment-market-due-diligence-analyst",
+    "investment-operational-due-diligence-analyst",
+    "investment-synergy-analyst",
+    "investment-technology-due-diligence-analyst",
+    "legal-due-diligence-analyst"
+  ]
+}

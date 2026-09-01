@@ -1,0 +1,27 @@
+{
+  "pocket": "agencyos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "agency-client-services-director",
+    "agency-client-communication-specialist",
+    "agency-operations-engagement-closeout",
+    "agency-operations-invoice-readiness-review",
+    "agency-operations-quality-review-orchestration",
+    "agency-operations-change-impact-assessment",
+    "agency-operations-time-cost-margin-control",
+    "agency-operations-contract-handoff",
+    "agency-operations-delivery-status-control",
+    "agency-operations-human-approval-gating",
+    "agency-operations-scope-baselining",
+    "agency-operations-stakeholder-communications-governance",
+    "agency-operations-orchestrator",
+    "rspkt-web-designer",
+    "ibm-bob-ads-monitor",
+    "marketing-paid-media-anomaly-review",
+    "agency-operations-engagement-qualification",
+    "agency-operations-conflict-of-interest-screening",
+    "design-define-service-measures",
+    "design-monitor-service-improvement"
+  ]
+}

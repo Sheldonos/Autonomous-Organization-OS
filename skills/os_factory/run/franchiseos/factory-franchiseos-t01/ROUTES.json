@@ -1,0 +1,27 @@
+{
+  "pocket": "franchiseos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "enterprise-architect",
+    "ibm-des-bts-001",
+    "cio-cio-operating-model-design",
+    "design-co-design-service-concepts",
+    "design-model-service-blueprint",
+    "automation-design-integration-orchestration",
+    "cio-model-economics",
+    "procurement-monitor-supplier-performance",
+    "tls-ai-drift-detection-escalation-agent",
+    "agency-operations-contract-handoff",
+    "agency-operations-human-approval-gating",
+    "agency-operations-scope-baselining",
+    "automation-manage-release-and-change",
+    "automation-model-business-process",
+    "ibm-met-sm-009",
+    "media-media-asset-management",
+    "media-release-management",
+    "media-rights-clearance",
+    "cio-it-unit-economics",
+    "eos-unit-economics"
+  ]
+}

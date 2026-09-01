@@ -1,0 +1,27 @@
+{
+  "pocket": "acceleratoros",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "chief-of-staff-executive-priority-shaping",
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "enterprise-delta-impact-propagator",
+    "government-evaluate-policy-interventions",
+    "intelligence-manage-feedback-and-reassessment",
+    "procurement-define-procurement-need",
+    "chief-of-staff",
+    "startups-founder-advisor",
+    "startups-founder-market-fit-analyst",
+    "startups-orchestrator",
+    "startups-startup-financial-modeler",
+    "startups-startup-growth-strategist",
+    "startups-startup-gtm-strategist",
+    "startups-startup-orchestrator",
+    "startups-venture-risk-critic",
+    "startups-venture-strategist",
+    "startups-business-model-specialist"
+  ]
+}

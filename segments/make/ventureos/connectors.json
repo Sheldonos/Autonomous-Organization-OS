@@ -1,0 +1,13 @@
+{
+  "pocket": "ventureos",
+  "required_or_optional_classes": [
+    "web_research",
+    "crm",
+    "analytics",
+    "code_host",
+    "payments",
+    "document_store"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

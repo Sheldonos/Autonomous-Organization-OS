@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "id": "researchos",
+  "title": "ResearchOS",
+  "segment": "make",
+  "mission": "Convert questions into evidence-grounded findings, scenarios, decisions, and reusable knowledge.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 224,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Question decomposition",
+    "Source plan",
+    "Evidence collection",
+    "Source quality & contradiction review",
+    "Analysis & modeling",
+    "Scenario simulation",
+    "Synthesis",
+    "Decision packet & provenance"
+  ],
+  "handoffs": [
+    "capitalos",
+    "ventureos",
+    "consultingos"
+  ],
+  "connectors": [
+    "web_research",
+    "document_store",
+    "data_warehouse",
+    "notebook"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": "make",
+  "title": "MAKE",
+  "mission": "Invent, research, validate, build, and launch.",
+  "pockets": [
+    "ventureos",
+    "researchos",
+    "buildos",
+    "innovationos",
+    "launchos",
+    "consultingos",
+    "patenttoproductos",
+    "labos"
+  ]
+}

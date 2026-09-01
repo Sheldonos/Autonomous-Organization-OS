@@ -1,0 +1,74 @@
+version: 1
+# Copy to config/account_registry.yaml. Store account/entity references and authority only.
+# NEVER put passwords, API keys, OAuth refresh tokens, bank/routing/account numbers, SSNs,
+# signing private keys, or other secrets in this file.
+owner:
+  owner_email: REQUIRED_USER_CONFIG
+  weekly_review_budget_minutes: 60
+
+entities:
+  - id: primary_operating_entity
+    legal_name: REQUIRED_USER_CONFIG
+    assumed_name: REQUIRED_USER_CONFIG
+    jurisdiction: REQUIRED_USER_CONFIG
+    entity_type: REQUIRED_USER_CONFIG
+    contracting_authority: owner_signature_required
+    permitted_lanes:
+      - ai_transformation
+      - mainframe_modernization
+      - ai_governance
+      - rfp_proposal
+      - federal
+    evidence_folder_ref: REQUIRED_USER_CONFIG
+
+accounts:
+  google_workspace:
+    mailbox: REQUIRED_USER_CONFIG
+    calendar_id: REQUIRED_USER_CONFIG
+    drive_root_folder_id: REQUIRED_USER_CONFIG
+    n8n_credential_names:
+      gmail: DealOS Gmail
+      calendar: DealOS Calendar
+      drive: DealOS Drive
+  sam_gov:
+    entity_ueis: []
+    cage_codes: []
+    registrations_verified: false
+  stripe:
+    account_id: REQUIRED_USER_CONFIG
+    allowed_actions:
+      - create_customer
+      - create_draft_invoice
+      - read_invoice_status
+    prohibited_actions:
+      - autonomous_payout
+      - autonomous_refund
+      - bank_account_change
+  docusign:
+    account_id: REQUIRED_USER_CONFIG
+    allowed_actions:
+      - prepare_template_envelope
+      - route_to_owner_for_signature
+    prohibited_actions:
+      - impersonate_owner_signature
+  github:
+    repository: REQUIRED_USER_CONFIG
+    environment: production
+
+commercial_authority:
+  may_research: true
+  may_send_nonbinding_outreach: true
+  may_schedule_within_calendar_policy: true
+  may_prepare_nonbinding_documents: true
+  may_negotiate_within_approved_envelopes: true
+  may_sign: false
+  may_move_money: false
+  may_change_payment_destination: false
+
+federal:
+  contingent_fee_enabled: false
+  compensation_models_allowed_without_counsel:
+    - fixed_subscription
+    - fixed_retainer
+    - fixed_project_fee
+  counsel_approval_reference: null

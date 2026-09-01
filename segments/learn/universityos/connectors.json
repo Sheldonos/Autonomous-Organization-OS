@@ -1,0 +1,12 @@
+{
+  "pocket": "universityos",
+  "required_or_optional_classes": [
+    "sis",
+    "lms",
+    "calendar",
+    "credentialing",
+    "career_services"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

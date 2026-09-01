@@ -1,0 +1,27 @@
+{
+  "pocket": "mediaos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "media-distribution-packaging",
+    "media-accessibility-localization",
+    "media-mastering-quality-control",
+    "media-safety-risk-planning",
+    "writing-coach",
+    "publication-readiness-audit",
+    "ibm-bob-paid-media-orchestrator",
+    "editorial-dailies",
+    "eos-risk-remediation",
+    "legal-risk-audit-finding-remediation",
+    "process-risk-to-remediation",
+    "marketing-campaign-orchestration",
+    "marketing-nurture-journey-quality-check",
+    "marketing-audience-segmentation-review",
+    "marketing-brand-compliance-review",
+    "marketing-content-claims-review",
+    "marketing-paid-media-anomaly-review",
+    "marketing-event-strategy-operations"
+  ]
+}

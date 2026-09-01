@@ -1,0 +1,74 @@
+{
+  "pocket": "pmoos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Portfolio intake Team",
+      "stage": 1,
+      "responsibility": "Portfolio intake",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Prioritization Team",
+      "stage": 2,
+      "responsibility": "Prioritization",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Program planning Team",
+      "stage": 3,
+      "responsibility": "Program planning",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Dependency & resource map Team",
+      "stage": 4,
+      "responsibility": "Dependency & resource map",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Execution tracking Team",
+      "stage": 5,
+      "responsibility": "Execution tracking",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Risk/issues Team",
+      "stage": 6,
+      "responsibility": "Risk/issues",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Decision & escalation Team",
+      "stage": 7,
+      "responsibility": "Decision & escalation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Benefits realization Team",
+      "stage": 8,
+      "responsibility": "Benefits realization",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

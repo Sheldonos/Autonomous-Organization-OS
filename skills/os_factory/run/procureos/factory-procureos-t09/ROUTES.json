@@ -1,0 +1,27 @@
+{
+  "pocket": "procureos",
+  "team": "t09",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-contract-renewal-readiness",
+    "procurement-manage-purchase-orders",
+    "procurement-purchase-order-change-triage",
+    "procurement-three-way-match-resolution",
+    "real-estate-vendor-contract-management",
+    "procurement-define-procurement-need",
+    "procurement-monitor-supplier-performance",
+    "procurement-off-contract-spend-analysis",
+    "procurement-demand-intake-qualification",
+    "procurement-invoice-exception-analysis",
+    "procurement-supplier-performance-scorecard",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "procurement-analyze-make-buy",
+    "procurement-assess-supply-chain-risk",
+    "procurement-develop-sourcing-strategy",
+    "procurement-draft-and-negotiate-contract"
+  ]
+}

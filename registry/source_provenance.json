@@ -1,0 +1,23 @@
+{
+  "substrate": {
+    "name": "IBM_Enterprise_Autonomous_Operations_OS_v2.0.0-rc1.zip",
+    "sha256": "bf1cbdad213c6ec2f9e6d87c3294ef2a1da95694bea5ce4939f6ad5ec84c93fc",
+    "skill_count": 3212,
+    "role_count": 1244,
+    "version": "2.0.0-rc1",
+    "status": "RC_NOT_PRODUCTION_CERTIFIED"
+  },
+  "dealos": {
+    "name": "DealOS_v1.0.1.zip",
+    "sha256": "2df0829e8dbb1b4a1e8704acd0b3973534024604948f4566c91eb2fab31759bf",
+    "version": "1.0.1",
+    "source_skill_count": 505,
+    "wrapper_count": 12,
+    "n8n_workflows": 13
+  },
+  "newer_substrate_observed_but_not_used": {
+    "version": "2.1.0-rc1",
+    "skill_count": 3240,
+    "reason": "Pinned to user-requested 3,212-skill lineage for this release"
+  }
+}

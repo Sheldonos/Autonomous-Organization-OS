@@ -1,0 +1,27 @@
+{
+  "pocket": "innovationos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "it-technology-roadmap-synthesis",
+    "product-backlog-governance",
+    "product-go-to-market-planning",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "product-product-analytics",
+    "product-roadmap-planning",
+    "real-estate-portfolio-strategy",
+    "data-strategy-portfolio-roadmap-synthesis",
+    "product-customer-problem-discovery",
+    "product-experiment-design",
+    "product-prototype-validation",
+    "product-innovation-funnel-management",
+    "engineering-code-review",
+    "engineering-continuous-integration",
+    "engineering-architecture-decision-recording",
+    "product-privacy-by-design-review",
+    "product-lifecycle-retirement",
+    "product-release-readiness-assessment"
+  ]
+}

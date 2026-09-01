@@ -1,0 +1,27 @@
+{
+  "pocket": "franchiseos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cio-it-unit-economics",
+    "eos-unit-economics",
+    "ibm-sales-scale-009",
+    "eos-territory-planning",
+    "cio-cio-operating-model-design",
+    "design-co-design-service-concepts",
+    "design-model-service-blueprint",
+    "automation-design-controls-and-approvals",
+    "cio-model-economics",
+    "cio-network-strategy",
+    "data-strategy-ai-use-case-qualification",
+    "finance-driver-based-budgeting",
+    "healthcare-cms-quality-measure-reporting",
+    "healthcare-vendor-business-associate-governance",
+    "legal-contract-performance-monitoring",
+    "procurement-monitor-supplier-performance",
+    "autonomous-cio-orchestrator",
+    "marketing-brand-compliance-review",
+    "eos-capital-allocation",
+    "eos-enterprise-capital-allocation"
+  ]
+}

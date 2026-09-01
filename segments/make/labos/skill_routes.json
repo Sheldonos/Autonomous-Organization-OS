@@ -1,0 +1,1039 @@
+{
+  "schema_version": "2.0",
+  "pocket": "labos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 66,
+  "skills": [
+    {
+      "slug": "quantum-research-orchestrator",
+      "score": 93,
+      "domain": "research",
+      "description": "Coordinate evidence-backed quantum research from question through hypothesis, experiment design, simulation/hardware gate, classical comparison, review and report. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "quantum-research-publication-gate",
+      "score": 90,
+      "domain": "research",
+      "description": "Block external scientific claims/publication until evidence, reproducibility, limitations, authorship and human approval requirements pass. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "research-experiment-management",
+      "score": 85,
+      "domain": "research",
+      "description": "Turn hypotheses into reproducible, governed experiments with pre-registered methods, evidence and review. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "quantum-research-evidence-ledger",
+      "score": 79,
+      "domain": "research",
+      "description": "Maintain claim-to-source-to-experiment-to-result provenance for quantum research outputs. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "research-protocol-preregistration",
+      "score": 79,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Protocol Preregistration** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-protocol-preregistration`, `protocol-preregistration`, or the corresponding professional workflow: Protocol and preregistration | decide methods, inclusion criteria, outcomes, analysis plan, deviations policy, and registration venue before results are known | handoff to protocol reviewers, registry/platform owners, and governance or ethics reviewers"
+    },
+    {
+      "slug": "quantum-experiment-state-manager",
+      "score": 74,
+      "domain": "quantum",
+      "description": "Maintain durable experiment/job/result state and idempotent transitions independent of chat memory. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "quantum-simulation-reproducibility-auditor",
+      "score": 74,
+      "domain": "quantum",
+      "description": "Verify simulator method, seeds, versions, circuit hashes, shots, noise assumptions and output reproducibility. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "research-living-review-monitoring",
+      "score": 74,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Living Review Monitoring** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-living-review-monitoring`, `living-review-monitoring`, or the corresponding professional workflow: Reporting, dissemination, and update monitoring | decide required reporting checklist, data/code/materials release, plain-language outputs, conflict disclosures, and update triggers | handoff to journal or sponsor, repository, communications/publication team, and future review owners"
+    },
+    {
+      "slug": "research-experiment-designer",
+      "score": 73,
+      "domain": "research",
+      "description": "Use for research work requiring the Experiment Designer role: experiment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-hypothesis-generator",
+      "score": 73,
+      "domain": "research",
+      "description": "Use for research work requiring the Hypothesis Generator role: hypothesis generator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-hypothesis-reviewer",
+      "score": 73,
+      "domain": "research",
+      "description": "Use for research work requiring the Hypothesis Reviewer role: hypothesis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-scientific-literature-analyst",
+      "score": 73,
+      "domain": "research",
+      "description": "Use for research work requiring the Scientific Literature Analyst role: scientific literature; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-data-extraction",
+      "score": 71,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Data Extraction** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-data-extraction`, `data-extraction`, or the corresponding professional workflow: Data extraction and evidence mapping | decide which study, population, intervention, outcome, context, and funding fields are reliable and comparable | handoff from extractors to verifier, statistician, and domain expert"
+    },
+    {
+      "slug": "research-evidence-mapping",
+      "score": 71,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Evidence Mapping** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-evidence-mapping`, `evidence-mapping`, or the corresponding professional workflow: Data extraction and evidence mapping | decide which study, population, intervention, outcome, context, and funding fields are reliable and comparable | handoff from extractors to verifier, statistician, and domain expert"
+    },
+    {
+      "slug": "research-question-framing",
+      "score": 71,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Question Framing** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-question-framing`, `question-framing`, or the corresponding professional workflow: Frame the reviewable question | decide scope, population, intervention/exposure, comparator, outcomes, and eligible designs before searching | handoff to subject-matter experts, information specialists, and commissioning stakeholders"
+    },
+    {
+      "slug": "research-search-strategy-design",
+      "score": 71,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Search Strategy Design** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-search-strategy-design`, `search-strategy-design`, or the corresponding professional workflow: Search strategy design | decide databases, grey-literature sources, controlled vocabulary, date/language limits, and reproducible search syntax | handoff to librarians/information specialists and review team"
+    },
+    {
+      "slug": "product-experiment-design",
+      "score": 68,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Experiment Design** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-experiment-design`, `experiment-design`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "quantum-research-specialist",
+      "score": 68,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Research Specialist role: quantum research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-certainty-assessment",
+      "score": 68,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Certainty Assessment** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-certainty-assessment`, `certainty-assessment`, or the corresponding professional workflow: Certainty-of-evidence assessment | decide certainty per outcome using risk of bias, inconsistency, indirectness, imprecision, and publication-bias considerations, with justified upgrades where applicable | handoff to GRADE or equivalent appraisal panel and decision-makers"
+    },
+    {
+      "slug": "research-evidence-retrieval",
+      "score": 68,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Evidence Retrieval** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-evidence-retrieval`, `evidence-retrieval`, or the corresponding professional workflow: Study retrieval and deduplication | decide what constitutes a retrievable record and how duplicate or inaccessible items are handled | handoff to library/document-management support and screening team"
+    },
+    {
+      "slug": "research-evidence-to-decision",
+      "score": 68,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Evidence To Decision** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-evidence-to-decision`, `evidence-to-decision`, or the corresponding professional workflow: Certainty-of-evidence assessment | decide certainty per outcome using risk of bias, inconsistency, indirectness, imprecision, and publication-bias considerations, with justified upgrades where applicable | handoff to GRADE or equivalent appraisal panel and decision-makers"
+    },
+    {
+      "slug": "research-meta-analysis",
+      "score": 68,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Meta Analysis** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-meta-analysis`, `meta-analysis`, or the corresponding professional workflow: Synthesis-method selection | decide whether meta-analysis, structured narrative synthesis, qualitative synthesis, network synthesis, or no pooling is methodologically defensible | handoff to statistician/methodologist and domain lead"
+    },
+    {
+      "slug": "research-qualitative-synthesis",
+      "score": 68,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Qualitative Synthesis** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-qualitative-synthesis`, `qualitative-synthesis`, or the corresponding professional workflow: Synthesis-method selection | decide whether meta-analysis, structured narrative synthesis, qualitative synthesis, network synthesis, or no pooling is methodologically defensible | handoff to statistician/methodologist and domain lead"
+    },
+    {
+      "slug": "research-risk-of-bias-appraisal",
+      "score": 68,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Risk Of Bias Appraisal** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-risk-of-bias-appraisal`, `risk-of-bias-appraisal`, or the corresponding professional workflow: Risk-of-bias and applicability appraisal | decide tool and judgement for each design, including confounding, missingness, selective reporting, and applicability | handoff to independent appraisers, adjudicator, and synthesis lead"
+    },
+    {
+      "slug": "research-screening-and-selection",
+      "score": 68,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Screening And Selection** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-screening-and-selection`, `screening-and-selection`, or the corresponding professional workflow: Study retrieval and deduplication | decide what constitutes a retrievable record and how duplicate or inaccessible items are handled | handoff to library/document-management support and screening team"
+    },
+    {
+      "slug": "research-synthesis-method-selection",
+      "score": 68,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Synthesis Method Selection** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-synthesis-method-selection`, `synthesis-method-selection`, or the corresponding professional workflow: Synthesis-method selection | decide whether meta-analysis, structured narrative synthesis, qualitative synthesis, network synthesis, or no pooling is methodologically defensible | handoff to statistician/methodologist and domain lead"
+    },
+    {
+      "slug": "research-transparent-reporting",
+      "score": 68,
+      "domain": "research",
+      "description": "Perform the bounded professional capability **Transparent Reporting** for the **Research and Evidence Synthesis** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `research-transparent-reporting`, `transparent-reporting`, or the corresponding professional workflow: Risk-of-bias and applicability appraisal | decide tool and judgement for each design, including confounding, missingness, selective reporting, and applicability | handoff to independent appraisers, adjudicator, and synthesis lead"
+    },
+    {
+      "slug": "ibm-career-research-advisory-data-scientist-ibm-quantum",
+      "score": 65,
+      "domain": "research",
+      "description": "IBM-aligned Advisory Data Scientist - IBM Quantum specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "qisbob-quantum-mentor",
+      "score": 65,
+      "domain": "quantum",
+      "description": "Patient, adaptive quantum computing mentor and Qiskit learning system. Diagnoses prerequisites and learning modality, builds a persistent personalized curriculum, teaches quantum concepts and Python/Qiskit, tracks retention and mastery, routes DO/HARDWARE/RESEARCH work to specialist QisBob skills, and preserves handoff/session state. Use for learning, debugging understanding, curriculum progression, and mentor-led quantum capability development."
+    },
+    {
+      "slug": "research-data-analyst",
+      "score": 65,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Data Analyst role: research data; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-literature-review-specialist",
+      "score": 65,
+      "domain": "research",
+      "description": "Use for research work requiring the Literature Review Specialist role: literature review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-question-designer",
+      "score": 65,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Question Designer role: research question; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-replication-analyst",
+      "score": 65,
+      "domain": "research",
+      "description": "Use for research work requiring the Replication Analyst role: replication; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-data-extraction-specialist",
+      "score": 65,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Data Extraction Specialist role: data extraction; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-classical-baseline-analyst",
+      "score": 63,
+      "domain": "quantum",
+      "description": "Define and execute or specify classical baselines needed to interpret quantum performance claims honestly. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "quantum-execution-safety-cost-gate",
+      "score": 63,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Execution Safety / Cost Gate role: quantum execution safety / cost gate; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-hardware-capability-status-controller",
+      "score": 63,
+      "domain": "quantum",
+      "description": "Maintain truthful capability states such as simulator-only, approval-required, unavailable and verified-live. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "quantum-hardware-job-lifecycle-manager",
+      "score": 63,
+      "domain": "quantum",
+      "description": "Govern authorized IBM Quantum hardware submission, queue, status, cancellation, result, cost and provenance lifecycle without claiming completion early. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "engineering-test-failure-triage",
+      "score": 62,
+      "domain": "engineering",
+      "description": "Triage test failures with evidence, reproducibility, suspected scope, and routing. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "ibm-career-research-artificial-intelligence-researcher",
+      "score": 62,
+      "domain": "research",
+      "description": "IBM-aligned Artificial Intelligence Researcher specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-research-cloud-research-scientist",
+      "score": 62,
+      "domain": "research",
+      "description": "IBM-aligned Cloud Research Scientist specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-research-quantum-research-scientist",
+      "score": 62,
+      "domain": "research",
+      "description": "IBM-aligned Quantum Research Scientist specialist. Use for Research work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "research-academic-search-specialist",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Academic Search Specialist role: academic search; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-citation-specialist",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Citation Specialist role: citation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-citation-verifier",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Citation Verifier role: citation verifier; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-contradiction-detector",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Contradiction Detector role: contradiction detector; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-critic",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Critic role: research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-deep-research-agent",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Deep Research Agent role: deep research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-director",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Director role: research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-evidence-extraction-specialist",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Evidence Extraction Specialist role: evidence extraction; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-evidence-synthesizer",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Evidence Synthesizer role: evidence synthesizer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-fact-checker",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Fact Checker role: fact checker; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-industry-researcher",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Industry Researcher role: industry; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-interview-research-specialist",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Interview Research Specialist role: interview research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-literacy",
+      "score": 62,
+      "domain": "research",
+      "description": "Teach learners to investigate claims, compare sources, identify uncertainty and separate evidence from inference."
+    },
+    {
+      "slug": "research-methodology-specialist",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Methodology Specialist role: methodology; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-orchestrator",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Orchestrator role: research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-peer-reviewer",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Peer Reviewer role: peer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-planner",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Planner role: research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-primary-source-analyst",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Primary Source Analyst role: primary source; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-provenance-auditor",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Provenance Auditor role: research provenance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-qualitative-researcher",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Qualitative Researcher role: qualitative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-quantitative-researcher",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Quantitative Researcher role: quantitative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-report-writer",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Research Report Writer role: research report; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-source-credibility-analyst",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Source Credibility Analyst role: source credibility; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-statistical-research-advisor",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Statistical Research Advisor role: statistical research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-survey-research-specialist",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Survey Research Specialist role: survey research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "research-web-research-specialist",
+      "score": 62,
+      "domain": "research",
+      "description": "Use for research work requiring the Web Research Specialist role: web research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-api-documentation-researcher",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the API Documentation Researcher role: api documentation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-citation-builder",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Citation Builder role: citation builder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-company-researcher",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Company Researcher role: company; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-entity-resolver",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Entity Resolver role: entity resolver; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-github-repository-analyst",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the GitHub Repository Analyst role: github repository; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-industry-researcher",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Industry Researcher role: industry; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-market-researcher",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Market Researcher role: market; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-ocr-specialist",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the OCR Specialist role: ocr; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-patent-research-specialist",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Patent Research Specialist role: patent research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-pdf-analyst",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the PDF Analyst role: pdf; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-person-researcher",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Person Researcher role: person; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-primary-source-finder",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Primary Source Finder role: primary source finder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-regulatory-research-specialist",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Regulatory Research Specialist role: regulatory research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-repository-researcher",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Repository Researcher role: repository; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-search-query-strategist",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Search Query Strategist role: search query; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-source-verifier",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Source Verifier role: source verifier; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-spreadsheet-analyst",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Spreadsheet Analyst role: spreadsheet; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-standards-research-specialist",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Standards Research Specialist role: standards research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-technical-documentation-researcher",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Technical Documentation Researcher role: technical documentation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-research-web-research-specialist",
+      "score": 62,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Web Research Specialist role: web research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-architecture-decision-recording",
+      "score": 60,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Architecture Decision Recording** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-architecture-decision-recording`, `architecture-decision-recording`, or the corresponding professional workflow: Architecture and technical decision management | choose system boundaries, interfaces, non-functional requirements, technology constraints, and record trade-offs in decision records | security, platform/operations, data, enterprise architecture, and product owners"
+    },
+    {
+      "slug": "engineering-code-review",
+      "score": 60,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Code Review** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-code-review`, `code-review`, or the corresponding professional workflow: Implement and review code | select branching/integration strategy, enforce coding standards, review correctness and maintainability, and resolve findings | peer reviewers, tech leads, security, and maintainers"
+    },
+    {
+      "slug": "engineering-continuous-integration",
+      "score": 60,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Continuous Integration** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-continuous-integration`, `continuous-integration`, or the corresponding professional workflow: Implement and review code | select branching/integration strategy, enforce coding standards, review correctness and maintainability, and resolve findings | peer reviewers, tech leads, security, and maintainers"
+    },
+    {
+      "slug": "engineering-delivery-performance-improvement",
+      "score": 60,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Delivery Performance Improvement** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-delivery-performance-improvement`, `delivery-performance-improvement`, or the corresponding professional workflow: Learn and improve delivery | analyze delivery/reliability measures, incident reviews, customer feedback, and escaped defects to select improvement experiments | engineering leadership, product, operations, security, and organizational learning/quality functions"
+    },
+    {
+      "slug": "engineering-delivery-planning",
+      "score": 60,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Delivery Planning** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-delivery-planning`, `delivery-planning`, or the corresponding professional workflow: Plan and estimate delivery work | decompose epics into increments, sequence dependencies, size work, and set a releasable slice | product owner, delivery lead, engineering team, and external suppliers"
+    },
+    {
+      "slug": "engineering-observability-incident-response",
+      "score": 60,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Observability Incident Response** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-observability-incident-response`, `observability-incident-response`, or the corresponding professional workflow: Operate, observe, and respond | define service objectives, monitor health and business signals, triage incidents, and decide mitigation or rollback | SRE/operations, developers, incident commander, support, and customer communications"
+    },
+    {
+      "slug": "product-privacy-by-design-review",
+      "score": 60,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Privacy By Design Review** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-privacy-by-design-review`, `privacy-by-design-review`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "quantum-error-analysis-specialist",
+      "score": 60,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Error Analysis Specialist role: quantum error analysis; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-automated-testing",
+      "score": 57,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Automated Testing** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-automated-testing`, `automated-testing`, or the corresponding professional workflow: Build and integrate continuously | validate each change with reproducible builds, dependency checks, static analysis, and automated quality gates | CI/platform engineering, developers, test engineering, and artifact repository owners"
+    },
+    {
+      "slug": "engineering-configuration-change-management",
+      "score": 57,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Configuration Change Management** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-configuration-change-management`, `configuration-change-management`, or the corresponding professional workflow: Manage configuration, versions, and change | maintain baselines, trace changes to approved work, assess impact, and approve or reject controlled changes | configuration management, change authority, release management, and audit/compliance"
+    },
+    {
+      "slug": "engineering-release-deployment-management",
+      "score": 57,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Release Deployment Management** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-release-deployment-management`, `release-deployment-management`, or the corresponding professional workflow: Manage configuration, versions, and change | maintain baselines, trace changes to approved work, assess impact, and approve or reject controlled changes | configuration management, change authority, release management, and audit/compliance"
+    },
+    {
+      "slug": "engineering-requirements-traceability",
+      "score": 57,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Requirements Traceability** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-requirements-traceability`, `requirements-traceability`, or the corresponding professional workflow: Discover and manage requirements | prioritize scope, acceptance criteria, dependencies, and traceability against product and stakeholder outcomes | product management, UX, architecture, QA, and customer/business owners"
+    },
+    {
+      "slug": "engineering-secure-sdlc-assurance",
+      "score": 57,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Secure Sdlc Assurance** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-secure-sdlc-assurance`, `secure-sdlc-assurance`, or the corresponding professional workflow: Secure software and supply-chain assurance | identify threats, remediate vulnerabilities, validate dependencies/provenance, and decide residual risk disposition | security engineering, privacy/legal, procurement, suppliers, and accountable release owner"
+    },
+    {
+      "slug": "engineering-software-supply-chain-governance",
+      "score": 57,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Software Supply Chain Governance** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-software-supply-chain-governance`, `software-supply-chain-governance`, or the corresponding professional workflow: Secure software and supply-chain assurance | identify threats, remediate vulnerabilities, validate dependencies/provenance, and decide residual risk disposition | security engineering, privacy/legal, procurement, suppliers, and accountable release owner"
+    },
+    {
+      "slug": "enterprise-adapter-contract-engineer",
+      "score": 57,
+      "domain": "engineering",
+      "description": "Define and validate system-of-record/action adapters with least privilege, idempotency, read-back verification and evidence. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "enterprise-domain-observability-engineer",
+      "score": 57,
+      "domain": "engineering",
+      "description": "Instrument DomainBob executions with traces, metrics, events, costs, errors, state transitions and outcome evidence. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "enterprise-domain-simulation-engineer",
+      "score": 57,
+      "domain": "simulation",
+      "description": "Create bounded scenario/sandbox models so high-impact workflows can be tested before external action. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "enterprise-harness-release-engineer",
+      "score": 57,
+      "domain": "engineering",
+      "description": "Package, validate, version, activate, roll back and evidence DomainBob harness releases. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "enterprise-runtime-harness-engineer",
+      "score": 57,
+      "domain": "engineering",
+      "description": "Build and maintain deterministic runtime services backing agent workflows with typed state, evidence and tool contracts. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "ibm-bob-ads-test",
+      "score": 57,
+      "domain": "shared-execution",
+      "description": "Design and evaluate paid-ad experiments with hypotheses, randomization units, sample-size and duration assumptions, guardrails, platform experiment tools, analysis, and decision rules. Use for A/B test, split test, experiment design, hypothesis, statistical significance, sample size, test duration, or experiment readout. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "product-prototype-validation",
+      "score": 57,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Prototype Validation** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-prototype-validation`, `prototype-validation`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "quantum-algorithm-specialist",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Algorithm Specialist role: quantum algorithm; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-circuit-designer",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Circuit Designer role: quantum circuit; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-classical-vs-quantum-evaluator",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Classical-vs-Quantum Evaluator role: classical-vs-quantum evaluator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-computing-educator",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Computing Educator role: quantum computing educator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-hardware-specialist",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Hardware Specialist role: quantum hardware; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-optimization-specialist",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Optimization Specialist role: quantum optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-orchestrator",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Orchestrator role: quantum; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-resource-estimator",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Resource Estimator role: quantum resource estimator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-results-reviewer",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Results Reviewer role: quantum results; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-simulation-specialist",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Simulation Specialist role: quantum simulation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "quantum-workflow-specialist",
+      "score": 57,
+      "domain": "quantum",
+      "description": "Use for quantum work requiring the Quantum Workflow Specialist role: quantum workflow; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-accessibility-quality-review",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Review accessibility evidence against approved standards and remediation priorities. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-architecture-decision-record",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Prepare architecture decision record evidence, tradeoffs, standards, and reviewers. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Technical Design and Architecture Capability Director."
+    },
+    {
+      "slug": "engineering-backlog-refinement-support",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Prepare backlog refinement packet with scope, dependencies, risks, and acceptance evidence. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Product Delivery Planning Capability Director."
+    },
+    {
+      "slug": "engineering-ci-pipeline-failure-analysis",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Analyze CI pipeline failures, evidence, affected components, and recovery options. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Platform Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-code-review-preparation",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Prepare code-review evidence, change summary, tests, and risk prompts. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Secure Code Delivery Capability Director."
+    },
+    {
+      "slug": "engineering-data-infrastructure-engineer",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Data Infrastructure Engineer role: data infrastructure; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-developer-productivity-insight",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Synthesize developer productivity evidence with methodology, limitations, and improvement hypotheses. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Developer Experience Capability Director."
+    },
+    {
+      "slug": "engineering-issue-backlog-health",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Analyze issue backlog health, aging, duplication, priority evidence, and owner actions. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Product Delivery Planning Capability Director."
+    },
+    {
+      "slug": "engineering-open-source-compliance-prep",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Compile open-source component evidence, notices, and policy review needs. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Secure Code Delivery Capability Director."
+    },
+    {
+      "slug": "engineering-performance-regression-analysis",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Analyze performance regression evidence, baselines, affected flows, and test gaps. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-requirements-traceability-review",
+      "score": 54,
+      "domain": "engineering",
+      "description": "Review requirement traceability from business intent through acceptance criteria. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Product Delivery Planning Capability Director."
+    },
+    {
+      "slug": "process-research-to-experiment-to-decision",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "Process Research To Experiment To Decision for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-experiment-management",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Experiment Management for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-hypothesis-management",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Hypothesis Management for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-technical-evaluation",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Technical Evaluation for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-bob-ads-research",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "Refresh IBM Bob Paid Media Operations platform, API, policy, regulation, benchmark, issue, pull-request, fork, and repository evidence. Use for ads research refresh, expired refresh_due dates, stale API or platform claims, reverify-or-demote decisions, release-current claim validation, ecosystem review, current platform changes, or updating paid-media knowledge. When tools or sources are unavailable, still demote the stale claim for the current run and block dependent release-current assertions before requesting access. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "design-conduct-user-research",
+      "score": 40,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Conduct User Research** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-conduct-user-research`, `conduct-user-research`, or the corresponding professional workflow: Conduct contextual discovery and user research | select ethical research methods, recruit representative participants, synthesize needs and context of use without treating assumptions as evidence | researchers, service users, domain experts, privacy/ethics reviewer"
+    },
+    {
+      "slug": "design-run-usability-testing",
+      "score": 40,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Run Usability Testing** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-run-usability-testing`, `run-usability-testing`, or the corresponding professional workflow: Test usability, desirability, feasibility, and accessibility | define test protocol and success criteria, observe real or representative use, triage findings, and iterate rather than declare success from opinion | usability/accessibility specialists, researchers, users, delivery team"
+    },
+    {
+      "slug": "design-synthesize-research-evidence",
+      "score": 40,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Synthesize Research Evidence** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-synthesize-research-evidence`, `synthesize-research-evidence`, or the corresponding professional workflow: Conduct contextual discovery and user research | select ethical research methods, recruit representative participants, synthesize needs and context of use without treating assumptions as evidence | researchers, service users, domain experts, privacy/ethics reviewer"
+    },
+    {
+      "slug": "eos-research-planning",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Eos Research Planning for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-research-portfolio-management",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Eos Research Portfolio Management for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-agent-evaluation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Agent Evaluation for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-evaluation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO AI Evaluation for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-experiment-design",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Experiment Design for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-vendor-evaluation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Vendor Evaluation for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-evaluation-control-plane",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Enterprise Evaluation Control Plane for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-legal-research-support",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Legal Research Support for Legal. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-market-research",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Market Research for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "evaluation-and-release-governance",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Test, certify, promote, update, or retire IBM Mode capability packages. Use before pilot or production release and after material changes to skills, knowledge, tools, models, policies, or authority."
+    },
+    {
+      "slug": "ai-engineering-model-evaluation-engineer",
+      "score": 34,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Model Evaluation Engineer role: model evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "benchmark_evaluation",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Benchmark Evaluation specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "business-development-partner-research-specialist",
+      "score": 34,
+      "domain": "business-development",
+      "description": "Use for business development work requiring the Partner Research Specialist role: partner research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-equity-research-analyst",
+      "score": 34,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Equity Research Analyst role: equity research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-market-research-analyst",
+      "score": 34,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "keyframe-evaluation",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Evaluate keyframes for composition, identity, world state, lighting, continuity and motion readiness before video generation."
+    },
+    {
+      "slug": "keyframe_evaluation",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Keyframe Evaluation specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "legal-litigation-research-analyst",
+      "score": 34,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Litigation Research Analyst role: litigation research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-regulatory-research-analyst",
+      "score": 34,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Regulatory Research Analyst role: regulatory research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-research-specialist",
+      "score": 34,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Research Specialist role: legal research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-market-research-analyst",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    }
+  ],
+  "primary_accountable": [
+    "benchmark_evaluation",
+    "cio-agent-evaluation",
+    "cio-ai-evaluation",
+    "enterprise-domain-simulation-engineer",
+    "eos-experiment-management",
+    "eos-hypothesis-management",
+    "eos-market-research",
+    "eos-research-planning",
+    "eos-technical-evaluation",
+    "ibm-bob-ads-test",
+    "ibm-sales-scale-021",
+    "ibm-sales-scale-026",
+    "keyframe-evaluation",
+    "keyframe_evaluation",
+    "manus-pptx",
+    "math-science-problem-coach",
+    "qisbob-quantum-mentor",
+    "qisbob-research-agent",
+    "quantum-algorithm-specialist",
+    "quantum-circuit-designer",
+    "quantum-classical-baseline-analyst",
+    "quantum-classical-vs-quantum-evaluator",
+    "quantum-computing-educator",
+    "quantum-error-analysis-specialist",
+    "quantum-execution-safety-cost-gate",
+    "quantum-experiment-state-manager",
+    "quantum-hardware-capability-status-controller",
+    "quantum-hardware-job-lifecycle-manager",
+    "quantum-hardware-specialist",
+    "quantum-optimization-specialist",
+    "quantum-orchestrator",
+    "quantum-research-publication-gate",
+    "quantum-research-specialist",
+    "quantum-resource-estimator",
+    "quantum-results-reviewer",
+    "quantum-simulation-reproducibility-auditor",
+    "quantum-simulation-specialist",
+    "quantum-workflow-specialist",
+    "research-interview-research-specialist",
+    "research-literacy",
+    "research-methodology-specialist",
+    "research-orchestrator",
+    "research-peer-reviewer",
+    "research-planner",
+    "research-qualitative-researcher",
+    "research-quantitative-researcher",
+    "research-report-writer",
+    "research-statistical-research-advisor",
+    "research-survey-research-specialist",
+    "research-web-research-specialist",
+    "scene_pacing_evaluation",
+    "shared-research-api-documentation-researcher",
+    "shared-research-citation-builder",
+    "shared-research-company-researcher",
+    "shared-research-data-extraction-specialist",
+    "shared-research-entity-resolver",
+    "shared-research-industry-researcher",
+    "shared-research-ocr-specialist",
+    "shared-research-patent-research-specialist",
+    "shared-research-person-researcher",
+    "shared-research-regulatory-research-specialist",
+    "shared-research-repository-researcher",
+    "shared-research-search-query-strategist",
+    "shared-research-standards-research-specialist",
+    "shared-research-technical-documentation-researcher",
+    "shared-research-web-research-specialist"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

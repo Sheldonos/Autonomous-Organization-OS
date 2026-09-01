@@ -1,0 +1,11 @@
+{
+  "pocket": "researchos",
+  "required_or_optional_classes": [
+    "web_research",
+    "document_store",
+    "data_warehouse",
+    "notebook"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

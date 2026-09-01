@@ -1,0 +1,27 @@
+{
+  "pocket": "eventos",
+  "team": "t09",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-event-strategy-operations",
+    "demo-guide-architect",
+    "marketing-event-readiness-checklist",
+    "marketing-webinar-follow-up-preparation",
+    "agent-operations-and-learning",
+    "healthcare-patient-safety-event-management",
+    "ibm-eng-006",
+    "ibm-eng-iss-001",
+    "ibm-sales-ext-marketing-campaign-event",
+    "ibm-sales-scale-029",
+    "people-requisition-quality-review",
+    "cyber-resilience-physical-security-event-triage",
+    "ibm-bob-ads-server-side-tracking",
+    "ibm-sales-ext-workflow-event-schema-gate",
+    "ibm-sales-proactive-guidance",
+    "legal-risk-ip-docket-readiness",
+    "procurement-sourcing-event-design",
+    "automation-event-driven-automation-specialist",
+    "enterprise-event-ledger",
+    "eos-event-marketing"
+  ]
+}

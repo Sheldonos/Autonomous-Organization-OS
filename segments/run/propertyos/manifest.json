@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "propertyos",
+  "title": "PropertyOS",
+  "segment": "run",
+  "mission": "Operate real-estate opportunities and portfolios from underwriting through diligence, leasing, operations, and disposition.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 76,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Market & asset discovery",
+    "Underwriting",
+    "Diligence",
+    "Acquisition/lease decision",
+    "Asset operations",
+    "Tenant/occupancy",
+    "Capital planning",
+    "Disposition/renewal"
+  ],
+  "handoffs": [
+    "capitalos",
+    "legalos",
+    "procureos",
+    "riskos"
+  ],
+  "connectors": [
+    "property_data",
+    "finance",
+    "document_store",
+    "work_order",
+    "crm"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

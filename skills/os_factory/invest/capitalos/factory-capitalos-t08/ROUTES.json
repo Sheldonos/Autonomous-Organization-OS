@@ -1,0 +1,27 @@
+{
+  "pocket": "capitalos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-capital-allocation",
+    "institutional-investment-playbook",
+    "real-estate-portfolio-strategy",
+    "finance-covenant-monitoring",
+    "finance-portfolio-analyst",
+    "data-strategy-portfolio-roadmap-synthesis",
+    "real-estate-portfolio-analyst",
+    "finance-credit-exposure-monitoring",
+    "investment-market-due-diligence-analyst",
+    "product-go-to-market-planning",
+    "autonomous-capitalist",
+    "investment-financial-due-diligence-analyst",
+    "investment-committee-analyst",
+    "investment-committee-critic",
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator",
+    "investment-operational-due-diligence-analyst",
+    "investment-technology-due-diligence-analyst",
+    "eos-research-portfolio-management"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "labos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "research-replication-analyst",
+    "quantum-research-orchestrator",
+    "quantum-research-publication-gate",
+    "research-experiment-management",
+    "quantum-research-evidence-ledger",
+    "research-protocol-preregistration",
+    "quantum-experiment-state-manager",
+    "quantum-simulation-reproducibility-auditor",
+    "research-living-review-monitoring",
+    "research-experiment-designer",
+    "research-hypothesis-generator",
+    "research-hypothesis-reviewer",
+    "research-scientific-literature-analyst",
+    "research-data-extraction",
+    "research-evidence-mapping",
+    "research-question-framing",
+    "research-search-strategy-design",
+    "product-experiment-design",
+    "quantum-research-specialist",
+    "research-certainty-assessment"
+  ]
+}

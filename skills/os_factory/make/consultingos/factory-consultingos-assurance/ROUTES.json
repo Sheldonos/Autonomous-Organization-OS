@@ -1,0 +1,27 @@
+{
+  "pocket": "consultingos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-career-consulting-business-transformation-consultant",
+    "ibm-career-consulting-industry-consultant",
+    "ibm-career-consulting-oracle-consultant",
+    "ibm-career-consulting-salesforce-consultant",
+    "ibm-career-consulting-sap-consultant",
+    "healthcare-ephi-security-risk-assessment",
+    "healthcare-healthcare-compliance-risk-assessment",
+    "eos-services-quality",
+    "shared-handoff-manager",
+    "ibm-sales-scale-028",
+    "ibm-sales-scale-054",
+    "ibm-eng-002",
+    "ibm-eng-003",
+    "ibm-eng-005",
+    "ibm-eng-008",
+    "ibm-eng-010",
+    "ibm-eng-apm-001",
+    "ibm-eng-atl-001",
+    "ibm-eng-csm-001",
+    "ibm-eng-sdr-001"
+  ]
+}

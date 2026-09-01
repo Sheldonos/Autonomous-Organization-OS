@@ -1,0 +1,27 @@
+{
+  "pocket": "grantos",
+  "team": "t09",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "healthcare-cms-quality-measure-reporting",
+    "eos-risk-reporting",
+    "government-control-delivery-baselines",
+    "government-public-sector-compliance-reviewer",
+    "ibm-pro-011",
+    "sales-contract-approval",
+    "sales-proposal-management",
+    "cybersecurity-identity-access-governance",
+    "government-manage-grants-lifecycle",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "ibm-sales-scale-058",
+    "it-software-asset-license-review",
+    "construction-payment-application-review",
+    "finance-management-reporting-pack",
+    "greenlight",
+    "ibm-bob-ads-plan",
+    "ibm-bob-ads-report",
+    "research-transparent-reporting",
+    "accounting-financial-reporting-specialist",
+    "accounting-management-reporting-specialist"
+  ]
+}

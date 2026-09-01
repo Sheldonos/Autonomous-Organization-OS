@@ -1,0 +1,27 @@
+{
+  "pocket": "dealos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-000",
+    "business-development-partnership-negotiation-specialist",
+    "sales-negotiation-strategist",
+    "sales-proposal-architect",
+    "sales-proposal-reviewer",
+    "sales-proposal-writer",
+    "negotiation-batna-analyst",
+    "negotiation-concession-strategist",
+    "negotiation-conflict-resolution-advisor",
+    "negotiation-counterparty-simulator",
+    "negotiation-influence-strategy-analyst",
+    "negotiation-objection-analyst",
+    "negotiation-orchestrator",
+    "negotiation-preparation-specialist",
+    "negotiation-reviewer",
+    "negotiation-simulator",
+    "negotiation-stakeholder-analyst",
+    "negotiation-stakeholder-mapping-specialist",
+    "negotiation-strategist",
+    "tls-contract-intelligence-negotiation-agent"
+  ]
+}

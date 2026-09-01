@@ -1,0 +1,27 @@
+{
+  "pocket": "educationos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ncfb-mainframe-education",
+    "education-manage-learner-intake",
+    "education-monitor-learner-progress",
+    "education-facilitate-instruction",
+    "education-analyze-learning-needs",
+    "education-assure-program-quality",
+    "education-support-career-transition",
+    "education-learner-modeling-specialist",
+    "education-coordinate-accommodations",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "education-manage-credentials-records",
+    "education-develop-learning-content",
+    "education-learning-path-architect",
+    "education-personalized-learning-specialist",
+    "content-output-qc",
+    "education-adaptive-learning-specialist",
+    "education-assessment-designer",
+    "education-assessment-reviewer",
+    "education-curriculum-architect"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "supplyos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "supply-chain-inbound-receiving",
+    "supply-chain-purchase-order-management",
+    "supply-chain-order-fulfillment",
+    "supply-chain-inventory-replenishment",
+    "supply-chain-supply-demand-planning",
+    "supply-chain-transportation-management",
+    "operations-supplier-eta-exception",
+    "construction-field-coordination",
+    "construction-quality-inspection-management",
+    "supply-chain-reverse-logistics",
+    "supply-chain-warehouse-operations",
+    "eos-demand-planning",
+    "operations-order-promise-readiness",
+    "eos-fulfillment-management",
+    "eos-inventory-management",
+    "eos-logistics-management",
+    "eos-supplier-risk-management",
+    "operations-demand-forecast-exception",
+    "operations-warehouse-exception-triage",
+    "supply-chain-inventory-optimization-specialist"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pocket": "dealos",
+  "required_or_optional_classes": [
+    "gmail",
+    "google_calendar",
+    "google_drive",
+    "supabase",
+    "hunter",
+    "sam_gov",
+    "usaspending",
+    "docusign",
+    "stripe",
+    "n8n"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

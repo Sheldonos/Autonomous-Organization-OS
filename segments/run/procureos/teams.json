@@ -1,0 +1,81 @@
+{
+  "pocket": "procureos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Need & specification Team",
+      "stage": 1,
+      "responsibility": "Need & specification",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Spend analysis Team",
+      "stage": 2,
+      "responsibility": "Spend analysis",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Supplier discovery Team",
+      "stage": 3,
+      "responsibility": "Supplier discovery",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "RFI/RFP Team",
+      "stage": 4,
+      "responsibility": "RFI/RFP",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Evaluation Team",
+      "stage": 5,
+      "responsibility": "Evaluation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Risk & negotiation Team",
+      "stage": 6,
+      "responsibility": "Risk & negotiation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Contract & purchase Team",
+      "stage": 7,
+      "responsibility": "Contract & purchase",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Supplier performance Team",
+      "stage": 8,
+      "responsibility": "Supplier performance",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t09",
+      "name": "Renewal Team",
+      "stage": 9,
+      "responsibility": "Renewal",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

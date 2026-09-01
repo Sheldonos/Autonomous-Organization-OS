@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "id": "revenueos",
+  "title": "RevenueOS",
+  "segment": "sell",
+  "mission": "Operate the full revenue engine from ICP and demand through sales, onboarding, retention, and expansion.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 126,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Market & ICP",
+    "Positioning & offers",
+    "Demand generation",
+    "Lead/account intelligence",
+    "Pipeline execution",
+    "Onboarding",
+    "Customer success",
+    "Expansion & retention",
+    "Revenue learning loop"
+  ],
+  "handoffs": [
+    "dealos",
+    "pricingos",
+    "customeros",
+    "brandos",
+    "creatoros"
+  ],
+  "connectors": [
+    "crm",
+    "marketing_automation",
+    "email",
+    "calendar",
+    "analytics",
+    "billing"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "complianceos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "grc-controls-designer",
+    "grc-controls-tester",
+    "grc-ai-governance-specialist",
+    "grc-data-governance-specialist",
+    "grc-data-protection-specialist",
+    "grc-evidence-collection-specialist",
+    "grc-governance-reviewer",
+    "grc-orchestrator",
+    "grc-privacy-analyst",
+    "grc-privacy-officer-advisor",
+    "grc-records-governance-specialist",
+    "grc-responsible-ai-reviewer",
+    "cybersecurity-penetration-testing-planner",
+    "ibm-sales-scale-034",
+    "remediation-acceleration-builder",
+    "shared-execution-code-execution-specialist",
+    "shared-execution-environment-setup-specialist",
+    "shared-execution-installation-validator",
+    "government-align-policy-to-outcomes",
+    "government-evaluate-policy-interventions"
+  ]
+}

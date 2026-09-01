@@ -1,0 +1,59 @@
+{
+  "pocket": "revenueos",
+  "stages": [
+    {
+      "order": 1,
+      "name": "Market & ICP",
+      "team_id": "t01",
+      "gate": "assurance"
+    },
+    {
+      "order": 2,
+      "name": "Positioning & offers",
+      "team_id": "t02",
+      "gate": "assurance"
+    },
+    {
+      "order": 3,
+      "name": "Demand generation",
+      "team_id": "t03",
+      "gate": "assurance"
+    },
+    {
+      "order": 4,
+      "name": "Lead/account intelligence",
+      "team_id": "t04",
+      "gate": "assurance"
+    },
+    {
+      "order": 5,
+      "name": "Pipeline execution",
+      "team_id": "t05",
+      "gate": "assurance"
+    },
+    {
+      "order": 6,
+      "name": "Onboarding",
+      "team_id": "t06",
+      "gate": "assurance"
+    },
+    {
+      "order": 7,
+      "name": "Customer success",
+      "team_id": "t07",
+      "gate": "assurance"
+    },
+    {
+      "order": 8,
+      "name": "Expansion & retention",
+      "team_id": "t08",
+      "gate": "assurance"
+    },
+    {
+      "order": 9,
+      "name": "Revenue learning loop",
+      "team_id": "t09",
+      "gate": "assurance"
+    }
+  ]
+}

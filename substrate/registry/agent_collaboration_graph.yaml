@@ -1,0 +1,363 @@
+schema_version: '1.0'
+primary_orchestrators:
+- enterprise-control-plane
+- executive-cio
+- wxo-platform-engineer
+- customer-intelligence-analyst
+reviewer_pool:
+- agency-operations-critic
+- agency-operations-orchestration-reviewer
+- architecture-reviewer
+- automation-critic
+- automation-orchestration-reviewer
+- chief-of-staff-critic
+- chief-of-staff-orchestration-reviewer
+- construction-critic
+- construction-orchestration-reviewer
+- customer-intelligence-critic
+- cybersecurity-critic
+- cybersecurity-orchestration-reviewer
+- data-quality-reviewer
+- design-critic
+- design-orchestration-reviewer
+- devils-advocate-enterprise
+- education-critic
+- education-orchestration-reviewer
+- engineering-critic
+- engineering-orchestration-reviewer
+- enterprise-architecture-reviewer
+- evidence-reviewer
+- finance-critic
+- finance-orchestration-reviewer
+- financial-reviewer-enterprise
+- financial-reviewer
+- governance-reviewer-enterprise
+- government-critic
+- government-orchestration-reviewer
+- healthcare-critic
+- healthcare-orchestration-reviewer
+- healthcare-safety-reviewer
+- intelligence-critic
+- intelligence-orchestration-reviewer
+- legal-critic
+- legal-orchestration-reviewer
+- legal-risk-reviewer
+- media-critic
+- media-orchestration-reviewer
+- people-critic
+- people-orchestration-reviewer
+- procurement-critic
+- procurement-orchestration-reviewer
+- product-critic
+- product-orchestration-reviewer
+- quantum-results-reviewer
+- real-estate-critic
+- real-estate-orchestration-reviewer
+- research-critic
+- research-orchestration-reviewer
+- research-peer-reviewer
+- sales-critic
+- sales-deal-critic
+- sales-orchestration-reviewer
+- security-reviewer
+- security-risk-reviewer-enterprise
+- supply-chain-critic
+- supply-chain-orchestration-reviewer
+- ux-accessibility-reviewer
+routing_rule: Select bounded agents dynamically by process/domain, data access, risk,
+  authority and context-isolation benefit.
+agents:
+- name: agency-operations-analyst
+  tools:
+  - read
+  - browser
+- name: agency-operations-critic
+  tools:
+  - read
+- name: agency-operations-orchestration-reviewer
+  tools:
+  - read
+- name: architecture-reviewer
+  tools:
+  - read
+- name: automation-analyst
+  tools:
+  - read
+  - browser
+- name: automation-critic
+  tools:
+  - read
+- name: automation-orchestration-reviewer
+  tools:
+  - read
+- name: chief-of-staff-analyst
+  tools:
+  - read
+  - browser
+- name: chief-of-staff-critic
+  tools:
+  - read
+- name: chief-of-staff-orchestration-reviewer
+  tools:
+  - read
+- name: chief-of-staff-synthesizer
+  tools:
+  - read
+- name: construction-analyst
+  tools:
+  - read
+  - browser
+- name: construction-critic
+  tools:
+  - read
+- name: construction-orchestration-reviewer
+  tools:
+  - read
+- name: cto-infrastructure
+  tools:
+  - read
+- name: customer-intelligence-analyst
+  tools:
+  - read
+- name: customer-intelligence-critic
+  tools:
+  - read
+- name: cybersecurity-analyst
+  tools:
+  - read
+  - browser
+- name: cybersecurity-critic
+  tools:
+  - read
+- name: cybersecurity-orchestration-reviewer
+  tools:
+  - read
+- name: data-ai-executive
+  tools:
+  - read
+- name: data-quality-reviewer
+  tools:
+  - read
+- name: design-analyst
+  tools:
+  - read
+  - browser
+- name: design-critic
+  tools:
+  - read
+- name: design-orchestration-reviewer
+  tools:
+  - read
+- name: devils-advocate-enterprise
+  tools:
+  - read
+- name: education-analyst
+  tools:
+  - read
+  - browser
+- name: education-critic
+  tools:
+  - read
+- name: education-orchestration-reviewer
+  tools:
+  - read
+- name: engineering-analyst
+  tools:
+  - read
+  - browser
+- name: engineering-critic
+  tools:
+  - read
+- name: engineering-orchestration-reviewer
+  tools:
+  - read
+- name: enterprise-architecture-reviewer
+  tools:
+  - read
+- name: enterprise-control-plane
+  tools:
+  - read
+- name: enterprise-data-plane-architect
+  tools:
+  - read
+- name: evidence-reviewer
+  tools:
+  - read
+- name: executive-cio
+  tools:
+  - read
+- name: finance-analyst
+  tools:
+  - read
+  - browser
+- name: finance-critic
+  tools:
+  - read
+- name: finance-orchestration-reviewer
+  tools:
+  - read
+- name: financial-reviewer-enterprise
+  tools:
+  - read
+- name: financial-reviewer
+  tools:
+  - read
+- name: governance-reviewer-enterprise
+  tools:
+  - read
+- name: government-analyst
+  tools:
+  - read
+  - browser
+- name: government-critic
+  tools:
+  - read
+- name: government-orchestration-reviewer
+  tools:
+  - read
+- name: healthcare-analyst
+  tools:
+  - read
+  - browser
+- name: healthcare-critic
+  tools:
+  - read
+- name: healthcare-orchestration-reviewer
+  tools:
+  - read
+- name: healthcare-safety-reviewer
+  tools:
+  - read
+- name: intelligence-analyst
+  tools:
+  - read
+  - browser
+- name: intelligence-critic
+  tools:
+  - read
+- name: intelligence-orchestration-reviewer
+  tools:
+  - read
+- name: legal-analyst
+  tools:
+  - read
+  - browser
+- name: legal-critic
+  tools:
+  - read
+- name: legal-orchestration-reviewer
+  tools:
+  - read
+- name: legal-risk-reviewer
+  tools:
+  - read
+- name: media-analyst
+  tools:
+  - read
+  - browser
+- name: media-critic
+  tools:
+  - read
+- name: media-orchestration-reviewer
+  tools:
+  - read
+- name: people-analyst
+  tools:
+  - read
+  - browser
+- name: people-critic
+  tools:
+  - read
+- name: people-orchestration-reviewer
+  tools:
+  - read
+- name: procurement-analyst
+  tools:
+  - read
+  - browser
+- name: procurement-critic
+  tools:
+  - read
+- name: procurement-orchestration-reviewer
+  tools:
+  - read
+- name: product-analyst
+  tools:
+  - read
+  - browser
+- name: product-critic
+  tools:
+  - read
+- name: product-orchestration-reviewer
+  tools:
+  - read
+- name: quantum-results-reviewer
+  tools:
+  - read
+- name: real-estate-analyst
+  tools:
+  - read
+  - browser
+- name: real-estate-critic
+  tools:
+  - read
+- name: real-estate-orchestration-reviewer
+  tools:
+  - read
+- name: research-analyst
+  tools:
+  - read
+  - browser
+- name: research-critic
+  tools:
+  - read
+- name: research-orchestration-reviewer
+  tools:
+  - read
+- name: research-peer-reviewer
+  tools:
+  - read
+- name: sales-analyst
+  tools:
+  - read
+  - browser
+- name: sales-critic
+  tools:
+  - read
+- name: sales-deal-critic
+  tools:
+  - read
+- name: sales-orchestration-reviewer
+  tools:
+  - read
+- name: security-reviewer
+  tools:
+  - read
+- name: security-risk-reviewer-enterprise
+  tools:
+  - read
+- name: skill-depth-auditor
+  tools:
+  - read
+- name: supply-chain-analyst
+  tools:
+  - read
+  - browser
+- name: supply-chain-critic
+  tools:
+  - read
+- name: supply-chain-orchestration-reviewer
+  tools:
+  - read
+- name: ux-accessibility-reviewer
+  tools:
+  - read
+- name: watsonx-ai-platform-engineer
+  tools:
+  - read
+- name: watsonx-governance-engineer
+  tools:
+  - read
+- name: wxo-platform-engineer
+  tools:
+  - read

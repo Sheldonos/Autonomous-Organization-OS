@@ -1,0 +1,27 @@
+{
+  "pocket": "innovationos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "product-experiment-design",
+    "cio-technology-experiment-design",
+    "product-customer-problem-discovery",
+    "product-backlog-governance",
+    "product-go-to-market-planning",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "product-prototype-validation",
+    "product-privacy-by-design-review",
+    "quantum-experiment-state-manager",
+    "eos-experiment-management",
+    "product-innovation-funnel-management",
+    "product-product-analytics",
+    "product-roadmap-planning",
+    "engineering-code-review",
+    "engineering-continuous-integration",
+    "meta-skill-discovery-manager",
+    "cio-emerging-technology-radar",
+    "engineering-architecture-decision-recording"
+  ]
+}

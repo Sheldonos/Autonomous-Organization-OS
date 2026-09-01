@@ -1,0 +1,12 @@
+{
+  "pocket": "agencyos",
+  "required_or_optional_classes": [
+    "crm",
+    "project_mgmt",
+    "time_tracking",
+    "billing",
+    "asset_store"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

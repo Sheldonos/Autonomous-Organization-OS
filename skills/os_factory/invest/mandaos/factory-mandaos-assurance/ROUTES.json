@@ -1,0 +1,27 @@
+{
+  "pocket": "mandaos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-third-party-risk-assessment",
+    "legal-risk-dpia-preparation",
+    "legal-risk-enterprise-risk-assessment-prep",
+    "game-dev",
+    "legal-risk-audit-finding-remediation",
+    "legal-risk-control-test-evidence",
+    "legal-risk-insurance-claim-evidence",
+    "legal-risk-issue-triage",
+    "supply-chain-supplier-due-diligence",
+    "ncfb-claims-adjuster-coach",
+    "watsonx-ai-evaluation-handoff",
+    "legal-contract-performance-monitoring",
+    "legal-legal-work-intake-triage",
+    "legal-risk-aml-case-evidence-prep",
+    "legal-risk-board-governance-pack",
+    "legal-risk-clause-variance-analysis",
+    "legal-risk-compliance-training-exception",
+    "legal-risk-conflict-of-interest-review",
+    "legal-risk-consent-register-quality-check",
+    "legal-risk-crisis-legal-coordination"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "eventos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "marketing-event-strategy-operations",
+    "media-accessibility-localization",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "demo-guide-architect",
+    "marketing-event-readiness-checklist",
+    "rspkt-web-designer",
+    "marketing-webinar-follow-up-preparation",
+    "media-content-capture",
+    "media-post-production-editing",
+    "advanced-web-developer",
+    "agency-operations-engagement-closeout",
+    "agent-operations-and-learning",
+    "anime-series-production",
+    "feature-film-production",
+    "healthcare-patient-safety-event-management",
+    "ibm-eng-006",
+    "ibm-eng-iss-001",
+    "ibm-sales-ext-marketing-campaign-event"
+  ]
+}

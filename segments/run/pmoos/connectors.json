@@ -1,0 +1,12 @@
+{
+  "pocket": "pmoos",
+  "required_or_optional_classes": [
+    "project_mgmt",
+    "calendar",
+    "finance",
+    "document_store",
+    "analytics"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

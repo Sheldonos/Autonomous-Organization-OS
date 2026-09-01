@@ -1,0 +1,27 @@
+{
+  "pocket": "revenueos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "sales-close-to-delivery-transition",
+    "revenue-expansion-signal-qualification",
+    "sales-stakeholder-mapping",
+    "revenue-account-health-scorecard",
+    "revenue-account-plan-preparation",
+    "revenue-adoption-analysis",
+    "revenue-churn-root-cause-analysis",
+    "revenue-forecast-rollup-exception",
+    "revenue-qbr-pack-preparation",
+    "revenue-stakeholder-map-preparation",
+    "tls-customer-success-expansion-agent",
+    "revenue-customer-onboarding-readiness",
+    "revenue-customer-commitment-tracker",
+    "revenue-customer-escalation-coordination",
+    "revenue-reference-candidate-qualification",
+    "revenue-territory-coverage-analysis",
+    "revenue-win-loss-synthesis",
+    "marketing-customer-researcher",
+    "revenue-renewal-risk-assessment",
+    "revenue-deal-desk-review-pack"
+  ]
+}

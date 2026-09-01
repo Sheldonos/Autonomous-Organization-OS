@@ -1,0 +1,27 @@
+{
+  "pocket": "mandaos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-055",
+    "product-go-to-market-planning",
+    "cio-technology-integration-planning",
+    "government-administer-procurement",
+    "enterprise-saga-transaction-coordinator",
+    "finance-transaction-comparables-analyst",
+    "investment-acquisition-target-researcher",
+    "legal-third-party-risk-assessment",
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-financial-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator",
+    "investment-market-due-diligence-analyst",
+    "investment-operational-due-diligence-analyst",
+    "investment-synergy-analyst",
+    "investment-technology-due-diligence-analyst",
+    "legal-due-diligence-analyst",
+    "legal-approval-signature-routing",
+    "legal-amendment-change-control",
+    "legal-contract-closeout-records"
+  ]
+}

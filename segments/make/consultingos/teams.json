@@ -1,0 +1,81 @@
+{
+  "pocket": "consultingos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Engagement charter Team",
+      "stage": 1,
+      "responsibility": "Engagement charter",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Discovery Team",
+      "stage": 2,
+      "responsibility": "Discovery",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Data & interview intake Team",
+      "stage": 3,
+      "responsibility": "Data & interview intake",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Diagnosis Team",
+      "stage": 4,
+      "responsibility": "Diagnosis",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Benchmarking Team",
+      "stage": 5,
+      "responsibility": "Benchmarking",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Solution design Team",
+      "stage": 6,
+      "responsibility": "Solution design",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Executive deliverable Team",
+      "stage": 7,
+      "responsibility": "Executive deliverable",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Implementation PMO Team",
+      "stage": 8,
+      "responsibility": "Implementation PMO",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t09",
+      "name": "Outcome measurement Team",
+      "stage": 9,
+      "responsibility": "Outcome measurement",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "legalos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-litigation-research-analyst",
+    "legal-regulatory-research-analyst",
+    "legal-research-specialist",
+    "legal-dispute-claims-management",
+    "legal-legal-work-intake-triage",
+    "legal-legal-hold-evidence-preservation",
+    "legal-contract-drafting-redlining",
+    "legal-approval-signature-routing",
+    "legal-obligation-management",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "legal-risk-obligation-extraction",
+    "legal-contract-risk-issue-spotting",
+    "legal-risk-clause-variance-analysis",
+    "legal-risk-litigation-evidence-compilation",
+    "ibm-bob-ads-research",
+    "product-privacy-by-design-review",
+    "legal-contract-clause-extractor",
+    "product-experiment-design",
+    "product-prototype-validation"
+  ]
+}

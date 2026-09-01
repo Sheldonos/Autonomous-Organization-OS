@@ -1,0 +1,27 @@
+{
+  "pocket": "labos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "quantum-research-orchestrator",
+    "quantum-research-publication-gate",
+    "research-experiment-management",
+    "quantum-research-evidence-ledger",
+    "quantum-experiment-state-manager",
+    "quantum-simulation-reproducibility-auditor",
+    "quantum-classical-baseline-analyst",
+    "quantum-execution-safety-cost-gate",
+    "quantum-hardware-capability-status-controller",
+    "quantum-hardware-job-lifecycle-manager",
+    "enterprise-adapter-contract-engineer",
+    "enterprise-domain-observability-engineer",
+    "enterprise-domain-simulation-engineer",
+    "enterprise-harness-release-engineer",
+    "enterprise-runtime-harness-engineer",
+    "ibm-bob-ads-test",
+    "process-research-to-experiment-to-decision",
+    "eos-experiment-management",
+    "eos-hypothesis-management",
+    "eos-technical-evaluation"
+  ]
+}

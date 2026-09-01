@@ -1,0 +1,27 @@
+{
+  "pocket": "enterpriseos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-bob-skills-implementation",
+    "meta-mode-routing-specialist",
+    "continuous-capability-evolution",
+    "cross-domain-outcome-verifier",
+    "enterprise-domain-harness-orchestrator",
+    "data-strategy-data-access-request-precheck",
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "watsonx-ai-model-routing",
+    "automation-design-integration-orchestration",
+    "ibm-sales-agentic-orchestration",
+    "automation-improve-process-performance",
+    "cio-it-organization-design",
+    "data-strategy-business-case-preparation",
+    "automation-govern-access-and-data",
+    "healthcare-health-records-governance",
+    "chief-of-staff-risk-crisis-coordination",
+    "program-management-program-governance",
+    "automation-baseline-process-performance",
+    "automation-discover-process"
+  ]
+}

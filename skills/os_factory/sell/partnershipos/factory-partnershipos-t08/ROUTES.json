@@ -1,0 +1,27 @@
+{
+  "pocket": "partnershipos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "eos-partner-performance",
+    "business-development-alliance-management",
+    "business-development-channel-partner-analyst",
+    "tls-partner-ecosystem-channel-agent",
+    "ibm-sales-scale-008",
+    "business-development-partner-enablement-specialist",
+    "eos-partner-co-sell",
+    "business-development-partner-research-specialist",
+    "ibm-sales-ext-partner-cosell-plan",
+    "ibm-sales-ext-partner-alliance-governance",
+    "ibm-career-sales-partner-technical-specialist",
+    "eos-partner-discovery",
+    "eos-partner-management",
+    "sales-renewal-management",
+    "ibm-des-apm-001",
+    "ibm-pro-apm-001",
+    "sales-renewal-strategist",
+    "cio-build-buy-partner-decision",
+    "ibm-bob-whiteboard-onepager",
+    "ibm-pre-apm-001"
+  ]
+}

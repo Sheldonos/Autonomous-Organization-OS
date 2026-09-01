@@ -1,0 +1,27 @@
+{
+  "pocket": "mediaos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-editorial-fact-checking",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "media-content-capture",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "media-distribution-packaging",
+    "media-post-production-editing",
+    "media-accessibility-localization",
+    "media-distribution-preparation-specialist",
+    "media-mastering-quality-control",
+    "media-media-asset-management",
+    "media-production-scheduling",
+    "media-release-management",
+    "media-rights-clearance",
+    "media-safety-risk-planning",
+    "media-casting-research-specialist",
+    "media-story-editor",
+    "media-story-producer",
+    "media-accessibility-specialist"
+  ]
+}

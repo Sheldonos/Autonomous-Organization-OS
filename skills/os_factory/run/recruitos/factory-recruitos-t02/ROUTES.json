@@ -1,0 +1,27 @@
+{
+  "pocket": "recruitos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-requisition-management",
+    "people-structured-selection",
+    "procurement-develop-sourcing-strategy",
+    "people-job-architecture",
+    "people-workforce-planning",
+    "people-candidate-assessment",
+    "people-candidate-screening-preparation",
+    "people-workforce-strategy-analyst",
+    "people-interview-coordination-readiness",
+    "people-requisition-quality-review",
+    "data-strategy-data-product-assessment",
+    "data-strategy-knowledge-refresh-assessment",
+    "data-strategy-model-risk-assessment-prep",
+    "people-offer-approval-preparation",
+    "procurement-sourcing-event-design",
+    "eos-enterprise-sourcing",
+    "supply-chain-procurement-sourcing",
+    "supply-chain-sourcing-analyst",
+    "people-onboarding-readiness-assessment",
+    "cio-analytics-strategy"
+  ]
+}

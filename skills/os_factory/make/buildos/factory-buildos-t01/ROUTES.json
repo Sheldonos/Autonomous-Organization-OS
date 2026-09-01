@@ -1,0 +1,27 @@
+{
+  "pocket": "buildos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "engineering-requirements-traceability-review",
+    "engineering-requirements-traceability",
+    "engineering-backlog-refinement-support",
+    "engineering-issue-backlog-health",
+    "engineering-architecture-decision-recording",
+    "engineering-release-readiness-gate",
+    "design-define-service-requirements",
+    "design-prioritize-service-opportunities",
+    "product-requirements-analyst",
+    "design-product-designer",
+    "ibm-des-002",
+    "ibm-des-003",
+    "ibm-des-004",
+    "ibm-des-005",
+    "ibm-des-006",
+    "ibm-des-007",
+    "ibm-des-010",
+    "ibm-des-atl-001",
+    "ibm-des-atl-002",
+    "ibm-des-csm-001"
+  ]
+}

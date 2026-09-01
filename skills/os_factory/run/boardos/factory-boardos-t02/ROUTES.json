@@ -1,0 +1,27 @@
+{
+  "pocket": "boardos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "director-breakdown",
+    "excel-to-bob-chunks",
+    "chief-of-staff-privacy-aware-information-handling",
+    "chief-of-staff-board-materials-governance",
+    "agency-operations-stakeholder-communications-governance",
+    "legal-contract-template-governance",
+    "healthcare-health-records-governance",
+    "legal-risk-records-retention-review",
+    "procurement-onboard-supplier",
+    "chief-of-staff-decision-rights-mapping",
+    "chief-of-staff-escalation-triage",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "legal-risk-board-governance-pack",
+    "automation-improve-process-performance",
+    "ibm-sales-onboarding-value-data-audit",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "chief-of-staff-principal-transition-handoff",
+    "chief-of-staff-decision-record-management"
+  ]
+}

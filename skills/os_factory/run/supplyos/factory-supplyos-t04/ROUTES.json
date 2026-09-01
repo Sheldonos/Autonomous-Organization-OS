@@ -1,0 +1,27 @@
+{
+  "pocket": "supplyos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "supply-chain-inventory-replenishment",
+    "supply-chain-supply-demand-planning",
+    "operations-order-promise-readiness",
+    "operations-warehouse-exception-triage",
+    "supply-chain-inventory-optimization-specialist",
+    "supply-chain-inventory-analyst",
+    "operations-inventory-health-review",
+    "operations-stockout-risk-monitoring",
+    "supply-chain-procurement-sourcing",
+    "supply-chain-order-fulfillment",
+    "supply-chain-transportation-management",
+    "operations-supplier-eta-exception",
+    "procurement-demand-intake-qualification",
+    "supply-chain-reverse-logistics",
+    "supply-chain-warehouse-operations",
+    "procurement-purchase-requisition-compliance",
+    "eos-inventory-management",
+    "operations-demand-forecast-exception",
+    "procurement-purchase-approval-routing",
+    "supply-chain-inbound-receiving"
+  ]
+}

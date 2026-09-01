@@ -1,0 +1,27 @@
+{
+  "pocket": "vendoros",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-contract-renewal-readiness",
+    "legal-renewal-exit-management",
+    "legal-obligation-milestone-management",
+    "real-estate-vendor-contract-management",
+    "procurement-monitor-supplier-performance",
+    "procurement-assess-supply-chain-risk",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence",
+    "supply-chain-supplier-due-diligence",
+    "supply-chain-supplier-performance-management",
+    "legal-third-party-risk-assessment",
+    "procurement-draft-and-negotiate-contract",
+    "procurement-execute-supplier-exit",
+    "procurement-manage-purchase-orders",
+    "procurement-manage-solicitation",
+    "healthcare-vendor-business-associate-governance",
+    "procurement-engage-supplier-market"
+  ]
+}

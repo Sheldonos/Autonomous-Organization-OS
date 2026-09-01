@@ -1,0 +1,81 @@
+{
+  "pocket": "mediaos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Signal detection Team",
+      "stage": 1,
+      "responsibility": "Signal detection",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Editorial prioritization Team",
+      "stage": 2,
+      "responsibility": "Editorial prioritization",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Research & fact check Team",
+      "stage": 3,
+      "responsibility": "Research & fact check",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Story construction Team",
+      "stage": 4,
+      "responsibility": "Story construction",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Format adaptation Team",
+      "stage": 5,
+      "responsibility": "Format adaptation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Publishing Team",
+      "stage": 6,
+      "responsibility": "Publishing",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Distribution Team",
+      "stage": 7,
+      "responsibility": "Distribution",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Audience analytics Team",
+      "stage": 8,
+      "responsibility": "Audience analytics",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t09",
+      "name": "Monetization learning Team",
+      "stage": 9,
+      "responsibility": "Monetization learning",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

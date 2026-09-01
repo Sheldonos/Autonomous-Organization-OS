@@ -1,0 +1,27 @@
+{
+  "pocket": "franchiseos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "localization-accessibility",
+    "ibm-des-sa-003",
+    "ibm-met-sm-009",
+    "media-media-asset-management",
+    "media-release-management",
+    "media-rights-clearance",
+    "ibm-sales-scale-009",
+    "revenue-territory-coverage-analysis",
+    "eos-territory-planning",
+    "ibm-sales-ext-ops-territory-quota-change",
+    "ibm-sales-scale-008",
+    "revenue-lead-routing-quality-check",
+    "revenue-operations-territory-operations-analyst",
+    "cio-cio-operating-model-design",
+    "marketing-budget-pacing-analysis",
+    "marketing-campaign-launch-readiness",
+    "ibm-career-sales-territory-sales-specialist",
+    "ibm-sales-ext-identity-offboarding-revoke",
+    "ibm-sales-ext-identity-territory-scope-validate",
+    "ibm-sales-scale-001"
+  ]
+}

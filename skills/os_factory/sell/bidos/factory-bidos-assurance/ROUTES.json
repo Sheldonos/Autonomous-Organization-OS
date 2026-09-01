@@ -1,0 +1,27 @@
+{
+  "pocket": "bidos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "sales-contract-approval",
+    "sales-proposal-management",
+    "ibm-pro-011",
+    "ibm-sales-scale-058",
+    "government-administer-procurement",
+    "ibm-pro-010",
+    "ibm-pro-001",
+    "ibm-pro-007",
+    "ibm-pro-009",
+    "government-evaluate-policy-interventions",
+    "government-align-policy-to-outcomes",
+    "government-initiate-government-programmes",
+    "government-plan-public-acquisitions",
+    "government-assess-privacy-and-security",
+    "government-verify-and-validate-solutions",
+    "government-conduct-stage-gate-assurance",
+    "government-measure-benefits-and-performance",
+    "government-preserve-audit-evidence",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "supply-chain-procurement-sourcing"
+  ]
+}

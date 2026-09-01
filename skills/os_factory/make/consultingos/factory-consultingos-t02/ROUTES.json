@@ -1,0 +1,27 @@
+{
+  "pocket": "consultingos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-qua-cp-001",
+    "ibm-qua-001",
+    "ibm-qua-002",
+    "ibm-qua-atl-001",
+    "product-customer-problem-discovery",
+    "sales-discovery-problem-framing",
+    "ibm-career-consulting-business-transformation-consultant",
+    "ibm-cloud-operations-agent",
+    "ibm-fw-003",
+    "ibm-i-sql-operations-agent",
+    "ibm-pre-sa-001",
+    "ibm-sales-scale-050",
+    "ibm-sales-scale-054",
+    "enterprise-environment-discovery",
+    "eos-ip-discovery",
+    "eos-partner-discovery",
+    "eos-product-customer-discovery",
+    "eos-product-market-discovery",
+    "eos-supplier-discovery",
+    "ibm-qua-003"
+  ]
+}

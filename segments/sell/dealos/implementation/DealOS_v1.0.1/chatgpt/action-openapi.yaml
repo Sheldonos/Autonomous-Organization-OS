@@ -1,0 +1,86 @@
+openapi: 3.1.0
+info:
+  title: DealOS Owner Console API
+  version: 1.0.0
+  description: Read DealOS pipeline and adjudicate owner approvals. Does not expose raw third-party credentials.
+servers:
+  - url: https://REPLACE_WITH_DEALOS_DOMAIN
+components:
+  securitySchemes:
+    DealOSKey:
+      type: apiKey
+      in: header
+      name: X-DealOS-Key
+security:
+  - DealOSKey: []
+paths:
+  /health:
+    get:
+      operationId: health
+      security: []
+      responses:
+        '200': {description: Healthy}
+  /deals:
+    get:
+      operationId: listDeals
+      parameters:
+        - {name: limit, in: query, schema: {type: integer, default: 50}}
+      responses:
+        '200': {description: Deal list}
+  /deals/{deal_id}:
+    get:
+      operationId: getDeal
+      parameters:
+        - {name: deal_id, in: path, required: true, schema: {type: string}}
+      responses:
+        '200': {description: Deal detail}
+  /owner/approvals:
+    get:
+      operationId: listApprovals
+      responses:
+        '200': {description: Pending approvals}
+  /owner/approvals/{approval_id}/decision:
+    post:
+      operationId: decideApproval
+      parameters:
+        - {name: approval_id, in: path, required: true, schema: {type: string}}
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [decision]
+              properties:
+                decision: {type: string, enum: [approve, reject]}
+      responses:
+        '200': {description: Decision recorded}
+  /owner/weekly-digest:
+    get:
+      operationId: getWeeklyDigest
+      responses:
+        '200': {description: Owner digest}
+  /research/queue:
+    post:
+      operationId: queueResearch
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                deal_id: {type: string}
+                opportunity_id: {type: string}
+                prompt: {type: string}
+                expected_value_usd: {type: number}
+      responses:
+        '200': {description: Research queued}
+
+  /market/scan/{lane}:
+    post:
+      operationId: runMarketScan
+      parameters:
+        - {name: lane, in: path, required: true, schema: {type: string, enum: [ai_transformation, mainframe_modernization, ai_governance, rfp_proposal]}}
+      responses:
+        '200': {description: Market scan run}

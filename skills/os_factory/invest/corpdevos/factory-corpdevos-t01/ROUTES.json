@@ -1,0 +1,27 @@
+{
+  "pocket": "corpdevos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-business-case-appraisal",
+    "product-customer-problem-discovery",
+    "product-backlog-governance",
+    "product-go-to-market-planning",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "executive-okr-operating-system",
+    "education-analyze-learning-needs",
+    "investment-acquisition-target-researcher",
+    "strategy-strategic-initiative-designer",
+    "strategy-strategic-planning-specialist",
+    "strategy-strategic-risk-analyst",
+    "business-development-strategic-partnership-analyst",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-icp-segmentation",
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "chief-of-staff-strategic-operating-cadence",
+    "cio-technology-skills-gap-analysis"
+  ]
+}

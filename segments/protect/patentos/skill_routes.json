@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "pocket": "patentos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 20,
+  "skills": [
+    {
+      "slug": "legal-risk-ip-docket-readiness",
+      "score": 69,
+      "domain": "legal",
+      "description": "Assess IP docket event readiness, evidence, and outside-counsel dependencies. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Intellectual Property Operations Capability Director."
+    },
+    {
+      "slug": "legal-dispute-claims-management",
+      "score": 68,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Dispute Claims Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-dispute-claims-management`, `dispute-claims-management`, or the corresponding professional workflow: dispute-and-claims-management | preserve facts and notices, assess entitlement/exposure, select negotiation, mediation, arbitration, litigation, or cure strategy | handoff to in-house litigation counsel, outside counsel, insurer, executive sponsor, and records/eDiscovery team"
+    },
+    {
+      "slug": "legal-contract-closeout-records",
+      "score": 65,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Closeout Records** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-closeout-records`, `contract-closeout-records`, or the corresponding professional workflow: contract-closeout-and-records-management | confirm completion, final acceptance/payment, unresolved claims, retention schedule, access restrictions, and authoritative record location | handoff to contract administrator, finance, records management, audit, legal, and business owner"
+    },
+    {
+      "slug": "legal-system-navigator",
+      "score": 63,
+      "domain": "legal",
+      "description": "Navigate the legal system for both offensive and defensive purposes. This skill provides a framework for leveraging the legal system to achieve business objectives, from enforcing intellectual property rights to defending against lawsuits. Use when facing a legal challenge or considering legal action."
+    },
+    {
+      "slug": "legal-contract-drafting-redlining",
+      "score": 60,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Drafting Redlining** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-drafting-redlining`, `contract-drafting-redlining`, or the corresponding professional workflow: contract-drafting-and-redlining | identify deviations from playbook, allocate risk positions, and decide whether non-standard terms require specialist review | handoff to counterparties, negotiating counsel, business sponsor, and approval committee"
+    },
+    {
+      "slug": "legal-contract-risk-issue-spotting",
+      "score": 60,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Risk Issue Spotting** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-risk-issue-spotting`, `contract-risk-issue-spotting`, or the corresponding professional workflow: contract-risk-issue-spotting | extract obligations, dependencies, liability, indemnity, IP, confidentiality, data-use, audit, termination, insurance, and governing-law risks | handoff to responsible legal specialist and accountable business risk owner"
+    },
+    {
+      "slug": "legal-legal-work-intake-triage",
+      "score": 60,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Legal Work Intake Triage** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-legal-work-intake-triage`, `legal-work-intake-triage`, or the corresponding professional workflow: intake-and-triage-legal-work | classify matter, urgency, jurisdiction, privilege, and service level against risk and business impact | handoff to in-house counsel, subject-matter counsel, privacy/security, procurement, HR, or compliance"
+    },
+    {
+      "slug": "legal-legal-hold-evidence-preservation",
+      "score": 57,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Legal Hold Evidence Preservation** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-legal-hold-evidence-preservation`, `legal-hold-evidence-preservation`, or the corresponding professional workflow: legal-hold-and-evidence-preservation | identify triggering facts, custodians, systems, jurisdictions, retention conflicts, and release criteria for defensible preservation | handoff to litigation counsel, records manager, IT/eDiscovery, privacy, HR, and affected custodians"
+    },
+    {
+      "slug": "legal-obligation-management",
+      "score": 57,
+      "domain": "legal",
+      "description": "Extract, normalize, assign, monitor and evidence contractual/regulatory obligations without replacing accountable counsel. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "legal-obligation-milestone-management",
+      "score": 57,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Obligation Milestone Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-obligation-milestone-management`, `obligation-milestone-management`, or the corresponding professional workflow: obligation-and-milestone-management | convert executed terms into owners, dates, deliverables, notice windows, service levels, reporting, renewal, and evidence requirements | handoff to contract owner, procurement/vendor management, finance, operations, security, and legal"
+    },
+    {
+      "slug": "legal-renewal-exit-management",
+      "score": 57,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Renewal Exit Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-renewal-exit-management`, `renewal-exit-management`, or the corresponding professional workflow: obligation-and-milestone-management | convert executed terms into owners, dates, deliverables, notice windows, service levels, reporting, renewal, and evidence requirements | handoff to contract owner, procurement/vendor management, finance, operations, security, and legal"
+    },
+    {
+      "slug": "legal-amendment-change-control",
+      "score": 54,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Amendment Change Control** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-amendment-change-control`, `amendment-change-control`, or the corresponding professional workflow: change-order-and-amendment-control | determine whether a requested change is within scope, affects price/schedule/risk, or requires formal amendment and reapproval | handoff to contract owner, legal, procurement, finance, technical/security reviewers, and authorized signatory"
+    },
+    {
+      "slug": "legal-approval-signature-routing",
+      "score": 54,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Approval Signature Routing** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-approval-signature-routing`, `approval-signature-routing`, or the corresponding professional workflow: approval-and-signature-routing | verify authority matrix, budget/funding, required legal and control approvals, version integrity, and signature formalities | handoff to delegated business approver, legal approver, procurement, finance, and authorized signatory"
+    },
+    {
+      "slug": "legal-contract-performance-monitoring",
+      "score": 54,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Performance Monitoring** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-performance-monitoring`, `contract-performance-monitoring`, or the corresponding professional workflow: contract-performance-and-compliance-monitoring | compare performance evidence, invoices, KPIs, change requests, incidents, and nonconformance against contractual remedies and controls | handoff to contract administrator, vendor manager, finance, operations, legal, and executive risk owner"
+    },
+    {
+      "slug": "legal-contract-template-governance",
+      "score": 54,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Template Governance** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-template-governance`, `contract-template-governance`, or the corresponding professional workflow: contract-request-and-template-governance | determine approved template, fallback language, required metadata, and escalation thresholds | handoff to business owner, legal reviewer, procurement, finance, security/privacy, and authorized signer"
+    },
+    {
+      "slug": "legal-risk-conflict-of-interest-review",
+      "score": 54,
+      "domain": "legal",
+      "description": "Prepare conflict-of-interest disclosure evidence for authorized review. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Ethics and Conduct Capability Director."
+    },
+    {
+      "slug": "legal-risk-contract-intake-classification",
+      "score": 54,
+      "domain": "legal",
+      "description": "Classify contract requests, risk profile, required review, and source documents. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Contract Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-insurance-claim-evidence",
+      "score": 54,
+      "domain": "legal",
+      "description": "Compile insurance-claim evidence and policy references for authorized owner review. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Risk Transfer Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-regulatory-horizon-scan",
+      "score": 54,
+      "domain": "legal",
+      "description": "Monitor approved regulatory sources and create qualified change-review cases. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Regulatory Intelligence Capability Director."
+    },
+    {
+      "slug": "legal-third-party-risk-assessment",
+      "score": 54,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Third Party Risk Assessment** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-third-party-risk-assessment`, `third-party-risk-assessment`, or the corresponding professional workflow: third-party-due-diligence-and-risk-assessment | assess supplier identity, sanctions/integrity, financial and operational resilience, subcontracting, security, privacy, and concentration risk | handoff to procurement, information security, privacy, finance, compliance, and risk acceptance authority"
+    },
+    {
+      "slug": "legal-contract-intake-specialist",
+      "score": 51,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Intake Specialist role: contract intake; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-general-counsel-advisor",
+      "score": 51,
+      "domain": "legal",
+      "description": "Use for legal work requiring the General Counsel Advisor role: general counsel; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-ip-contract-specialist",
+      "score": 51,
+      "domain": "legal",
+      "description": "Use for legal work requiring the IP Contract Specialist role: ip contract; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-litigation-research-analyst",
+      "score": 51,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Litigation Research Analyst role: litigation research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-msa-review-specialist",
+      "score": 51,
+      "domain": "legal",
+      "description": "Use for legal work requiring the MSA Review Specialist role: msa review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-nda-review-specialist",
+      "score": 51,
+      "domain": "legal",
+      "description": "Use for legal work requiring the NDA Review Specialist role: nda review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-regulatory-research-analyst",
+      "score": 51,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Regulatory Research Analyst role: regulatory research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-research-specialist",
+      "score": 51,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Research Specialist role: legal research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-risk-board-governance-pack",
+      "score": 51,
+      "domain": "legal",
+      "description": "Prepare board-governance evidence pack, decision log, and action-tracking status. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Corporate Governance Capability Director."
+    },
+    {
+      "slug": "legal-risk-clause-variance-analysis",
+      "score": 51,
+      "domain": "legal",
+      "description": "Identify clause variance against approved playbook and prepare reviewer evidence. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Contract Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-compliance-training-exception",
+      "score": 51,
+      "domain": "legal",
+      "description": "Review compliance-training exception evidence and route required follow-up. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Governance Capability Director."
+    },
+    {
+      "slug": "legal-risk-dpia-preparation",
+      "score": 51,
+      "domain": "legal",
+      "description": "Prepare DPIA evidence package with data flow, risk, and unresolved owner inputs. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Privacy Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-ethics-allegation-intake",
+      "score": 51,
+      "domain": "legal",
+      "description": "Classify ethics allegations with confidentiality, non-retaliation, and investigation routing requirements. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Ethics and Conduct Capability Director."
+    },
+    {
+      "slug": "legal-risk-gifts-hospitality-review",
+      "score": 51,
+      "domain": "legal",
+      "description": "Review gifts and hospitality declarations against policy thresholds and routes. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Ethics and Conduct Capability Director."
+    },
+    {
+      "slug": "legal-risk-obligation-extraction",
+      "score": 51,
+      "domain": "legal",
+      "description": "Extract obligations, dates, owners, and evidence requirements from approved agreements. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Contract Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-policy-change-impact-analysis",
+      "score": 51,
+      "domain": "legal",
+      "description": "Analyze policy change impact, affected controls, training, systems, and owners. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Governance Capability Director."
+    },
+    {
+      "slug": "legal-risk-privacy-request-intake",
+      "score": 51,
+      "domain": "legal",
+      "description": "Classify privacy requests, identity-verification needs, jurisdiction, and routing steps. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Privacy Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-records-retention-review",
+      "score": 51,
+      "domain": "legal",
+      "description": "Review records retention requirements, holds, classifications, and disposition dependencies. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Information Governance Capability Director."
+    },
+    {
+      "slug": "legal-risk-sanctions-screening-case-prep",
+      "score": 51,
+      "domain": "legal",
+      "description": "Prepare sanctions-screening review case evidence without making a disposition. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Financial Crime Compliance Capability Director."
+    },
+    {
+      "slug": "legal-saas-agreement-review-specialist",
+      "score": 51,
+      "domain": "legal",
+      "description": "Use for legal work requiring the SaaS Agreement Review Specialist role: saas agreement review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-sow-review-specialist",
+      "score": 51,
+      "domain": "legal",
+      "description": "Use for legal work requiring the SOW Review Specialist role: sow review; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-case-law-researcher",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Case Law Researcher role: case law; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-citation-reviewer",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Citation Reviewer role: legal citation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-clause-classification-specialist",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Clause Classification Specialist role: clause classification; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-clause-comparison-analyst",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Clause Comparison Analyst role: clause comparison; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-clause-extractor",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Clause Extractor role: contract clause extractor; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-lifecycle-specialist",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Lifecycle Specialist role: contract lifecycle; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-negotiation-specialist",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Negotiation Specialist role: contract negotiation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-parser",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Parser role: contract parser; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-contract-risk-reviewer",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Risk Reviewer role: contract risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-due-diligence-analyst",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Due Diligence Analyst role: legal due diligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-employment-agreement-reviewer",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Employment Agreement Reviewer role: employment agreement; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-escalation-coordinator",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Escalation Coordinator role: legal escalation coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-memorandum-writer",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Memorandum Writer role: legal memorandum; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-obligation-extraction-specialist",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Obligation Extraction Specialist role: obligation extraction; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-orchestrator",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Orchestrator role: legal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-privacy-contract-specialist",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Privacy Contract Specialist role: privacy contract; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-procurement-contract-specialist",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Procurement Contract Specialist role: procurement contract; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-quality-reviewer",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Legal Quality Reviewer role: legal quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-risk-aml-case-evidence-prep",
+      "score": 48,
+      "domain": "legal",
+      "description": "Compile AML case evidence and escalation packet without determining suspicious activity. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Financial Crime Compliance Capability Director."
+    },
+    {
+      "slug": "legal-risk-audit-finding-remediation",
+      "score": 48,
+      "domain": "legal",
+      "description": "Track audit-finding remediation evidence, due dates, and unresolved risk. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Assurance Capability Director."
+    },
+    {
+      "slug": "legal-risk-consent-register-quality-check",
+      "score": 48,
+      "domain": "legal",
+      "description": "Check consent-register completeness, retention, and source-of-truth alignment. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Privacy Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-control-test-evidence",
+      "score": 48,
+      "domain": "legal",
+      "description": "Compile control-test evidence, population, exceptions, and reviewer traceability. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Assurance Capability Director."
+    },
+    {
+      "slug": "legal-risk-crisis-legal-coordination",
+      "score": 48,
+      "domain": "legal",
+      "description": "Coordinate crisis legal evidence, communications routing, and decision dependencies. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Legal Matter Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-enterprise-risk-assessment-prep",
+      "score": 48,
+      "domain": "legal",
+      "description": "Prepare risk-assessment evidence, drivers, inherent/residual assumptions, and owners. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Enterprise Risk Management Capability Director."
+    },
+    {
+      "slug": "legal-risk-issue-triage",
+      "score": 48,
+      "domain": "legal",
+      "description": "Classify compliance issues, impact, root-cause evidence, and remediation routing. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Assurance Capability Director."
+    },
+    {
+      "slug": "legal-risk-legal-hold-readiness",
+      "score": 48,
+      "domain": "legal",
+      "description": "Assess legal-hold readiness, custodians, data sources, and preservation dependencies. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Legal Matter Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-litigation-evidence-compilation",
+      "score": 48,
+      "domain": "legal",
+      "description": "Compile litigation evidence inventory with provenance and privilege routing. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Legal Matter Operations Capability Director."
+    },
+    {
+      "slug": "legal-statutory-researcher",
+      "score": 48,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Statutory Researcher role: statutory; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "procurement-manage-contract-change",
+      "score": 43,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Contract Change** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-contract-change`, `manage-contract-change`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-manage-procurement-dispute",
+      "score": 43,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Procurement Dispute** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-procurement-dispute`, `manage-procurement-dispute`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-manage-renewal",
+      "score": 43,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Renewal** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-renewal`, `manage-renewal`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "ibm-bob-ads-research",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Refresh IBM Bob Paid Media Operations platform, API, policy, regulation, benchmark, issue, pull-request, fork, and repository evidence. Use for ads research refresh, expired refresh_due dates, stale API or platform claims, reverify-or-demote decisions, release-current claim validation, ecosystem review, current platform changes, or updating paid-media knowledge. When tools or sources are unavailable, still demote the stale claim for the current run and block dependent release-current assertions before requesting access. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "healthcare-claims-coding-compliance",
+      "score": 37,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Claims Coding Compliance** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-claims-coding-compliance`, `claims-coding-compliance`, or the corresponding professional workflow: claims-and-coding-compliance | validate documentation, coding, medical necessity, billing edits, overpayment signals, and payer requirements before claim submission or correction | coding/HIM, revenue cycle, clinical documentation integrity, payer relations, compliance"
+    },
+    {
+      "slug": "media-editorial-fact-checking",
+      "score": 37,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Editorial Fact Checking** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-editorial-fact-checking`, `editorial-fact-checking`, or the corresponding professional workflow: Edit and fact-check | select takes, shape narrative, verify claims, maintain source notes, resolve continuity issues, and obtain editorial sign-off | handoff to editor, producer, subject-matter reviewer, standards/legal, and approver"
+    },
+    {
+      "slug": "ncfb-claims-adjuster-coach",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Use when an NC Farm Bureau agent needs to evaluate a property damage, hail, auto, or home insurance claim. Walks through structured decision frameworks for roof damage, hail, and auto claims \u2014 covering coverage verification, functional vs. cosmetic damage, deductible math, escalation triggers, and documentation checklists. Activate on phrases like \"how do I handle this claim\", \"is this covered\", \"hail damage\", \"roof claim\", \"ACV vs RCV\", \"functional damage\", \"when do I escalate\", \"what documents do I need\", \"total loss\", \"FNOL\", or any NCFB claim evaluation question."
+    },
+    {
+      "slug": "patent-fortress-strategist",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Build a formidable patent portfolio to create a powerful competitive moat, deter litigation, and generate licensing revenue. This skill covers patent research, application drafting, and strategic portfolio management. Use when developing new technologies or entering a competitive market."
+    },
+    {
+      "slug": "quantum-research-publication-gate",
+      "score": 37,
+      "domain": "research",
+      "description": "Block external scientific claims/publication until evidence, reproducibility, limitations, authorship and human approval requirements pass. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "lemos-strategy-playbook",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Execute the complete LemosOS marketing strategy from 'Fall of the House of Usher.' This skill provides a playbook for creating artificial scarcity, manufacturing desire, and weaponizing intellectual property to achieve market dominance. It now includes a detailed framework for structuring celebrity equity partnerships to amplify the narrative. Use when launching a new product, seeking to disrupt an existing market, or building a brand with a celebrity partner."
+    },
+    {
+      "slug": "finance-expense-policy-audit",
+      "score": 34,
+      "domain": "finance",
+      "description": "Review expense claims against approved policy and produce a human-review packet. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "ibm-patent-architect",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "A framework for analyzing user ideas, identifying patentable opportunities, and generating finalized, defensible IBM-style patent disclosure documents. Use when a user asks to patent an idea, analyze an idea for patentability, or write an IBM patent disclosure."
+    },
+    {
+      "slug": "ibm-sales-scale-024",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Correlate approved account signals across permitted sources into an internal observation set while preserving source separation and avoiding causal claims. Use when IBM Sales selects `research.account-signal-correlate` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "marketing-content-claims-review",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Compile content claims, evidence, and required approver review. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "mastery-review",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Independently review evidence for encountered, practicing, demonstrated, or maintaining status without inflating claims."
+    },
+    {
+      "slug": "quantum-classical-baseline-analyst",
+      "score": 34,
+      "domain": "quantum",
+      "description": "Define and execute or specify classical baselines needed to interpret quantum performance claims honestly. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "research-literacy",
+      "score": 34,
+      "domain": "research",
+      "description": "Teach learners to investigate claims, compare sources, identify uncertainty and separate evidence from inference."
+    },
+    {
+      "slug": "sales-competitive-strategy",
+      "score": 34,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Competitive Strategy** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-competitive-strategy`, `competitive-strategy`, or the corresponding professional workflow: competitive-and-risk-strategy | decide differentiation, competitive posture, red-team risks, win themes, and claims that can be substantiated | hand off battlecard and risk register to account leadership, product marketing, executives, and bid team"
+    },
+    {
+      "slug": "shared-research-patent-research-specialist",
+      "score": 34,
+      "domain": "shared-research",
+      "description": "Use for shared research work requiring the Patent Research Specialist role: patent research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "construction-claims-documentation-specialist",
+      "score": 31,
+      "domain": "construction",
+      "description": "Use for construction work requiring the Claims Documentation Specialist role: claims documentation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "documentary-evidence",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Maintain documentary claims, evidence, source provenance, contradictions, consent and fact-check boundaries."
+    },
+    {
+      "slug": "ibm-bob-ads-validate",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Validate IBM Bob Paid Media Operations contracts, scoring inputs, run bundles, capabilities, source freshness, safety, installation, uninstall, or release readiness. Use for ads validate, ads status, ads next, stale claims with missing tool access, maturity checks, ownership-manifest uninstall, preserving unrelated ads-* skills, checksum verification, preflight, QA, or release audits. Missing access must demote stale evidence for the run and block dependent release-current claims before recovery guidance. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-proposal-release-qa",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Validate proposal/RFP/SOW release readiness across version, claims, evidence, pricing, legal/compliance sections, approvals, and delivery dependencies. Use when the IBM Sales control mode selects capability `commercial-governance.proposal-release-qa` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-036",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Screen an outbound draft for recipient scope, consent, account ownership, claims, required disclosures, sensitive data, and approval state. Use when IBM Sales selects `engage.outbound-compliance-check` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-042",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Record validated competitive context, differentiators, risks, and discovery questions using controlled competitive claims. Use when IBM Sales selects `discover.competition-qualify` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "marketing-content-reuse-eligibility",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Assess whether content can be reused by checking rights, freshness, claims, and audience fit. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "tsc-business-value-analyst",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use this mode when: - Preparing Value 360 inputs or business-value summaries - User asks \"what's the ROI of this project?\" - Creating customer-facing ROI narratives - Preparing internal executive briefings - Translating technical outcomes into business value - Validating value claims with stakeho..."
+    },
+    {
+      "slug": "autonomous-capitalist",
+      "score": 29,
+      "domain": "shared-execution",
+      "description": "Enables the agent to function as an autonomous economic actor, capable of identifying, evaluating, and exploiting market opportunities to generate and manage revenue streams. It integrates capabilities for continuous learning, strategic analysis, and automated business execution. Use this skill to build and manage a portfolio of autonomous businesses."
+    },
+    {
+      "slug": "b2b-lead-intelligence-generator",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Generate comprehensive B2B lead databases with deep intelligence including decision maker contacts, pain points, solution matching, ROI projections, and revenue potential. Use when prospecting for B2B sales, building lead lists, conducting market research, creating sales intelligence databases, preparing for outreach campaigns, or when a user requests lead generation with detailed business intelligence."
+    },
+    {
+      "slug": "action_state_tracking",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Action State Tracking specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "bob-executive-competitive-deck-builder",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Build executive compare-and-contrast presentations that position IBM Bob or another target solution against named competitors. Use when asked to create reusable Bob modes, CLI workflows, or skill-driven competitive decks with source-backed research, business-value differentiation, decision matrices, and a visual style derived from a provided reference graphic."
+    },
+    {
+      "slug": "bob-for-z",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use this skill as the default entry point for all mainframe and z/OS tasks. Routes to bob-for-z-mentor for learning (COBOL, JCL, RACF, CICS, Db2 on z, abend theory) and bob-for-z-builder for generation (write JCL, fix abends, scaffold COBOL, modernize programs). Does not conflict with official IBM Bob for Z package modes."
+    },
+    {
+      "slug": "bob-package-validation",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Validate Film Studio OS Bob modes, personas, skills, MCP config, hooks and references against current project conventions."
+    },
+    {
+      "slug": "builtin-llm-models",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Reference for Manus's built-in LLM catalog and how to call it correctly. Readthis BEFORE writing any script that calls LLMs in bulk (summarization,translation, classification, extraction, deep analysis, judging/evaluation,map/parallel fan-out) inside the sandbox, AND before using the built-in LLM ina webdev project (invokeLLM / listLLMModels). Use it to discover which modelsexist, each model's price/capabilities, how to pick one, the exact requestshapes (thinking/reasoning, JSON-schema structured output, vision, tools), andthe per-model gotchas (max-token handling, reasoning syntax) verified againstthe live proxy."
+    },
+    {
+      "slug": "celebrity-brand-strategist",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "A framework for identifying, evaluating, and launching brand ventures with celebrity partners. Use this skill to develop and execute a celebrity partnership strategy, from initial research to brand launch."
+    },
+    {
+      "slug": "character_state_tracking",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Character State Tracking specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "cio-ai-portfolio-management",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO AI Portfolio Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-use-case-intake",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO AI Use Case Intake for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-portfolio-management",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Application Portfolio Management for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-architecture-review-board",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "CIO Architecture Review Board for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "accessibility-adaptation",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Adapt access and response format to stated needs while preserving the intended learning construct."
+    },
+    {
+      "slug": "accessibility-coverage-audit",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Audit a curriculum/course/lesson/resource set for equivalent access paths and missing accessibility evidence without diagnosing learners."
+    },
+    {
+      "slug": "act_sequence_design",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Act & Sequence Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "action_paragraph_rhythm",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Action Paragraph Rhythm specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "action_sequence_direction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Action Sequence Direction specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "actor_speakability",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Actor Speakability specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "adaptive-content-delivery",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Choose how to deliver an objective based on evidence, goal, time, and stated preferences, then explain the choice."
+    },
+    {
+      "slug": "adaptive-pathway-builder",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Build explainable prerequisite, remediation, standard, acceleration and mission pathways with evidence-triggered transitions."
+    },
+    {
+      "slug": "adr_strategy",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the ADR Strategy specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "advanced-web-developer",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A power-stacked web development workflow that combines Google Stitch (AI mockup generation), Nano Banana 2 (image-based slide presentations), 21st.dev Magic (3D and reactive React component library), and the UI/UX Pro Max design system engine. Use this skill when building any web application, landing page, dashboard, or product UI where you need to go from concept to production-ready code with maximum visual quality and speed. Triggers on tasks involving web design, UI mockups, component generation, design systems, frontend development, or client presentations."
+    },
+    {
+      "slug": "agent-lifecycle-manager",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Automate the complete lifecycle of sub-agents, including creation, training, deployment, retraining, and decommissioning. Use when managing autonomous agents, building agentic systems, or optimizing agent workforce for day-to-day operations."
+    },
+    {
+      "slug": "agent-operations-and-learning",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Define runtime operations, observability, incidents, cost controls, knowledge refresh, and governed learning for IBM Mode capabilities. Use for pilot readiness, production operation, performance issues, or approved capability improvement."
+    },
+    {
+      "slug": "agentic-sdlc-lab-guide-builder",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A complete workflow for generating end-to-end IBM Agentic SDLC lab guides. Use when a user asks to create a lab guide, workshop, or demo for a codebase that walks developers through Jira, DOORS Next, Solutions Designer, GitLab, and IBM Project Bob."
+    },
+    {
+      "slug": "agentic-systems-architect",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Design and implement a hierarchical agent architecture for the management of autonomous sub-agents. This skill provides the blueprint for creating a scalable and self-managing workforce, including protocols for communication, task allocation, and performance evaluation. Use when building or upgrading your agent management system."
+    },
+    {
+      "slug": "ambience_design",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Ambience Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "amir-mushich-prompt-writer",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A framework for writing high-end, professional AI image and video generation prompts using the methodology of Creative Director Amir Mushich. Use when a user asks to generate professional brand visuals, product concepts, fashion lookbooks, or high-end editorial designs using AI (especially Nano Banana/Gemini or Veo3)."
+    },
+    {
+      "slug": "amir-mushich-wrong-venue-sports",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A framework for writing high-end AI image generation prompts that place elite athletes performing peak-action sports in completely incongruous, mundane, or culturally opposite civilian environments (e.g., a gymnast on a playground, a fencer in a grocery store). Use when a user asks to generate surreal, documentary-style sports photography, \"wrong venue\" athletic concepts, or high-contrast juxtaposition imagery."
+    },
+    {
+      "slug": "animated-series-producer",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A complete workflow for breaking down a script into an instruction manual for animated series production, utilizing the Amir Mushich 5-Phase Directing Framework. Use when a user uploads a script and character reference images and wants to generate high-end, cinematic director briefs for each scene, along with start and end keyframe images."
+    },
+    {
+      "slug": "animatic_timing",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Animatic Timing specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "anime-series-production",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests creation of anime-style content \u2014 a series, season, episode, OVA, or anime short \u2014 from a concept, manga source, or series bible. Produces stylized, episodic animated content with locked character designs and genre-correct cinematography. Delegates the shot generation loop to script-to-film-production with anime parameterization."
+    },
+    {
+      "slug": "archive-reproduction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create immutable archive and reproduction manifests that trace final artifacts to exact sources, versions, decisions, attempts, QC and approvals."
+    },
+    {
+      "slug": "archive_packaging",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Archive Packaging specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "artifact_cleanup",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Artifact Cleanup specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "assembly_edit",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Assembly Edit specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "assessment-builder",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Build aligned formative/cumulative assessment evidence for a curriculum objective with retry, accessibility and construct-validity rules."
+    },
+    {
+      "slug": "assessment-checkpoint",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create or administer a low-stakes checkpoint aligned to a specific course outcome without teaching inside the scored attempt."
+    },
+    {
+      "slug": "asset_registration",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Asset Registration specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "audience_promise_mapping",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Audience Promise Mapping specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "audio_qc",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Audio QC specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "autonomous-cio-orchestrator",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Autonomous CIO Orchestrator for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "b2b-personalized-outreach",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Researches B2B leads and crafts two hyper-personalized outreach messages for each, transitioning from a human connection to a commercial conversation. Use when asked to perform personalized outreach, connect with leads, or generate sales messages."
+    },
+    {
+      "slug": "background_repair",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Background Repair specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "banter_construction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Banter Construction specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "behavior_gesture_design",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Behavior & Gesture Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "benchmark_evaluation",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Benchmark Evaluation specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "blocking_geography_writing",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Blocking & Geography Writing specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "blocking_plan",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Blocking Plan specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "bob-agentic-sdlc-mode-designer",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A complete workflow for designing, configuring, and deploying IBM Project Bob custom modes that act as an autonomous \"Digital Workforce Swarm\" for the Agentic Engineering SDLC. Use when a user asks to create Bob modes, build an agentic SDLC pipeline, replace manual SDLC roles (like BAs, QA, or Release Coordinators) with agents, or configure a swarm architecture in IBM Project Bob."
+    },
+    {
+      "slug": "bob-for-z-builder",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Describe a z/OS or mainframe problem in plain English and get working, validated JCL, COBOL, HLASM, DFSORT control cards, or IDCAMS commands back. Before writing a single statement, Bob for Z Builder checks whether the mainframe is actually the right tool \u2014 and tells you honestly if it isn't. When it is, it generates the artifact, validates it against Enterprise COBOL 6.x standards, flags every legacy anti-pattern, and walks you through the result. No abend mysteries. No GOTO. More shipping."
+    },
+    {
+      "slug": "bob-for-z-mentor",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Your patient z/OS and mainframe teacher. Ask anything \u2014 from \"what is a dataset\" to \"why does my COBOL abend with S0C7\" \u2014 and it meets you exactly where you are. Runs a quick diagnostic to understand how you learn, maps mainframe concepts to your actual job, and builds a personalized curriculum that picks up where you left off every session. Fixed-format or free, COBOL or HLASM, JES2 or CICS \u2014 one mentor, one continuous thread."
+    },
+    {
+      "slug": "boblore",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Generate IBM Project Bob branded LinkedIn posts in the BobLore style. Use when a user asks to create, write, or generate BobLore posts,"
+    },
+    {
+      "slug": "book-to-film-adaptation",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Activate when the user provides a novel, novella, non-fiction book, or other long-form prose work and requests a film adaptation. Performs faithful narrative compression from prose (60,000\u2013150,000+ words) to screenplay (15,000\u201320,000 words), then produces the film via feature-film-production and script-to-film-production. Triggers on phrases like \"adapt this book\", \"turn this novel into a film\", \"make a movie from this manuscript\"."
+    },
+    {
+      "slug": "boomer-business-buyout-engine",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A complete playbook for acquiring, automating, and rolling up baby boomer-owned small businesses. Use when a user asks to find highly automatable businesses for sale, audit automation feasibility, structure seller-financed acquisitions, or design a mini-monopoly rollup strategy for a high-multiple exit."
+    },
+    {
+      "slug": "budget_envelope",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Budget & Attempt Envelope specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "business-affairs-packaging",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Build chain-of-title, financing, talent/vendor, insurance, incentive and greenlight dependency packages without giving legal or financial approval."
+    },
+    {
+      "slug": "camera_height_distance",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Camera Height & Distance specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "camera_language_design",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Camera Language Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "camera_motion_design",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Camera Motion Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "casting-performance-development",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Develop casting breakdowns, audition materials and evidence-based evaluation plans while preserving human hiring, consent and accessibility authority."
+    },
+    {
+      "slug": "causal_chain_construction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Causal Chain Construction specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "character-architecture",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create and audit character identity, wants/needs, arcs, relationships, state and voice anchors for production."
+    }
+  ],
+  "primary_accountable": [
+    "character_state_tracking",
+    "documentary-evidence",
+    "ibm-patent-architect",
+    "ibm-sales-scale-024",
+    "ibm-sales-scale-036",
+    "ibm-sales-scale-042",
+    "legal-contract-closeout-records",
+    "legal-contract-risk-issue-spotting",
+    "legal-dispute-claims-management",
+    "legal-msa-review-specialist",
+    "legal-nda-review-specialist",
+    "legal-risk-conflict-of-interest-review",
+    "legal-risk-ip-docket-readiness",
+    "legal-risk-records-retention-review",
+    "legal-risk-regulatory-horizon-scan",
+    "legal-risk-sanctions-screening-case-prep",
+    "legal-sow-review-specialist",
+    "legal-system-navigator",
+    "ncfb-claims-adjuster-coach",
+    "tsc-business-value-analyst"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

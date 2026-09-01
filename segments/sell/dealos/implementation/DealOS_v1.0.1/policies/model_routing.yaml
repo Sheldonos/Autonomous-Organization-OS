@@ -1,0 +1,37 @@
+version: 1
+budget:
+  daily_usd: 15
+  monthly_usd: 300
+
+routes:
+  fast:
+    model_env: OPENAI_FAST_MODEL
+    use_for:
+      - email_classification
+      - extraction
+      - crm_normalization
+      - simple_followup
+      - deduplication_assist
+  standard:
+    model_env: OPENAI_STANDARD_MODEL
+    use_for:
+      - opportunity_scoring
+      - account_research_synthesis
+      - proposal_draft
+      - negotiation_inside_envelope
+      - partner_matching
+  high:
+    model_env: OPENAI_HIGH_MODEL
+    triggers:
+      - high_value_deal
+      - complex_redline
+      - conflicting_evidence
+      - strategic_deal_structure
+
+manus:
+  enabled_env: MANUS_ENABLED
+  minimum_expected_value_usd_env: MANUS_MIN_EXPECTED_VALUE_USD
+  trigger_only_if:
+    - deep_browser_research_required
+    - normal_research_insufficient
+    - expected_value_above_threshold

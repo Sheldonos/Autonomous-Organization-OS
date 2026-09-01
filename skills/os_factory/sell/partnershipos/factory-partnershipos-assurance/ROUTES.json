@@ -1,0 +1,27 @@
+{
+  "pocket": "partnershipos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-ext-partner-alliance-governance",
+    "healthcare-cms-quality-measure-reporting",
+    "business-development-alliance-management",
+    "design-co-design-service-concepts",
+    "design-model-service-blueprint",
+    "ibm-bob-ads-research",
+    "customer-service-digital-channel-health-review",
+    "healthcare-compliance-program-management",
+    "sales-renewal-management",
+    "sales-value-realization-modeling",
+    "marketing-campaign-orchestration",
+    "ibm-sales-ext-marketing-attribution-review",
+    "agentic-systems-architect",
+    "accessibility-coverage-audit",
+    "advanced-web-developer",
+    "benchmark_evaluation",
+    "construction-construction-safety-escalation",
+    "construction-preconstruction-mobilization",
+    "education-manage-learner-intake",
+    "eos-partner-co-sell"
+  ]
+}

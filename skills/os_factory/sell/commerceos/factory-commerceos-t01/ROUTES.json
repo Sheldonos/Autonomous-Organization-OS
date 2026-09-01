@@ -1,0 +1,27 @@
+{
+  "pocket": "commerceos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ecommerce-product-description-writer",
+    "ecommerce-product-listing-specialist",
+    "ibm-sales-scale-051",
+    "reference-binding",
+    "eos-product-market-discovery",
+    "ibm-pre-sa-001",
+    "demand-architect",
+    "product-roadmap-planning",
+    "eos-product-customer-discovery",
+    "ibm-bob-production-readiness-agent",
+    "product-customer-problem-discovery",
+    "product-discovery-specialist",
+    "product-go-to-market-planning",
+    "data-strategy-model-inventory-quality",
+    "ui-ux-pro-max",
+    "ibm-sales-scale-055",
+    "product-lifecycle-retirement",
+    "tls-customer-success-expansion-agent",
+    "ecommerce-conversion-specialist",
+    "ecommerce-e-commerce-analytics-specialist"
+  ]
+}

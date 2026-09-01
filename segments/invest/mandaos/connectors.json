@@ -1,0 +1,11 @@
+{
+  "pocket": "mandaos",
+  "required_or_optional_classes": [
+    "virtual_data_room",
+    "financial_data",
+    "document_store",
+    "project_mgmt"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

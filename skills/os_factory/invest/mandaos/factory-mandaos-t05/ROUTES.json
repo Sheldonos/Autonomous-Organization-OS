@@ -1,0 +1,27 @@
+{
+  "pocket": "mandaos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "investment-synergy-analyst",
+    "cio-technology-synergy-analysis",
+    "eos-ma-synergy-tracking",
+    "finance-valuation-specialist",
+    "real-estate-property-valuation-analyst",
+    "investment-acquisition-target-researcher",
+    "legal-third-party-risk-assessment",
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-financial-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator",
+    "investment-market-due-diligence-analyst",
+    "investment-operational-due-diligence-analyst",
+    "investment-technology-due-diligence-analyst",
+    "legal-due-diligence-analyst",
+    "legal-approval-signature-routing",
+    "legal-amendment-change-control",
+    "legal-contract-closeout-records",
+    "legal-contract-drafting-redlining",
+    "legal-contract-performance-monitoring"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "riskos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cybersecurity-resilience-recovery-validation",
+    "eos-control-management",
+    "sustainability-climate-risk-analyst",
+    "it-application-portfolio-assessment",
+    "it-capacity-risk-monitoring",
+    "cio-technology-concentration-risk",
+    "cio-ai-risk-management",
+    "eos-enterprise-risk-management",
+    "eos-risk-evidence-management",
+    "eos-risk-exception-management",
+    "ibm-sales-ext-solution-demo-poc-risk",
+    "cio-cio-risk-summary",
+    "eos-legal-risk-review",
+    "supply-chain-supplier-due-diligence",
+    "healthcare-patient-safety-event-management",
+    "eos-control-testing",
+    "legal-risk-control-test-evidence",
+    "cybersecurity-cybersecurity-governance"
+  ]
+}

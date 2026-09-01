@@ -1,0 +1,27 @@
+{
+  "pocket": "fundos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "finance-management-reporting-pack",
+    "cio-executive-portfolio-reporting",
+    "ibm-bob-ads-landing",
+    "ibm-bob-ads-amazon",
+    "institutional-investment-playbook",
+    "finance-capital-allocation",
+    "investment-committee-analyst",
+    "investment-committee-critic",
+    "finance-portfolio-analyst",
+    "it-software-asset-license-review",
+    "it-technology-vendor-risk-review",
+    "finance-executive-decision-support",
+    "finance-expense-policy-audit",
+    "finance-financial-policy-query-triage",
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-financial-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "release": "1.2.0",
+  "software_acceptance": "PASS",
+  "canonical_skill_accountability": "3212/3212",
+  "canonical_skill_integrity": "3212/3212",
+  "pocket_coverage": "48/48",
+  "wrapper_layer": "540/540",
+  "adaptive_mcp": "PASS",
+  "bounded_proactivity": "PASS",
+  "event_driven_execution": "PASS",
+  "deployment_drain": "PASS",
+  "backup_restore": "PASS",
+  "airgap_readiness": "PASS",
+  "dealos_regression": "PASS",
+  "package_audit": "PASS",
+  "tenant_production_certification": "REQUIRED_PER_DEPLOYMENT",
+  "public_source_redistribution": "PROVENANCE_LICENSE_REVIEW_REQUIRED"
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "id": "corpdevos",
+  "title": "CorpDevOS",
+  "segment": "invest",
+  "mission": "Evaluate and execute build/buy/partner/invest strategies for corporate growth and strategic capability acquisition.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 20,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Strategic gap",
+    "Build/buy/partner/invest analysis",
+    "Target universe",
+    "Screening",
+    "Diligence",
+    "Synergy & valuation",
+    "Executive decision",
+    "Transaction/partner handoff"
+  ],
+  "handoffs": [
+    "mandaos",
+    "capitalos",
+    "partnershipos",
+    "researchos"
+  ],
+  "connectors": [
+    "market_data",
+    "crm",
+    "document_store",
+    "financial_data"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

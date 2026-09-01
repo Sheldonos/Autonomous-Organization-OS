@@ -1,0 +1,27 @@
+{
+  "pocket": "agencyos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "multimodal-lesson-delivery",
+    "agency-operations-change-impact-assessment",
+    "agency-operations-engagement-qualification",
+    "agency-operations-delivery-status-control",
+    "agency-operations-conflict-of-interest-screening",
+    "agency-operations-records-retention-management",
+    "agency-operations-privacy-data-handling",
+    "design-frame-design-challenge",
+    "sales-close-to-delivery-transition",
+    "ibm-bob-ads-monitor",
+    "marketing-paid-media-anomaly-review",
+    "agency-operations-time-cost-margin-control",
+    "design-run-usability-testing",
+    "agency-operations-contract-handoff",
+    "agency-operations-human-approval-gating",
+    "agency-operations-scope-baselining",
+    "design-prepare-design-handoff",
+    "program-management-project-governance",
+    "agency-operations-engagement-closeout",
+    "revenue-contract-handoff-readiness"
+  ]
+}

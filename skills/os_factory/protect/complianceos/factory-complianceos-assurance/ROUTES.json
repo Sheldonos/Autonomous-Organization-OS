@@ -1,0 +1,27 @@
+{
+  "pocket": "complianceos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-risk-audit-finding-remediation",
+    "grc-audit-specialist",
+    "grc-compliance-analyst",
+    "grc-internal-audit-analyst",
+    "grc-policy-management-specialist",
+    "grc-regulatory-compliance-specialist",
+    "government-measure-benefits-and-performance",
+    "quality-compliance-quality-reviewer",
+    "quality-control-analyst",
+    "legal-risk-control-test-evidence",
+    "government-align-policy-to-outcomes",
+    "government-conduct-stage-gate-assurance",
+    "government-evaluate-policy-interventions",
+    "government-initiate-government-programmes",
+    "government-plan-public-acquisitions",
+    "government-preserve-audit-evidence",
+    "healthcare-cms-quality-measure-reporting",
+    "healthcare-compliance-program-management",
+    "healthcare-hipaa-privacy-review",
+    "grc-ai-risk-analyst"
+  ]
+}

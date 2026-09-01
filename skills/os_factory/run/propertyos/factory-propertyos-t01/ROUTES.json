@@ -1,0 +1,27 @@
+{
+  "pocket": "propertyos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "real-estate-asset-management-analyst",
+    "real-estate-market-analysis-specialist",
+    "ibm-bob-whiteboard-storyboard",
+    "real-estate-portfolio-strategy",
+    "real-estate-compliance-inspection",
+    "real-estate-preventive-maintenance",
+    "real-estate-lease-administration",
+    "independent-megadeal-originator",
+    "agency-operations-engagement-closeout",
+    "real-estate-facilities-financial-reporting",
+    "real-estate-property-operations",
+    "real-estate-space-utilization-planning",
+    "operations-return-material-authorization-prep",
+    "real-estate-area-measurement",
+    "real-estate-property-due-diligence-analyst",
+    "real-estate-property-operations-analyst",
+    "real-estate-acquisition-analyst",
+    "real-estate-lease-analyst",
+    "real-estate-property-research-specialist",
+    "real-estate-property-valuation-analyst"
+  ]
+}

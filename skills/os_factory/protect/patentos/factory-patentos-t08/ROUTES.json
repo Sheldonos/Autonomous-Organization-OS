@@ -1,0 +1,27 @@
+{
+  "pocket": "patentos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-contract-risk-issue-spotting",
+    "legal-obligation-management",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "legal-risk-obligation-extraction",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "legal-risk-ip-docket-readiness",
+    "legal-dispute-claims-management",
+    "legal-contract-closeout-records",
+    "legal-system-navigator",
+    "legal-contract-drafting-redlining",
+    "legal-legal-work-intake-triage",
+    "legal-legal-hold-evidence-preservation",
+    "legal-amendment-change-control",
+    "legal-approval-signature-routing",
+    "legal-contract-performance-monitoring",
+    "legal-contract-template-governance",
+    "legal-risk-conflict-of-interest-review"
+  ]
+}

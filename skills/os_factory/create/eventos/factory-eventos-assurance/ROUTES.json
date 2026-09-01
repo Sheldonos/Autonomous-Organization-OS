@@ -1,0 +1,27 @@
+{
+  "pocket": "eventos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "coverage-storyboard-previs",
+    "ibm-sales-proactive-guidance",
+    "tsc-interactive-requirements",
+    "healthcare-patient-safety-event-management",
+    "media-accessibility-localization",
+    "media-mastering-quality-control",
+    "agency-operations-stakeholder-communications-governance",
+    "legal-risk-ip-docket-readiness",
+    "supply-chain-production-scheduling",
+    "marketing-event-strategy-operations",
+    "revenue-operations-crm-data-quality-analyst",
+    "revenue-quote-policy-compliance",
+    "advanced-web-developer",
+    "agency-operations-engagement-closeout",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "media-distribution-packaging",
+    "media-safety-risk-planning",
+    "people-requisition-quality-review",
+    "construction-capital-project-intake"
+  ]
+}

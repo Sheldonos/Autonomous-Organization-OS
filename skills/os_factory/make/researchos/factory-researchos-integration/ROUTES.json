@@ -1,0 +1,27 @@
+{
+  "pocket": "researchos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "quantum-research-evidence-ledger",
+    "quantum-research-orchestrator",
+    "research-experiment-management",
+    "enterprise-delta-impact-propagator",
+    "ibm-sdr-workflow-002",
+    "quantum-research-publication-gate",
+    "intelligence-collect-source-metadata",
+    "intelligence-discover-public-sources",
+    "intelligence-evaluate-source-credibility",
+    "intelligence-preserve-data-provenance",
+    "research-search-strategy-design",
+    "intelligence-analyze-patterns-and-trends",
+    "intelligence-build-decision-dashboards",
+    "intelligence-conduct-peer-review",
+    "intelligence-define-intelligence-requirements",
+    "intelligence-produce-intelligence-briefings",
+    "research-living-review-monitoring",
+    "research-protocol-preregistration",
+    "research-question-framing",
+    "intelligence-map-entities-and-relationships"
+  ]
+}

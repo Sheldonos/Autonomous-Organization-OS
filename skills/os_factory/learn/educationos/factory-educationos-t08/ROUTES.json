@@ -1,0 +1,27 @@
+{
+  "pocket": "educationos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-lesson-planner",
+    "education-socratic-tutor",
+    "education-subject-tutor",
+    "education-teacher-assistant",
+    "education-teacher-planning-assistant",
+    "education-tutor",
+    "education-safety-reviewer",
+    "education-accessibility-specialist",
+    "education-educational-resource-curator",
+    "education-educational-standards-mapper",
+    "education-exam-designer",
+    "education-instructional-designer",
+    "education-knowledge-gap-analyst",
+    "education-orchestrator",
+    "education-coordinate-accommodations",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "education-manage-credentials-records",
+    "education-monitor-learner-progress",
+    "education-facilitate-instruction"
+  ]
+}

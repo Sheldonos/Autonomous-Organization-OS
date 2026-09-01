@@ -1,0 +1,117 @@
+name: IBM Enterprise Autonomous Operations OS
+version: 2.0.0-rc1
+status: RC_NOT_PRODUCTION_CERTIFIED
+generated_at: '2026-08-23T15:54:00-04:00'
+canonical_repository: true
+skills: 3212
+master_generated_skills: 524
+bob_personas: 113
+bob_modes: 55
+architecture_layers:
+- enterprise-core
+- functional-domain-packs
+- cross-functional-process-packs
+- industry-pack-framework
+- tenant-packs
+domain_packs:
+- cio-it
+- communications
+- customer-intelligence
+- customer-success
+- customer-support
+- engineering
+- executive
+- facilities
+- finance
+- hr
+- internal-audit
+- legal
+- ma-technology
+- marketing
+- partnerships
+- pmo
+- procurement
+- product
+- professional-services
+- research
+- risk
+- sales
+- supply-chain
+process_packs:
+- acquisition-to-integration
+- change-to-release
+- concept-to-launch
+- customer-to-adoption-to-renewal
+- demand-to-delivery
+- hire-to-retire
+- idea-to-product
+- incident-to-recovery
+- issue-to-resolution
+- lead-to-revenue
+- opportunity-to-cash
+- order-to-cash
+- plan-to-forecast
+- policy-to-control-to-evidence
+- procure-to-pay
+- quote-to-cash
+- record-to-report
+- research-to-experiment-to-decision
+- risk-to-remediation
+- strategy-to-portfolio-to-execution-to-outcome
+- vendor-to-renewal
+platform_targets:
+  ibm_bob: canonical skills/modes/personas/bootstrap
+  watsonx_orchestrate: agents/tools/flows/knowledge/connections/evaluations
+  watsonx_ai: models/inference/RAG/AI services/deployments/evaluation
+  watsonx_governance: inventories/use cases/agentic catalog/evaluation/monitoring/controls/evidence
+required_products:
+- IBM Bob workspace
+conditional_products:
+- watsonx Orchestrate
+- watsonx.ai
+- watsonx.governance
+state_model: durable external/repository-defined state; agent conversation memory
+  non-authoritative
+deployment_order:
+- trust
+- validate
+- preflight
+- environment inventory
+- onboarding
+- compile
+- desired-state diff
+- generate
+- non-production validate
+- govern
+- evaluate
+- authorized apply
+- read-back verify
+- observe
+schemas:
+- QISBOB_HANDOFF_PACKET.schema.json
+- customer-intelligence.schema.json
+- decision.schema.json
+- event.schema.json
+- evidence.schema.json
+- finding.schema.json
+- handoff-packet.schema.json
+- work-packet.schema.json
+registries:
+- registry/skills.json
+- registry/agents.json
+- registry/modes.json
+- registry/capability_coverage.json
+health_checks:
+- scripts/validate_master_package.py
+- deployment/health_checks.py
+runtime_validation: LOCAL_HARNESS_ONLY_EXTERNAL_IBM_SERVICES_NOT_EXECUTED
+production_certified: false
+role_count: 1244
+copy_paste_skills: 3212
+role_preservation_policy: ADDITIVE_NEVER_AUTO_DELETE
+current_ibm_careers_overlay_as_of: '2026-08-23'
+domain_harnesses: 68
+qisbob_reference_preserved: true
+qisbob_pattern_generalized: true
+roles_removed: 0
+triple_use_case_gate: REQUIRED

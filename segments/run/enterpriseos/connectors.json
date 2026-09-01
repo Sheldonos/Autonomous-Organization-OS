@@ -1,0 +1,15 @@
+{
+  "pocket": "enterpriseos",
+  "required_or_optional_classes": [
+    "erp",
+    "crm",
+    "hris",
+    "data_warehouse",
+    "identity",
+    "document_store",
+    "event_bus",
+    "observability"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

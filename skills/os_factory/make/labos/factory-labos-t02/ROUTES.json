@@ -1,0 +1,27 @@
+{
+  "pocket": "labos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "quantum-execution-safety-cost-gate",
+    "quantum-research-orchestrator",
+    "quantum-research-publication-gate",
+    "research-experiment-management",
+    "quantum-research-evidence-ledger",
+    "research-protocol-preregistration",
+    "quantum-experiment-state-manager",
+    "quantum-simulation-reproducibility-auditor",
+    "research-living-review-monitoring",
+    "research-search-strategy-design",
+    "research-literature-review-specialist",
+    "quantum-classical-baseline-analyst",
+    "quantum-hardware-capability-status-controller",
+    "quantum-hardware-job-lifecycle-manager",
+    "engineering-code-review",
+    "engineering-continuous-integration",
+    "product-privacy-by-design-review",
+    "enterprise-adapter-contract-engineer",
+    "enterprise-domain-observability-engineer",
+    "enterprise-domain-simulation-engineer"
+  ]
+}

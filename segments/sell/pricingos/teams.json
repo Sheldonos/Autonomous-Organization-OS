@@ -1,0 +1,74 @@
+{
+  "pocket": "pricingos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Value metric Team",
+      "stage": 1,
+      "responsibility": "Value metric",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Segmentation Team",
+      "stage": 2,
+      "responsibility": "Segmentation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Competitive benchmark Team",
+      "stage": 3,
+      "responsibility": "Competitive benchmark",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Economics Team",
+      "stage": 4,
+      "responsibility": "Economics",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Package architecture Team",
+      "stage": 5,
+      "responsibility": "Package architecture",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Price testing Team",
+      "stage": 6,
+      "responsibility": "Price testing",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Discount guardrails Team",
+      "stage": 7,
+      "responsibility": "Discount guardrails",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Performance monitoring Team",
+      "stage": 8,
+      "responsibility": "Performance monitoring",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

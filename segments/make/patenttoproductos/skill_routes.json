@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "pocket": "patenttoproductos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 20,
+  "skills": [
+    {
+      "slug": "lemos-strategy-playbook",
+      "score": 66,
+      "domain": "shared-execution",
+      "description": "Execute the complete LemosOS marketing strategy from 'Fall of the House of Usher.' This skill provides a playbook for creating artificial scarcity, manufacturing desire, and weaponizing intellectual property to achieve market dominance. It now includes a detailed framework for structuring celebrity equity partnerships to amplify the narrative. Use when launching a new product, seeking to disrupt an existing market, or building a brand with a celebrity partner."
+    },
+    {
+      "slug": "ibm-pre-008",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Activate this mode for deal context builder within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qualific..."
+    },
+    {
+      "slug": "ibm-pre-apm-001",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Activate this mode for partner collaboration plan within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qu..."
+    },
+    {
+      "slug": "ibm-pre-atl-004",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Activate this mode for complex deal strategy & orchestration plan within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordina..."
+    },
+    {
+      "slug": "ibm-pre-sa-001",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Activate this mode for solution design discovery within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qua..."
+    },
+    {
+      "slug": "demand-architect",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "A strategic framework for engineering demand by creating the cultural, behavioral, and infrastructural conditions that make a product necessary. This skill, reverse-engineered from the Michelin Guide's marketing strategy, provides a playbook for building long-term, defensible moats around a product by creating a Trojan Horse of value. Use when launching a new product, entering a commoditized market, or seeking to build a brand with lasting cultural relevance."
+    },
+    {
+      "slug": "eos-product-market-discovery",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Product Market Discovery for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-pre-001",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for company research & product fit (meddicc) within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordinati..."
+    },
+    {
+      "slug": "ibm-pre-003",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for buying opportunity detector within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pre-004",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for strategic context builder within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qua..."
+    },
+    {
+      "slug": "ibm-pre-006",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for ghost competitor pre-emptor within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pre-009",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for comparative persona analyzer within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, ..."
+    },
+    {
+      "slug": "ibm-pre-010",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for evolving persona tracker within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qual..."
+    },
+    {
+      "slug": "ibm-pre-apm-002",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for co-selling playbook within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qualifica..."
+    },
+    {
+      "slug": "ibm-pre-atl-002",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for whitespace analysis & opportunity mapping within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordinat..."
+    },
+    {
+      "slug": "ibm-pre-bdm-001",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for market opportunity analysis within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pre-cp-001",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for services scoping framework within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qu..."
+    },
+    {
+      "slug": "ibm-pre-iss-003",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for regulatory compliance brief within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pre-sdr-001",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for lead qualification framework within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, ..."
+    },
+    {
+      "slug": "ibm-pre-sdr-002",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Activate this mode for account research cheat sheet within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, ..."
+    },
+    {
+      "slug": "patent-fortress-strategist",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Build a formidable patent portfolio to create a powerful competitive moat, deter litigation, and generate licensing revenue. This skill covers patent research, application drafting, and strategic portfolio management. Use when developing new technologies or entering a competitive market."
+    },
+    {
+      "slug": "product-roadmap-planning",
+      "score": 45,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Roadmap Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-roadmap-planning`, `roadmap-planning`, or the corresponding professional workflow: prioritize-product-portfolio-and-roadmap | decide sequencing and funding across products, capabilities, risks, dependencies, capacity, and expected outcomes | handoff to executive portfolio boards, engineering, architecture, security, finance, and go-to-market"
+    },
+    {
+      "slug": "tls-competitive-intelligence-battlecard-agent",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires competitive analysis, market intelligence, and win/loss strategy for TLS competitive positioning, especially when the user expects the work product of a competitive intelligence analyst or product marketing specialist."
+    },
+    {
+      "slug": "ibm-pre-002",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Activate this mode for account intelligence synthesizer within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, revi..."
+    },
+    {
+      "slug": "ibm-pre-005",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Activate this mode for linkedin sales nav target generator within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, r..."
+    },
+    {
+      "slug": "ibm-pre-007",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Activate this mode for competitive battle card generator within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, rev..."
+    },
+    {
+      "slug": "ibm-pre-atl-001",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Activate this mode for strategic account plan generator within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, revi..."
+    },
+    {
+      "slug": "ibm-pre-atl-003",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Activate this mode for cross-brand opportunity identifier within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, re..."
+    },
+    {
+      "slug": "ibm-pre-iss-001",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Activate this mode for industry trend report generator within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, revie..."
+    },
+    {
+      "slug": "ibm-pre-iss-002",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Activate this mode for vertical-specific value proposition within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, r..."
+    },
+    {
+      "slug": "product-go-to-market-planning",
+      "score": 42,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Go To Market Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-go-to-market-planning`, `go-to-market-planning`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "tls-strategic-intelligence-agent",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires strategic account planning and market intelligence for TLS executive engagement, especially when the user expects the work product of a strategic account manager or market intelligence analyst."
+    },
+    {
+      "slug": "ibm-des-pri-001",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Activate this mode for pricing strategy & deal structure within IBM BOB's solution design and value architecture lane. Use it when the seller needs the work product of solution consultant, value engineer, technical sales architect, especially when the task should reduce manual research, analysis,..."
+    },
+    {
+      "slug": "product-customer-problem-discovery",
+      "score": 40,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Customer Problem Discovery** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-customer-problem-discovery`, `customer-problem-discovery`, or the corresponding professional workflow: discover-customer-problems-and-opportunities | decide which validated problems merit investment based on customer value, strategic fit, feasibility, and evidence | handoff to research/design, engineering, sales, service, and executive sponsors"
+    },
+    {
+      "slug": "legal-risk-ip-docket-readiness",
+      "score": 38,
+      "domain": "legal",
+      "description": "Assess IP docket event readiness, evidence, and outside-counsel dependencies. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Intellectual Property Operations Capability Director."
+    },
+    {
+      "slug": "data-strategy-dashboard-quality-review",
+      "score": 37,
+      "domain": "data",
+      "description": "Review dashboard quality, metric definitions, freshness, and interpretation risks. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Analytics and Decision Support Capability Director."
+    },
+    {
+      "slug": "data-strategy-model-inventory-quality",
+      "score": 37,
+      "domain": "data",
+      "description": "Review model-inventory completeness, owners, use cases, and lifecycle evidence. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the AI Governance Capability Director."
+    },
+    {
+      "slug": "data-strategy-model-risk-assessment-prep",
+      "score": 37,
+      "domain": "data",
+      "description": "Prepare model-risk assessment evidence, validation needs, and human review route. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the AI Governance Capability Director."
+    },
+    {
+      "slug": "data-strategy-okr-progress-review",
+      "score": 37,
+      "domain": "data",
+      "description": "Review OKR progress evidence, dependencies, confidence, and escalation needs. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy Execution Capability Director."
+    },
+    {
+      "slug": "data-strategy-prompt-policy-review",
+      "score": 37,
+      "domain": "data",
+      "description": "Review prompt or agent policy artifacts against data, authority, and safety requirements. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the AI Governance Capability Director."
+    },
+    {
+      "slug": "doordash-constraint-framework",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "A strategic framework for identifying and analyzing undiscovered software opportunities by finding a successful narrow vertical solution, identifying its artificial constraint, and mapping the unlocked horizontal market. Use when a user asks to brainstorm startup ideas, find white space software opportunities, disrupt a market, or analyze horizontal expansion strategies."
+    },
+    {
+      "slug": "ibm-atl-002",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Activate this mode for whitespace analysis & opportunity mapping within IBM BOB's account team leadership lane. Use it when the seller needs the work product of account team leader, strategic account director, complex-deal orchestrator, especially when the task should reduce manual research, anal..."
+    },
+    {
+      "slug": "ibm-atl-004",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Activate this mode for complex deal strategy & orchestration plan within IBM BOB's account team leadership lane. Use it when the seller needs the work product of account team leader, strategic account director, complex-deal orchestrator, especially when the task should reduce manual research, ana..."
+    },
+    {
+      "slug": "ibm-atl-006",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Activate this mode for multi-threaded engagement strategy within IBM BOB's account team leadership lane. Use it when the seller needs the work product of account team leader, strategic account director, complex-deal orchestrator, especially when the task should reduce manual research, analysis, w..."
+    },
+    {
+      "slug": "ibm-atl-007",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Activate this mode for deal negotiation preparation & strategy within IBM BOB's account team leadership lane. Use it when the seller needs the work product of account team leader, strategic account director, complex-deal orchestrator, especially when the task should reduce manual research, analys..."
+    },
+    {
+      "slug": "it-software-asset-license-review",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Review software-asset and license evidence for compliance and optimization opportunities. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Technology Asset and Vendor Management Capability Director."
+    },
+    {
+      "slug": "eos-product-customer-discovery",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Product Customer Discovery for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-strategy",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Product Strategy for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-bob-production-readiness-agent",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires **bob-centered engineering acceleration** involving IBM Project Bob, especially when the user expects the work product of a senior delivery engineer, production readiness lead, or modernization sprint lead. Activate it for discovery, planning, configuration d..."
+    },
+    {
+      "slug": "ibm-patent-architect",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "A framework for analyzing user ideas, identifying patentable opportunities, and generating finalized, defensible IBM-style patent disclosure documents. Use when a user asks to patent an idea, analyze an idea for patentability, or write an IBM patent disclosure."
+    },
+    {
+      "slug": "cio-data-product-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Data Product Management for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-software-license-optimization",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Software License Optimization for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-market-research",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Market Research for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-adoption",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Adoption for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-analytics",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Analytics for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-experimentation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Experimentation for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-launch",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Launch for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-lifecycle-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Lifecycle Management for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-marketing",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Marketing for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-prioritization",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Prioritization for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-requirements",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Requirements for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-roadmap",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Roadmap for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "finance-market-research-analyst",
+      "score": 31,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-competitive-message-synthesis",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Synthesize approved competitive evidence into a reviewed messaging brief. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Market Intelligence and Messaging Capability Director."
+    },
+    {
+      "slug": "marketing-market-research-analyst",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-market-research-synthesis",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Synthesize market-research evidence with source authority and limitations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Market Intelligence and Messaging Capability Director."
+    },
+    {
+      "slug": "marketing-product-marketing-manager",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Product Marketing Manager role: product marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "process-idea-to-product",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Process Idea To Product for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "procurement-engage-supplier-market",
+      "score": 31,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Engage Supplier Market** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-engage-supplier-market`, `engage-supplier-market`, or the corresponding professional workflow: supplier-market-engagement | decide whether and how to conduct market sounding, supplier briefings, or early supplier involvement without distorting competition | handoff to prospective suppliers, procurement lead, and legal/ethics oversight"
+    },
+    {
+      "slug": "product-acceptance-criteria-specialist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Acceptance Criteria Specialist role: acceptance criteria; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-ai-product-manager",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the AI Product Manager role: ai product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-analytics-specialist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Analytics Specialist role: product analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-backlog-governance",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Backlog Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-backlog-governance`, `backlog-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-chief-product-officer-advisor",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Chief Product Officer Advisor role: chief product officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-critic",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Critic role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-portfolio-prioritization",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Portfolio Prioritization** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-portfolio-prioritization`, `portfolio-prioritization`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-product-vision-definition",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Vision Definition** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-vision-definition`, `product-vision-definition`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-responsible-ai-product-governance",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Responsible Ai Product Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-responsible-ai-product-governance`, `responsible-ai-product-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "ibm-sales-ext-marketing-attribution-review",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Produce a transparent attribution analysis for approved campaign, partner, and seller interactions using defined metric semantics and caveats. Use when the IBM Sales control mode selects capability `partner-marketing.attribution-review` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-marketing-campaign-event",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Convert approved campaign or event signals into seller-relevant internal follow-up recommendations with consent, attribution, and timing controls. Use when the IBM Sales control mode selects capability `partner-marketing.campaign-event` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "marketing-campaign-launch-readiness",
+      "score": 26,
+      "domain": "marketing",
+      "description": "Assess campaign launch readiness, approvals, tracking, assets, and rollback steps. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-event-strategy-operations",
+      "score": 26,
+      "domain": "marketing",
+      "description": "Design and operate business events from objectives through attendee experience, pipeline/value capture and post-event learning. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "marketing-audience-segmentation-review",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Review audience segmentation logic for eligibility, consent, and data-quality controls. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-brand-compliance-review",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Review assets for approved brand standards, mandatory disclosures, and deviations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "marketing-budget-pacing-analysis",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Analyze campaign budget pacing against approved plan and performance evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-campaign-brief-preparation",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Prepare a campaign brief with audience, objective, constraints, and measurement plan. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-campaign-orchestration",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Plan, execute and measure integrated campaigns with channel, audience, content, budget and attribution discipline. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-claims-review",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Compile content claims, evidence, and required approver review. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "marketing-content-reuse-eligibility",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Assess whether content can be reused by checking rights, freshness, claims, and audience fit. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Content Governance Capability Director."
+    },
+    {
+      "slug": "marketing-distribution-strategy",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Develop audience, positioning, publicity, festival, sales and delivery strategies tied to rights, evidence and project maturity."
+    },
+    {
+      "slug": "marketing-executive-communication-draft",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Draft executive communication using approved facts, audience requirements, and review routing. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Executive Communications Capability Director."
+    },
+    {
+      "slug": "marketing-lead-quality-review",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Review lead-quality evidence, routing outcomes, and data-completeness gaps. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Demand Operations Capability Director."
+    },
+    {
+      "slug": "marketing-paid-media-anomaly-review",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Review paid-media delivery anomalies, spend variance, and escalation evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Measurement Capability Director."
+    },
+    {
+      "slug": "marketing-partner-marketing-readiness",
+      "score": 23,
+      "domain": "marketing",
+      "description": "Assess partner-marketing readiness, co-branding rules, lead handling, and obligations. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Partner Marketing Capability Director."
+    },
+    {
+      "slug": "anime-series-production",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests creation of anime-style content \u2014 a series, season, episode, OVA, or anime short \u2014 from a concept, manga source, or series bible. Produces stylized, episodic animated content with locked character designs and genre-correct cinematography. Delegates the shot generation loop to script-to-film-production with anime parameterization."
+    },
+    {
+      "slug": "archive-reproduction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create immutable archive and reproduction manifests that trace final artifacts to exact sources, versions, decisions, attempts, QC and approvals."
+    },
+    {
+      "slug": "engineering-developer-productivity-insight",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Synthesize developer productivity evidence with methodology, limitations, and improvement hypotheses. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Developer Experience Capability Director."
+    },
+    {
+      "slug": "eos-developer-productivity",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Eos Developer Productivity for Engineering. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-digital-marketing",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Eos Digital Marketing for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-event-marketing",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Eos Event Marketing for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-lifecycle-marketing",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Eos Lifecycle Marketing for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-marketing-attribution",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Eos Marketing Attribution for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-marketing-operations",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Eos Marketing Operations for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "feature-film-production",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests a complete feature-length film from a concept, treatment, or draft script \u2014 end-to-end, from screenplay development through 4K delivered master. Chains the full eight-stage scriptwriting pipeline into the four-phase Higgsfield production workflow. Delegates the production phase to script-to-film-production once the screenplay is locked."
+    },
+    {
+      "slug": "higgsfield-production-bridge",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Discover Higgsfield capabilities and prepare governed image, video or audio jobs through the official CLI boundary."
+    },
+    {
+      "slug": "marketing-account-based-marketing-specialist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Account-Based Marketing Specialist role: account-based marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-account-based-signal-qualification",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Qualify account-based engagement signals for accountable seller or marketer follow-up. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-ad-copywriter",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Ad Copywriter role: ad copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-ad-creative-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Ad Creative Strategist role: ad creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-advertising-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Advertising Strategist role: advertising; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-analytics-specialist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Analytics Specialist role: marketing analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-attribution-explanation-pack",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Prepare an attribution explanation with method, assumptions, and decision limits. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Measurement Capability Director."
+    },
+    {
+      "slug": "marketing-audience-segmentation-analyst",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Audience Segmentation Analyst role: audience segmentation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-automation-specialist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Automation Specialist role: marketing automation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-b2b-copywriter",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the B2B Copywriter role: b2b copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-brand-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Brand Strategist role: brand; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-brand-voice-specialist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Brand Voice Specialist role: brand voice; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-campaign-analyst",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Campaign Analyst role: campaign; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-campaign-planner",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Campaign Planner role: campaign; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-channel-performance-synthesis",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Synthesize channel performance with attribution caveats and actionable hypotheses. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Measurement Capability Director."
+    },
+    {
+      "slug": "marketing-chief-marketing-officer-advisor",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Chief Marketing Officer Advisor role: chief marketing officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-competitive-marketing-analyst",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Competitive Marketing Analyst role: competitive marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-consent-eligibility-check",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Check communication eligibility against consent, preference, and jurisdiction rules. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-content-planner",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content Planner role: content; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-seo-specialist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content SEO Specialist role: content seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content Strategist role: content; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-conversion-optimization-specialist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Conversion Optimization Specialist role: conversion optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-copywriter",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Copywriter role: copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-customer-advocacy-qualification",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Qualify advocacy candidates with consent, relationship, and content approval evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Customer Advocacy Capability Director."
+    },
+    {
+      "slug": "marketing-customer-researcher",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Customer Researcher role: customer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-demand-generation-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Demand Generation Strategist role: demand generation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-editorial-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Editorial Strategist role: editorial; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-email-marketing-specialist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Email Marketing Specialist role: email marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-event-marketing-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Event Marketing Strategist role: event marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-event-readiness-checklist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Prepare event readiness checklist across audience, content, logistics, consent, and follow-up. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Field and Event Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-growth-marketing-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Growth Marketing Strategist role: growth marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-keyword-researcher",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Keyword Researcher role: keyword; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-landing-page-copywriter",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Landing Page Copywriter role: landing page copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-launch-marketing-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Launch Marketing Strategist role: launch marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-lifecycle-marketing-specialist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Lifecycle Marketing Specialist role: lifecycle marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-marketing-operations-data-quality",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Identify marketing-operations data issues and route owner remediation tasks. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Demand Operations Capability Director."
+    },
+    {
+      "slug": "marketing-messaging-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Messaging Strategist role: messaging; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-nurture-journey-quality-check",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Validate nurture-journey logic for consent, sequencing, personalization, and stop rules. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Audience and Lifecycle Marketing Capability Director."
+    },
+    {
+      "slug": "marketing-orchestrator",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Orchestrator role: marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-paid-search-specialist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Paid Search Specialist role: paid search; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-paid-social-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Paid Social Strategist role: paid social; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-performance-marketing-analyst",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Performance Marketing Analyst role: performance marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-persona-researcher",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Persona Researcher role: persona; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-positioning-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Positioning Strategist role: positioning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-pr-issue-triage",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Triage potential public-relations issues and prepare controlled communication options. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Communications Risk Capability Director."
+    },
+    {
+      "slug": "marketing-quality-reviewer",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Quality Reviewer role: marketing quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-seo-content-brief",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Prepare SEO content brief using approved keyword, audience, and brand evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Digital Content Operations Capability Director."
+    },
+    {
+      "slug": "marketing-seo-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the SEO Strategist role: seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-social-risk-monitoring",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Monitor approved social signals and open controlled reputational-risk cases. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Communications Risk Capability Director."
+    },
+    {
+      "slug": "marketing-strategist",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Strategist role: marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-technical-copywriter",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Technical Copywriter role: technical copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-technical-seo-analyst",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Technical SEO Analyst role: technical seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-webinar-follow-up-preparation",
+      "score": 20,
+      "domain": "marketing",
+      "description": "Prepare compliant webinar follow-up segments, content, and owner actions. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Field and Event Marketing Capability Director."
+    },
+    {
+      "slug": "music-video-production",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Activate when the user provides a song (MP3 plus lyrics) and requests a music video. Executes the lyric-analysis \u2192 clip-sourcing \u2192 beat-sync \u2192 polish \u2192 export pipeline using Gemini as creative director and CapCut for editing. Supports Track A (no-code, free tools) and Track B (automated Python/yt-dlp). Optionally invokes script-to-film-production for original generative footage instead of sourced clips."
+    },
+    {
+      "slug": "physical-production-operations",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Coordinate prep and shoot-day logistics, call-sheet inputs, crew handoffs, media flow and daily production reporting."
+    }
+  ],
+  "primary_accountable": [
+    "cio-software-license-optimization",
+    "demand-architect",
+    "doordash-constraint-framework",
+    "eos-product-analytics",
+    "eos-product-experimentation",
+    "eos-product-lifecycle-management",
+    "eos-product-market-discovery",
+    "eos-product-prioritization",
+    "eos-product-requirements",
+    "eos-product-roadmap",
+    "ibm-atl-004",
+    "ibm-atl-006",
+    "ibm-des-pri-001",
+    "ibm-pre-008",
+    "ibm-pre-apm-001",
+    "ibm-pre-atl-004",
+    "ibm-pre-sa-001",
+    "lemos-strategy-playbook",
+    "patent-fortress-strategist",
+    "tls-strategic-intelligence-agent"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "eventos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "demo-guide-architect",
+    "marketing-event-readiness-checklist",
+    "rspkt-web-designer",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "people-requisition-quality-review",
+    "intelligence-analyze-patterns-and-trends",
+    "intelligence-build-decision-dashboards",
+    "intelligence-define-intelligence-requirements",
+    "intelligence-produce-intelligence-briefings",
+    "marketing-event-strategy-operations",
+    "media-accessibility-localization",
+    "marketing-webinar-follow-up-preparation",
+    "media-content-capture",
+    "media-post-production-editing",
+    "advanced-web-developer",
+    "agency-operations-engagement-closeout",
+    "agent-operations-and-learning"
+  ]
+}

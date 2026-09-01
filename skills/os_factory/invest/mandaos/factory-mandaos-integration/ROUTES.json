@@ -1,0 +1,27 @@
+{
+  "pocket": "mandaos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-des-sa-002",
+    "shared-execution-api-integration-specialist",
+    "shared-execution-mcp-integration-specialist",
+    "tsc-mcp-integration-engineer",
+    "webdev-llm-integration",
+    "webdev-maps-integration",
+    "manus-api",
+    "manus-config",
+    "legal-obligation-management",
+    "process-acquisition-to-integration",
+    "automation-design-integration-orchestration",
+    "cio-technology-integration-planning",
+    "automation-integration-mapping-specialist",
+    "cio-integration-architecture",
+    "engineering-integration-engineer",
+    "enterprise-saga-transaction-coordinator",
+    "eos-ma-integration-orchestration",
+    "sales-integration-architect",
+    "legal-contract-closeout-records",
+    "legal-risk-ip-docket-readiness"
+  ]
+}

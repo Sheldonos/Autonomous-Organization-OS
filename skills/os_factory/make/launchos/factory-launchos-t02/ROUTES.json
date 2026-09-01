@@ -1,0 +1,27 @@
+{
+  "pocket": "launchos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-scale-071",
+    "program-management-dependency-management",
+    "product-go-to-market-planning",
+    "product-release-readiness-assessment",
+    "product-roadmap-planning",
+    "product-product-analytics",
+    "marketing-campaign-launch-readiness",
+    "product-backlog-governance",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "product-launch-architect",
+    "product-launch-manager",
+    "product-customer-problem-discovery",
+    "product-requirements-traceability",
+    "ibm-sales-ext-marketing-attribution-review",
+    "ibm-sales-ext-marketing-campaign-event",
+    "product-experiment-design",
+    "product-innovation-funnel-management",
+    "product-lifecycle-retirement"
+  ]
+}

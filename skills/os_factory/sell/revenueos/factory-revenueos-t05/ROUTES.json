@@ -1,0 +1,27 @@
+{
+  "pocket": "revenueos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "revenue-operations-pipeline-analyst",
+    "ibm-exp-tss-001",
+    "ibm-sales-ext-data-semantic-metric",
+    "ibm-sales-ext-data-source-catalog",
+    "ibm-presales-demo-builder",
+    "marketing-event-strategy-operations",
+    "revenue-deal-desk-review-pack",
+    "revenue-opportunity-qualification",
+    "revenue-pipeline-hygiene-review",
+    "revenue-pricing-exception-preparation",
+    "revenue-quote-policy-compliance",
+    "ibm-sales-000",
+    "revenue-expansion-signal-qualification",
+    "revenue-renewal-risk-assessment",
+    "eos-pipeline-management",
+    "ibm-sales-ext-ops-pipeline-governance",
+    "revenue-account-health-scorecard",
+    "revenue-account-plan-preparation",
+    "revenue-adoption-analysis",
+    "revenue-churn-root-cause-analysis"
+  ]
+}

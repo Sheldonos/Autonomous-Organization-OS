@@ -1,0 +1,27 @@
+{
+  "pocket": "buildos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "engineering-api-contract-review",
+    "engineering-database-migration-readiness",
+    "product-roadmap-planning",
+    "engineering-delivery-planning",
+    "engineering-observability-incident-response",
+    "engineering-code-review",
+    "engineering-continuous-integration",
+    "tsc-technical-spec-writer",
+    "design-prepare-design-handoff",
+    "engineering-api-engineer",
+    "engineering-database-engineer",
+    "enterprise-harness-release-engineer",
+    "product-backlog-governance",
+    "product-customer-problem-discovery",
+    "product-portfolio-prioritization",
+    "ai-automation-lbo",
+    "ai-engineering-agent-workflow-designer",
+    "design-design-inclusive-content",
+    "design-frame-design-challenge",
+    "design-prototype-service-interactions"
+  ]
+}

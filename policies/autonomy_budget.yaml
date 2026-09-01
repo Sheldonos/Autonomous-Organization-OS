@@ -1,0 +1,29 @@
+version: 1
+mode: bounded_goal_directed
+limits:
+  min_tick_seconds: 60
+  max_new_jobs_per_tick: 8
+  max_jobs_per_goal_per_day: 24
+  max_planning_depth: 6
+  max_cross_pocket_handoffs_per_job: 8
+  max_dynamic_skills_per_connector: 250
+  max_capability_pages_per_discovery: 50
+  max_items_per_capability_type: 5000
+  default_daily_model_budget_usd: 25
+  default_monthly_model_budget_usd: 500
+  max_consecutive_retries: 3
+  duplicate_job_window_seconds: 3600
+stop_conditions:
+  - goal_completed
+  - user_paused_goal
+  - policy_denied
+  - budget_exhausted
+  - repeated_failure_threshold
+  - missing_required_authority
+  - no_new_evidence_or_state_change
+  - connector_uncertified_for_required_write
+principles:
+  - Proactivity must trace to an active user or organization goal, a scheduled obligation, a connector/capability change, a failed evaluation, or a material monitored condition.
+  - The system may generate next-action job descriptions but must not create unbounded recursive prompt loops.
+  - Tool availability never implies permission.
+  - Self-improvement proposals are quarantined and tested before promotion.

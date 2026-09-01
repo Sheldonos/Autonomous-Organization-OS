@@ -1,0 +1,27 @@
+{
+  "pocket": "complianceos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-identity-access-governance",
+    "legal-risk-audit-finding-remediation",
+    "grc-audit-specialist",
+    "grc-internal-audit-analyst",
+    "government-measure-benefits-and-performance",
+    "automation-design-controls-and-approvals",
+    "government-conduct-stage-gate-assurance",
+    "government-preserve-audit-evidence",
+    "government-manage-grants-lifecycle",
+    "cio-audit-evidence-collection",
+    "cio-audit-preparation",
+    "engineering-configuration-change-management",
+    "engineering-release-deployment-management",
+    "eos-audit-control-traceability",
+    "accessibility-coverage-audit",
+    "accounting-audit-preparation-specialist",
+    "cios-customer-role-coverage-audit",
+    "curriculum-gap-audit",
+    "eos-audit-evidence-readiness"
+  ]
+}

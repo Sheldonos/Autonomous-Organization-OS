@@ -1,0 +1,12 @@
+{
+  "pocket": "procureos",
+  "required_or_optional_classes": [
+    "erp",
+    "procurement_suite",
+    "supplier_data",
+    "document_store",
+    "e_signature"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

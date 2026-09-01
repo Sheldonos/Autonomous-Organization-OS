@@ -1,0 +1,13 @@
+{
+  "pocket": "executiveos",
+  "required_or_optional_classes": [
+    "email",
+    "calendar",
+    "documents",
+    "crm",
+    "analytics",
+    "project_mgmt"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

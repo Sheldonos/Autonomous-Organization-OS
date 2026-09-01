@@ -1,0 +1,27 @@
+{
+  "pocket": "propertyos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "real-estate-facilities-financial-reporting",
+    "real-estate-capital-project-delivery",
+    "construction-safety-planning-specialist",
+    "construction-construction-safety-escalation",
+    "construction-field-coordination",
+    "construction-preconstruction-mobilization",
+    "construction-project-charter-planning",
+    "construction-quality-inspection-management",
+    "real-estate-portfolio-strategy",
+    "real-estate-space-utilization-planning",
+    "real-estate-emergency-continuity-planning",
+    "construction-commissioning-turnover",
+    "real-estate-lease-administration",
+    "construction-capital-project-intake",
+    "construction-change-order-governance",
+    "construction-construction-procurement-support",
+    "construction-contract-records-management",
+    "construction-design-review-coordination",
+    "construction-payment-application-review",
+    "construction-project-closeout"
+  ]
+}

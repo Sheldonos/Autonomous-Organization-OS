@@ -1,0 +1,12 @@
+{
+  "pocket": "franchiseos",
+  "required_or_optional_classes": [
+    "crm",
+    "payments",
+    "document_store",
+    "analytics",
+    "training"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

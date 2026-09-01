@@ -1,0 +1,59 @@
+{
+  "pocket": "enterpriseos",
+  "stages": [
+    {
+      "order": 1,
+      "name": "Organizational sensing",
+      "team_id": "t01",
+      "gate": "assurance"
+    },
+    {
+      "order": 2,
+      "name": "Objective decomposition",
+      "team_id": "t02",
+      "gate": "assurance"
+    },
+    {
+      "order": 3,
+      "name": "Capability & gap mapping",
+      "team_id": "t03",
+      "gate": "assurance"
+    },
+    {
+      "order": 4,
+      "name": "Pocket/team routing",
+      "team_id": "t04",
+      "gate": "assurance"
+    },
+    {
+      "order": 5,
+      "name": "Plan & approval graph",
+      "team_id": "t05",
+      "gate": "assurance"
+    },
+    {
+      "order": 6,
+      "name": "Execution coordination",
+      "team_id": "t06",
+      "gate": "assurance"
+    },
+    {
+      "order": 7,
+      "name": "Read-back verification",
+      "team_id": "t07",
+      "gate": "assurance"
+    },
+    {
+      "order": 8,
+      "name": "Outcome telemetry",
+      "team_id": "t08",
+      "gate": "assurance"
+    },
+    {
+      "order": 9,
+      "name": "Continuous improvement",
+      "team_id": "t09",
+      "gate": "assurance"
+    }
+  ]
+}

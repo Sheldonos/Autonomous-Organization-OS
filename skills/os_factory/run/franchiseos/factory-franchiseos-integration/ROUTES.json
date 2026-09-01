@@ -1,0 +1,27 @@
+{
+  "pocket": "franchiseos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "eos-unit-economics",
+    "ibm-sdr-workflow-001",
+    "ibm-sdr-workflow-003",
+    "ibm-sdr-workflow-004",
+    "ibm-sdr-workflow-005",
+    "ibm-sdr-workflow-006",
+    "ibm-sdr-workflow-007",
+    "location_bible_creation",
+    "location_geography_map",
+    "world-character-canon",
+    "marketing-event-strategy-operations",
+    "business-development-alliance-management",
+    "automation-design-integration-orchestration",
+    "program-management-resource-management",
+    "cio-it-unit-economics",
+    "eos-territory-planning",
+    "ibm-sales-ext-ops-territory-quota-change",
+    "legal-contract-closeout-records",
+    "cio-cio-operating-model-design",
+    "cio-model-economics"
+  ]
+}

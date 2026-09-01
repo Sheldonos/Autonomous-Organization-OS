@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FAOS Agent Executor Request",
+  "type": "object",
+  "required": ["job", "mission_plan", "policy_note"],
+  "properties": {
+    "job": {"type": "object"},
+    "mission_plan": {"type": "object"},
+    "policy_note": {"type": "string"}
+  }
+}

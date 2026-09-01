@@ -1,0 +1,27 @@
+{
+  "pocket": "labos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "research-living-review-monitoring",
+    "research-data-extraction",
+    "research-evidence-mapping",
+    "product-experiment-design",
+    "ibm-career-research-advisory-data-scientist-ibm-quantum",
+    "research-data-analyst",
+    "shared-research-data-extraction-specialist",
+    "engineering-architecture-decision-recording",
+    "product-privacy-by-design-review",
+    "product-prototype-validation",
+    "engineering-data-infrastructure-engineer",
+    "quantum-research-orchestrator",
+    "quantum-research-publication-gate",
+    "research-experiment-management",
+    "quantum-research-evidence-ledger",
+    "research-protocol-preregistration",
+    "quantum-experiment-state-manager",
+    "quantum-simulation-reproducibility-auditor",
+    "research-experiment-designer",
+    "research-hypothesis-generator"
+  ]
+}

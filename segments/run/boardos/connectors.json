@@ -1,0 +1,11 @@
+{
+  "pocket": "boardos",
+  "required_or_optional_classes": [
+    "calendar",
+    "document_store",
+    "e_signature",
+    "analytics"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

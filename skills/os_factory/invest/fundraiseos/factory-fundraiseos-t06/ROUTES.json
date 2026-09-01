@@ -1,0 +1,27 @@
+{
+  "pocket": "fundraiseos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-due-diligence-analyst",
+    "sales-procurement-onboarding",
+    "finance-ar-collections-prioritization",
+    "startups-fundraising-strategist",
+    "startups-investor-research-specialist",
+    "startups-pitch-deck-reviewer",
+    "startups-pitch-strategist",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "ibm-sales-000",
+    "finance-working-capital-action-plan",
+    "chief-of-staff-executive-communications-control",
+    "finance-balance-sheet-analyst",
+    "finance-billing-dispute-analysis",
+    "finance-capital-allocation",
+    "finance-capital-allocation-analyst",
+    "finance-cash-management-analyst",
+    "finance-close-readiness-assessment",
+    "finance-covenant-compliance-check",
+    "finance-executive-decision-support"
+  ]
+}

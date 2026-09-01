@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "id": "boardos",
+  "title": "BoardOS",
+  "segment": "run",
+  "mission": "Prepare board governance, decision materials, action tracking, risk visibility, and institutional memory.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 20,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Agenda & governance calendar",
+    "Information request",
+    "Board packet",
+    "Risk & performance synthesis",
+    "Decision preparation",
+    "Meeting/minutes",
+    "Action tracking",
+    "Governance archive"
+  ],
+  "handoffs": [
+    "executiveos",
+    "enterpriseos",
+    "riskos",
+    "capitalos"
+  ],
+  "connectors": [
+    "calendar",
+    "document_store",
+    "e_signature",
+    "analytics"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

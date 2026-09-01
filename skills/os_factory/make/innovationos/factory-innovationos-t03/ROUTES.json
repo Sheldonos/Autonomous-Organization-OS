@@ -1,0 +1,27 @@
+{
+  "pocket": "innovationos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "product-customer-problem-discovery",
+    "product-backlog-governance",
+    "product-go-to-market-planning",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "cio-technology-strategic-foresight",
+    "cio-technology-strategic-planning",
+    "cio-technology-rfp-scoring",
+    "product-experiment-design",
+    "product-prototype-validation",
+    "product-innovation-funnel-management",
+    "product-product-analytics",
+    "product-roadmap-planning",
+    "cio-technology-experiment-design",
+    "engineering-code-review",
+    "engineering-continuous-integration",
+    "meta-skill-discovery-manager",
+    "cio-emerging-technology-radar",
+    "engineering-architecture-decision-recording"
+  ]
+}

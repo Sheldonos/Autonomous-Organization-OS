@@ -1,0 +1,11 @@
+{
+  "pocket": "legalos",
+  "required_or_optional_classes": [
+    "contract_repository",
+    "document_store",
+    "e_signature",
+    "matter_mgmt"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

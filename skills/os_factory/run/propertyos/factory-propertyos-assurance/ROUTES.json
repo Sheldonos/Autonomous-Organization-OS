@@ -1,0 +1,27 @@
+{
+  "pocket": "propertyos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "real-estate-portfolio-strategy",
+    "real-estate-compliance-inspection",
+    "real-estate-risk-analyst",
+    "construction-field-coordination",
+    "construction-quality-inspection-management",
+    "construction-construction-procurement-support",
+    "construction-contract-records-management",
+    "construction-design-review-coordination",
+    "construction-payment-application-review",
+    "construction-drawing-review-specialist",
+    "construction-quality-specialist",
+    "construction-specification-review-specialist",
+    "government-plan-public-acquisitions",
+    "ibm-sales-ext-evidence-source-provenance",
+    "engineering-open-source-compliance-prep",
+    "operations-return-material-authorization-prep",
+    "engineering-secure-sdlc-assurance",
+    "engineering-software-supply-chain-governance",
+    "it-software-asset-license-review",
+    "operations-asset-health-evidence"
+  ]
+}

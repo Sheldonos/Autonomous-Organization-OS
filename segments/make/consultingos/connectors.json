@@ -1,0 +1,12 @@
+{
+  "pocket": "consultingos",
+  "required_or_optional_classes": [
+    "document_store",
+    "calendar",
+    "email",
+    "data_warehouse",
+    "project_mgmt"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

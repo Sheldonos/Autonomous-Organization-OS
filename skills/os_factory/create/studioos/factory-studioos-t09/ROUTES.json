@@ -1,0 +1,27 @@
+{
+  "pocket": "studioos",
+  "team": "t09",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "rspkt-web-designer",
+    "master-storytelling",
+    "media-content-capture",
+    "media-post-production-editing",
+    "script-to-film-production",
+    "agent-operations-and-learning",
+    "demo-guide-architect",
+    "marketing-distribution-strategy",
+    "rynne",
+    "feature-film-production",
+    "media-post-production-planner",
+    "media-distribution-packaging",
+    "ai-media-orchestrator",
+    "book-to-film-adaptation",
+    "music-video-production",
+    "media-accessibility-localization"
+  ]
+}

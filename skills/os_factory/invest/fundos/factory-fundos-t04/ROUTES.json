@@ -1,0 +1,27 @@
+{
+  "pocket": "fundos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "institutional-investment-playbook",
+    "finance-portfolio-analyst",
+    "it-it-financial-plan-support",
+    "it-access-request-precheck",
+    "it-alert-noise-analysis",
+    "it-backup-restore-readiness",
+    "it-digital-workplace-experience",
+    "it-problem-root-cause-evidence",
+    "it-service-request-classification",
+    "finance-capital-allocation",
+    "it-software-asset-license-review",
+    "it-technology-vendor-risk-review",
+    "data-strategy-portfolio-roadmap-synthesis",
+    "government-measure-benefits-and-performance",
+    "product-product-analytics",
+    "cio-ai-portfolio-management",
+    "cio-application-portfolio-management",
+    "cio-delivery-risk-management",
+    "cio-executive-portfolio-reporting",
+    "cio-innovation-portfolio-management"
+  ]
+}

@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "pocket": "commerceos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 20,
+  "skills": [
+    {
+      "slug": "ecommerce-conversion-specialist",
+      "score": 76,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Conversion Specialist role: conversion; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-analytics-specialist",
+      "score": 76,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Analytics Specialist role: e-commerce analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-orchestrator",
+      "score": 76,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Orchestrator role: e-commerce; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-seo-specialist",
+      "score": 76,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce SEO Specialist role: e-commerce seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-strategist",
+      "score": 76,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Strategist role: e-commerce; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-merchandising-specialist",
+      "score": 76,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Merchandising Specialist role: merchandising; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-orchestrator",
+      "score": 76,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Orchestrator role: e-commerce; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-product-description-writer",
+      "score": 76,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Product Description Writer role: product description; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-product-listing-specialist",
+      "score": 76,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Product Listing Specialist role: product listing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-cart-optimization-specialist",
+      "score": 68,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Cart Optimization Specialist role: cart optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-catalog-management-specialist",
+      "score": 68,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Catalog Management Specialist role: catalog management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-pricing-analyst",
+      "score": 68,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Pricing Analyst role: pricing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-retention-specialist",
+      "score": 68,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Retention Specialist role: retention; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-customer-journey-analyst",
+      "score": 65,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Customer Journey Analyst role: customer journey; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-marketplace-analyst",
+      "score": 65,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Marketplace Analyst role: marketplace; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-marketplace-operations-specialist",
+      "score": 65,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Marketplace Operations Specialist role: marketplace operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-inventory-optimization-specialist",
+      "score": 50,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Inventory Optimization Specialist role: inventory optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-order-fulfillment",
+      "score": 50,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Order Fulfillment** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-order-fulfillment`, `order-fulfillment`, or the corresponding professional workflow: Order fulfillment and customer service | validate order terms, promise availability, allocate constrained supply, coordinate shipment/install, invoice, and communicate status | Sales, customers, warehouse, transportation, finance"
+    },
+    {
+      "slug": "supply-chain-inventory-analyst",
+      "score": 47,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Inventory Analyst role: inventory; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-inventory-replenishment",
+      "score": 47,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Inventory Replenishment** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-inventory-replenishment`, `inventory-replenishment`, or the corresponding professional workflow: Inventory control and replenishment | set stocking policies, safety stock, reorder parameters, cycle counts, and allocation rules using service and working-capital tradeoffs | Planning, finance, warehouse, sales"
+    },
+    {
+      "slug": "supply-chain-supply-demand-planning",
+      "score": 47,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Demand Planning** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-demand-planning`, `supply-demand-planning`, or the corresponding professional workflow: Supply-and-demand planning | reconcile demand signals, capacity, inventory, lead times, and constraints into an approved plan"
+    },
+    {
+      "slug": "ibm-bob-ads-google",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Audit Google Ads measurement, Search, Shopping, Performance Max, Demand Gen, YouTube-linked inventory, keywords and search terms, negative-keyword generation or review, creative assets, bidding, budgets, settings, and policy. Use for Google Ads, AdWords, Search campaigns, search terms reports, broad negatives, Shopping, Performance Max, PMax, Demand Gen, GAQL, Google conversion tracking, or Google campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-tiktok",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Audit TikTok Ads measurement, Pixel and Events API, mobile-first creative, audiences, Smart+, Shop and commerce campaigns, bidding, budgets, pacing, attribution, and policy. Use for TikTok Ads, TikTok Pixel, Events API, Smart+, TikTok Shop Ads, GMV Max, Spark Ads, or TikTok campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "data-strategy-model-inventory-quality",
+      "score": 42,
+      "domain": "data",
+      "description": "Review model-inventory completeness, owners, use cases, and lifecycle evidence. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the AI Governance Capability Director."
+    },
+    {
+      "slug": "operations-order-promise-readiness",
+      "score": 42,
+      "domain": "operations",
+      "description": "Assess order-promise readiness using inventory, capacity, and logistics evidence. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Logistics and Order Fulfillment Capability Director."
+    },
+    {
+      "slug": "supply-chain-procurement-sourcing",
+      "score": 42,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Procurement Sourcing** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-procurement-sourcing`, `procurement-sourcing`, or the corresponding professional workflow: Procurement and sourcing | define specifications, assess bids and total cost, select or renew suppliers under approved policy | Legal, finance, quality, engineering, suppliers"
+    },
+    {
+      "slug": "supply-chain-transportation-management",
+      "score": 42,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Transportation Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-transportation-management`, `transportation-management`, or the corresponding professional workflow: Transportation and delivery management | select mode/carrier, plan loads and routes, tender shipments, monitor milestones, manage proof of delivery and exceptions | Carriers/3PLs, warehouse, customers, trade/compliance"
+    },
+    {
+      "slug": "ui-ux-pro-max",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "UI/UX design intelligence for web and mobile. Includes 50+ styles, 161 color palettes, 57 font pairings, 161 product types, 99 UX guidelines, and 25 chart types across 10 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui, and HTML/CSS). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, and check UI/UX code. Projects: website, landing page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, and mobile app. Elements: button, modal, navbar, sidebar, card, table, form, and chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, and flat design. Topics: color systems, accessibility, animation, layout, typography, font pairing, spacing, interaction states, shadow, and gradient. Integrations: shadcn/ui MCP for component search and examples."
+    },
+    {
+      "slug": "ibm-sales-ext-data-source-catalog",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Maintain a governed inventory of sales data sources, owners, classifications, purposes, access paths, semantic definitions, and retention rules. Use when the IBM Sales control mode selects capability `data-knowledge.source-catalog` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "supply-chain-network-optimization-specialist",
+      "score": 39,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Network Optimization Specialist role: network optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-sourcing-analyst",
+      "score": 39,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Sourcing Analyst role: sourcing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-traceability-recall-response",
+      "score": 39,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Traceability Recall Response** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-traceability-recall-response`, `traceability-recall-response`, or the corresponding professional workflow: Traceability, recall, and incident response | preserve chain-of-custody and event records, identify affected lots/locations, quarantine, notify authorized parties, and document disposition | Quality, regulatory/legal, suppliers, logistics, customers, public authorities"
+    },
+    {
+      "slug": "demand-architect",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "A strategic framework for engineering demand by creating the cultural, behavioral, and infrastructural conditions that make a product necessary. This skill, reverse-engineered from the Michelin Guide's marketing strategy, provides a playbook for building long-term, defensible moats around a product by creating a Trojan Horse of value. Use when launching a new product, entering a commoditized market, or seeking to build a brand with lasting cultural relevance."
+    },
+    {
+      "slug": "eos-product-market-discovery",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Product Market Discovery for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-bob-ads-amazon",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Audit Amazon Ads profiles, regions, Sponsored Products, Sponsored Brands, Sponsored Display, DSP, portfolios, targeting, search terms, retail readiness, creative, budgets, ACOS, TACOS, reporting, and policy. Use for Amazon Ads, sponsored ads, Amazon PPC, ACOS, TACOS, ASIN advertising, Amazon DSP, or retail-media optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-pre-sa-001",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Activate this mode for solution design discovery within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, qua..."
+    },
+    {
+      "slug": "ibm-sales-scale-051",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Triage customer security questionnaire content into factual product-source responses, open questions, restricted-data flags, and security-owner routing. Use when IBM Sales selects `solution.security-questionnaire` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-055",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Draft a migration planning framework with discovery prerequisites, source/target assumptions, dependency inventory, risk, validation gates, and delivery-review needs. Use when IBM Sales selects `solution.migration-plan-draft` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "product-lifecycle-retirement",
+      "score": 37,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Lifecycle Retirement** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-lifecycle-retirement`, `lifecycle-retirement`, or the corresponding professional workflow: manage-product-lifecycle-and-retirement | decide continuation, migration, deprecation, sunsetting, data retention, customer communications, and resource reallocation | handoff to operations, support, legal/privacy, finance, communications, customers, and executive governance"
+    },
+    {
+      "slug": "product-roadmap-planning",
+      "score": 37,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Roadmap Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-roadmap-planning`, `roadmap-planning`, or the corresponding professional workflow: prioritize-product-portfolio-and-roadmap | decide sequencing and funding across products, capabilities, risks, dependencies, capacity, and expected outcomes | handoff to executive portfolio boards, engineering, architecture, security, finance, and go-to-market"
+    },
+    {
+      "slug": "tls-customer-success-expansion-agent",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires customer retention, expansion, and lifetime value optimization for TLS account growth, especially when the user expects the work product of a customer success manager or account expansion specialist."
+    },
+    {
+      "slug": "supply-chain-capacity-planning-specialist",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Capacity Planning Specialist role: capacity planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-demand-planner",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Demand Planner role: demand; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-distribution-network-analyst",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Distribution Network Analyst role: distribution network; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-inbound-receiving",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Inbound Receiving** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-inbound-receiving`, `inbound-receiving`, or the corresponding professional workflow: Purchase-order and inbound execution | release orders, confirm quantities/dates, manage acknowledgements, receipts, exceptions, and invoice matching | Suppliers, receiving, warehouse, accounts payable"
+    },
+    {
+      "slug": "supply-chain-kpi-analyst",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain KPI Analyst role: supply chain kpi; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-lead-time-analyst",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Lead-Time Analyst role: lead-time; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-logistics-analyst",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Logistics Analyst role: logistics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-manufacturing-planning-specialist",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Manufacturing Planning Specialist role: manufacturing planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-orchestrator",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Orchestrator role: supply chain; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-production-planning-analyst",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Production Planning Analyst role: production planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-production-scheduling",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Production Scheduling** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-production-scheduling`, `production-scheduling`, or the corresponding professional workflow: Production and maintenance scheduling | sequence work against material, labor, equipment, quality, and service constraints"
+    },
+    {
+      "slug": "supply-chain-purchase-order-management",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Purchase Order Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-purchase-order-management`, `purchase-order-management`, or the corresponding professional workflow: Purchase-order and inbound execution | release orders, confirm quantities/dates, manage acknowledgements, receipts, exceptions, and invoice matching | Suppliers, receiving, warehouse, accounts payable"
+    },
+    {
+      "slug": "supply-chain-resilience-strategist",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Resilience Strategist role: supply chain resilience; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-reverse-logistics",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Reverse Logistics** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-reverse-logistics`, `reverse-logistics`, or the corresponding professional workflow: Returns, reverse logistics, and disposition | authorize return entitlement, inspect condition, decide repair/replace/recycle/scrap/restock, and issue credits | Customer service, quality, finance, warehouse, sustainability"
+    },
+    {
+      "slug": "supply-chain-risk-analyst",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Risk Analyst role: supply chain risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-s-and-op-specialist",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the S&OP Specialist role: s&op; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-scenario-modeler",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Scenario Modeler role: supply chain scenario modeler; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-strategist",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Chain Strategist role: supply chain; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-supplier-dependency-analyst",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supplier Dependency Analyst role: supplier dependency; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-supplier-due-diligence",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supplier Due Diligence** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supplier-due-diligence`, `supplier-due-diligence`, or the corresponding professional workflow: Supplier onboarding and due diligence | verify identity, capabilities, financial/operational resilience, sanctions/compliance posture, cybersecurity and responsible-business evidence | Procurement, legal, information security, risk, quality"
+    },
+    {
+      "slug": "supply-chain-supplier-performance-management",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supplier Performance Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supplier-performance-management`, `supplier-performance-management`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "supply-chain-supply-chain-performance-improvement",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Chain Performance Improvement** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-chain-performance-improvement`, `supply-chain-performance-improvement`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "supply-chain-supply-chain-risk-management",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Chain Risk Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-chain-risk-management`, `supply-chain-risk-management`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "supply-chain-supply-planner",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Supply Planner role: supply; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-transportation-analyst",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Transportation Analyst role: transportation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-warehouse-operations",
+      "score": 36,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Warehouse Operations** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-warehouse-operations`, `warehouse-operations`, or the corresponding professional workflow: escalate gaps and scenarios | Sales and operations planning, finance, manufacturing, procurement, logistics"
+    },
+    {
+      "slug": "eos-product-customer-discovery",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Product Customer Discovery for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-bob-production-readiness-agent",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires **bob-centered engineering acceleration** involving IBM Project Bob, especially when the user expects the work product of a senior delivery engineer, production readiness lead, or modernization sprint lead. Activate it for discovery, planning, configuration d..."
+    },
+    {
+      "slug": "marketing-conversion-optimization-specialist",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Conversion Optimization Specialist role: conversion optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-customer-problem-discovery",
+      "score": 34,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Customer Problem Discovery** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-customer-problem-discovery`, `customer-problem-discovery`, or the corresponding professional workflow: discover-customer-problems-and-opportunities | decide which validated problems merit investment based on customer value, strategic fit, feasibility, and evidence | handoff to research/design, engineering, sales, service, and executive sponsors"
+    },
+    {
+      "slug": "product-discovery-specialist",
+      "score": 34,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Discovery Specialist role: product discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-go-to-market-planning",
+      "score": 34,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Go To Market Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-go-to-market-planning`, `go-to-market-planning`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-product-analytics",
+      "score": 34,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Analytics** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-analytics`, `product-analytics`, or the corresponding professional workflow: measure-product-performance-and-learning | decide whether outcomes, adoption, retention, value, cost, and risk justify iteration, investment, remediation, or retirement | handoff to analytics, finance, customer success, engineering, operations, and portfolio governance"
+    },
+    {
+      "slug": "webdev-ssr-conversion",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Convert a client-only React 19 + Vite + Express + tRPC 11 SPA (the Manus \"web-db-user\" full-stack template) into a Server-Side Rendered (SSR) app so crawlers and social scrapers receive fully-populated first-paint HTML with correct per-route title and meta tags. Use when a project built on this template needs SEO, link-preview cards, or crawler-visible content, or when asked to \"make the site SSR\", \"server-render\", \"fix SEO / prerender\", or \"make Googlebot see the content\". Only for projects built on this template (wouter + @trpc/react-query + superjson, Express entry at server/_core). Do NOT use for Next.js/Remix/Astro apps, apps that already render on the server, or general SEO questions unrelated to this template."
+    },
+    {
+      "slug": "cio-data-product-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Data Product Management for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cybersecurity-product-security-specialist",
+      "score": 31,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Product Security Specialist role: product security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-product-analyst",
+      "score": 31,
+      "domain": "data",
+      "description": "Use for data work requiring the Product Analyst role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-strategy-data-product-assessment",
+      "score": 31,
+      "domain": "data",
+      "description": "Assess data-product readiness, ownership, quality, SLA, and consumer expectations. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Data Product Management Capability Director."
+    },
+    {
+      "slug": "design-conversion-ux-specialist",
+      "score": 31,
+      "domain": "design",
+      "description": "Use for design work requiring the Conversion UX Specialist role: conversion ux; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "design-product-designer",
+      "score": 31,
+      "domain": "design",
+      "description": "Use for design work requiring the Product Designer role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "enterprise-enterprise-environment-inventory",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Enterprise Enterprise Environment Inventory for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-fulfillment-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Fulfillment Management for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-inventory-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Inventory Management for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-adoption",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Adoption for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-analytics",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Analytics for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-experimentation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Experimentation for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-launch",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Launch for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-lifecycle-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Lifecycle Management for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-marketing",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Marketing for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-prioritization",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Prioritization for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-requirements",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Requirements for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-roadmap",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Roadmap for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-strategy",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Eos Product Strategy for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "marketing-product-marketing-manager",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Product Marketing Manager role: product marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "process-idea-to-product",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Process Idea To Product for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "product-acceptance-criteria-specialist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Acceptance Criteria Specialist role: acceptance criteria; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-ai-product-manager",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the AI Product Manager role: ai product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-analytics-specialist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Analytics Specialist role: product analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-backlog-governance",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Backlog Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-backlog-governance`, `backlog-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-chief-product-officer-advisor",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Chief Product Officer Advisor role: chief product officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-critic",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Critic role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-customer-interview-specialist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Customer Interview Specialist role: customer interview; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-experiment-design",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Experiment Design** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-experiment-design`, `experiment-design`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "product-experiment-designer",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Experiment Designer role: product experiment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-feature-strategist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Feature Strategist role: feature; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-growth-product-manager",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Growth Product Manager role: growth product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-innovation-funnel-management",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Innovation Funnel Management** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-innovation-funnel-management`, `innovation-funnel-management`, or the corresponding professional workflow: manage-idea-intake-and-innovation-funnel | decide whether ideas are captured, screened, combined, incubated, deferred, or rejected using explicit criteria | handoff to domain experts, innovation sponsors, legal, finance, and delivery teams"
+    },
+    {
+      "slug": "product-jobs-to-be-done-analyst",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Jobs-to-Be-Done Analyst role: jobs-to-be-done; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-launch-architect",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for strategy work requiring the product-launch-architect specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "product-launch-manager",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Launch Manager role: product launch; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-manager",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Manager role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-operations-specialist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Operations Specialist role: product operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-opportunity-analyst",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Opportunity Analyst role: opportunity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-orchestrator",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Orchestrator role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-platform-product-manager",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Platform Product Manager role: platform product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-portfolio-prioritization",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Portfolio Prioritization** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-portfolio-prioritization`, `portfolio-prioritization`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-prd-writer",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the PRD Writer role: prd; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-prioritization-analyst",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Prioritization Analyst role: prioritization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-privacy-by-design-review",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Privacy By Design Review** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-privacy-by-design-review`, `privacy-by-design-review`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "product-problem-definition-specialist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Problem Definition Specialist role: problem definition; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-product-vision-definition",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Vision Definition** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-vision-definition`, `product-vision-definition`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-prototype-validation",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Prototype Validation** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-prototype-validation`, `prototype-validation`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "product-quality-reviewer",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Quality Reviewer role: product quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-release-readiness-assessment",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Release Readiness Assessment** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-release-readiness-assessment`, `release-readiness-assessment`, or the corresponding professional workflow: govern-agile-delivery-and-backlog | decide backlog ordering, release scope, trade-offs, readiness, and changes using transparent inspection and adaptation | handoff to product owner/team, Scrum or delivery partners, QA, operations, and stakeholders"
+    },
+    {
+      "slug": "product-requirements-analyst",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Requirements Analyst role: requirements; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-requirements-traceability",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Requirements Traceability** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-requirements-traceability`, `requirements-traceability`, or the corresponding professional workflow: translate-needs-into-product-requirements | decide scope, acceptance criteria, non-functional requirements, assumptions, constraints, and traceability to outcomes | handoff to UX, architecture, engineering, QA, security, compliance, and customer representatives"
+    },
+    {
+      "slug": "product-responsible-ai-product-governance",
+      "score": 31,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Responsible Ai Product Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-responsible-ai-product-governance`, `responsible-ai-product-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-roadmap-management",
+      "score": 31,
+      "domain": "product",
+      "description": "Translate product strategy and evidence into an outcome-oriented roadmap with dependencies, risks and measurable learning. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "product-roadmap-strategist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Roadmap Strategist role: roadmap; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-strategist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Strategist role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-technical-product-manager",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the Technical Product Manager role: technical product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-user-researcher",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the User Researcher role: user; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-user-story-specialist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the User Story Specialist role: user story; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "watsonx-ai-model-inventory",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx AI Model Inventory for watsonx.ai. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "watsonx-governance-inventory-design",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Watsonx Governance Inventory Design for watsonx.governance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "anime-series-production",
+      "score": 29,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests creation of anime-style content \u2014 a series, season, episode, OVA, or anime short \u2014 from a concept, manga source, or series bible. Produces stylized, episodic animated content with locked character designs and genre-correct cinematography. Delegates the shot generation loop to script-to-film-production with anime parameterization."
+    },
+    {
+      "slug": "short-form-derivative-production",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests short-form social media content (TikToks, Instagram Reels, YouTube Shorts) derived from existing master videos, films, or anime produced by other skills in the library. Manages vertical reframing, hook optimization, and dynamic captioning. Triggers on phrases like \"make TikToks from this\", \"create Reels from this film\", \"cut this for social media\", \"make Shorts from this anime episode\"."
+    },
+    {
+      "slug": "media-post-production-editing",
+      "score": 23,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Post Production Editing** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-post-production-editing`, `post-production-editing`, or the corresponding professional workflow: Produce and capture content | execute approved script, shot list, editorial plan, and technical specifications while logging deviations and incidents | handoff to director/editor, camera/sound departments, production coordinator, and post-production"
+    },
+    {
+      "slug": "music-video-production",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Activate when the user provides a song (MP3 plus lyrics) and requests a music video. Executes the lyric-analysis \u2192 clip-sourcing \u2192 beat-sync \u2192 polish \u2192 export pipeline using Gemini as creative director and CapCut for editing. Supports Track A (no-code, free tools) and Track B (automated Python/yt-dlp). Optionally invokes script-to-film-production for original generative footage instead of sourced clips."
+    },
+    {
+      "slug": "production-economics",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Track budget, schedule, attempts, latency, rework, stale-work cost, provider reliability and critical path for production decisions."
+    },
+    {
+      "slug": "tv-series-production",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests multi-episode serialized content \u2014 a television series, season, mini-series, or web series \u2014 in any live-action-style genre. Manages season-level narrative architecture, per-episode production, and cross-episode continuity. Delegates per-episode shot generation to script-to-film-production."
+    },
+    {
+      "slug": "archive-reproduction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create immutable archive and reproduction manifests that trace final artifacts to exact sources, versions, decisions, attempts, QC and approvals."
+    },
+    {
+      "slug": "engineering-developer-productivity-insight",
+      "score": 20,
+      "domain": "engineering",
+      "description": "Synthesize developer productivity evidence with methodology, limitations, and improvement hypotheses. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Developer Experience Capability Director."
+    },
+    {
+      "slug": "eos-developer-productivity",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Eos Developer Productivity for Engineering. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "feature-film-production",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests a complete feature-length film from a concept, treatment, or draft script \u2014 end-to-end, from screenplay development through 4K delivered master. Chains the full eight-stage scriptwriting pipeline into the four-phase Higgsfield production workflow. Delegates the production phase to script-to-film-production once the screenplay is locked."
+    },
+    {
+      "slug": "higgsfield-production-bridge",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Discover Higgsfield capabilities and prepare governed image, video or audio jobs through the official CLI boundary."
+    },
+    {
+      "slug": "media-post-production-planner",
+      "score": 20,
+      "domain": "media",
+      "description": "Use for media work requiring the Post-Production Planner role: post-production; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-production-coordinator",
+      "score": 20,
+      "domain": "media",
+      "description": "Use for media work requiring the Production Coordinator role: production coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-production-designer",
+      "score": 20,
+      "domain": "media",
+      "description": "Use for media work requiring the Production Designer role: production; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "physical-production-operations",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Coordinate prep and shoot-day logistics, call-sheet inputs, crew handoffs, media flow and daily production reporting."
+    },
+    {
+      "slug": "production-design-art-department",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Turn the world bible into buildable sets, props, graphics, dressing and virtual art-department execution packages."
+    },
+    {
+      "slug": "production-safety-coordination",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Identify production hazards and route them to qualified human specialists without issuing safety, medical or legal approval."
+    },
+    {
+      "slug": "production-sound-capture",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Plan dialogue, ambience, playback, timecode, microphone and sound-report workflows for physical or hybrid production."
+    },
+    {
+      "slug": "production-team-simulation",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Build a complete, role-by-role production contribution plan without impersonating regulated or human authorities."
+    },
+    {
+      "slug": "production_feasibility_audit",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Production Feasibility Audit specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "production_status_report",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Production Status Report specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "production_strategy_selection",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Production Strategy Selection specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "reproduction_manifest",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Reproduction Manifest specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "script-to-film-production",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Activate when a finished, locked screenplay (plus optional director's notes) is provided and the request is to produce the film itself. This is the production kernel of the entire AI media library \u2014 the four-phase autonomous workflow (Film Bible \u2192 shot-by-shot generation \u2192 audio \u2192 assembly) executed on Higgsfield.ai. All other film-producing skills (anime-series-production, tv-series-production, feature-film-production, book-to-film-adaptation, music-video-production) delegate their shot generation phase to this skill."
+    }
+  ],
+  "primary_accountable": [
+    "ecommerce-cart-optimization-specialist",
+    "ecommerce-catalog-management-specialist",
+    "ecommerce-conversion-specialist",
+    "ecommerce-customer-journey-analyst",
+    "ecommerce-e-commerce-analytics-specialist",
+    "ecommerce-e-commerce-orchestrator",
+    "ecommerce-e-commerce-seo-specialist",
+    "ecommerce-e-commerce-strategist",
+    "ecommerce-marketplace-analyst",
+    "ecommerce-marketplace-operations-specialist",
+    "ecommerce-merchandising-specialist",
+    "ecommerce-orchestrator",
+    "ecommerce-product-description-writer",
+    "ecommerce-product-listing-specialist",
+    "ecommerce-retention-specialist",
+    "ibm-bob-ads-amazon",
+    "ibm-sales-scale-051",
+    "reference-binding",
+    "reproduction_manifest",
+    "ui-ux-pro-max"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

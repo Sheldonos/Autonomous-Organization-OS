@@ -1,0 +1,27 @@
+{
+  "pocket": "revenueos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-market-research-analyst",
+    "ibm-sales-scale-001",
+    "ibm-sales-scale-013",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-icp-segmentation",
+    "marketing-competitive-message-synthesis",
+    "marketing-market-research-synthesis",
+    "b2b-lead-intelligence-generator",
+    "ibm-bob-lead-intelligence",
+    "local-lead-blitz",
+    "sales-close-to-delivery-transition",
+    "sales-seller-intelligence-mcp-integration",
+    "revenue-expansion-signal-qualification",
+    "revenue-renewal-risk-assessment",
+    "marketing-account-based-signal-qualification",
+    "marketing-lead-quality-review",
+    "marketing-partner-marketing-readiness",
+    "demand-architect",
+    "marketing-event-strategy-operations"
+  ]
+}

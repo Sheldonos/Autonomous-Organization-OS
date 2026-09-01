@@ -1,0 +1,27 @@
+{
+  "pocket": "procureos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-manage-solicitation",
+    "sales-procurement-onboarding",
+    "procurement-vendor-evaluation-specialist",
+    "procurement-manage-purchase-orders",
+    "procurement-purchase-order-change-triage",
+    "procurement-three-way-match-resolution",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-define-procurement-need",
+    "procurement-monitor-supplier-performance",
+    "procurement-off-contract-spend-analysis",
+    "procurement-demand-intake-qualification",
+    "procurement-invoice-exception-analysis",
+    "procurement-supplier-performance-scorecard",
+    "procurement-analyze-make-buy",
+    "procurement-assess-supply-chain-risk",
+    "procurement-develop-sourcing-strategy",
+    "procurement-draft-and-negotiate-contract",
+    "procurement-onboard-supplier"
+  ]
+}

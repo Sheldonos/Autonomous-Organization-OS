@@ -1,0 +1,27 @@
+{
+  "pocket": "riskos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "procurement-supplier-concentration-exposure",
+    "sales-renewal-management",
+    "cybersecurity-zero-trust-architecture-review",
+    "enterprise-loop-budget-controller",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-identity-access-governance",
+    "cybersecurity-security-control-assessment",
+    "it-technology-vendor-risk-review",
+    "procurement-purchase-requisition-compliance",
+    "cyber-resilience-threat-intelligence-synthesis",
+    "cyber-resilience-compliance-evidence-compilation",
+    "cyber-resilience-third-party-cyber-risk",
+    "ibm-sales-ext-solution-demo-poc-risk",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-resilience-recovery-validation",
+    "cybersecurity-security-policy-management",
+    "cybersecurity-supply-chain-cyber-risk",
+    "eos-legal-risk-review"
+  ]
+}

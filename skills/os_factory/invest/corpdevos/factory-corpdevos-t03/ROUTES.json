@@ -1,0 +1,27 @@
+{
+  "pocket": "corpdevos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "investment-acquisition-target-researcher",
+    "product-backlog-governance",
+    "product-go-to-market-planning",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "ibm-bob-ads-budget",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "education-analyze-learning-needs",
+    "bob-executive-competitive-deck-builder",
+    "eos-ma-target-intelligence",
+    "shared-policy-gate",
+    "game-dev",
+    "ibm-pre-005",
+    "course-depth-builder",
+    "ibm-sales-scale-055",
+    "investment-synergy-analyst",
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "commerceos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ecommerce-conversion-specialist",
+    "ecommerce-cart-optimization-specialist",
+    "ibm-bob-ads-google",
+    "marketing-conversion-optimization-specialist",
+    "supply-chain-inventory-optimization-specialist",
+    "ibm-bob-ads-tiktok",
+    "supply-chain-network-optimization-specialist",
+    "ibm-bob-ads-amazon",
+    "tls-customer-success-expansion-agent",
+    "ecommerce-e-commerce-analytics-specialist",
+    "ecommerce-e-commerce-orchestrator",
+    "ecommerce-e-commerce-seo-specialist",
+    "ecommerce-e-commerce-strategist",
+    "ecommerce-merchandising-specialist",
+    "ecommerce-orchestrator",
+    "ecommerce-product-description-writer",
+    "ecommerce-product-listing-specialist",
+    "webdev-ssr-conversion",
+    "design-conversion-ux-specialist",
+    "ecommerce-catalog-management-specialist"
+  ]
+}

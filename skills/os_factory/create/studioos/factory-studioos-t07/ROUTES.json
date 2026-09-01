@@ -1,0 +1,27 @@
+{
+  "pocket": "studioos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "media-accessibility-localization",
+    "media-mastering-quality-control",
+    "ibm-bob-ads-creative",
+    "media-content-capture",
+    "media-post-production-editing",
+    "advanced-web-developer",
+    "master-developer",
+    "script-to-film-production",
+    "ibm-eng-sdr-003",
+    "ibm-eng-sdr-004",
+    "ibm-met-sm-010",
+    "lesson-builder",
+    "model-routing",
+    "operations-production-schedule-exception",
+    "supply-chain-production-scheduling",
+    "feature-film-production",
+    "media-post-production-planner",
+    "media-distribution-packaging"
+  ]
+}

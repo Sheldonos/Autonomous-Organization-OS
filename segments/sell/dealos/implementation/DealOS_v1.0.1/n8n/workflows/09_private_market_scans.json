@@ -1,0 +1,97 @@
+{
+  "name": "DealOS 09 - Private Market Scans",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "days",
+              "daysInterval": 1,
+              "triggerAtHour": 6
+            }
+          ]
+        }
+      },
+      "id": "sched",
+      "name": "Daily 6AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "return [\"ai_transformation\",\"mainframe_modernization\",\"ai_governance\",\"rfp_proposal\"].map(lane=>({json:{lane}}));"
+      },
+      "id": "lanes",
+      "name": "Lanes",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        220,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.DEALOS_INTERNAL_URL + \"/market/scan/\" + $json.lane}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-DealOS-Key",
+              "value": "={{$env.DEALOS_API_KEY}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "scan",
+      "name": "Run Lane Scan",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        440,
+        0
+      ]
+    }
+  ],
+  "connections": {
+    "Daily 6AM": {
+      "main": [
+        [
+          {
+            "node": "Lanes",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Lanes": {
+      "main": [
+        [
+          {
+            "node": "Run Lane Scan",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "versionId": "00000000-0000-0000-0000-000000000002",
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "tags": []
+}

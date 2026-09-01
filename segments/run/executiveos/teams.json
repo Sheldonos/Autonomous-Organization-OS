@@ -1,0 +1,74 @@
+{
+  "pocket": "executiveos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Overnight/periodic sensing Team",
+      "stage": 1,
+      "responsibility": "Overnight/periodic sensing",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Priority triage Team",
+      "stage": 2,
+      "responsibility": "Priority triage",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Decision queue Team",
+      "stage": 3,
+      "responsibility": "Decision queue",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Meeting intelligence Team",
+      "stage": 4,
+      "responsibility": "Meeting intelligence",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Delegation Team",
+      "stage": 5,
+      "responsibility": "Delegation",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Follow-up Team",
+      "stage": 6,
+      "responsibility": "Follow-up",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Risk & commitment tracking Team",
+      "stage": 7,
+      "responsibility": "Risk & commitment tracking",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Executive brief Team",
+      "stage": 8,
+      "responsibility": "Executive brief",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

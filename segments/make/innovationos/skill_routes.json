@@ -1,0 +1,1109 @@
+{
+  "schema_version": "2.0",
+  "pocket": "innovationos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 136,
+  "skills": [
+    {
+      "slug": "product-customer-problem-discovery",
+      "score": 76,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Customer Problem Discovery** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-customer-problem-discovery`, `customer-problem-discovery`, or the corresponding professional workflow: discover-customer-problems-and-opportunities | decide which validated problems merit investment based on customer value, strategic fit, feasibility, and evidence | handoff to research/design, engineering, sales, service, and executive sponsors"
+    },
+    {
+      "slug": "product-backlog-governance",
+      "score": 70,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Backlog Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-backlog-governance`, `backlog-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-go-to-market-planning",
+      "score": 70,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Go To Market Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-go-to-market-planning`, `go-to-market-planning`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-portfolio-prioritization",
+      "score": 70,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Portfolio Prioritization** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-portfolio-prioritization`, `portfolio-prioritization`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-product-vision-definition",
+      "score": 70,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Vision Definition** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-vision-definition`, `product-vision-definition`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-responsible-ai-product-governance",
+      "score": 70,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Responsible Ai Product Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-responsible-ai-product-governance`, `responsible-ai-product-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-experiment-design",
+      "score": 67,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Experiment Design** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-experiment-design`, `experiment-design`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "product-prototype-validation",
+      "score": 67,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Prototype Validation** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-prototype-validation`, `prototype-validation`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "product-innovation-funnel-management",
+      "score": 64,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Innovation Funnel Management** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-innovation-funnel-management`, `innovation-funnel-management`, or the corresponding professional workflow: manage-idea-intake-and-innovation-funnel | decide whether ideas are captured, screened, combined, incubated, deferred, or rejected using explicit criteria | handoff to domain experts, innovation sponsors, legal, finance, and delivery teams"
+    },
+    {
+      "slug": "product-product-analytics",
+      "score": 64,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Analytics** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-analytics`, `product-analytics`, or the corresponding professional workflow: measure-product-performance-and-learning | decide whether outcomes, adoption, retention, value, cost, and risk justify iteration, investment, remediation, or retirement | handoff to analytics, finance, customer success, engineering, operations, and portfolio governance"
+    },
+    {
+      "slug": "product-roadmap-planning",
+      "score": 64,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Roadmap Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-roadmap-planning`, `roadmap-planning`, or the corresponding professional workflow: prioritize-product-portfolio-and-roadmap | decide sequencing and funding across products, capabilities, risks, dependencies, capacity, and expected outcomes | handoff to executive portfolio boards, engineering, architecture, security, finance, and go-to-market"
+    },
+    {
+      "slug": "cio-technology-experiment-design",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "CIO Technology Experiment Design for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "engineering-code-review",
+      "score": 62,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Code Review** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-code-review`, `code-review`, or the corresponding professional workflow: Implement and review code | select branching/integration strategy, enforce coding standards, review correctness and maintainability, and resolve findings | peer reviewers, tech leads, security, and maintainers"
+    },
+    {
+      "slug": "engineering-continuous-integration",
+      "score": 62,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Continuous Integration** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-continuous-integration`, `continuous-integration`, or the corresponding professional workflow: Implement and review code | select branching/integration strategy, enforce coding standards, review correctness and maintainability, and resolve findings | peer reviewers, tech leads, security, and maintainers"
+    },
+    {
+      "slug": "meta-skill-discovery-manager",
+      "score": 62,
+      "domain": "meta",
+      "description": "Use for meta work requiring the Skill Discovery Manager role: skill discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cio-emerging-technology-radar",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "CIO Emerging Technology Radar for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "engineering-architecture-decision-recording",
+      "score": 59,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Architecture Decision Recording** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-architecture-decision-recording`, `architecture-decision-recording`, or the corresponding professional workflow: Architecture and technical decision management | choose system boundaries, interfaces, non-functional requirements, technology constraints, and record trade-offs in decision records | security, platform/operations, data, enterprise architecture, and product owners"
+    },
+    {
+      "slug": "product-privacy-by-design-review",
+      "score": 59,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Privacy By Design Review** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-privacy-by-design-review`, `privacy-by-design-review`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "quantum-experiment-state-manager",
+      "score": 59,
+      "domain": "quantum",
+      "description": "Maintain durable experiment/job/result state and idempotent transitions independent of chat memory. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "product-launch-architect",
+      "score": 58,
+      "domain": "product",
+      "description": "Use for strategy work requiring the product-launch-architect specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "enterprise-domain-harness-orchestrator",
+      "score": 54,
+      "domain": "meta",
+      "description": "Select and operate the correct DomainBob harness for a work item, preserving state, evidence, authority and return routing. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "product-lifecycle-retirement",
+      "score": 53,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Lifecycle Retirement** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-lifecycle-retirement`, `lifecycle-retirement`, or the corresponding professional workflow: manage-product-lifecycle-and-retirement | decide continuation, migration, deprecation, sunsetting, data retention, customer communications, and resource reallocation | handoff to operations, support, legal/privacy, finance, communications, customers, and executive governance"
+    },
+    {
+      "slug": "product-release-readiness-assessment",
+      "score": 53,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Release Readiness Assessment** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-release-readiness-assessment`, `release-readiness-assessment`, or the corresponding professional workflow: govern-agile-delivery-and-backlog | decide backlog ordering, release scope, trade-offs, readiness, and changes using transparent inspection and adaptation | handoff to product owner/team, Scrum or delivery partners, QA, operations, and stakeholders"
+    },
+    {
+      "slug": "product-requirements-traceability",
+      "score": 53,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Requirements Traceability** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-requirements-traceability`, `requirements-traceability`, or the corresponding professional workflow: translate-needs-into-product-requirements | decide scope, acceptance criteria, non-functional requirements, assumptions, constraints, and traceability to outcomes | handoff to UX, architecture, engineering, QA, security, compliance, and customer representatives"
+    },
+    {
+      "slug": "product-roadmap-management",
+      "score": 53,
+      "domain": "product",
+      "description": "Translate product strategy and evidence into an outcome-oriented roadmap with dependencies, risks and measurable learning. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "startups-opportunity-discovery-analyst",
+      "score": 53,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Opportunity Discovery Analyst role: opportunity discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-architect",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Architect role: ai engineering; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-cost-optimization-specialist",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Cost Optimization Specialist role: cost optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-evaluation-specialist",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Evaluation Specialist role: evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-latency-optimization-specialist",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Latency Optimization Specialist role: latency optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-observability-engineer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Observability Engineer role: observability; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-runtime-engineer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Runtime Engineer role: runtime; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-workflow-designer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Workflow Designer role: workflow; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-ai-architect",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Architect role: ai; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-ai-governance-engineer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Governance Engineer role: ai governance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-ai-red-team-reviewer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Red-Team Reviewer role: ai red-team; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-ai-reliability-engineer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Reliability Engineer role: ai reliability; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-ai-safety-engineer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Safety Engineer role: ai safety; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-computer-use-agent-engineer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Computer-Use Agent Engineer role: computer-use; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-context-engineer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Context Engineer role: context; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-hallucination-analyst",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Hallucination Analyst role: hallucination; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-knowledge-graph-engineer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Knowledge Graph Engineer role: knowledge graph; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-llm-application-architect",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the LLM Application Architect role: llm application; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-llm-evaluation-specialist",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the LLM Evaluation Specialist role: llm evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-mcp-architect",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the MCP Architect role: mcp; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-memory-systems-engineer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Memory Systems Engineer role: memory systems; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-model-evaluation-engineer",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Model Evaluation Engineer role: model evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-model-selection-analyst",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Model Selection Analyst role: model selection; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-multi-agent-systems-architect",
+      "score": 51,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Multi-Agent Systems Architect role: multi- systems; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cio-technology-strategic-foresight",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "CIO Technology Strategic Foresight for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-strategic-planning",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "CIO Technology Strategic Planning for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-board-technology-advisory",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Board Technology Advisory for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-business-technology-alignment",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Business Technology Alignment for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ceo-technology-advisory",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Ceo Technology Advisory for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-technology-strategy",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise Technology Strategy for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-innovation-portfolio-management",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Innovation Portfolio Management for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-competitive-intelligence",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Competitive Intelligence for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-investment-prioritization",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Investment Prioritization for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-modernization-strategy",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Modernization Strategy for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-negotiation-strategy",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Negotiation Strategy for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-pilot-management",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Pilot Management for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-poc-management",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Poc Management for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-resilience-strategy",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Resilience Strategy for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-scenario-planning",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Scenario Planning for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-scouting",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Scouting for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-talent-strategy",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Talent Strategy for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "it-technology-vendor-risk-review",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Compile technology vendor risk, obligations, and renewal evidence. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Technology Asset and Vendor Management Capability Director."
+    },
+    {
+      "slug": "process-strategy-to-portfolio-to-execution-to-outcome",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Process Strategy To Portfolio To Execution To Outcome for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "real-estate-portfolio-strategy",
+      "score": 48,
+      "domain": "real-estate",
+      "description": "Perform the bounded professional capability **Portfolio Strategy** for the **Real Estate and Facilities** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `real-estate-portfolio-strategy`, `portfolio-strategy`, or the corresponding professional workflow: Portfolio and asset strategy | prioritize acquisitions, dispositions, capital allocation, risk, and service outcomes against business strategy"
+    },
+    {
+      "slug": "data-strategy-business-case-preparation",
+      "score": 45,
+      "domain": "data",
+      "description": "Prepare business-case evidence, assumptions, benefits, costs, risks, and owners. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "data-strategy-data-quality-scorecard",
+      "score": 45,
+      "domain": "data",
+      "description": "Produce data-quality scorecard evidence, rules, trend, and owner actions. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Data Operations Capability Director."
+    },
+    {
+      "slug": "data-strategy-portfolio-roadmap-synthesis",
+      "score": 45,
+      "domain": "data",
+      "description": "Synthesize portfolio roadmap dependencies, outcomes, investment, and decision points. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "it-technology-roadmap-synthesis",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Synthesize technology roadmap dependencies, investments, risks, and decision points. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "strategy-portfolio-strategist",
+      "score": 45,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Portfolio Strategist role: portfolio; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cio-innovation-scale-stop-decision",
+      "score": 43,
+      "domain": "shared-execution",
+      "description": "CIO Innovation Scale Stop Decision for Innovation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "adr_strategy",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the ADR Strategy specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "era_technology_consistency",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Era / Technology Consistency specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "lens_strategy",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Lens Strategy specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "lip_sync_strategy",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Lip Sync Strategy specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "motion_strategy",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Motion Strategy specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "production_strategy_selection",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Production Strategy Selection specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "shot_repair_strategy",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Shot Repair Strategy specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "cio-technology-rfp-scoring",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "CIO Technology Rfp Scoring for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-agent-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Agent Strategy for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-ai-portfolio-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO AI Portfolio Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-analytics-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Analytics Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-application-portfolio-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Application Portfolio Management for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-board-technology-materials",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Board Technology Materials for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-business-intelligence-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Business Intelligence Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-cloud-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Cloud Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-crm-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO CRM Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-data-platform-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Data Platform Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-data-protection-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Data Protection Strategy for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-ai-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise AI Strategy for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-collaboration-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise Collaboration Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-enterprise-data-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Enterprise Data Strategy for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-erp-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO ERP Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-executive-portfolio-reporting",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Executive Portfolio Reporting for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-forward-looking-technology-recommendation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Forward Looking Technology Recommendation for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-hr-systems-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Hr Systems Strategy for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-hybrid-cloud-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Hybrid Cloud Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-identity-foundation-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Identity Foundation Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-kubernetes-platform-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Kubernetes Platform Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-managed-service-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Managed Service Strategy for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-network-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Network Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-observability-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Observability Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-portfolio-dependency-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Dependency Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-portfolio-prioritization",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Prioritization for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-portfolio-resource-planning",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Portfolio Resource Planning for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-project-portfolio-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Project Portfolio Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-saas-portfolio-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO SAAS Portfolio Management for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-storage-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Storage Strategy for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-anomaly-identification",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Anomaly Identification for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-business-case",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Business Case for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-business-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Business Management for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-compliance-posture",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Compliance Posture for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-concentration-risk",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Concentration Risk for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-contracting-support",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Contracting Support for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-control-mapping",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Control Mapping for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-due-diligence",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Due Diligence for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-exception-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Exception Management for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-governance-committee",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Governance Committee for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-integration-planning",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Integration Planning for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-investment-recommendation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Investment Recommendation for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-kpi-interpretation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Kpi Interpretation for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-lifecycle-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Lifecycle Management for Enterprise Architecture. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-organizational-health",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Organizational Health for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-policy-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Policy Management for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-renewal-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Renewal Management for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-reskilling",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Reskilling for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-rfp-creation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Rfp Creation for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-risk-register",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Risk Register for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-roi-analysis",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology ROI Analysis for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-scorecard",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Scorecard for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-separation-planning",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Separation Planning for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-skills-gap-analysis",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Skills Gap Analysis for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-succession-planning",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Succession Planning for Workforce. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-synergy-analysis",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Synergy Analysis for M&A Technology. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-tco-analysis",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology TCO Analysis for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-vendor-evaluation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Vendor Evaluation for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-vendor-risk",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Vendor Risk for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-zero-trust-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Zero Trust Strategy for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-strategy-generation",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Cios Customer Strategy Generation for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-environment-discovery",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Enterprise Environment Discovery for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-content-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Content Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-corporate-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Corporate Strategy for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-deal-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Deal Strategy for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ecosystem-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Ecosystem Strategy for Partnerships / Ecosystem. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-enterprise-portfolio-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Portfolio Management for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-experiment-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Experiment Management for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-innovation-program-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Innovation Program Management for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-ip-discovery",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos IP Discovery for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-messaging-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Messaging Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-partner-discovery",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Partner Discovery for Partnerships / Ecosystem. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-positioning-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Positioning Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-pricing-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Pricing Strategy for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-customer-discovery",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Product Customer Discovery for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-market-discovery",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Product Market Discovery for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Product Strategy for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-research-portfolio-management",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Research Portfolio Management for Research & Development. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    }
+  ],
+  "primary_accountable": [
+    "adr_strategy",
+    "cio-emerging-technology-radar",
+    "cio-innovation-scale-stop-decision",
+    "cio-technology-anomaly-identification",
+    "cio-technology-contracting-support",
+    "cio-technology-due-diligence",
+    "cio-technology-exception-management",
+    "cio-technology-experiment-design",
+    "cio-technology-integration-planning",
+    "cio-technology-kpi-interpretation",
+    "cio-technology-lifecycle-management",
+    "cio-technology-pilot-management",
+    "cio-technology-poc-management",
+    "cio-technology-risk-register",
+    "cio-technology-roi-analysis",
+    "cio-technology-scorecard",
+    "cio-technology-scouting",
+    "cio-technology-separation-planning",
+    "cio-technology-tco-analysis",
+    "color_normalization",
+    "compositing_plan",
+    "composition_design",
+    "composition_lighting_qc",
+    "continuity_diff",
+    "continuity_edit",
+    "continuity_extraction",
+    "continuity_qc",
+    "costume_state_design",
+    "coverage_plan",
+    "coverage_visualization",
+    "crisis_climax_design",
+    "critical_path_analysis",
+    "cue_brief",
+    "dailies_review",
+    "depth_foreground_background",
+    "dialogue_edit",
+    "dialogue_scene_direction",
+    "dialogue_to_action_substitution",
+    "dramatic_question_design",
+    "edit_compatibility_scoring",
+    "edit_qc",
+    "enterprise-environment-discovery",
+    "environment_state_design",
+    "eos-innovation-program-management",
+    "eos-ip-discovery",
+    "era_technology_consistency",
+    "exposition_concealment",
+    "expression_range_map",
+    "face_hand_repair",
+    "failure_classification",
+    "foley_design",
+    "generation_failure_classification",
+    "generation_logging",
+    "geography_continuity",
+    "greenlight_package",
+    "handoff_validation",
+    "interaction_repair",
+    "interruption_overlap_design",
+    "it-technology-roadmap-synthesis",
+    "joke_mechanics",
+    "keyframe_generation_plan",
+    "knowledge_state_tracking",
+    "lens_strategy",
+    "lighting_design",
+    "lighting_time_state_tracking",
+    "line_compression",
+    "lineage_reconstruction",
+    "lip_sync_strategy",
+    "look_grade",
+    "mask_rotoscope_plan",
+    "master_qc",
+    "meta-skill-discovery-manager",
+    "midpoint_reversal_design",
+    "mix_plan",
+    "motif_design",
+    "motion_physics_qc",
+    "motion_strategy",
+    "music_transition_design",
+    "negative_constraint_compilation",
+    "pickup_identification",
+    "premise_stress_test",
+    "product-innovation-funnel-management",
+    "production_strategy_selection",
+    "prompt_compilation",
+    "prompt_versioning",
+    "prop_canon_design",
+    "prop_state_tracking",
+    "provenance_capture",
+    "qisbob-hardware-specialist",
+    "qisbob-vibe-coder",
+    "reaction_shot_design",
+    "reaction_timing",
+    "reference_selection",
+    "relationship_state_tracking",
+    "reveal_ordering",
+    "revision_plan",
+    "runtime_budgeting",
+    "scene_card_generation",
+    "scene_intention_breakdown",
+    "scene_necessity_test",
+    "scene_writing",
+    "score_spotting",
+    "screen_direction_validation",
+    "sequence_grade_continuity",
+    "setup_payoff_tracking",
+    "shot_family_grouping",
+    "shot_matching",
+    "shot_repair_strategy",
+    "shot_size_selection",
+    "shot_spec_compilation",
+    "silence_pause_design",
+    "sound_effects_design",
+    "sound_motif_design",
+    "staleness_propagation",
+    "structure_map",
+    "subplot_braiding",
+    "subtext_writing",
+    "suspense_dramatic_irony",
+    "sync_validation",
+    "table_read_simulation",
+    "task_graph_compilation",
+    "theme_countertheme_design",
+    "transition_previs",
+    "transition_selection",
+    "upscale_interpolation_plan",
+    "vfx_feasibility_triage",
+    "vfx_review",
+    "visual_motif_design",
+    "visual_qc",
+    "visual_reveal_writing",
+    "voice_consistency",
+    "voice_fingerprint_design",
+    "wardrobe_canon",
+    "wardrobe_state_tracking",
+    "wit_callback_design",
+    "world_bible_creation"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "buildos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "engineering-architecture-decision-record",
+    "engineering-architecture-reviewer",
+    "engineering-api-contract-review",
+    "engineering-database-migration-readiness",
+    "engineering-requirements-traceability",
+    "product-requirements-traceability",
+    "engineering-architecture-decision-recording",
+    "product-roadmap-planning",
+    "tsc-technical-spec-writer",
+    "engineering-requirements-traceability-review",
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "engineering-documentation-coverage-review",
+    "engineering-backlog-refinement-support",
+    "engineering-developer-environment-readiness",
+    "engineering-developer-productivity-insight",
+    "engineering-issue-backlog-health",
+    "bob-agentic-sdlc-mode-designer",
+    "engineering-code-review-preparation",
+    "engineering-observability-instrumentation-review"
+  ]
+}

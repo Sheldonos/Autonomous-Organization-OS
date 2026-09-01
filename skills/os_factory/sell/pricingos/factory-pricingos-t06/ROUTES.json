@@ -1,0 +1,27 @@
+{
+  "pocket": "pricingos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-variance-analysis",
+    "procurement-price-variance-investigation",
+    "builtin-llm-models",
+    "legal-amendment-change-control",
+    "sales-commercial-negotiation",
+    "ecommerce-pricing-analyst",
+    "ecommerce-catalog-management-specialist",
+    "revenue-pricing-exception-preparation",
+    "ecommerce-cart-optimization-specialist",
+    "ecommerce-conversion-specialist",
+    "ecommerce-customer-journey-analyst",
+    "ecommerce-e-commerce-analytics-specialist",
+    "ecommerce-e-commerce-orchestrator",
+    "ecommerce-e-commerce-seo-specialist",
+    "ecommerce-e-commerce-strategist",
+    "ecommerce-marketplace-analyst",
+    "ecommerce-marketplace-operations-specialist",
+    "ecommerce-merchandising-specialist",
+    "ecommerce-orchestrator",
+    "ecommerce-product-description-writer"
+  ]
+}

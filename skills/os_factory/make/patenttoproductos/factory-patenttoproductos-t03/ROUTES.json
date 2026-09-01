@@ -1,0 +1,27 @@
+{
+  "pocket": "patenttoproductos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "lemos-strategy-playbook",
+    "ibm-pre-atl-004",
+    "demand-architect",
+    "patent-fortress-strategist",
+    "tls-strategic-intelligence-agent",
+    "doordash-constraint-framework",
+    "ibm-pre-atl-002",
+    "ibm-pre-008",
+    "ibm-pre-apm-001",
+    "ibm-pre-sa-001",
+    "eos-product-market-discovery",
+    "ibm-pre-001",
+    "ibm-pre-003",
+    "ibm-pre-004",
+    "ibm-pre-006",
+    "ibm-pre-009",
+    "ibm-pre-010",
+    "ibm-pre-apm-002",
+    "ibm-pre-bdm-001",
+    "ibm-pre-cp-001"
+  ]
+}

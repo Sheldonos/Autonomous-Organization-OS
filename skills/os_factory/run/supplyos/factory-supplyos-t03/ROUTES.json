@@ -1,0 +1,27 @@
+{
+  "pocket": "supplyos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "supply-chain-procurement-sourcing",
+    "supply-chain-sourcing-analyst",
+    "supply-chain-order-fulfillment",
+    "supply-chain-inventory-replenishment",
+    "supply-chain-supply-demand-planning",
+    "supply-chain-transportation-management",
+    "operations-supplier-eta-exception",
+    "procurement-demand-intake-qualification",
+    "supply-chain-reverse-logistics",
+    "supply-chain-warehouse-operations",
+    "procurement-sourcing-event-design",
+    "operations-order-promise-readiness",
+    "operations-demand-forecast-exception",
+    "procurement-supplier-diversity-certification",
+    "procurement-supplier-esg-evidence-review",
+    "supply-chain-inbound-receiving",
+    "supply-chain-purchase-order-management",
+    "operations-warehouse-exception-triage",
+    "supply-chain-inventory-optimization-specialist",
+    "supply-chain-inventory-analyst"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pocket": "customeros",
+  "required_or_optional_classes": [
+    "crm",
+    "support_desk",
+    "product_analytics",
+    "billing",
+    "email"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

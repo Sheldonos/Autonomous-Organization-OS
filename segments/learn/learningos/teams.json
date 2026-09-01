@@ -1,0 +1,74 @@
+{
+  "pocket": "learningos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Learner graph Team",
+      "stage": 1,
+      "responsibility": "Learner graph",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Goal/construct map Team",
+      "stage": 2,
+      "responsibility": "Goal/construct map",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Adaptive path Team",
+      "stage": 3,
+      "responsibility": "Adaptive path",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Learning interaction Team",
+      "stage": 4,
+      "responsibility": "Learning interaction",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Evidence capture Team",
+      "stage": 5,
+      "responsibility": "Evidence capture",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Mastery inference Team",
+      "stage": 6,
+      "responsibility": "Mastery inference",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Intervention Team",
+      "stage": 7,
+      "responsibility": "Intervention",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Credential & next-step routing Team",
+      "stage": 8,
+      "responsibility": "Credential & next-step routing",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

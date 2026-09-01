@@ -1,0 +1,1165 @@
+{
+  "schema_version": "2.0",
+  "pocket": "buildos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 192,
+  "skills": [
+    {
+      "slug": "engineering-api-contract-review",
+      "score": 123,
+      "domain": "engineering",
+      "description": "Review API contract compatibility, versioning, error behavior, and consumer impacts. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Technical Design and Architecture Capability Director."
+    },
+    {
+      "slug": "engineering-database-migration-readiness",
+      "score": 120,
+      "domain": "engineering",
+      "description": "Assess database migration readiness, data impact, rollback, and approval needs. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Technical Design and Architecture Capability Director."
+    },
+    {
+      "slug": "engineering-requirements-traceability-review",
+      "score": 118,
+      "domain": "engineering",
+      "description": "Review requirement traceability from business intent through acceptance criteria. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Product Delivery Planning Capability Director."
+    },
+    {
+      "slug": "engineering-requirements-traceability",
+      "score": 115,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Requirements Traceability** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-requirements-traceability`, `requirements-traceability`, or the corresponding professional workflow: Discover and manage requirements | prioritize scope, acceptance criteria, dependencies, and traceability against product and stakeholder outcomes | product management, UX, architecture, QA, and customer/business owners"
+    },
+    {
+      "slug": "engineering-documentation-coverage-review",
+      "score": 112,
+      "domain": "engineering",
+      "description": "Assess technical documentation coverage, freshness, ownership, and gaps. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Developer Experience Capability Director."
+    },
+    {
+      "slug": "product-requirements-traceability",
+      "score": 110,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Requirements Traceability** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-requirements-traceability`, `requirements-traceability`, or the corresponding professional workflow: translate-needs-into-product-requirements | decide scope, acceptance criteria, non-functional requirements, assumptions, constraints, and traceability to outcomes | handoff to UX, architecture, engineering, QA, security, compliance, and customer representatives"
+    },
+    {
+      "slug": "engineering-architecture-decision-record",
+      "score": 109,
+      "domain": "engineering",
+      "description": "Prepare architecture decision record evidence, tradeoffs, standards, and reviewers. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Technical Design and Architecture Capability Director."
+    },
+    {
+      "slug": "engineering-backlog-refinement-support",
+      "score": 109,
+      "domain": "engineering",
+      "description": "Prepare backlog refinement packet with scope, dependencies, risks, and acceptance evidence. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Product Delivery Planning Capability Director."
+    },
+    {
+      "slug": "engineering-developer-environment-readiness",
+      "score": 109,
+      "domain": "engineering",
+      "description": "Assess developer-environment readiness, onboarding gaps, and platform support needs. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Developer Experience Capability Director."
+    },
+    {
+      "slug": "engineering-developer-productivity-insight",
+      "score": 109,
+      "domain": "engineering",
+      "description": "Synthesize developer productivity evidence with methodology, limitations, and improvement hypotheses. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Developer Experience Capability Director."
+    },
+    {
+      "slug": "engineering-issue-backlog-health",
+      "score": 109,
+      "domain": "engineering",
+      "description": "Analyze issue backlog health, aging, duplication, priority evidence, and owner actions. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Product Delivery Planning Capability Director."
+    },
+    {
+      "slug": "engineering-architecture-decision-recording",
+      "score": 107,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Architecture Decision Recording** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-architecture-decision-recording`, `architecture-decision-recording`, or the corresponding professional workflow: Architecture and technical decision management | choose system boundaries, interfaces, non-functional requirements, technology constraints, and record trade-offs in decision records | security, platform/operations, data, enterprise architecture, and product owners"
+    },
+    {
+      "slug": "engineering-code-review-preparation",
+      "score": 104,
+      "domain": "engineering",
+      "description": "Prepare code-review evidence, change summary, tests, and risk prompts. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Secure Code Delivery Capability Director."
+    },
+    {
+      "slug": "engineering-observability-instrumentation-review",
+      "score": 104,
+      "domain": "engineering",
+      "description": "Review service instrumentation coverage, signal usefulness, and implementation gaps. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Platform Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-open-source-compliance-prep",
+      "score": 104,
+      "domain": "engineering",
+      "description": "Compile open-source component evidence, notices, and policy review needs. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Secure Code Delivery Capability Director."
+    },
+    {
+      "slug": "engineering-release-readiness-gate",
+      "score": 104,
+      "domain": "engineering",
+      "description": "Assess release readiness across requirements, tests, security, operations, and approvals. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Release Management Capability Director."
+    },
+    {
+      "slug": "engineering-accessibility-quality-review",
+      "score": 101,
+      "domain": "engineering",
+      "description": "Review accessibility evidence against approved standards and remediation priorities. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-dependency-update-assessment",
+      "score": 101,
+      "domain": "engineering",
+      "description": "Assess dependency-update scope, compatibility, vulnerability, and rollback evidence. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Secure Code Delivery Capability Director."
+    },
+    {
+      "slug": "engineering-mobile-quality-readiness",
+      "score": 101,
+      "domain": "engineering",
+      "description": "Assess mobile release quality across devices, performance, accessibility, and telemetry. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-release-deployment-management",
+      "score": 101,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Release Deployment Management** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-release-deployment-management`, `release-deployment-management`, or the corresponding professional workflow: Manage configuration, versions, and change | maintain baselines, trace changes to approved work, assess impact, and approve or reject controlled changes | configuration management, change authority, release management, and audit/compliance"
+    },
+    {
+      "slug": "engineering-ci-pipeline-failure-analysis",
+      "score": 98,
+      "domain": "engineering",
+      "description": "Analyze CI pipeline failures, evidence, affected components, and recovery options. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Platform Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-codebase-exploration-brief",
+      "score": 98,
+      "domain": "engineering",
+      "description": "Create a bounded codebase exploration brief with files, dependencies, and uncertainty. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Engineering Intelligence Capability Director."
+    },
+    {
+      "slug": "engineering-feature-flag-readiness",
+      "score": 98,
+      "domain": "engineering",
+      "description": "Assess feature-flag readiness, targeting, metrics, rollback, and owner controls. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Release Management Capability Director."
+    },
+    {
+      "slug": "engineering-incident-postmortem-preparation",
+      "score": 98,
+      "domain": "engineering",
+      "description": "Prepare incident postmortem evidence, timeline, contributing factors, and follow-up ownership. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Engineering Intelligence Capability Director."
+    },
+    {
+      "slug": "engineering-performance-regression-analysis",
+      "score": 98,
+      "domain": "engineering",
+      "description": "Analyze performance regression evidence, baselines, affected flows, and test gaps. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-release-notes-preparation",
+      "score": 98,
+      "domain": "engineering",
+      "description": "Draft release notes from approved changes, known limitations, and communication owners. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Release Management Capability Director."
+    },
+    {
+      "slug": "engineering-technical-debt-prioritization",
+      "score": 98,
+      "domain": "engineering",
+      "description": "Prioritize technical debt using risk, cost, dependency, and delivery evidence. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Engineering Intelligence Capability Director."
+    },
+    {
+      "slug": "engineering-test-failure-triage",
+      "score": 98,
+      "domain": "engineering",
+      "description": "Triage test failures with evidence, reproducibility, suspected scope, and routing. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-test-plan-design",
+      "score": 98,
+      "domain": "engineering",
+      "description": "Prepare test plan scope, risks, datasets, environments, and pass criteria. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Quality Engineering Capability Director."
+    },
+    {
+      "slug": "engineering-secure-sdlc-assurance",
+      "score": 96,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Secure Sdlc Assurance** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-secure-sdlc-assurance`, `secure-sdlc-assurance`, or the corresponding professional workflow: Secure software and supply-chain assurance | identify threats, remediate vulnerabilities, validate dependencies/provenance, and decide residual risk disposition | security engineering, privacy/legal, procurement, suppliers, and accountable release owner"
+    },
+    {
+      "slug": "engineering-software-supply-chain-governance",
+      "score": 96,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Software Supply Chain Governance** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-software-supply-chain-governance`, `software-supply-chain-governance`, or the corresponding professional workflow: Secure software and supply-chain assurance | identify threats, remediate vulnerabilities, validate dependencies/provenance, and decide residual risk disposition | security engineering, privacy/legal, procurement, suppliers, and accountable release owner"
+    },
+    {
+      "slug": "engineering-automated-testing",
+      "score": 93,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Automated Testing** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-automated-testing`, `automated-testing`, or the corresponding professional workflow: Build and integrate continuously | validate each change with reproducible builds, dependency checks, static analysis, and automated quality gates | CI/platform engineering, developers, test engineering, and artifact repository owners"
+    },
+    {
+      "slug": "engineering-delivery-performance-improvement",
+      "score": 93,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Delivery Performance Improvement** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-delivery-performance-improvement`, `delivery-performance-improvement`, or the corresponding professional workflow: Learn and improve delivery | analyze delivery/reliability measures, incident reviews, customer feedback, and escaped defects to select improvement experiments | engineering leadership, product, operations, security, and organizational learning/quality functions"
+    },
+    {
+      "slug": "product-roadmap-planning",
+      "score": 93,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Roadmap Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-roadmap-planning`, `roadmap-planning`, or the corresponding professional workflow: prioritize-product-portfolio-and-roadmap | decide sequencing and funding across products, capabilities, risks, dependencies, capacity, and expected outcomes | handoff to executive portfolio boards, engineering, architecture, security, finance, and go-to-market"
+    },
+    {
+      "slug": "engineering-configuration-change-management",
+      "score": 90,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Configuration Change Management** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-configuration-change-management`, `configuration-change-management`, or the corresponding professional workflow: Manage configuration, versions, and change | maintain baselines, trace changes to approved work, assess impact, and approve or reject controlled changes | configuration management, change authority, release management, and audit/compliance"
+    },
+    {
+      "slug": "engineering-delivery-planning",
+      "score": 90,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Delivery Planning** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-delivery-planning`, `delivery-planning`, or the corresponding professional workflow: Plan and estimate delivery work | decompose epics into increments, sequence dependencies, size work, and set a releasable slice | product owner, delivery lead, engineering team, and external suppliers"
+    },
+    {
+      "slug": "engineering-observability-incident-response",
+      "score": 90,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Observability Incident Response** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-observability-incident-response`, `observability-incident-response`, or the corresponding professional workflow: Operate, observe, and respond | define service objectives, monitor health and business signals, triage incidents, and decide mitigation or rollback | SRE/operations, developers, incident commander, support, and customer communications"
+    },
+    {
+      "slug": "ibm-career-software-engineering-front-end-developer",
+      "score": 90,
+      "domain": "software-engineering",
+      "description": "IBM-aligned Front End Developer specialist. Use for Software Engineering work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-software-engineering-full-stack-developer",
+      "score": 90,
+      "domain": "software-engineering",
+      "description": "IBM-aligned Full Stack Developer specialist. Use for Software Engineering work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "product-release-readiness-assessment",
+      "score": 90,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Release Readiness Assessment** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-release-readiness-assessment`, `release-readiness-assessment`, or the corresponding professional workflow: govern-agile-delivery-and-backlog | decide backlog ordering, release scope, trade-offs, readiness, and changes using transparent inspection and adaptation | handoff to product owner/team, Scrum or delivery partners, QA, operations, and stakeholders"
+    },
+    {
+      "slug": "engineering-code-review",
+      "score": 85,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Code Review** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-code-review`, `code-review`, or the corresponding professional workflow: Implement and review code | select branching/integration strategy, enforce coding standards, review correctness and maintainability, and resolve findings | peer reviewers, tech leads, security, and maintainers"
+    },
+    {
+      "slug": "engineering-continuous-integration",
+      "score": 85,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Continuous Integration** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-continuous-integration`, `continuous-integration`, or the corresponding professional workflow: Implement and review code | select branching/integration strategy, enforce coding standards, review correctness and maintainability, and resolve findings | peer reviewers, tech leads, security, and maintainers"
+    },
+    {
+      "slug": "tsc-technical-spec-writer",
+      "score": 84,
+      "domain": "shared-execution",
+      "description": "Use this mode when: - After design review and before implementation - User asks \"create technical specifications\" - Working on backend, frontend, integration, testing, or platform work - Need to break down architecture into implementable tasks - Creating API contracts, data models, or service spe..."
+    },
+    {
+      "slug": "design-define-service-requirements",
+      "score": 82,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Define Service Requirements** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-define-service-requirements`, `define-service-requirements`, or the corresponding professional workflow: Define service requirements and opportunity areas | convert evidence into prioritized user needs, service principles, hypotheses, and acceptance criteria | product manager, policy lead, engineering, accessibility and legal/privacy advisors"
+    },
+    {
+      "slug": "design-evaluate-accessibility",
+      "score": 82,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Evaluate Accessibility** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-evaluate-accessibility`, `evaluate-accessibility`, or the corresponding professional workflow: Define service requirements and opportunity areas | convert evidence into prioritized user needs, service principles, hypotheses, and acceptance criteria | product manager, policy lead, engineering, accessibility and legal/privacy advisors"
+    },
+    {
+      "slug": "design-prepare-design-handoff",
+      "score": 82,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Prepare Design Handoff** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-prepare-design-handoff`, `prepare-design-handoff`, or the corresponding professional workflow: Prepare implementation and operational handoff | convert validated designs into specifications, design-system assets, journey/blueprint records, content, analytics, and acceptance tests with version control | engineering, QA, delivery manager, operations, support, training"
+    },
+    {
+      "slug": "design-prioritize-service-opportunities",
+      "score": 82,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Prioritize Service Opportunities** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-prioritize-service-opportunities`, `prioritize-service-opportunities`, or the corresponding professional workflow: Define service requirements and opportunity areas | convert evidence into prioritized user needs, service principles, hypotheses, and acceptance criteria | product manager, policy lead, engineering, accessibility and legal/privacy advisors"
+    },
+    {
+      "slug": "product-privacy-by-design-review",
+      "score": 82,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Privacy By Design Review** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-privacy-by-design-review`, `privacy-by-design-review`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "engineering-api-engineer",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the API Engineer role: api; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-architecture-reviewer",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Architecture Reviewer role: architecture; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-backend-engineer",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Backend Engineer role: backend; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-database-engineer",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Database Engineer role: database; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-developer-experience-engineer",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Developer Experience Engineer role: developer experience; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-devops-engineer",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the DevOps Engineer role: devops; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-frontend-engineer",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Frontend Engineer role: frontend; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-qa-engineer",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the QA Engineer role: qa; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-release-engineer",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Release Engineer role: release; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-software-architect",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Software Architect role: software; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "enterprise-harness-release-engineer",
+      "score": 79,
+      "domain": "engineering",
+      "description": "Package, validate, version, activate, roll back and evidence DomainBob harness releases. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "ibm-career-software-engineering-software-engineer",
+      "score": 79,
+      "domain": "software-engineering",
+      "description": "IBM-aligned Software Engineer specialist. Use for Software Engineering work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "ibm-career-software-engineering-test-engineer",
+      "score": 79,
+      "domain": "software-engineering",
+      "description": "IBM-aligned Test Engineer specialist. Use for Software Engineering work requiring the professional responsibilities, evidence discipline, cross-team routing, and continuous improvement behavior defined here."
+    },
+    {
+      "slug": "product-backlog-governance",
+      "score": 79,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Backlog Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-backlog-governance`, `backlog-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-customer-problem-discovery",
+      "score": 79,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Customer Problem Discovery** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-customer-problem-discovery`, `customer-problem-discovery`, or the corresponding professional workflow: discover-customer-problems-and-opportunities | decide which validated problems merit investment based on customer value, strategic fit, feasibility, and evidence | handoff to research/design, engineering, sales, service, and executive sponsors"
+    },
+    {
+      "slug": "product-experiment-design",
+      "score": 79,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Experiment Design** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-experiment-design`, `experiment-design`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "product-go-to-market-planning",
+      "score": 79,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Go To Market Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-go-to-market-planning`, `go-to-market-planning`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-portfolio-prioritization",
+      "score": 79,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Portfolio Prioritization** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-portfolio-prioritization`, `portfolio-prioritization`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-product-analytics",
+      "score": 79,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Analytics** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-analytics`, `product-analytics`, or the corresponding professional workflow: measure-product-performance-and-learning | decide whether outcomes, adoption, retention, value, cost, and risk justify iteration, investment, remediation, or retirement | handoff to analytics, finance, customer success, engineering, operations, and portfolio governance"
+    },
+    {
+      "slug": "product-product-vision-definition",
+      "score": 79,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Vision Definition** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-vision-definition`, `product-vision-definition`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-prototype-validation",
+      "score": 79,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Prototype Validation** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-prototype-validation`, `prototype-validation`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "product-responsible-ai-product-governance",
+      "score": 79,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Responsible Ai Product Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-responsible-ai-product-governance`, `responsible-ai-product-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "automation-assess-automation-opportunity",
+      "score": 76,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Assess Automation Opportunity** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-assess-automation-opportunity`, `assess-automation-opportunity`, or the corresponding professional workflow: automation-opportunity-assessment | decide whether a candidate is suitable for workflow/RPA/API/AI automation based on stability, rule clarity, exception rate, value, feasibility, and risk | handoff to automation portfolio governance, enterprise architecture, security, legal/privacy, and finance"
+    },
+    {
+      "slug": "automation-prioritize-automation-portfolio",
+      "score": 76,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Prioritize Automation Portfolio** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-prioritize-automation-portfolio`, `prioritize-automation-portfolio`, or the corresponding professional workflow: automation-opportunity-assessment | decide whether a candidate is suitable for workflow/RPA/API/AI automation based on stability, rule clarity, exception rate, value, feasibility, and risk | handoff to automation portfolio governance, enterprise architecture, security, legal/privacy, and finance"
+    },
+    {
+      "slug": "design-assess-privacy-by-design",
+      "score": 74,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Assess Privacy By Design** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-assess-privacy-by-design`, `assess-privacy-by-design`, or the corresponding professional workflow: Validate privacy, security, and data flows by design | identify personal-data processing, lawful/organizational constraints, minimization, consent/notice, retention, access, and threat implications before implementation | privacy officer, security, legal, data governance, engineering"
+    },
+    {
+      "slug": "automation-manage-release-and-change",
+      "score": 73,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Manage Release And Change** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-manage-release-and-change`, `manage-release-and-change`, or the corresponding professional workflow: deployment-and-change-management | decide go-live, phased rollout, rollback, training, communications, support model, and change-window timing | handoff to change manager, release manager, service desk, business owner, and affected users"
+    },
+    {
+      "slug": "ai-engineering-memory-systems-engineer",
+      "score": 71,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Memory Systems Engineer role: memory systems; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-multi-agent-systems-architect",
+      "score": 71,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Multi-Agent Systems Architect role: multi- systems; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "design-define-service-measures",
+      "score": 71,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Define Service Measures** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-define-service-measures`, `define-service-measures`, or the corresponding professional workflow: Launch, measure, and continuously improve the service | define outcome and performance measures, instrument the service, monitor reliability and inclusion, review feedback/incidents, and run controlled improvements | product owner, service operations, analytics, support, governance board"
+    },
+    {
+      "slug": "design-monitor-service-improvement",
+      "score": 71,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Monitor Service Improvement** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-monitor-service-improvement`, `monitor-service-improvement`, or the corresponding professional workflow: Launch, measure, and continuously improve the service | define outcome and performance measures, instrument the service, monitor reliability and inclusion, review feedback/incidents, and run controlled improvements | product owner, service operations, analytics, support, governance board"
+    },
+    {
+      "slug": "engineering-distributed-systems-engineer",
+      "score": 71,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Distributed Systems Engineer role: distributed systems; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-systems-architect",
+      "score": 71,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Systems Architect role: systems; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-requirements-analyst",
+      "score": 71,
+      "domain": "product",
+      "description": "Use for product work requiring the Requirements Analyst role: requirements; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-roadmap-management",
+      "score": 71,
+      "domain": "product",
+      "description": "Translate product strategy and evidence into an outcome-oriented roadmap with dependencies, risks and measurable learning. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "ai-automation-lbo",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "A Reginald Lewis-inspired framework for identifying, financing, and executing leveraged buyouts (LBOs) of small-to-medium businesses that can be automated by at least 60% using AI. Use when a user asks to find business listings for acquisition, structure an SBA 7(a) or LBO deal, calculate AI automation ROI, or generate a Confidential Information Memorandum (CIM) and lender presentation."
+    },
+    {
+      "slug": "ai-engineering-agent-architect",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Architect role: ai engineering; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-cost-optimization-specialist",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Cost Optimization Specialist role: cost optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-evaluation-specialist",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Evaluation Specialist role: evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-latency-optimization-specialist",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Latency Optimization Specialist role: latency optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-observability-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Observability Engineer role: observability; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-runtime-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Runtime Engineer role: runtime; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-agent-workflow-designer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Agent Workflow Designer role: workflow; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-ai-architect",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Architect role: ai; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-ai-governance-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Governance Engineer role: ai governance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-ai-red-team-reviewer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Red-Team Reviewer role: ai red-team; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-ai-reliability-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Reliability Engineer role: ai reliability; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-ai-safety-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Safety Engineer role: ai safety; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-computer-use-agent-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Computer-Use Agent Engineer role: computer-use; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-context-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Context Engineer role: context; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-hallucination-analyst",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Hallucination Analyst role: hallucination; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-knowledge-graph-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Knowledge Graph Engineer role: knowledge graph; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-llm-application-architect",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the LLM Application Architect role: llm application; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-llm-evaluation-specialist",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the LLM Evaluation Specialist role: llm evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-mcp-architect",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the MCP Architect role: mcp; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-model-evaluation-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Model Evaluation Engineer role: model evaluation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-model-selection-analyst",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Model Selection Analyst role: model selection; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-orchestrator",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the AI Engineering Orchestrator role: ai engineering; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-prompt-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Prompt Engineer role: prompt; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-rag-engineer",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the RAG Engineer role: rag; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-retrieval-architect",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Retrieval Architect role: retrieval; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ai-engineering-tool-use-architect",
+      "score": 68,
+      "domain": "ai-engineering",
+      "description": "Use for ai engineering work requiring the Tool-Use Architect role: tool-use; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "automation-design-controls-and-approvals",
+      "score": 68,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Design Controls And Approvals** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-design-controls-and-approvals`, `design-controls-and-approvals`, or the corresponding professional workflow: requirements-and-control-design | decide functional requirements, segregation of duties, approvals, audit evidence, access needs, retention, error handling, and human-in-the-loop points | handoff to process owner, compliance/internal audit, security/privacy, records management, and engineering"
+    },
+    {
+      "slug": "design-design-inclusive-content",
+      "score": 68,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Design Inclusive Content** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-design-inclusive-content`, `design-inclusive-content`, or the corresponding professional workflow: Design content, interaction patterns, and inclusive components | select understandable language, navigation, interaction states, design-system patterns, and accessible behavior across channels | content design, UX, engineering, accessibility specialists, localization"
+    },
+    {
+      "slug": "design-frame-design-challenge",
+      "score": 68,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Frame Design Challenge** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-frame-design-challenge`, `frame-design-challenge`, or the corresponding professional workflow: Frame service/product challenge and outcomes | align problem statement, scope, policy/business constraints, and measurable outcomes before solutioning | product owner, policy/business owner, service designer, delivery lead"
+    },
+    {
+      "slug": "design-product-designer",
+      "score": 68,
+      "domain": "design",
+      "description": "Use for design work requiring the Product Designer role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "design-prototype-service-interactions",
+      "score": 68,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Prototype Service Interactions** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-prototype-service-interactions`, `prototype-service-interactions`, or the corresponding professional workflow: Prototype interactions and service changes | choose fidelity and scope appropriate to the question, make assumptions explicit, and preserve multiple options until evidence narrows them | UX/UI, content, engineering, operations, representative users"
+    },
+    {
+      "slug": "design-qa-specialist",
+      "score": 68,
+      "domain": "design",
+      "description": "Use for design work requiring the Design QA Specialist role: design qa; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "design-run-usability-testing",
+      "score": 68,
+      "domain": "design",
+      "description": "Perform the bounded professional capability **Run Usability Testing** for the **Design and Service Design** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `design-run-usability-testing`, `run-usability-testing`, or the corresponding professional workflow: Test usability, desirability, feasibility, and accessibility | define test protocol and success criteria, observe real or representative use, triage findings, and iterate rather than declare success from opinion | usability/accessibility specialists, researchers, users, delivery team"
+    },
+    {
+      "slug": "engineering-ci-cd-specialist",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the CI/CD Specialist role: ci/cd; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-cloud-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Cloud Engineer role: cloud; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-code-reviewer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Code Reviewer role: code; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-cto-advisor",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the CTO Advisor role: cto; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-data-infrastructure-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Data Infrastructure Engineer role: data infrastructure; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-debugging-specialist",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Debugging Specialist role: debugging; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-dependency-analyst",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Dependency Analyst role: dependency; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-documentation-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Documentation Engineer role: documentation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-enterprise-application-architect",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Enterprise Application Architect role: enterprise application; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-full-stack-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Full-Stack Engineer role: full-stack; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-infrastructure-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Infrastructure Engineer role: infrastructure; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-integration-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Integration Engineer role: integration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-migration-specialist",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Migration Specialist role: migration; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-observability-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Observability Engineer role: observability; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-orchestrator",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Engineering Orchestrator role: engineering; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-performance-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Performance Engineer role: performance; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-platform-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Platform Engineer role: platform; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-refactoring-specialist",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Refactoring Specialist role: refactoring; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-reliability-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Reliability Engineer role: reliability; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-site-reliability-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Site Reliability Engineer role: site reliability; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-technical-debt-analyst",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Technical Debt Analyst role: technical debt; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-test-automation-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Use for engineering work requiring the Test Automation Engineer role: test automation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "enterprise-adapter-contract-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Define and validate system-of-record/action adapters with least privilege, idempotency, read-back verification and evidence. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "enterprise-domain-observability-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Instrument DomainBob executions with traces, metrics, events, costs, errors, state transitions and outcome evidence. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "enterprise-runtime-harness-engineer",
+      "score": 68,
+      "domain": "engineering",
+      "description": "Build and maintain deterministic runtime services backing agent workflows with typed state, evidence and tool contracts. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "product-acceptance-criteria-specialist",
+      "score": 68,
+      "domain": "product",
+      "description": "Use for product work requiring the Acceptance Criteria Specialist role: acceptance criteria; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-ai-product-manager",
+      "score": 68,
+      "domain": "product",
+      "description": "Use for product work requiring the AI Product Manager role: ai product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-analytics-specialist",
+      "score": 68,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Analytics Specialist role: product analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-chief-product-officer-advisor",
+      "score": 68,
+      "domain": "product",
+      "description": "Use for product work requiring the Chief Product Officer Advisor role: chief product officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-critic",
+      "score": 68,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Critic role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-customer-interview-specialist",
+      "score": 68,
+      "domain": "product",
+      "description": "Use for product work requiring the Customer Interview Specialist role: customer interview; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-discovery-specialist",
+      "score": 68,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Discovery Specialist role: product discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-experiment-designer",
+      "score": 68,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Experiment Designer role: product experiment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "bob-agentic-sdlc-mode-designer",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "A complete workflow for designing, configuring, and deploying IBM Project Bob custom modes that act as an autonomous \"Digital Workforce Swarm\" for the Agentic Engineering SDLC. Use when a user asks to create Bob modes, build an agentic SDLC pipeline, replace manual SDLC roles (like BAs, QA, or Release Coordinators) with agents, or configure a swarm architecture in IBM Project Bob."
+    },
+    {
+      "slug": "webdev-readme-mobile-backend",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Manus webdev mobile-app (Expo) projects \u2014 backend development guide (Manus auth, database/Drizzle, tRPC API, env, testing, integrations). MUST read BEFORE using any backend/server/database features in a mobile-app project."
+    },
+    {
+      "slug": "system-engineering-architect",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "Use when the user wants to design a system, architect a distributed service, create a technical architecture, or asks Bob to plan infrastructure, APIs, storage, or scalability for any application. Guides Bob through the IBM 5-Phase Architectural Workflow \u2014 requirements, API design, functional decomposition, scale optimization, and resilience review \u2014 enforcing storage justification, path separation, and NFR-driven decisions."
+    },
+    {
+      "slug": "advanced-web-developer",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "A power-stacked web development workflow that combines Google Stitch (AI mockup generation), Nano Banana 2 (image-based slide presentations), 21st.dev Magic (3D and reactive React component library), and the UI/UX Pro Max design system engine. Use this skill when building any web application, landing page, dashboard, or product UI where you need to go from concept to production-ready code with maximum visual quality and speed. Triggers on tasks involving web design, UI mockups, component generation, design systems, frontend development, or client presentations."
+    },
+    {
+      "slug": "eos-developer-productivity",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Eos Developer Productivity for Engineering. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-engineering-architecture",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Eos Engineering Architecture for Engineering. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-engineering-testing",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Eos Engineering Testing for Engineering. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-release-management",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Eos Release Management for Engineering. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-software-development-governance",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Eos Software Development Governance for Engineering. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-security-architecture-review",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Security Architecture Review for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-solution-architecture-assure",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Assess a proposed architecture option for evidence support, integration assumptions, security/dependency risks, and required technical approvals. Use when the IBM Sales control mode selects capability `solution-assurance.architecture-assure` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    }
+  ],
+  "primary_accountable": [
+    "advanced-web-developer",
+    "ai-automation-lbo",
+    "ai-engineering-agent-architect",
+    "ai-engineering-agent-cost-optimization-specialist",
+    "ai-engineering-agent-evaluation-specialist",
+    "ai-engineering-agent-latency-optimization-specialist",
+    "ai-engineering-agent-observability-engineer",
+    "ai-engineering-agent-runtime-engineer",
+    "ai-engineering-agent-workflow-designer",
+    "ai-engineering-ai-architect",
+    "ai-engineering-ai-governance-engineer",
+    "ai-engineering-ai-red-team-reviewer",
+    "ai-engineering-ai-reliability-engineer",
+    "ai-engineering-ai-safety-engineer",
+    "ai-engineering-computer-use-agent-engineer",
+    "ai-engineering-context-engineer",
+    "ai-engineering-hallucination-analyst",
+    "ai-engineering-knowledge-graph-engineer",
+    "ai-engineering-llm-application-architect",
+    "ai-engineering-llm-evaluation-specialist",
+    "ai-engineering-mcp-architect",
+    "ai-engineering-memory-systems-engineer",
+    "ai-engineering-model-evaluation-engineer",
+    "ai-engineering-model-selection-analyst",
+    "ai-engineering-multi-agent-systems-architect",
+    "ai-engineering-orchestrator",
+    "ai-engineering-prompt-engineer",
+    "ai-engineering-rag-engineer",
+    "ai-engineering-retrieval-architect",
+    "ai-engineering-tool-use-architect",
+    "automation-api-automation-specialist",
+    "automation-workflow-testing-specialist",
+    "bob-agentic-sdlc-mode-designer",
+    "cio-security-architecture-review",
+    "design-assess-privacy-by-design",
+    "design-define-service-requirements",
+    "design-design-inclusive-content",
+    "design-evaluate-accessibility",
+    "design-frame-design-challenge",
+    "design-prepare-design-handoff",
+    "design-prioritize-service-opportunities",
+    "design-product-designer",
+    "design-prototype-service-interactions",
+    "design-qa-specialist",
+    "design-run-usability-testing",
+    "engineering-accessibility-quality-review",
+    "engineering-api-contract-review",
+    "engineering-api-engineer",
+    "engineering-architecture-decision-record",
+    "engineering-architecture-decision-recording",
+    "engineering-architecture-reviewer",
+    "engineering-automated-testing",
+    "engineering-backend-engineer",
+    "engineering-backlog-refinement-support",
+    "engineering-ci-cd-specialist",
+    "engineering-ci-pipeline-failure-analysis",
+    "engineering-cloud-engineer",
+    "engineering-code-review",
+    "engineering-code-review-preparation",
+    "engineering-code-reviewer",
+    "engineering-codebase-exploration-brief",
+    "engineering-configuration-change-management",
+    "engineering-continuous-integration",
+    "engineering-cto-advisor",
+    "engineering-data-infrastructure-engineer",
+    "engineering-database-engineer",
+    "engineering-database-migration-readiness",
+    "engineering-debugging-specialist",
+    "engineering-delivery-performance-improvement",
+    "engineering-delivery-planning",
+    "engineering-dependency-analyst",
+    "engineering-dependency-update-assessment",
+    "engineering-developer-environment-readiness",
+    "engineering-developer-experience-engineer",
+    "engineering-developer-productivity-insight",
+    "engineering-devops-engineer",
+    "engineering-distributed-systems-engineer",
+    "engineering-documentation-coverage-review",
+    "engineering-documentation-engineer",
+    "engineering-enterprise-application-architect",
+    "engineering-feature-flag-readiness",
+    "engineering-frontend-engineer",
+    "engineering-full-stack-engineer",
+    "engineering-incident-postmortem-preparation",
+    "engineering-infrastructure-engineer",
+    "engineering-integration-engineer",
+    "engineering-issue-backlog-health",
+    "engineering-migration-specialist",
+    "engineering-mobile-quality-readiness",
+    "engineering-observability-engineer",
+    "engineering-observability-incident-response",
+    "engineering-observability-instrumentation-review",
+    "engineering-open-source-compliance-prep",
+    "engineering-orchestrator",
+    "engineering-performance-engineer",
+    "engineering-performance-regression-analysis",
+    "engineering-platform-engineer",
+    "engineering-qa-engineer",
+    "engineering-refactoring-specialist",
+    "engineering-release-deployment-management",
+    "engineering-release-engineer",
+    "engineering-release-notes-preparation",
+    "engineering-release-readiness-gate",
+    "engineering-reliability-engineer",
+    "engineering-requirements-traceability",
+    "engineering-requirements-traceability-review",
+    "engineering-secure-sdlc-assurance",
+    "engineering-site-reliability-engineer",
+    "engineering-software-architect",
+    "engineering-software-supply-chain-governance",
+    "engineering-systems-architect",
+    "engineering-technical-debt-analyst",
+    "engineering-technical-debt-prioritization",
+    "engineering-test-automation-engineer",
+    "engineering-test-failure-triage",
+    "engineering-test-plan-design",
+    "enterprise-adapter-contract-engineer",
+    "enterprise-domain-observability-engineer",
+    "enterprise-harness-release-engineer",
+    "enterprise-runtime-harness-engineer",
+    "eos-developer-productivity",
+    "eos-engineering-architecture",
+    "eos-engineering-testing",
+    "eos-release-management",
+    "eos-software-development-governance",
+    "hardware-benchmark-analyst",
+    "hardware-compatibility-analyst",
+    "hardware-compute-infrastructure-specialist",
+    "hardware-edge-computing-specialist",
+    "hardware-infrastructure-capacity-planner",
+    "hardware-infrastructure-reliability-analyst",
+    "hardware-infrastructure-reviewer",
+    "hardware-networking-architect",
+    "hardware-orchestrator",
+    "hardware-procurement-specialist",
+    "hardware-server-infrastructure-specialist",
+    "hardware-specialist",
+    "hardware-storage-architect",
+    "hardware-systems-architect",
+    "ibm-career-software-engineering-front-end-developer",
+    "ibm-career-software-engineering-full-stack-developer",
+    "ibm-career-software-engineering-software-engineer",
+    "ibm-career-software-engineering-test-engineer",
+    "ibm-des-002",
+    "ibm-des-003",
+    "ibm-des-004",
+    "ibm-des-005",
+    "ibm-des-006",
+    "ibm-des-007",
+    "ibm-des-010",
+    "ibm-des-atl-001",
+    "ibm-des-atl-002",
+    "ibm-des-csm-001",
+    "ibm-des-iss-001",
+    "ibm-des-sa-001",
+    "ibm-des-seng-001",
+    "ibm-des-seng-002",
+    "ibm-des-tss-002",
+    "ibm-fde",
+    "ibm-sales-ext-data-knowledge-curate",
+    "ibm-sales-ext-solution-architecture-assure",
+    "product-backlog-governance",
+    "product-customer-problem-discovery",
+    "product-experiment-design",
+    "product-portfolio-prioritization",
+    "product-privacy-by-design-review",
+    "product-prototype-validation",
+    "product-requirements-analyst",
+    "product-requirements-traceability",
+    "product-roadmap-planning",
+    "relentless-developer",
+    "shared-execution-release-specialist",
+    "shared-execution-testing-specialist",
+    "solutions-designer-architect",
+    "system-engineering-architect",
+    "tls-first-call-preparation-agent",
+    "tsc-devops-loop-test-manager",
+    "tsc-ets-backend-engineer",
+    "tsc-measure-analytics",
+    "tsc-oms-mcp-engineer",
+    "tsc-secure-config-onboarding",
+    "tsc-technical-spec-writer",
+    "webdev-data-api",
+    "webdev-readme-mobile-backend",
+    "webdev-voice-transcription",
+    "wxo-adk-agent-build",
+    "wxo-adk-agentops",
+    "wxo-adk-flows-build",
+    "wxo-adk-install-setup",
+    "wxo-adk-tools-build",
+    "wxo-adk-troubleshoot",
+    "wxo-adk-workspace"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

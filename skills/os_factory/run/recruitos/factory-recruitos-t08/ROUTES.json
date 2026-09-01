@@ -1,0 +1,27 @@
+{
+  "pocket": "recruitos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-onboarding-specialist",
+    "people-onboarding-readiness-assessment",
+    "people-requisition-management",
+    "people-structured-selection",
+    "people-accommodation-handoff-preparation",
+    "people-candidate-assessment",
+    "people-candidate-screening-preparation",
+    "people-onboarding-administration",
+    "people-interview-coordination-readiness",
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "people-requisition-quality-review",
+    "people-offer-approval-preparation",
+    "procurement-develop-sourcing-strategy",
+    "agency-operations-change-impact-assessment",
+    "legal-third-party-risk-assessment",
+    "product-release-readiness-assessment",
+    "research-certainty-assessment",
+    "intelligence-manage-feedback-and-reassessment",
+    "people-job-architecture"
+  ]
+}

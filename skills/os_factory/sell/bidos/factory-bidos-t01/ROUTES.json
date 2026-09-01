@@ -1,0 +1,27 @@
+{
+  "pocket": "bidos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-pro-002",
+    "ibm-pro-004",
+    "ibm-pro-005",
+    "ibm-pro-006",
+    "ibm-pro-apm-001",
+    "ibm-pro-atl-001",
+    "ibm-pro-cp-001",
+    "ibm-pro-sa-001",
+    "ibm-pro-tss-001",
+    "government-manage-grants-lifecycle",
+    "sales-contract-approval",
+    "sales-proposal-management",
+    "sales-opportunity-qualification",
+    "sales-stage-governance",
+    "ibm-pro-011",
+    "procurement-category-opportunity-analysis",
+    "procurement-demand-intake-qualification",
+    "government-grant-research-specialist",
+    "government-grant-writer",
+    "government-procurement-specialist"
+  ]
+}

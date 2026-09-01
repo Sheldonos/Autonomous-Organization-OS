@@ -1,0 +1,74 @@
+{
+  "pocket": "ventureos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Thesis & opportunity framing Team",
+      "stage": 1,
+      "responsibility": "Thesis & opportunity framing",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Market and customer discovery Team",
+      "stage": 2,
+      "responsibility": "Market and customer discovery",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Business model & economics Team",
+      "stage": 3,
+      "responsibility": "Business model & economics",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Validation experiments Team",
+      "stage": 4,
+      "responsibility": "Validation experiments",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Product definition Team",
+      "stage": 5,
+      "responsibility": "Product definition",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Build coordination Team",
+      "stage": 6,
+      "responsibility": "Build coordination",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Launch & GTM Team",
+      "stage": 7,
+      "responsibility": "Launch & GTM",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Capital and operating cadence Team",
+      "stage": 8,
+      "responsibility": "Capital and operating cadence",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

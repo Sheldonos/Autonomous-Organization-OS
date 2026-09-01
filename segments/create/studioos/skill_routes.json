@@ -1,0 +1,1023 @@
+{
+  "schema_version": "2.0",
+  "pocket": "studioos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 50,
+  "skills": [
+    {
+      "slug": "media-content-capture",
+      "score": 82,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Content Capture** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-content-capture`, `content-capture`, or the corresponding professional workflow: Produce and capture content | execute approved script, shot list, editorial plan, and technical specifications while logging deviations and incidents | handoff to director/editor, camera/sound departments, production coordinator, and post-production"
+    },
+    {
+      "slug": "media-post-production-editing",
+      "score": 82,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Post Production Editing** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-post-production-editing`, `post-production-editing`, or the corresponding professional workflow: Produce and capture content | execute approved script, shot list, editorial plan, and technical specifications while logging deviations and incidents | handoff to director/editor, camera/sound departments, production coordinator, and post-production"
+    },
+    {
+      "slug": "script-to-film-production",
+      "score": 75,
+      "domain": "shared-execution",
+      "description": "Activate when a finished, locked screenplay (plus optional director's notes) is provided and the request is to produce the film itself. This is the production kernel of the entire AI media library \u2014 the four-phase autonomous workflow (Film Bible \u2192 shot-by-shot generation \u2192 audio \u2192 assembly) executed on Higgsfield.ai. All other film-producing skills (anime-series-production, tv-series-production, feature-film-production, book-to-film-adaptation, music-video-production) delegate their shot generation phase to this skill."
+    },
+    {
+      "slug": "feature-film-production",
+      "score": 73,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests a complete feature-length film from a concept, treatment, or draft script \u2014 end-to-end, from screenplay development through 4K delivered master. Chains the full eight-stage scriptwriting pipeline into the four-phase Higgsfield production workflow. Delegates the production phase to script-to-film-production once the screenplay is locked."
+    },
+    {
+      "slug": "media-post-production-planner",
+      "score": 71,
+      "domain": "media",
+      "description": "Use for media work requiring the Post-Production Planner role: post-production; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-distribution-packaging",
+      "score": 70,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Distribution Packaging** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-distribution-packaging`, `distribution-packaging`, or the corresponding professional workflow: Manage ingest, metadata, and asset versioning | validate media integrity, backups, naming, timecode, rights metadata, chain of custody, and version status | handoff to media manager, editor, colorist, sound team, archive, and distribution operations"
+    },
+    {
+      "slug": "media-content-performance-review",
+      "score": 65,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Content Performance Review** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-content-performance-review`, `content-performance-review`, or the corresponding professional workflow: Measure performance and manage corrections | review audience, engagement, completion, complaints, takedowns, and rights or factual issues"
+    },
+    {
+      "slug": "media-correction-takedown-governance",
+      "score": 65,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Correction Takedown Governance** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-correction-takedown-governance`, `correction-takedown-governance`, or the corresponding professional workflow: Measure performance and manage corrections | review audience, engagement, completion, complaints, takedowns, and rights or factual issues"
+    },
+    {
+      "slug": "ai-media-orchestrator",
+      "score": 64,
+      "domain": "ai-engineering",
+      "description": "Use when the user wants to produce any AI-generated media \u2014 anime, TV series, feature film, book adaptation, music video, face swap, or short-form social content. Routes the request to the correct specialist skill (anime-series-production, tv-series-production, feature-film-production, book-to-film-adaptation, script-to-film-production, music-video-production, identity-replacement-pipeline, short-form-derivative-production) and enforces the 4-level agent hierarchy. Activate on phrases like \"make a film\", \"create an anime\", \"produce a music video\", \"recast this character\", \"make TikToks from this\", or any end-to-end media production request."
+    },
+    {
+      "slug": "book-to-film-adaptation",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Activate when the user provides a novel, novella, non-fiction book, or other long-form prose work and requests a film adaptation. Performs faithful narrative compression from prose (60,000\u2013150,000+ words) to screenplay (15,000\u201320,000 words), then produces the film via feature-film-production and script-to-film-production. Triggers on phrases like \"adapt this book\", \"turn this novel into a film\", \"make a movie from this manuscript\"."
+    },
+    {
+      "slug": "music-video-production",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Activate when the user provides a song (MP3 plus lyrics) and requests a music video. Executes the lyric-analysis \u2192 clip-sourcing \u2192 beat-sync \u2192 polish \u2192 export pipeline using Gemini as creative director and CapCut for editing. Supports Track A (no-code, free tools) and Track B (automated Python/yt-dlp). Optionally invokes script-to-film-production for original generative footage instead of sourced clips."
+    },
+    {
+      "slug": "media-accessibility-localization",
+      "score": 62,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Accessibility Localization** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-accessibility-localization`, `accessibility-localization`, or the corresponding professional workflow: Create accessible deliverables | plan and quality-check captions, transcripts, speaker identification, audio description, readable graphics, and synchronized timing | handoff to accessibility specialist, localization vendor, platform operations, and final approver"
+    },
+    {
+      "slug": "media-creative-briefing",
+      "score": 62,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Creative Briefing** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-creative-briefing`, `creative-briefing`, or the corresponding professional workflow: Develop creative brief and editorial requirements | approve audience, message, format, budget, schedule, and success criteria before greenlighting | handoff to executive sponsor, commissioning editor, producer, and client"
+    },
+    {
+      "slug": "media-mastering-quality-control",
+      "score": 62,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Mastering Quality Control** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-mastering-quality-control`, `mastering-quality-control`, or the corresponding professional workflow: Prepare risk and safety plan | identify hazards, determine controls, appoint competent safety leads, and stop or modify work when risk is unacceptable | handoff to safety advisor, production manager, crew, insurers, and relevant authorities"
+    },
+    {
+      "slug": "media-provenance-tracking",
+      "score": 62,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Provenance Tracking** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-provenance-tracking`, `provenance-tracking`, or the corresponding professional workflow: Develop creative brief and editorial requirements | approve audience, message, format, budget, schedule, and success criteria before greenlighting | handoff to executive sponsor, commissioning editor, producer, and client"
+    },
+    {
+      "slug": "rspkt-web-designer",
+      "score": 62,
+      "domain": "shared-execution",
+      "description": "A complete creative production system reverse-engineered from Rspkt.co - a full-service creative agency run by Adobe Bryant in Green Bay, WI. This skill encodes not just their web design aesthetic, but their entire creative methodology: brand strategy, visual identity, photography direction, video content, brand voice, and web development. It dynamically adapts every output to the client's geography, audience, services, and brand energy - ensuring no two websites or brand systems are ever the same. Use when building a complete brand from the ground up, redesigning an existing brand, or producing a premium website for any creative agency, restaurant, fitness studio, entertainment brand, product company, or culturally-rooted organization."
+    },
+    {
+      "slug": "media-animation-workflow-specialist",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Animation Workflow Specialist role: animation workflow; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-casting-research-specialist",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Casting Research Specialist role: casting research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-distribution-preparation-specialist",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Distribution Preparation Specialist role: distribution preparation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-editorial-fact-checking",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Editorial Fact Checking** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-editorial-fact-checking`, `editorial-fact-checking`, or the corresponding professional workflow: Edit and fact-check | select takes, shape narrative, verify claims, maintain source notes, resolve continuity issues, and obtain editorial sign-off | handoff to editor, producer, subject-matter reviewer, standards/legal, and approver"
+    },
+    {
+      "slug": "media-media-asset-management",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Media Asset Management** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-media-asset-management`, `media-asset-management`, or the corresponding professional workflow: Clear rights and releases | verify ownership, licenses, music/footage/asset permissions, talent releases, location releases, and territory/term/media restrictions | handoff to legal/business affairs, rights holders, talent representatives, and delivery team"
+    },
+    {
+      "slug": "media-production-coordinator",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Production Coordinator role: production coordinator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-production-designer",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Production Designer role: production; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-production-scheduling",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Production Scheduling** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-production-scheduling`, `production-scheduling`, or the corresponding professional workflow: Plan production and resource schedule | choose locations, crew, equipment, vendors, milestones, dependencies, and contingency paths | handoff to line producer, production manager, department heads, procurement, and finance"
+    },
+    {
+      "slug": "media-release-management",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Release Management** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-release-management`, `release-management`, or the corresponding professional workflow: Clear rights and releases | verify ownership, licenses, music/footage/asset permissions, talent releases, location releases, and territory/term/media restrictions | handoff to legal/business affairs, rights holders, talent representatives, and delivery team"
+    },
+    {
+      "slug": "media-rights-clearance",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Rights Clearance** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-rights-clearance`, `rights-clearance`, or the corresponding professional workflow: Clear rights and releases | verify ownership, licenses, music/footage/asset permissions, talent releases, location releases, and territory/term/media restrictions | handoff to legal/business affairs, rights holders, talent representatives, and delivery team"
+    },
+    {
+      "slug": "media-safety-risk-planning",
+      "score": 59,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Safety Risk Planning** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-safety-risk-planning`, `safety-risk-planning`, or the corresponding professional workflow: Prepare risk and safety plan | identify hazards, determine controls, appoint competent safety leads, and stop or modify work when risk is unacceptable | handoff to safety advisor, production manager, crew, insurers, and relevant authorities"
+    },
+    {
+      "slug": "media-script-analyst",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Script Analyst role: script; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-script-editor",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Script Editor role: script editor; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-story-editor",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Story Editor role: story editor; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-story-producer",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Story Producer role: story producer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-video-editor",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Video Editor role: video editor; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-video-qa-reviewer",
+      "score": 59,
+      "domain": "media",
+      "description": "Use for media work requiring the Video QA Reviewer role: video qa; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-concept-developer",
+      "score": 57,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Creative Concept Developer role: creative concept developer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "anime-series-production",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests creation of anime-style content \u2014 a series, season, episode, OVA, or anime short \u2014 from a concept, manga source, or series bible. Produces stylized, episodic animated content with locked character designs and genre-correct cinematography. Delegates the shot generation loop to script-to-film-production with anime parameterization."
+    },
+    {
+      "slug": "creative-art-director",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Art Director role: art; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-brand-designer",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Brand Designer role: brand; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-brand-narrative-specialist",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Brand Narrative Specialist role: brand narrative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-campaign-creative-strategist",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Campaign Creative Strategist role: campaign creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-copywriter",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Creative Copywriter role: creative copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-graphic-design-advisor",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Graphic Design Advisor role: graphic design; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-naming-strategist",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Naming Strategist role: naming; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-orchestrator",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Creative Orchestrator role: creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-reviewer",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Creative Reviewer role: creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-strategist",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Creative Strategist role: creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "creative-visual-identity-specialist",
+      "score": 54,
+      "domain": "creative",
+      "description": "Use for creative work requiring the Visual Identity Specialist role: visual identity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "film-studio-os-onboarding",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Connect and orient a new user to the IBM Bob \u00d7 Higgsfield MCP Cinema Studio workspace. Runs a guided onboarding sequence that validates environment readiness, maps the user's role and intent to the right Bob modes and skills, explains the Bob \u2194 Higgsfield MCP governance chain, and routes them into the correct first production activity."
+    },
+    {
+      "slug": "pilot-explainer",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "After any Film Studio OS pilot run, narrate what just happened in plain language. Explains what the pilot produced, what each phase of the output means, and how it maps to a real film production \u2014 with no jargon."
+    },
+    {
+      "slug": "script-breakdown-scheduling",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Convert a locked screenplay into traceable element breakdowns, stripboard logic, schedule and budget scenarios without claiming a final production plan."
+    },
+    {
+      "slug": "tv-series-production",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests multi-episode serialized content \u2014 a television series, season, mini-series, or web series \u2014 in any live-action-style genre. Manages season-level narrative architecture, per-episode production, and cross-episode continuity. Delegates per-episode shot generation to script-to-film-production."
+    },
+    {
+      "slug": "media-character-development-specialist",
+      "score": 51,
+      "domain": "media",
+      "description": "Use for media work requiring the Character Development Specialist role: character development; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-costume-concept-specialist",
+      "score": 51,
+      "domain": "media",
+      "description": "Use for media work requiring the Costume Concept Specialist role: costume concept; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-accessibility-specialist",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Media Accessibility Specialist role: media accessibility; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-captioning-specialist",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Captioning Specialist role: captioning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-cinematography-planner",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Cinematography Planner role: cinematography; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-creative-director",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Creative Director role: creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-dialogue-specialist",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Dialogue Specialist role: dialogue; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-executive-producer",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Executive Producer role: executive producer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-location-researcher",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Location Researcher role: location; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-music-supervision-planner",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Music Supervision Planner role: music supervision; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-narrative-designer",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Narrative Designer role: narrative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-orchestrator",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Media Orchestrator role: media; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-producer",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Producer role: producer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-scene-designer",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Scene Designer role: scene; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-screenwriter",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Screenwriter role: screenwriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-shot-planner",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Shot Planner role: shot; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-sound-design-planner",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Sound Design Planner role: sound design; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-storyboard-specialist",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Storyboard Specialist role: storyboard; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-vfx-workflow-specialist",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the VFX Workflow Specialist role: vfx workflow; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "media-visual-reference-specialist",
+      "score": 48,
+      "domain": "media",
+      "description": "Use for media work requiring the Visual Reference Specialist role: visual reference; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "higgsfield-production-bridge",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Discover Higgsfield capabilities and prepare governed image, video or audio jobs through the official CLI boundary."
+    },
+    {
+      "slug": "ibm-bob-ads-creative",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Audit paid-ad copy, images, video, hooks, concepts, format coverage, platform-native fit, message match, creative fatigue, accessibility, and policy across supported platforms. Use for creative audit, ad creative, creative fatigue, creative diversity, ad copy review, video review, image review, or production priorities. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "master-storytelling",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Build, diagnose, and improve compelling stories for videos, speeches, presentations, social posts, brand narratives, personal anecdotes, and educational content. Use when a user asks to become a better storyteller, write or edit a story, improve audience retention, create short-form video scripts, add emotional stakes, build hooks, or turn bland information into a memorable narrative."
+    },
+    {
+      "slug": "repository-release-audit",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Audit the Film Studio OS repository through discovery, classified findings, gated remediation, verification and release triage."
+    },
+    {
+      "slug": "animated-series-producer",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "A complete workflow for breaking down a script into an instruction manual for animated series production, utilizing the Amir Mushich 5-Phase Directing Framework. Use when a user uploads a script and character reference images and wants to generate high-end, cinematic director briefs for each scene, along with start and end keyframe images."
+    },
+    {
+      "slug": "bob-package-validation",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Validate Film Studio OS Bob modes, personas, skills, MCP config, hooks and references against current project conventions."
+    },
+    {
+      "slug": "costume-hair-makeup",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Design character appearance, costume plots, fittings and continuity states across story time, scenes and production methods."
+    },
+    {
+      "slug": "ibm-bob-demo-generator",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "A framework for generating \"WOW-First\" 5-minute leave-behind demo videos using IBM Project Bob. It pulls validated small-to-mid-sized app ideas from Reddit, builds a working PostgreSQL-backed prototype, and structures a demo script that starts with the final working app and works backwards to the prompt. Use when a user asks to create a client engagement demo, a leave-behind video, or a quick IBM Bob showcase for a prospect or customer."
+    },
+    {
+      "slug": "script-audit-revision",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Run independent multi-pass screenplay diagnosis, ranked revision planning and regression verification without silent rewrites."
+    },
+    {
+      "slug": "short-form-derivative-production",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests short-form social media content (TikToks, Instagram Reels, YouTube Shorts) derived from existing master videos, films, or anime produced by other skills in the library. Manages vertical reframing, hook optimization, and dynamic captioning. Triggers on phrases like \"make TikToks from this\", \"create Reels from this film\", \"cut this for social media\", \"make Shorts from this anime episode\"."
+    },
+    {
+      "slug": "advanced-web-developer",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "A power-stacked web development workflow that combines Google Stitch (AI mockup generation), Nano Banana 2 (image-based slide presentations), 21st.dev Magic (3D and reactive React component library), and the UI/UX Pro Max design system engine. Use this skill when building any web application, landing page, dashboard, or product UI where you need to go from concept to production-ready code with maximum visual quality and speed. Triggers on tasks involving web design, UI mockups, component generation, design systems, frontend development, or client presentations."
+    },
+    {
+      "slug": "master-developer",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Embodies a perfectionist master developer with an encyclopedic knowledge of technology, software, AI, and system integrations. This skill ensures flawless, production-ready execution of technical tasks with zero oversights. Use for critical software development projects that demand the highest standards of quality, security, and performance."
+    },
+    {
+      "slug": "agent-operations-and-learning",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Define runtime operations, observability, incidents, cost controls, knowledge refresh, and governed learning for IBM Mode capabilities. Use for pilot readiness, production operation, performance issues, or approved capability improvement."
+    },
+    {
+      "slug": "casting-performance-development",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Develop casting breakdowns, audition materials and evidence-based evaluation plans while preserving human hiring, consent and accessibility authority."
+    },
+    {
+      "slug": "character-visual-development",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Build production-grade character reference packages spanning identity, turnaround, expression, silhouette, scale and approved look continuity."
+    },
+    {
+      "slug": "demo-guide-architect",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "A complete workflow for transforming a raw product demo framework document into a polished, audience-calibrated demo guide. Use when a user provides a draft demo script, booth guide, or demonstration framework and asks to refine, finalize, or tailor it for a specific event or audience (e.g., a military symposium, enterprise conference, or government exposition). Produces a final Markdown and PDF guide where audience intelligence is woven into the narrative \u2014 not appended \u2014 so presenters speak the audience's language at every step."
+    },
+    {
+      "slug": "game-dev",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Build playable browser games (Babylon.js) end-to-end using the godogen production pipeline adapted to Manus. Use when the user wants to make, generate, rebuild, or substantially extend a web/browser game from a natural-language brief. Runs godogen's staged workflow (visual target, risk decomposition, scaffold, architecture, asset generation, implementation, visual verification) but hosts the game in a Manus WebDev project, replaces godogen's paid art CLIs (Gemini/Grok/Tripo3D) with Manus built-in image generation, and deploys through WebDev Publish instead of temporary links."
+    },
+    {
+      "slug": "ibm-bob-ads-youtube",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Audit YouTube Ads campaign setup, video and Demand Gen inventory, Shorts, in-stream, CTV, creative, audiences, brand safety, bidding, and measurement. Use for YouTube Ads, video ads, pre-roll, bumper ads, skippable in-stream, Shorts ads, Demand Gen, VAC migration, CTV, or YouTube campaign optimization. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-eng-sdr-003",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for cold call script generator within IBM BOB's seller engagement lane. Use it when the seller needs the work product of seller, SDR, executive communications specialist, especially when the task should reduce manual research, analysis, writing, coordination, review, qualificat..."
+    },
+    {
+      "slug": "ibm-eng-sdr-004",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for voicemail script (<30 sec) within IBM BOB's seller engagement lane. Use it when the seller needs the work product of seller, SDR, executive communications specialist, especially when the task should reduce manual research, analysis, writing, coordination, review, qualificat..."
+    },
+    {
+      "slug": "ibm-met-sm-010",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for coaching conversation script within IBM BOB's sales method and quality lane. Use it when the seller needs the work product of sales manager, sales operations analyst, enablement lead, quality reviewer, especially when the task should reduce manual research, analysis, writin..."
+    },
+    {
+      "slug": "ibm-modes-to-skills",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Converts all IBM BOB selling modes (ibm-pre-*, ibm-eng-*, ibm-qua-*, ibm-des-*, ibm-pro-*, ibm-neg-*, ibm-clo-*, ibm-dep-*, ibm-ado-*, ibm-exp-*, ibm-met-*, ibm-fw-*, ibm-sdr-workflow-*, ibm-atl-*) into standalone SKILL.md files under ~/.bob/skills/, preserving every field \u2014 roleDefinition, customInstructions, whenToUse, and groups \u2014 without any dilution. Use when asked to \"convert IBM modes to skills\", \"create skills from IBM modes\", or \"run the IBM modes conversion script\"."
+    },
+    {
+      "slug": "lesson-builder",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Build one production-quality lesson with a complete evidence loop, age-appropriate pedagogy and explicit Bob/Nova boundaries."
+    },
+    {
+      "slug": "linkedin-storyteller",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "A skill for writing engaging, viral LinkedIn posts in a specific personal storytelling style. Use when a user wants to write a LinkedIn post that tells a personal story to convey a business or life lesson."
+    },
+    {
+      "slug": "marketing-distribution-strategy",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Develop audience, positioning, publicity, festival, sales and delivery strategies tied to rights, evidence and project maturity."
+    },
+    {
+      "slug": "model-routing",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Route a production task to a compatible provider/model using capability evidence, policy, privacy, quality, latency and cost constraints."
+    },
+    {
+      "slug": "olivia-lanes",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "A framework for writing in the voice and style of Dr. Olivia Lanes (Global Lead for Quantum Education at IBM). Use when a user asks to write a post, script, or article in the style of Olivia Lanes, or when communicating complex scientific topics with a blend of authority, accessibility, and dry humor."
+    },
+    {
+      "slug": "operations-production-schedule-exception",
+      "score": 34,
+      "domain": "operations",
+      "description": "Analyze production schedule exceptions, constraints, and decision dependencies. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Production Operations Capability Director."
+    },
+    {
+      "slug": "project-intake-diagnostic",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Audit a new book, script, treatment or evidence package for missing decisions, risks and prioritized questions before development begins."
+    },
+    {
+      "slug": "rynne",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Generate a complete, production-ready Bob mentor ecosystem for any educational domain (Quantum Computing, Cloud Architecture, AI, Finance, etc.) by instantiating the QisBob 3-mode architecture: Orchestrator, Mentor (LEARN), and Builder/Vibe-Coder (DO). Produces dense YAML mode files, a FastMCP server with a domain suitability rubric, a wiring install.sh, README, and a pyproject.toml \u2014 all packaged as a zip. Use when a user asks to \"create a Bob mentor mode\", \"build a teaching agent ecosystem\", or \"generate a learning environment\" for any technical domain. Takes exactly one input: the domain topic name."
+    },
+    {
+      "slug": "supply-chain-production-scheduling",
+      "score": 34,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Production Scheduling** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-production-scheduling`, `production-scheduling`, or the corresponding professional workflow: Production and maintenance scheduling | sequence work against material, labor, equipment, quality, and service constraints"
+    },
+    {
+      "slug": "amir-mushich-prompt-writer",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "A framework for writing high-end, professional AI image and video generation prompts using the methodology of Creative Director Amir Mushich. Use when a user asks to generate professional brand visuals, product concepts, fashion lookbooks, or high-end editorial designs using AI (especially Nano Banana/Gemini or Veo3)."
+    },
+    {
+      "slug": "builtin-llm-models",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Reference for Manus's built-in LLM catalog and how to call it correctly. Readthis BEFORE writing any script that calls LLMs in bulk (summarization,translation, classification, extraction, deep analysis, judging/evaluation,map/parallel fan-out) inside the sandbox, AND before using the built-in LLM ina webdev project (invokeLLM / listLLMModels). Use it to discover which modelsexist, each model's price/capabilities, how to pick one, the exact requestshapes (thinking/reasoning, JSON-schema structured output, vision, tools), andthe per-model gotchas (max-token handling, reasoning syntax) verified againstthe live proxy."
+    },
+    {
+      "slug": "character-architecture",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Create and audit character identity, wants/needs, arcs, relationships, state and voice anchors for production."
+    },
+    {
+      "slug": "coverage-storyboard-previs",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Design coverage, storyboard/animatic timing and generation-risk previs before expensive shot production."
+    },
+    {
+      "slug": "cultural-website-rebuilder",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Rebuild or redesign an existing website with an authentic cultural theme rooted in a specific heritage, tradition, or geographic identity. Produces a visually immersive, hand-crafted result by combining AI-generated cultural imagery, culturally-specific typography, a thematically coherent color palette, and section content that reflects genuine cultural knowledge. Use when a user asks to redesign, rebuild, or retheme a website with cultural authenticity \u2014 e.g., Cuban dance school, West African textile brand, Japanese tea ceremony studio, Mexican folk art gallery, or any culturally-rooted organization."
+    },
+    {
+      "slug": "evaluation-and-release-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Test, certify, promote, update, or retire IBM Mode capability packages. Use before pilot or production release and after material changes to skills, knowledge, tools, models, policies, or authority."
+    },
+    {
+      "slug": "ibm-bob-ads-create",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Create source-grounded paid-ad campaign concepts, messaging, copy, creative briefs, and production plans from a validated brand profile, campaign objective, platform requirements, and optional audit evidence. Triggers on: campaign brief, campaign concepts, create a campaign, ad concepts, ad copy, ad messaging, creative brief, headlines, descriptions. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-ads-photoshoot",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Generate rights-cleared paid-ad product photography variants from an authorized source image and validated brand profile. Triggers on: product photo, product photography, virtual photoshoot, photoshoot, enhance product image, studio shot, lifestyle shot, lifestyle product image, floating product image, ingredient shot. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-bob-modernization-sprint-agent",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires **bob-centered engineering acceleration** involving IBM Project Bob, especially when the user expects the work product of a senior delivery engineer, production readiness lead, or modernization sprint lead. Activate it for discovery, planning, configuration d..."
+    },
+    {
+      "slug": "ibm-bob-production-readiness-agent",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires **bob-centered engineering acceleration** involving IBM Project Bob, especially when the user expects the work product of a senior delivery engineer, production readiness lead, or modernization sprint lead. Activate it for discovery, planning, configuration d..."
+    },
+    {
+      "slug": "ibm-des-009",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Activate this mode for demo script generator within IBM BOB's solution design and value architecture lane. Use it when the seller needs the work product of solution consultant, value engineer, technical sales architect, especially when the task should reduce manual research, analysis, writing, co..."
+    },
+    {
+      "slug": "ibm-des-tss-001",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Activate this mode for demo script generator (tss) within IBM BOB's solution design and value architecture lane. Use it when the seller needs the work product of solution consultant, value engineer, technical sales architect, especially when the task should reduce manual research, analysis, writi..."
+    },
+    {
+      "slug": "ibm-i-builder",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "IBM i DO skill \u2014 generates production-ready ILE RPG, CL, and SQL code for IBM i (AS/400 / iSeries). Handles OPM-to-ILE migration, canonical template generation, CPF/MCH error interpretation, and job-log simulation. Operates independently of official IBM i package modes.\n"
+    },
+    {
+      "slug": "identity-replacement-pipeline",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests recasting, identity replacement, or face-swapping an existing video with a new digital actor, historical figure, or user-provided face. Executes the three-step identity replacement pipeline \u2014 extract master frame, replace face in still (Nano Banana Pro), synthesize motion (Kling Motion Control). Triggers on phrases like \"recast this character\", \"replace this face\", \"put [person] in this video\", \"swap the actor in this clip\"."
+    },
+    {
+      "slug": "keyframe-evaluation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Evaluate keyframes for composition, identity, world state, lighting, continuity and motion readiness before video generation."
+    },
+    {
+      "slug": "location-scouting-logistics",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Translate story needs into creative, technical, access, permit, logistics and safety location evaluation packages."
+    },
+    {
+      "slug": "motion-design",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Applies motion design principles to create emotionally-driven, technically sound animations and transitions.Provides timing, easing, choreography, and Disney animation principles adapted for UI.Use when creating animations, transitions, micro-interactions, loading states, page transitions,scroll-triggered effects, or any motion work. Works with CSS, Framer Motion, GSAP, Lottie, Spring,or any animation system."
+    },
+    {
+      "slug": "physical-production-operations",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Coordinate prep and shoot-day logistics, call-sheet inputs, crew handoffs, media flow and daily production reporting."
+    },
+    {
+      "slug": "pitch-master",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use when the user asks to write, structure, or critique a pitch, sales deck, debut presentation, investor narrative, cold open, sales script, or any persuasive business communication. Applies the world's most proven pitch frameworks (Strategic Narrative, STRONG Method, Grand Slam Offer, Golden Circle, StoryBrand, AIDA, Sequoia, 10/20/30) and the full Cialdini persuasion stack. Triggers on phrases like \"write me a pitch\", \"help me pitch this\", \"build a sales narrative\", \"create a deck outline\", \"write a cold open\", \"investor pitch\", \"make this more persuasive\"."
+    },
+    {
+      "slug": "product-user-story-specialist",
+      "score": 31,
+      "domain": "product",
+      "description": "Use for product work requiring the User Story Specialist role: user story; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "production-design-art-department",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Turn the world bible into buildable sets, props, graphics, dressing and virtual art-department execution packages."
+    },
+    {
+      "slug": "production-economics",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Track budget, schedule, attempts, latency, rework, stale-work cost, provider reliability and critical path for production decisions."
+    },
+    {
+      "slug": "production-safety-coordination",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Identify production hazards and route them to qualified human specialists without issuing safety, medical or legal approval."
+    },
+    {
+      "slug": "production-sound-capture",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Plan dialogue, ambience, playback, timecode, microphone and sound-report workflows for physical or hybrid production."
+    },
+    {
+      "slug": "production-team-simulation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Build a complete, role-by-role production contribution plan without impersonating regulated or human authorities."
+    },
+    {
+      "slug": "production_feasibility_audit",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Production Feasibility Audit specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "production_status_report",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Production Status Report specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "production_strategy_selection",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Production Strategy Selection specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "remotion-video-generator",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Create videos programmatically using React and Remotion. Use when generating videos from code, creating animated content, data visualizations, personalized videos, or any programmatic video generation task."
+    },
+    {
+      "slug": "scene-construction",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Turn approved story objectives into playable scenes with obstacles, tactics, turns, visual behavior and momentum."
+    },
+    {
+      "slug": "screenplay_format_validation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Screenplay Format Validation specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "shared-execution-script-builder",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for shared execution work requiring the Script Builder role: script builder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "story-architecture",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Design or diagnose premise, causal structure, escalation, reveals, setups/payoffs, climax and runtime allocation."
+    },
+    {
+      "slug": "supply-chain-distribution-network-analyst",
+      "score": 31,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Distribution Network Analyst role: distribution network; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-production-planning-analyst",
+      "score": 31,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Production Planning Analyst role: production planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "tsc-demo-storyboard",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use this mode when: - Preparing the ETS demo for customer presentation - User asks \"create a demo script\" - Creating speaker notes, screenshots list, or seeded data plan - Designing stakeholder-facing storyline - Preparing run-of-show for internal or customer demos - Validating demo flow and timing"
+    },
+    {
+      "slug": "video-resource-scout",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Find and recommend a small number of exact current educational videos/resources for a defined objective."
+    },
+    {
+      "slug": "video_generation_plan",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Video Generation Plan specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "enterprise-sales-pearl-gatherer",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "A strategic framework for enterprise sales opportunity analysis, transcript mining, and business-to-technical translation. Use when a user asks to analyze a sales opportunity, review client transcripts/10-Ks, map technical capabilities to business lines (like banking/payments), or craft client-facing sales narratives that align with buyer missions."
+    },
+    {
+      "slug": "persistent-computing",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "MUST read when user needs to run persistent services that WebDev or the default sandbox may not support (automation scripts, game servers, self-hosted open-source apps), or requires Docker, fixed IP, background jobs, heavy compute, or a reusable environment across sessions. MUST also read before develop/deploy any service on an attached persistent VM (Cloud Computer). Guides persistent computing solutions vs sandbox vs WebDev."
+    },
+    {
+      "slug": "slack-standup-summarizer",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use when the user wants to generate a Slack-ready daily standup summary from a meeting transcript, recording link, or follow-up notes. Triggers on phrases like \"summarize the standup\", \"generate a standup summary\", \"create a standup recap\", \"write up the standup\", or any request to turn a transcript or meeting notes into a Slack standup post."
+    },
+    {
+      "slug": "archive-reproduction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create immutable archive and reproduction manifests that trace final artifacts to exact sources, versions, decisions, attempts, QC and approvals."
+    },
+    {
+      "slug": "cio-it-forecasting",
+      "score": 20,
+      "domain": "cio-it",
+      "description": "CIO IT Forecasting for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "data-forecasting-analyst",
+      "score": 20,
+      "domain": "data",
+      "description": "Use for data work requiring the Forecasting Analyst role: forecasting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-product-description-writer",
+      "score": 20,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Product Description Writer role: product description; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "eos-enterprise-forecasting",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Forecasting for Finance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-sales-forecasting",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Eos Sales Forecasting for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "filmable_action_writing",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Filmable Action Writing specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "finance-forecasting-specialist",
+      "score": 20,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Forecasting Specialist role: forecasting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-rolling-forecasting",
+      "score": 20,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Rolling Forecasting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-rolling-forecasting`, `rolling-forecasting`, or the corresponding professional workflow: Rolling forecasting and reforecasting | refresh outlooks using actuals, operational drivers, market conditions, and approved initiatives"
+    },
+    {
+      "slug": "ibm-bob-ibmi-office-hours",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create client-ready IBM Bob for IBM i office-hours assets. Use when asked to prepare or revise an IBM Bob / IBM i / RPG modernization presentation, align to a client-provided agenda, research attendees, create hand-drawn Bob-style slides, produce client leave-behind master prompts, or generate presentation scripts for IBM i modernization meetings."
+    },
+    {
+      "slug": "ibm-bob-whiteboard-storyboard",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Reverse-engineer reference visuals into a reusable IBM Bob whiteboard storyboard theme and apply it to presentations, infographics, one-pagers, enablement decks, and seller workspace packages. Use when the user asks to recreate, extend, standardize, or package the hand-drawn IBM Bob visual style; add slides to an existing IBM Bob deck; create Bob-ready theme prompts; or produce consistent whiteboard-style sales enablement assets."
+    },
+    {
+      "slug": "ibm-exp-tss-001",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Activate this mode for renewal pipeline forecasting within IBM BOB's expansion and renewal lane. Use it when the seller needs the work product of renewal manager, customer success manager, expansion seller, especially when the task should reduce manual research, analysis, writing, coordination, r..."
+    },
+    {
+      "slug": "ibm-sales-scale-044",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Validate meeting notes or transcript-derived facts before they become account, opportunity, MEDDICC, or CRM evidence. Use when IBM Sales selects `discover.note-validate` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "ibm-sales-scale-052",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create a demo storyboard that links validated customer goals to approved capabilities, narrative sequence, proof points, environment constraints, and next questions. Use when IBM Sales selects `solution.demo-storyboard` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "people-job-description-writer",
+      "score": 20,
+      "domain": "people",
+      "description": "Use for people work requiring the Job Description Writer role: job description; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "reproduction_manifest",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Reproduction Manifest specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "revenue-operations-forecasting-analyst",
+      "score": 20,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Forecasting Analyst role: forecasting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "storyboard_plan",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Storyboard Plan specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    }
+  ],
+  "primary_accountable": [
+    "ai-media-orchestrator",
+    "animated-series-producer",
+    "anime-series-production",
+    "bob-package-validation",
+    "book-to-film-adaptation",
+    "character-visual-development",
+    "costume-hair-makeup",
+    "creative-art-director",
+    "creative-concept-developer",
+    "creative-copywriter",
+    "creative-naming-strategist",
+    "creative-orchestrator",
+    "creative-reviewer",
+    "creative-strategist",
+    "enterprise-sales-pearl-gatherer",
+    "feature-film-production",
+    "film-studio-os-onboarding",
+    "filmable_action_writing",
+    "higgsfield-production-bridge",
+    "ibm-bob-ads-creative",
+    "ibm-bob-ads-photoshoot",
+    "ibm-des-009",
+    "ibm-des-tss-001",
+    "ibm-i-builder",
+    "ibm-modes-to-skills",
+    "ibm-sales-scale-052",
+    "identity-replacement-pipeline",
+    "linkedin-storyteller",
+    "master-developer",
+    "media-post-production-planner",
+    "model-routing",
+    "motion-design",
+    "music-video-production",
+    "olivia-lanes",
+    "persistent-computing",
+    "pilot-explainer",
+    "repository-release-audit",
+    "scene-construction",
+    "screenplay_format_validation",
+    "script-audit-revision",
+    "script-breakdown-scheduling",
+    "script-to-film-production",
+    "shared-execution-script-builder",
+    "slack-standup-summarizer",
+    "story-architecture",
+    "storyboard_plan",
+    "tsc-demo-storyboard",
+    "tv-series-production",
+    "video-resource-scout",
+    "video_generation_plan"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

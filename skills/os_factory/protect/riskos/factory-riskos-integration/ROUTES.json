@@ -1,0 +1,27 @@
+{
+  "pocket": "riskos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cio-resilience-exercise-management",
+    "eos-enterprise-scenario-planning",
+    "continuity-control",
+    "generation_risk_previs",
+    "imitation_risk_audit",
+    "sales-renewal-management",
+    "enterprise-loop-budget-controller",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "chief-of-staff-risk-crisis-coordination",
+    "eos-control-management",
+    "it-integration-interface-assessment",
+    "legal-contract-closeout-records",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cio-business-continuity-planning",
+    "healthcare-patient-safety-event-management",
+    "cio-technology-concentration-risk",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management"
+  ]
+}

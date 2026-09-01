@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "dealos",
+  "title": "DealOS",
+  "segment": "sell",
+  "mission": "Discover, qualify, pursue, negotiate, close, and operationalize profitable commercial opportunities.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 170,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Opportunity discovery",
+    "Qualification & scoring",
+    "Account research",
+    "Offer & solution fit",
+    "Outreach / response",
+    "Proposal & negotiation",
+    "Approval & close",
+    "Billing, relationship memory & expansion"
+  ],
+  "handoffs": [
+    "researchos",
+    "bidos",
+    "revenueos",
+    "consultingos",
+    "legalos",
+    "executiveos"
+  ],
+  "connectors": [
+    "gmail",
+    "google_calendar",
+    "google_drive",
+    "supabase",
+    "hunter",
+    "sam_gov",
+    "usaspending",
+    "docusign",
+    "stripe",
+    "n8n"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "embedded_dealos_v1.0.1",
+  "adaptive_capability_ingestion": true
+}

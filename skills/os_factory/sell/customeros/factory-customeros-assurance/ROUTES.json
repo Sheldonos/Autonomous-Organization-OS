@@ -1,0 +1,27 @@
+{
+  "pocket": "customeros",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "customer-service-customer-save-case-preparation",
+    "customer-service-case-closure-quality-check",
+    "customer-service-service-level-risk-monitoring",
+    "customer-service-troubleshooting-plan-draft",
+    "customer-service-backlog-prioritization-support",
+    "customer-service-case-intake-classification",
+    "customer-service-digital-channel-health-review",
+    "customer-service-knowledge-evidence-retrieval",
+    "customer-service-self-service-gap-analysis",
+    "customer-service-accessibility-accommodation-handoff",
+    "customer-service-agent-coaching-preparation",
+    "customer-service-case-escalation-preparation",
+    "customer-service-complaint-classification",
+    "customer-service-cross-team-handoff-readiness",
+    "customer-service-entitlement-validation",
+    "customer-service-field-service-dispatch-readiness",
+    "customer-service-major-incident-customer-update",
+    "customer-service-qa-sample-selection",
+    "customer-service-refund-exception-preparation",
+    "customer-service-root-cause-evidence-compilation"
+  ]
+}

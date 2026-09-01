@@ -1,0 +1,12 @@
+{
+  "id": "invest",
+  "title": "INVEST",
+  "mission": "Allocate capital, execute corporate development, and manage funds.",
+  "pockets": [
+    "capitalos",
+    "corpdevos",
+    "mandaos",
+    "fundos",
+    "fundraiseos"
+  ]
+}

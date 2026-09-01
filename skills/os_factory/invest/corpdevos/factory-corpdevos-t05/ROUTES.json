@@ -1,0 +1,27 @@
+{
+  "pocket": "corpdevos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "investment-commercial-due-diligence-analyst",
+    "investment-cybersecurity-due-diligence-analyst",
+    "investment-financial-due-diligence-analyst",
+    "investment-legal-due-diligence-coordinator",
+    "investment-market-due-diligence-analyst",
+    "investment-operational-due-diligence-analyst",
+    "investment-technology-due-diligence-analyst",
+    "investment-acquisition-target-researcher",
+    "institutional-investment-playbook",
+    "investment-synergy-analyst",
+    "investment-deal-screening-analyst",
+    "investment-committee-analyst",
+    "investment-committee-critic",
+    "investment-competitive-position-analyst",
+    "investment-customer-concentration-analyst",
+    "investment-m-and-a-strategy-analyst",
+    "investment-management-team-analyst",
+    "investment-memo-writer",
+    "investment-orchestrator",
+    "investment-thesis-builder"
+  ]
+}

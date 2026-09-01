@@ -1,0 +1,27 @@
+{
+  "pocket": "studioos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "script-to-film-production",
+    "feature-film-production",
+    "music-video-production",
+    "creative-art-director",
+    "creative-copywriter",
+    "creative-naming-strategist",
+    "creative-orchestrator",
+    "creative-reviewer",
+    "creative-strategist",
+    "animated-series-producer",
+    "ibm-modes-to-skills",
+    "ibm-bob-ads-photoshoot",
+    "screenplay_format_validation",
+    "video_generation_plan",
+    "persistent-computing",
+    "filmable_action_writing",
+    "storyboard_plan",
+    "media-animation-workflow-specialist",
+    "media-editorial-fact-checking",
+    "media-vfx-workflow-specialist"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "boardos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "chief-of-staff-board-materials-governance",
+    "healthcare-vendor-business-associate-governance",
+    "procurement-monitor-supplier-performance",
+    "product-product-analytics",
+    "research-evidence-to-decision",
+    "chief-of-staff-decision-rights-mapping",
+    "chief-of-staff-escalation-triage",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "legal-risk-board-governance-pack",
+    "automation-improve-process-performance",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "agency-operations-stakeholder-communications-governance",
+    "chief-of-staff-organizational-sensing",
+    "chief-of-staff-risk-crisis-coordination",
+    "data-strategy-analytics-insight-synthesis",
+    "data-strategy-portfolio-roadmap-synthesis",
+    "legal-contract-template-governance",
+    "automation-assess-automation-opportunity"
+  ]
+}

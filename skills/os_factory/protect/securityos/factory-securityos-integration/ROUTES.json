@@ -1,0 +1,27 @@
+{
+  "pocket": "securityos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-cyber-crisis-management",
+    "cybersecurity-security-automation-engineer",
+    "cyber-resilience-physical-security-event-triage",
+    "cio-ai-security",
+    "cio-incident-management",
+    "cio-major-incident-management",
+    "ibm-sales-ext-platform-tool-security-assess",
+    "watsonx-governance-incident-exception",
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "cybersecurity-supply-chain-cyber-risk",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cio-cloud-security-governance",
+    "cio-incident-response-governance",
+    "cio-it-budget-variance"
+  ]
+}

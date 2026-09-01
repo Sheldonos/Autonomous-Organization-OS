@@ -1,0 +1,27 @@
+{
+  "pocket": "legalos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-contract-negotiation-specialist",
+    "legal-dispute-claims-management",
+    "legal-contract-drafting-redlining",
+    "legal-obligation-management",
+    "legal-risk-contract-intake-classification",
+    "legal-risk-gifts-hospitality-review",
+    "legal-risk-insurance-claim-evidence",
+    "legal-saas-agreement-review-specialist",
+    "ibm-sales-ext-commercial-redline-boundary",
+    "legal-risk-compliance-training-exception",
+    "legal-risk-conflict-of-interest-review",
+    "legal-risk-records-retention-review",
+    "legal-risk-regulatory-horizon-scan",
+    "legal-risk-sanctions-screening-case-prep",
+    "ibm-sales-scale-064",
+    "legal-msa-review-specialist",
+    "legal-nda-review-specialist",
+    "legal-sow-review-specialist",
+    "legal-legal-work-intake-triage",
+    "legal-legal-hold-evidence-preservation"
+  ]
+}

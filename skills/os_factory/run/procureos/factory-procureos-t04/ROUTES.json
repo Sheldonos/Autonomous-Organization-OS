@@ -1,0 +1,27 @@
+{
+  "pocket": "procureos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-rfp-specialist",
+    "procurement-rfi-specialist",
+    "procurement-manage-purchase-orders",
+    "procurement-purchase-order-change-triage",
+    "procurement-three-way-match-resolution",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-define-procurement-need",
+    "procurement-monitor-supplier-performance",
+    "procurement-off-contract-spend-analysis",
+    "procurement-demand-intake-qualification",
+    "procurement-invoice-exception-analysis",
+    "procurement-supplier-performance-scorecard",
+    "cio-technology-rfp-creation",
+    "cio-technology-rfp-scoring",
+    "procurement-analyze-make-buy",
+    "procurement-assess-supply-chain-risk",
+    "procurement-develop-sourcing-strategy",
+    "procurement-draft-and-negotiate-contract"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "pocket": "talentos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Strategic workforce demand Team",
+      "stage": 1,
+      "responsibility": "Strategic workforce demand",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Capability inventory Team",
+      "stage": 2,
+      "responsibility": "Capability inventory",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Gap analysis Team",
+      "stage": 3,
+      "responsibility": "Gap analysis",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Build/buy/borrow/automate decision Team",
+      "stage": 4,
+      "responsibility": "Build/buy/borrow/automate decision",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Development & mobility Team",
+      "stage": 5,
+      "responsibility": "Development & mobility",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Performance Team",
+      "stage": 6,
+      "responsibility": "Performance",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Succession Team",
+      "stage": 7,
+      "responsibility": "Succession",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Workforce outcomes Team",
+      "stage": 8,
+      "responsibility": "Workforce outcomes",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

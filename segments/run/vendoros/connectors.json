@@ -1,0 +1,11 @@
+{
+  "pocket": "vendoros",
+  "required_or_optional_classes": [
+    "vendor_mgmt",
+    "erp",
+    "contract_repository",
+    "risk_platform"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

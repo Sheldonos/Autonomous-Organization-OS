@@ -1,0 +1,27 @@
+{
+  "pocket": "corpdevos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cio-build-buy-partner-decision",
+    "cio-build-vs-buy-analysis",
+    "government-administer-procurement",
+    "autonomous-capitalist",
+    "finance-business-case-appraisal",
+    "product-customer-problem-discovery",
+    "product-backlog-governance",
+    "product-go-to-market-planning",
+    "product-portfolio-prioritization",
+    "product-product-vision-definition",
+    "product-responsible-ai-product-governance",
+    "cio-technology-synergy-analysis",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "education-analyze-learning-needs",
+    "eos-investment-analysis",
+    "product-product-analytics",
+    "investment-acquisition-target-researcher",
+    "bob-executive-competitive-deck-builder",
+    "people-requisition-management"
+  ]
+}

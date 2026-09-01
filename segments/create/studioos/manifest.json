@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "id": "studioos",
+  "title": "StudioOS",
+  "segment": "create",
+  "mission": "Operate audiovisual and entertainment production from concept and IP through production, post, distribution, and franchise learning.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 50,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Concept/IP",
+    "Development",
+    "Script/story",
+    "Pre-production",
+    "Production",
+    "Post-production",
+    "Quality review",
+    "Distribution",
+    "Audience/franchise learning"
+  ],
+  "handoffs": [
+    "mediaos",
+    "creatoros",
+    "brandos",
+    "revenueos"
+  ],
+  "connectors": [
+    "asset_store",
+    "production_mgmt",
+    "editing_pipeline",
+    "distribution",
+    "analytics"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

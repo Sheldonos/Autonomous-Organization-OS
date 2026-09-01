@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "id": "workforceos",
+  "title": "WorkforceOS",
+  "segment": "learn",
+  "mission": "Continuously map employee capabilities to roles, learning, projects, credentials, and internal mobility.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 21,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Role/capability graph",
+    "Employee skill evidence",
+    "Gap analysis",
+    "Learning plan",
+    "Practice/project placement",
+    "Assessment",
+    "Credential",
+    "Mobility & workforce feedback"
+  ],
+  "handoffs": [
+    "talentos",
+    "learningos",
+    "recruitos"
+  ],
+  "connectors": [
+    "hris",
+    "lms",
+    "project_mgmt",
+    "credentialing",
+    "analytics"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

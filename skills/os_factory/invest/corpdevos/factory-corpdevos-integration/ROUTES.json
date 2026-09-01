@@ -1,0 +1,27 @@
+{
+  "pocket": "corpdevos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "investment-customer-concentration-analyst",
+    "investment-m-and-a-strategy-analyst",
+    "investment-management-team-analyst",
+    "investment-orchestrator",
+    "ibm-bob-ads-budget",
+    "cio-technology-investment-recommendation",
+    "cio-technology-synergy-analysis",
+    "eos-investment-analysis",
+    "cio-investment-governance",
+    "eos-ma-synergy-tracking",
+    "eos-ma-target-intelligence",
+    "shared-policy-gate",
+    "eos-enterprise-strategic-foresight",
+    "eos-executive-communications",
+    "eos-strategic-planning",
+    "executive-okr-operating-system",
+    "process-acquisition-to-integration",
+    "cio-build-buy-partner-decision",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management"
+  ]
+}

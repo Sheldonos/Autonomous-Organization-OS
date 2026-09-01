@@ -1,0 +1,27 @@
+{
+  "pocket": "ventureos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "startups-market-validation-specialist",
+    "product-customer-interview-specialist",
+    "product-discovery-specialist",
+    "startups-problem-discovery-specialist",
+    "product-customer-problem-discovery",
+    "eos-product-customer-discovery",
+    "eos-product-market-discovery",
+    "product-go-to-market-planning",
+    "product-roadmap-planning",
+    "startups-founder-market-fit-analyst",
+    "startups-opportunity-discovery-analyst",
+    "strategy-market-entry-strategist",
+    "product-lifecycle-retirement",
+    "product-product-analytics",
+    "product-requirements-traceability",
+    "demand-architect",
+    "ibm-pre-atl-004",
+    "lemos-strategy-playbook",
+    "tls-competitive-intelligence-battlecard-agent",
+    "ibm-pre-003"
+  ]
+}

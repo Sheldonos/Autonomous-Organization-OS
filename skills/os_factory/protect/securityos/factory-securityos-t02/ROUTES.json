@@ -1,0 +1,27 @@
+{
+  "pocket": "securityos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-attack-surface-analyst",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "cybersecurity-supply-chain-cyber-risk",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cyber-resilience-threat-intelligence-synthesis",
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering",
+    "cybersecurity-control-selection",
+    "cybersecurity-risk-treatment-planning",
+    "cybersecurity-security-awareness-management",
+    "cybersecurity-cyber-crisis-management",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "cybersecurity-security-risk-analyst",
+    "cyber-resilience-security-risk-register-update",
+    "cyber-resilience-third-party-cyber-risk",
+    "automation-assure-business-continuity",
+    "cio-cloud-security-governance"
+  ]
+}

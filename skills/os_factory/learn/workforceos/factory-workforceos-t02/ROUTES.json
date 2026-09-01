@@ -1,0 +1,27 @@
+{
+  "pocket": "workforceos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-career-ai-watsonx-ai-engineer-watsonx",
+    "ibm-career-ai-watsonx-backend-developer-watsonx",
+    "tls-sales-enablement-training-agent",
+    "people-benefits-enrollment-readiness",
+    "people-employee-relations-evidence",
+    "people-leave-case-preparation",
+    "people-learning-development",
+    "people-performance-management",
+    "people-offboarding-workforce-transition",
+    "people-skill-profile-quality-check",
+    "people-succession-mobility-planning",
+    "people-compensation-benefits-operations",
+    "people-payroll-time-validation",
+    "people-absence-accommodation-management",
+    "people-employee-records-governance",
+    "people-employee-relations-investigations",
+    "education-map-occupational-competencies",
+    "education-support-career-transition",
+    "enterprise-skill-runtime-backing-auditor",
+    "people-employee-engagement-analyst"
+  ]
+}

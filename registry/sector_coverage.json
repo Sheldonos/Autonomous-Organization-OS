@@ -1,0 +1,90 @@
+{
+  "canonical_skills": 3212,
+  "segments": {
+    "create": {
+      "primary_skills": 326,
+      "pockets": {
+        "agencyos": 46,
+        "brandos": 94,
+        "creatoros": 20,
+        "eventos": 22,
+        "mediaos": 94,
+        "studioos": 50
+      }
+    },
+    "invest": {
+      "primary_skills": 141,
+      "pockets": {
+        "capitalos": 61,
+        "corpdevos": 20,
+        "fundos": 20,
+        "fundraiseos": 20,
+        "mandaos": 20
+      }
+    },
+    "learn": {
+      "primary_skills": 140,
+      "pockets": {
+        "acceleratoros": 20,
+        "educationos": 43,
+        "learningos": 36,
+        "universityos": 20,
+        "workforceos": 21
+      }
+    },
+    "make": {
+      "primary_skills": 759,
+      "pockets": {
+        "buildos": 192,
+        "consultingos": 57,
+        "innovationos": 136,
+        "labos": 66,
+        "launchos": 20,
+        "patenttoproductos": 20,
+        "researchos": 224,
+        "ventureos": 44
+      }
+    },
+    "protect": {
+      "primary_skills": 349,
+      "pockets": {
+        "complianceos": 151,
+        "legalos": 64,
+        "patentos": 20,
+        "riskos": 20,
+        "securityos": 94
+      }
+    },
+    "run": {
+      "primary_skills": 999,
+      "pockets": {
+        "boardos": 20,
+        "enterpriseos": 482,
+        "executiveos": 66,
+        "franchiseos": 20,
+        "pmoos": 84,
+        "procureos": 61,
+        "propertyos": 76,
+        "recruitos": 20,
+        "supplyos": 83,
+        "talentos": 61,
+        "vendoros": 26
+      }
+    },
+    "sell": {
+      "primary_skills": 498,
+      "pockets": {
+        "bidos": 33,
+        "commerceos": 20,
+        "customeros": 82,
+        "dealos": 170,
+        "grantos": 20,
+        "partnershipos": 27,
+        "pricingos": 20,
+        "revenueos": 126
+      }
+    }
+  },
+  "wrapper_skills": 540,
+  "team_wrappers": 492
+}

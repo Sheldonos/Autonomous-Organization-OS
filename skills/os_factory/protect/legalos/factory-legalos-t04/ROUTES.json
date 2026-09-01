@@ -1,0 +1,27 @@
+{
+  "pocket": "legalos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-dispute-claims-management",
+    "legal-legal-work-intake-triage",
+    "legal-legal-hold-evidence-preservation",
+    "procurement-draft-and-negotiate-contract",
+    "legal-contract-drafting-redlining",
+    "legal-approval-signature-routing",
+    "legal-obligation-management",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "legal-risk-obligation-extraction",
+    "legal-contract-risk-issue-spotting",
+    "legal-risk-clause-variance-analysis",
+    "legal-risk-litigation-evidence-compilation",
+    "legal-litigation-research-analyst",
+    "legal-contract-clause-extractor",
+    "legal-risk-contract-intake-classification",
+    "legal-third-party-risk-assessment",
+    "legal-amendment-change-control",
+    "legal-contract-closeout-records",
+    "legal-contract-performance-monitoring"
+  ]
+}

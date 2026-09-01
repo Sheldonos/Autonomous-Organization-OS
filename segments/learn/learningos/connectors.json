@@ -1,0 +1,12 @@
+{
+  "pocket": "learningos",
+  "required_or_optional_classes": [
+    "lms",
+    "content_store",
+    "credentialing",
+    "analytics",
+    "identity"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

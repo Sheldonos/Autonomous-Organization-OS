@@ -1,0 +1,13 @@
+{
+  "pocket": "securityos",
+  "required_or_optional_classes": [
+    "siem",
+    "edr",
+    "iam",
+    "cloud_security",
+    "vulnerability_scanner",
+    "ticketing"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "workforceos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-capability-orchestrator",
+    "people-learning-needs-analysis",
+    "people-job-architecture",
+    "people-requisition-quality-review",
+    "people-workforce-planning",
+    "cybersecurity-security-awareness-management",
+    "people-requisition-management",
+    "people-structured-selection",
+    "education-map-occupational-competencies",
+    "education-support-career-transition",
+    "cio-it-role-planning",
+    "people-benefits-enrollment-readiness",
+    "people-employee-relations-evidence",
+    "people-leave-case-preparation",
+    "people-mobility-case-readiness",
+    "people-onboarding-readiness-assessment",
+    "people-ethics-training-completion-review",
+    "people-accommodation-handoff-preparation",
+    "people-exit-readiness-check",
+    "people-learning-development"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "enterpriseos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "automation-design-integration-orchestration",
+    "cio-it-organization-design",
+    "automation-model-business-process",
+    "automation-manage-release-and-change",
+    "automation-triage-process-exceptions",
+    "enterprise-domain-fixture-builder",
+    "cio-business-technology-alignment",
+    "cio-cio-operating-model-design",
+    "cio-it-budget-variance",
+    "cio-it-budgeting",
+    "cio-it-forecasting",
+    "cio-it-role-planning",
+    "cio-it-unit-economics",
+    "process-strategy-to-portfolio-to-execution-to-outcome",
+    "enterprise-domain-harness-orchestrator",
+    "cio-business-intelligence-strategy",
+    "autonomous-cio-orchestrator",
+    "cio-board-technology-advisory",
+    "cio-ceo-technology-advisory",
+    "cio-digital-transformation-roadmap"
+  ]
+}

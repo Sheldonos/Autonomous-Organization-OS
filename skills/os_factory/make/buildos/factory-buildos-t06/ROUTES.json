@@ -1,0 +1,27 @@
+{
+  "pocket": "buildos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "engineering-code-review",
+    "engineering-continuous-integration",
+    "engineering-api-contract-review",
+    "engineering-requirements-traceability-review",
+    "engineering-documentation-coverage-review",
+    "product-requirements-traceability",
+    "engineering-architecture-decision-recording",
+    "engineering-code-review-preparation",
+    "engineering-observability-instrumentation-review",
+    "engineering-open-source-compliance-prep",
+    "engineering-release-readiness-gate",
+    "engineering-accessibility-quality-review",
+    "engineering-secure-sdlc-assurance",
+    "engineering-software-supply-chain-governance",
+    "engineering-delivery-performance-improvement",
+    "product-roadmap-planning",
+    "cio-security-architecture-review",
+    "tsc-technical-spec-writer",
+    "product-privacy-by-design-review",
+    "engineering-database-migration-readiness"
+  ]
+}

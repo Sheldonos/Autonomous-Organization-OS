@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "pocket": "pricingos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 20,
+  "skills": [
+    {
+      "slug": "ecommerce-pricing-analyst",
+      "score": 62,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Pricing Analyst role: pricing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-catalog-management-specialist",
+      "score": 54,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Catalog Management Specialist role: catalog management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-pricing-exception-preparation",
+      "score": 52,
+      "domain": "shared-execution",
+      "description": "Prepare a pricing exception case with policy, economics, and approver evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "ecommerce-cart-optimization-specialist",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Cart Optimization Specialist role: cart optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-conversion-specialist",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Conversion Specialist role: conversion; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-customer-journey-analyst",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Customer Journey Analyst role: customer journey; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-analytics-specialist",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Analytics Specialist role: e-commerce analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-orchestrator",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Orchestrator role: e-commerce; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-seo-specialist",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce SEO Specialist role: e-commerce seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-strategist",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Strategist role: e-commerce; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-marketplace-analyst",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Marketplace Analyst role: marketplace; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-marketplace-operations-specialist",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Marketplace Operations Specialist role: marketplace operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-merchandising-specialist",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Merchandising Specialist role: merchandising; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-orchestrator",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Orchestrator role: e-commerce; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-product-description-writer",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Product Description Writer role: product description; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-product-listing-specialist",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Product Listing Specialist role: product listing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-retention-specialist",
+      "score": 51,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Retention Specialist role: retention; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-deal-desk-review-pack",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "Compile deal-desk review evidence for pricing, terms, risk, and approvals. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "finance-unit-economics-analyst",
+      "score": 48,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Unit Economics Analyst role: unit economics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-attribution-analyst",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Attribution Analyst role: attribution; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-crm-data-quality-analyst",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the CRM Data Quality Analyst role: crm data quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-crm-strategy-specialist",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the CRM Strategy Specialist role: crm strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-forecasting-analyst",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Forecasting Analyst role: forecasting; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-funnel-analyst",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Funnel Analyst role: funnel; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-orchestrator",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Revenue Operations Orchestrator role: revenue operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-pipeline-analyst",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Pipeline Analyst role: pipeline; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-revenue-intelligence-analyst",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Revenue Intelligence Analyst role: revenue intelligence; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-sales-capacity-analyst",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Sales Capacity Analyst role: sales capacity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-sales-compensation-analyst",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Sales Compensation Analyst role: sales compensation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-operations-territory-operations-analyst",
+      "score": 48,
+      "domain": "revenue-operations",
+      "description": "Use for revenue operations work requiring the Territory Operations Analyst role: territory operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-profitability-analysis",
+      "score": 47,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Profitability Analysis** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-profitability-analysis`, `profitability-analysis`, or the corresponding professional workflow: Cost management and profitability analysis | analyze cost-to-serve, gross margin, contribution margin, customer/product/channel profitability, and resource efficiency"
+    },
+    {
+      "slug": "revenue-quote-policy-compliance",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "Check quote configuration against approved pricing and commercial policy. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "finance-variance-analysis",
+      "score": 44,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Variance Analysis** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-variance-analysis`, `variance-analysis`, or the corresponding professional workflow: Budget-to-actual and forecast variance analysis | isolate price-volume-mix, rate, timing, scope, FX, and one-time drivers"
+    },
+    {
+      "slug": "procurement-manage-contract-change",
+      "score": 43,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Contract Change** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-contract-change`, `manage-contract-change`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-manage-procurement-dispute",
+      "score": 43,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Procurement Dispute** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-procurement-dispute`, `manage-procurement-dispute`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "procurement-manage-renewal",
+      "score": 43,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Manage Renewal** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-manage-renewal`, `manage-renewal`, or the corresponding professional workflow: contract-change-dispute-and-renewal-management | evaluate variations, claims, pricing changes, extensions, renewals, breaches, and disputes against authority, value, risk, and documented performance | handoff to contract owner, legal, procurement authority, finance, risk, and supplier"
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-pricing-discount-guardrail",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Check that a proposed pricing/discount draft uses approved source data, request scope, approvals, and exception rules without generating commercial authority. Use when the IBM Sales control mode selects capability `commercial-governance.pricing-discount-guardrail` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "business-development-alliance-management",
+      "score": 41,
+      "domain": "business-development",
+      "description": "Design, govern and improve strategic alliances with joint value, roles, GTM motions, economics and performance evidence. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "revenue-churn-root-cause-analysis",
+      "score": 41,
+      "domain": "shared-execution",
+      "description": "Analyze churn drivers using validated customer, product, service, and commercial evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-renewal-risk-assessment",
+      "score": 41,
+      "domain": "shared-execution",
+      "description": "Assess renewal risk using adoption, service, commercial, and stakeholder evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "ibm-des-pri-001",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Activate this mode for pricing strategy & deal structure within IBM BOB's solution design and value architecture lane. Use it when the seller needs the work product of solution consultant, value engineer, technical sales architect, especially when the task should reduce manual research, analysis,..."
+    },
+    {
+      "slug": "procurement-price-variance-investigation",
+      "score": 40,
+      "domain": "procurement",
+      "description": "Investigate price variance against contract, market, and receipt evidence. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Performance Management Capability Director."
+    },
+    {
+      "slug": "sales-contract-approval",
+      "score": 40,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Contract Approval** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-contract-approval`, `contract-approval`, or the corresponding professional workflow: bid-rfp-and-proposal-management | decide bid/no-bid, compliance matrix, response strategy, pricing narrative, references, and approval path | hand off controlled proposal package to proposal manager, SMEs, pricing, legal, contracts, and authorized approvers"
+    },
+    {
+      "slug": "sales-proposal-management",
+      "score": 40,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Proposal Management** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-proposal-management`, `proposal-management`, or the corresponding professional workflow: bid-rfp-and-proposal-management | decide bid/no-bid, compliance matrix, response strategy, pricing narrative, references, and approval path | hand off controlled proposal package to proposal manager, SMEs, pricing, legal, contracts, and authorized approvers"
+    },
+    {
+      "slug": "cio-it-unit-economics",
+      "score": 38,
+      "domain": "cio-it",
+      "description": "CIO IT Unit Economics for IT Finance / FinOps. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-unit-economics",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Eos Unit Economics for Finance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "patent-fortress-strategist",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Build a formidable patent portfolio to create a powerful competitive moat, deter litigation, and generate licensing revenue. This skill covers patent research, application drafting, and strategic portfolio management. Use when developing new technologies or entering a competitive market."
+    },
+    {
+      "slug": "revenue-account-health-scorecard",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Produce an account-health scorecard with evidence, uncertainty, and owner actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-account-plan-preparation",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Prepare evidence-backed account plans, stakeholder hypotheses, and growth priorities. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "revenue-adoption-analysis",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Analyze customer adoption evidence and route accountable enablement actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-customer-escalation-coordination",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Coordinate a customer escalation case, evidence set, action owners, and communications draft. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Escalation Management Capability Director."
+    },
+    {
+      "slug": "revenue-forecast-rollup-exception",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Analyze forecast rollup exceptions, missing evidence, and confidence gaps. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-incentive-exception-review",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Review sales-incentive exception evidence for authorized compensation processing. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-opportunity-qualification",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Qualify opportunities against approved stages, evidence, and next-step standards. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "revenue-rfp-response-evidence",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Compile RFP response evidence, source citations, and review dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal Enablement Capability Director."
+    },
+    {
+      "slug": "revenue-stakeholder-map-preparation",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Prepare stakeholder maps from approved relationship and interaction evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "revenue-territory-coverage-analysis",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Analyze account and rep coverage gaps against approved territory design. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-win-loss-synthesis",
+      "score": 38,
+      "domain": "shared-execution",
+      "description": "Synthesize win/loss evidence into controlled insights and follow-up hypotheses. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "ibm-cloud-operations-agent",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires **cloud operations** involving IBM Cloud, especially when the user expects the work product of a cloud operations engineer. Activate it for discovery, planning, configuration design, validation, runbook creation, evidence packaging, troubleshooting, moderniza..."
+    },
+    {
+      "slug": "ibm-i-sql-operations-agent",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires **sql operations** involving IBM i, especially when the user expects the work product of a IBM i operations DBA. Activate it for discovery, planning, configuration design, validation, runbook creation, evidence packaging, troubleshooting, modernization, or co..."
+    },
+    {
+      "slug": "ibm-sales-scale-063",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Prepare a renewal commercial-readiness draft with entitlement scope, dates, usage/value evidence, pricing-source requirement, risks, and approval path. Use when IBM Sales selects `commercial.renewal-commercial` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "procurement-draft-and-negotiate-contract",
+      "score": 37,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Draft And Negotiate Contract** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-draft-and-negotiate-contract`, `draft-and-negotiate-contract`, or the corresponding professional workflow: contract-drafting-and-negotiation | convert requirements and award assumptions into enforceable terms covering scope, service levels, pricing, data/IP, audit, change, remedies, termination, and exit | handoff to legal counsel, business owner, security/privacy, finance, and delegated contract signatory"
+    },
+    {
+      "slug": "finance-ar-collections-prioritization",
+      "score": 36,
+      "domain": "finance",
+      "description": "Prioritize receivables follow-up using approved aging, commitment, and dispute evidence. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Receivables and Credit Operations Capability Director."
+    },
+    {
+      "slug": "finance-business-case-appraisal",
+      "score": 36,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Business Case Appraisal** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-business-case-appraisal`, `business-case-appraisal`, or the corresponding professional workflow: Business-case and investment appraisal | evaluate initiatives using strategic fit, incremental cash flows, ROI/NPV/payback, capacity, risks, and post-investment measures"
+    },
+    {
+      "slug": "finance-cash-management-analyst",
+      "score": 36,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Cash Management Analyst role: cash management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-covenant-monitoring",
+      "score": 36,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Covenant Monitoring** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-covenant-monitoring`, `covenant-monitoring`, or the corresponding professional workflow: Financial risk and covenant monitoring | track exposure, liquidity, leverage, debt covenants, FX/rates, and counterparty assumptions"
+    },
+    {
+      "slug": "finance-driver-based-budgeting",
+      "score": 36,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Driver Based Budgeting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-driver-based-budgeting`, `driver-based-budgeting`, or the corresponding professional workflow: Annual operating planning and budgeting | set the planning calendar, collect driver-based operating inputs, challenge assumptions, consolidate budgets, and obtain approval | handoff among FP&A, business-unit finance, HR, sales, operations, and executive approvers"
+    },
+    {
+      "slug": "finance-executive-decision-support",
+      "score": 36,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Executive Decision Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-executive-decision-support`, `executive-decision-support`, or the corresponding professional workflow: Management narrative and decision support | convert validated financial and operational evidence into an executive narrative, options, recommendation, and action register with owners and dates | handoff to CFO, CEO, business leaders, board, and cross-functional action owners"
+    },
+    {
+      "slug": "finance-financial-close-support",
+      "score": 36,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Financial Close Support** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-financial-close-support`, `financial-close-support`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "finance-indirect-tax-exception-review",
+      "score": 36,
+      "domain": "finance",
+      "description": "Analyze indirect-tax coding exceptions using controlled transaction evidence. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Tax Operations Capability Director."
+    },
+    {
+      "slug": "finance-management-reporting",
+      "score": 36,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Management Reporting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-management-reporting`, `management-reporting`, or the corresponding professional workflow: Financial close support and management reporting | reconcile close outputs, validate period cut-off and mappings, produce P&L/balance-sheet/cash-flow and KPI packs, and explain material movements | handoff from controllership to FP&A, then to executives and board/audit stakeholders"
+    },
+    {
+      "slug": "finance-revenue-close-tie-out",
+      "score": 36,
+      "domain": "finance",
+      "description": "Tie out revenue-close evidence and identify unresolved reconciliation gaps. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Record to Report Capability Director."
+    },
+    {
+      "slug": "finance-rolling-forecasting",
+      "score": 36,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Rolling Forecasting** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-rolling-forecasting`, `rolling-forecasting`, or the corresponding professional workflow: Rolling forecasting and reforecasting | refresh outlooks using actuals, operational drivers, market conditions, and approved initiatives"
+    },
+    {
+      "slug": "finance-scenario-modeling",
+      "score": 36,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Scenario Modeling** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-scenario-modeling`, `scenario-modeling`, or the corresponding professional workflow: Strategic planning and long-range modeling | translate corporate strategy into multi-year revenue, cost, cash-flow, and KPI scenarios"
+    },
+    {
+      "slug": "revenue-contract-handoff-readiness",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Assess contract handoff completeness for delivery, billing, and customer success teams. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-customer-commitment-tracker",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Track material customer commitments, owners, due dates, and escalation risk. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-customer-onboarding-readiness",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Assess customer onboarding prerequisites, commitments, and unresolved dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-expansion-signal-qualification",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Qualify expansion signals and draft accountable account follow-up. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "revenue-lead-routing-quality-check",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Validate lead-routing records against territory, consent, and service-level rules. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-pipeline-hygiene-review",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Identify pipeline record quality gaps and draft owner remediation actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-qbr-pack-preparation",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Prepare a quarterly business review packet with agreed metrics and source references. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-reference-candidate-qualification",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Qualify customer reference candidates against consent, relationship, and eligibility criteria. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Advocacy Capability Director."
+    },
+    {
+      "slug": "revenue-sales-activity-capture-review",
+      "score": 35,
+      "domain": "shared-execution",
+      "description": "Review sales activity capture completeness and data-quality remediation needs. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "agency-operations-contract-handoff",
+      "score": 34,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Contract Handoff** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-contract-handoff`, `contract-handoff`, or the corresponding professional workflow: scope-and-contract-baselining | decide objectives, deliverables, assumptions, exclusions, acceptance criteria, schedule, pricing model, and approval authority | handoff from sales/procurement to engagement manager, client sponsor, finance, and authorized signatory"
+    },
+    {
+      "slug": "agency-operations-human-approval-gating",
+      "score": 34,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Human Approval Gating** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-human-approval-gating`, `human-approval-gating`, or the corresponding professional workflow: scope-and-contract-baselining | decide objectives, deliverables, assumptions, exclusions, acceptance criteria, schedule, pricing model, and approval authority | handoff from sales/procurement to engagement manager, client sponsor, finance, and authorized signatory"
+    },
+    {
+      "slug": "agency-operations-scope-baselining",
+      "score": 34,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Scope Baselining** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-scope-baselining`, `scope-baselining`, or the corresponding professional workflow: scope-and-contract-baselining | decide objectives, deliverables, assumptions, exclusions, acceptance criteria, schedule, pricing model, and approval authority | handoff from sales/procurement to engagement manager, client sponsor, finance, and authorized signatory"
+    },
+    {
+      "slug": "agency-operations-time-cost-margin-control",
+      "score": 34,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Time Cost Margin Control** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-time-cost-margin-control`, `time-cost-margin-control`, or the corresponding professional workflow: time-capture-costing-and-margin-control | decide billable classification, evidence sufficiency, write-offs, accruals, estimate-at-completion, and margin interventions | handoff from practitioners to project controller/finance, engagement manager, account lead, and client billing contact"
+    },
+    {
+      "slug": "builtin-llm-models",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Reference for Manus's built-in LLM catalog and how to call it correctly. Readthis BEFORE writing any script that calls LLMs in bulk (summarization,translation, classification, extraction, deep analysis, judging/evaluation,map/parallel fan-out) inside the sandbox, AND before using the built-in LLM ina webdev project (invokeLLM / listLLMModels). Use it to discover which modelsexist, each model's price/capabilities, how to pick one, the exact requestshapes (thinking/reasoning, JSON-schema structured output, vision, tools), andthe per-model gotchas (max-token handling, reasoning syntax) verified againstthe live proxy."
+    },
+    {
+      "slug": "eos-pricing-strategy",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Pricing Strategy for Sales. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-bob-ads-math",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Calculate and model paid-media CPA, CPL, CPC, CPM, ROAS, MER, break-even targets, contribution margin, LTV:CAC, impression-share opportunity, budgets, forecasts, and experiment economics. Use for PPC math, ad calculator, break-even analysis, ROAS calculator, CPA calculator, budget forecast, LTV CAC, or MER. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    },
+    {
+      "slug": "ibm-pro-008",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for pricing proposal generator within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination, revi..."
+    },
+    {
+      "slug": "ibm-pro-cp-002",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Activate this mode for services pricing & resource plan within IBM BOB's proposal and business case lane. Use it when the seller needs the work product of proposal manager, value engineer, bid response writer, especially when the task should reduce manual research, analysis, writing, coordination..."
+    },
+    {
+      "slug": "ibm-sales-000",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "The singular IBM Sales orchestration control mode. Routes all seller requests through a governed execution plan \u2014 account intelligence, discovery, qualification, pipeline strategy, value engineering, proposal, negotiation, close, and adoption. Enforces human approval gates before any external write, CRM update, pricing commitment, or outreach. Use as the front door for all IBM Sales work."
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-deal-desk-route",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Route commercial requests to the correct deal-desk, pricing, finance, legal, and executive authorities with complete evidence and decision scope. Use when the IBM Sales control mode selects capability `commercial-governance.deal-desk-route` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-ext-commercial-proposal-release-qa",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Validate proposal/RFP/SOW release readiness across version, claims, evidence, pricing, legal/compliance sections, approvals, and delivery dependencies. Use when the IBM Sales control mode selects capability `commercial-governance.proposal-release-qa` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "legal-amendment-change-control",
+      "score": 34,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Amendment Change Control** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-amendment-change-control`, `amendment-change-control`, or the corresponding professional workflow: change-order-and-amendment-control | determine whether a requested change is within scope, affects price/schedule/risk, or requires formal amendment and reapproval | handoff to contract owner, legal, procurement, finance, technical/security reviewers, and authorized signatory"
+    },
+    {
+      "slug": "media-distribution-packaging",
+      "score": 34,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Distribution Packaging** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-distribution-packaging`, `distribution-packaging`, or the corresponding professional workflow: Manage ingest, metadata, and asset versioning | validate media integrity, backups, naming, timecode, rights metadata, chain of custody, and version status | handoff to media manager, editor, colorist, sound team, archive, and distribution operations"
+    },
+    {
+      "slug": "sales-commercial-negotiation",
+      "score": 34,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Commercial Negotiation** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-commercial-negotiation`, `commercial-negotiation`, or the corresponding professional workflow: commercial-negotiation-and-contracting | decide acceptable price, terms, liability, data/security commitments, concessions, dependencies, and escalation thresholds | hand off redlined terms and approval record to legal, finance, security, procurement, and signing authority"
+    },
+    {
+      "slug": "sales-discount-strategy-analyst",
+      "score": 34,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Discount Strategy Analyst role: discount strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-pricing-reaction-simulator",
+      "score": 34,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Pricing Reaction Simulator role: pricing reaction simulator; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-pricing-strategist",
+      "score": 34,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Pricing Strategist role: pricing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "shared-execution-packaging-specialist",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Use for shared execution work requiring the Packaging Specialist role: packaging; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "simulation-pricing-simulation-specialist",
+      "score": 34,
+      "domain": "simulation",
+      "description": "Use for simulation work requiring the Pricing Simulation Specialist role: pricing simulation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-pricing-strategist",
+      "score": 34,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Pricing Strategist role: pricing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "agentic-systems-architect",
+      "score": 32,
+      "domain": "shared-execution",
+      "description": "Design and implement a hierarchical agent architecture for the management of autonomous sub-agents. This skill provides the blueprint for creating a scalable and self-managing workforce, including protocols for communication, task allocation, and performance evaluation. Use when building or upgrading your agent management system."
+    },
+    {
+      "slug": "archive_packaging",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Archive Packaging specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "business-affairs-packaging",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Build chain-of-title, financing, talent/vendor, insurance, incentive and greenlight dependency packages without giving legal or financial approval."
+    },
+    {
+      "slug": "ibm-neg-002",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Activate this mode for pricing negotiation strategy within IBM BOB's negotiation and objection handling lane. Use it when the seller needs the work product of negotiation strategist, deal desk analyst, objection coach, especially when the task should reduce manual research, analysis, writing, coo..."
+    },
+    {
+      "slug": "ibm-neg-006",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Activate this mode for discount justification template within IBM BOB's negotiation and objection handling lane. Use it when the seller needs the work product of negotiation strategist, deal desk analyst, objection coach, especially when the task should reduce manual research, analysis, writing, ..."
+    },
+    {
+      "slug": "ibm-sales-ext-policy-restricted-data-detect",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Detect credentials, regulated data, contract terms, pricing, personal data, and other restricted information before prompt, retrieval, logging, or display. Use when the IBM Sales control mode selects capability `policy-risk.restricted-data-detect` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "bob-executive-competitive-deck-builder",
+      "score": 26,
+      "domain": "shared-execution",
+      "description": "Build executive compare-and-contrast presentations that position IBM Bob or another target solution against named competitors. Use when asked to create reusable Bob modes, CLI workflows, or skill-driven competitive decks with source-backed research, business-value differentiation, decision matrices, and a visual style derived from a provided reference graphic."
+    },
+    {
+      "slug": "accessibility-coverage-audit",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Audit a curriculum/course/lesson/resource set for equivalent access paths and missing accessibility evidence without diagnosing learners."
+    },
+    {
+      "slug": "act_sequence_design",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Act & Sequence Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "adaptive-content-delivery",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Choose how to deliver an objective based on evidence, goal, time, and stated preferences, then explain the choice."
+    },
+    {
+      "slug": "adaptive-pathway-builder",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Build explainable prerequisite, remediation, standard, acceleration and mission pathways with evidence-triggered transitions."
+    },
+    {
+      "slug": "advanced-web-developer",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "A power-stacked web development workflow that combines Google Stitch (AI mockup generation), Nano Banana 2 (image-based slide presentations), 21st.dev Magic (3D and reactive React component library), and the UI/UX Pro Max design system engine. Use this skill when building any web application, landing page, dashboard, or product UI where you need to go from concept to production-ready code with maximum visual quality and speed. Triggers on tasks involving web design, UI mockups, component generation, design systems, frontend development, or client presentations."
+    },
+    {
+      "slug": "agent-operations-and-learning",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Define runtime operations, observability, incidents, cost controls, knowledge refresh, and governed learning for IBM Mode capabilities. Use for pilot readiness, production operation, performance issues, or approved capability improvement."
+    },
+    {
+      "slug": "ambience_design",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Ambience Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "amir-mushich-prompt-writer",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "A framework for writing high-end, professional AI image and video generation prompts using the methodology of Creative Director Amir Mushich. Use when a user asks to generate professional brand visuals, product concepts, fashion lookbooks, or high-end editorial designs using AI (especially Nano Banana/Gemini or Veo3)."
+    },
+    {
+      "slug": "assessment-builder",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Build aligned formative/cumulative assessment evidence for a curriculum objective with retry, accessibility and construct-validity rules."
+    },
+    {
+      "slug": "autonomous-capitalist",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Enables the agent to function as an autonomous economic actor, capable of identifying, evaluating, and exploiting market opportunities to generate and manage revenue streams. It integrates capabilities for continuous learning, strategic analysis, and automated business execution. Use this skill to build and manage a portfolio of autonomous businesses."
+    },
+    {
+      "slug": "autonomous-cio-orchestrator",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Autonomous CIO Orchestrator for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "b2b-lead-intelligence-generator",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Generate comprehensive B2B lead databases with deep intelligence including decision maker contacts, pain points, solution matching, ROI projections, and revenue potential. Use when prospecting for B2B sales, building lead lists, conducting market research, creating sales intelligence databases, preparing for outreach campaigns, or when a user requests lead generation with detailed business intelligence."
+    },
+    {
+      "slug": "behavior_gesture_design",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Behavior & Gesture Design specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "benchmark_evaluation",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Benchmark Evaluation specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "bob-agentic-sdlc-mode-designer",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "A complete workflow for designing, configuring, and deploying IBM Project Bob custom modes that act as an autonomous \"Digital Workforce Swarm\" for the Agentic Engineering SDLC. Use when a user asks to create Bob modes, build an agentic SDLC pipeline, replace manual SDLC roles (like BAs, QA, or Release Coordinators) with agents, or configure a swarm architecture in IBM Project Bob."
+    },
+    {
+      "slug": "bob-for-z",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Use this skill as the default entry point for all mainframe and z/OS tasks. Routes to bob-for-z-mentor for learning (COBOL, JCL, RACF, CICS, Db2 on z, abend theory) and bob-for-z-builder for generation (write JCL, fix abends, scaffold COBOL, modernize programs). Does not conflict with official IBM Bob for Z package modes."
+    },
+    {
+      "slug": "bob-package-validation",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "Validate Film Studio OS Bob modes, personas, skills, MCP config, hooks and references against current project conventions."
+    },
+    {
+      "slug": "boomer-business-buyout-engine",
+      "score": 23,
+      "domain": "shared-execution",
+      "description": "A complete playbook for acquiring, automating, and rolling up baby boomer-owned small businesses. Use when a user asks to find highly automatable businesses for sale, audit automation feasibility, structure seller-financed acquisitions, or design a mini-monopoly rollup strategy for a high-multiple exit."
+    },
+    {
+      "slug": "accessibility-adaptation",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Adapt access and response format to stated needs while preserving the intended learning construct."
+    },
+    {
+      "slug": "action_paragraph_rhythm",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Action Paragraph Rhythm specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "action_sequence_direction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Action Sequence Direction specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "action_state_tracking",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Action State Tracking specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "actor_speakability",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Actor Speakability specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "adr_strategy",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the ADR Strategy specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "agent-lifecycle-manager",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Automate the complete lifecycle of sub-agents, including creation, training, deployment, retraining, and decommissioning. Use when managing autonomous agents, building agentic systems, or optimizing agent workforce for day-to-day operations."
+    },
+    {
+      "slug": "agentic-sdlc-lab-guide-builder",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A complete workflow for generating end-to-end IBM Agentic SDLC lab guides. Use when a user asks to create a lab guide, workshop, or demo for a codebase that walks developers through Jira, DOORS Next, Solutions Designer, GitLab, and IBM Project Bob."
+    },
+    {
+      "slug": "amir-mushich-wrong-venue-sports",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A framework for writing high-end AI image generation prompts that place elite athletes performing peak-action sports in completely incongruous, mundane, or culturally opposite civilian environments (e.g., a gymnast on a playground, a fencer in a grocery store). Use when a user asks to generate surreal, documentary-style sports photography, \"wrong venue\" athletic concepts, or high-contrast juxtaposition imagery."
+    },
+    {
+      "slug": "animated-series-producer",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "A complete workflow for breaking down a script into an instruction manual for animated series production, utilizing the Amir Mushich 5-Phase Directing Framework. Use when a user uploads a script and character reference images and wants to generate high-end, cinematic director briefs for each scene, along with start and end keyframe images."
+    },
+    {
+      "slug": "animatic_timing",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Animatic Timing specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "anime-series-production",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Activate when the user requests creation of anime-style content \u2014 a series, season, episode, OVA, or anime short \u2014 from a concept, manga source, or series bible. Produces stylized, episodic animated content with locked character designs and genre-correct cinematography. Delegates the shot generation loop to script-to-film-production with anime parameterization."
+    },
+    {
+      "slug": "archive-reproduction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create immutable archive and reproduction manifests that trace final artifacts to exact sources, versions, decisions, attempts, QC and approvals."
+    },
+    {
+      "slug": "artifact_cleanup",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Artifact Cleanup specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "assembly_edit",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Assembly Edit specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "assessment-checkpoint",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Create or administer a low-stakes checkpoint aligned to a specific course outcome without teaching inside the scored attempt."
+    },
+    {
+      "slug": "asset_registration",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Asset Registration specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "audience_promise_mapping",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Audience Promise Mapping specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "audio_qc",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Audio QC specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "b2b-personalized-outreach",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Researches B2B leads and crafts two hyper-personalized outreach messages for each, transitioning from a human connection to a commercial conversation. Use when asked to perform personalized outreach, connect with leads, or generate sales messages."
+    },
+    {
+      "slug": "background_repair",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Background Repair specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "banter_construction",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Banter Construction specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "blocking_geography_writing",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Blocking & Geography Writing specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "blocking_plan",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Blocking Plan specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "bob-for-z-builder",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Describe a z/OS or mainframe problem in plain English and get working, validated JCL, COBOL, HLASM, DFSORT control cards, or IDCAMS commands back. Before writing a single statement, Bob for Z Builder checks whether the mainframe is actually the right tool \u2014 and tells you honestly if it isn't. When it is, it generates the artifact, validates it against Enterprise COBOL 6.x standards, flags every legacy anti-pattern, and walks you through the result. No abend mysteries. No GOTO. More shipping."
+    },
+    {
+      "slug": "bob-for-z-mentor",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Your patient z/OS and mainframe teacher. Ask anything \u2014 from \"what is a dataset\" to \"why does my COBOL abend with S0C7\" \u2014 and it meets you exactly where you are. Runs a quick diagnostic to understand how you learn, maps mainframe concepts to your actual job, and builds a personalized curriculum that picks up where you left off every session. Fixed-format or free, COBOL or HLASM, JES2 or CICS \u2014 one mentor, one continuous thread."
+    },
+    {
+      "slug": "boblore",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Generate IBM Project Bob branded LinkedIn posts in the BobLore style. Use when a user asks to create, write, or generate BobLore posts,"
+    },
+    {
+      "slug": "book-to-film-adaptation",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Activate when the user provides a novel, novella, non-fiction book, or other long-form prose work and requests a film adaptation. Performs faithful narrative compression from prose (60,000\u2013150,000+ words) to screenplay (15,000\u201320,000 words), then produces the film via feature-film-production and script-to-film-production. Triggers on phrases like \"adapt this book\", \"turn this novel into a film\", \"make a movie from this manuscript\"."
+    },
+    {
+      "slug": "budget_envelope",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Budget & Attempt Envelope specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "camera_height_distance",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Camera Height & Distance specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "ibm-bob-ads-budget",
+      "score": 20,
+      "domain": "shared-execution",
+      "description": "Plan and review paid-media budgets, bidding, pacing, marginal return, forecasts, CPA, ROAS, MER, LTV:CAC, constraints, and allocation across supported platforms. Use for ad budget allocation, media budget, bidding strategy, scaling, spend pacing, budget forecast, ROAS target, or investment tradeoffs. This IBM Bob specialist operates at Observe/Reason/Propose by default; applying a change requires separately granted approval and connector capability."
+    }
+  ],
+  "primary_accountable": [
+    "business-affairs-packaging",
+    "ecommerce-pricing-analyst",
+    "finance-profitability-analysis",
+    "finance-unit-economics-analyst",
+    "finance-variance-analysis",
+    "ibm-bob-ads-math",
+    "ibm-cloud-operations-agent",
+    "ibm-i-sql-operations-agent",
+    "ibm-sales-ext-commercial-pricing-discount-guardrail",
+    "ibm-sales-scale-063",
+    "revenue-operations-attribution-analyst",
+    "revenue-operations-crm-data-quality-analyst",
+    "revenue-operations-crm-strategy-specialist",
+    "revenue-operations-forecasting-analyst",
+    "revenue-operations-funnel-analyst",
+    "revenue-operations-orchestrator",
+    "revenue-operations-revenue-intelligence-analyst",
+    "revenue-operations-territory-operations-analyst",
+    "revenue-pricing-exception-preparation",
+    "shared-execution-packaging-specialist"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

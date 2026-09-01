@@ -1,0 +1,1055 @@
+{
+  "schema_version": "2.0",
+  "pocket": "customeros",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 82,
+  "skills": [
+    {
+      "slug": "customer-service-customer-save-case-preparation",
+      "score": 101,
+      "domain": "customer-success",
+      "description": "Prepare a customer-save case using validated service and relationship evidence. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Customer Retention Support Capability Director."
+    },
+    {
+      "slug": "customer-service-case-closure-quality-check",
+      "score": 96,
+      "domain": "customer-success",
+      "description": "Check case closure completeness, resolution evidence, knowledge update need, and customer communication status. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Case Intake and Routing Capability Director."
+    },
+    {
+      "slug": "customer-service-service-level-risk-monitoring",
+      "score": 96,
+      "domain": "customer-success",
+      "description": "Monitor case service-level risk and route controlled owner notifications. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Case Intake and Routing Capability Director."
+    },
+    {
+      "slug": "customer-service-troubleshooting-plan-draft",
+      "score": 96,
+      "domain": "customer-success",
+      "description": "Draft a bounded troubleshooting plan with prerequisites, risks, and escalation points. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Knowledge and Resolution Support Capability Director."
+    },
+    {
+      "slug": "customer-service-backlog-prioritization-support",
+      "score": 93,
+      "domain": "customer-success",
+      "description": "Prepare backlog prioritization evidence using impact, age, entitlement, and SLA factors. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Case Intake and Routing Capability Director."
+    },
+    {
+      "slug": "customer-service-case-intake-classification",
+      "score": 93,
+      "domain": "customer-success",
+      "description": "Classify support cases by intent, urgency, entitlement, and routing evidence. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Case Intake and Routing Capability Director."
+    },
+    {
+      "slug": "customer-service-digital-channel-health-review",
+      "score": 93,
+      "domain": "customer-success",
+      "description": "Review digital service channel health, failure patterns, and escalation evidence. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Contact Center Operations Capability Director."
+    },
+    {
+      "slug": "customer-service-knowledge-evidence-retrieval",
+      "score": 93,
+      "domain": "customer-success",
+      "description": "Retrieve authoritative knowledge evidence and identify freshness or policy gaps. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Knowledge and Resolution Support Capability Director."
+    },
+    {
+      "slug": "customer-service-self-service-gap-analysis",
+      "score": 93,
+      "domain": "customer-success",
+      "description": "Identify self-service knowledge gaps from case patterns and customer journey evidence. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Knowledge and Resolution Support Capability Director."
+    },
+    {
+      "slug": "customer-service-accessibility-accommodation-handoff",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Prepare an accommodation support handoff with privacy and human-review requirements. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Service Delivery Coordination Capability Director."
+    },
+    {
+      "slug": "customer-service-agent-coaching-preparation",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Prepare agent-coaching evidence, observed behavior, and approved improvement themes. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Contact Center Operations Capability Director."
+    },
+    {
+      "slug": "customer-service-case-escalation-preparation",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Prepare a case escalation packet with timeline, evidence, impact, and requested decision. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Escalation and Complaint Management Capability Director."
+    },
+    {
+      "slug": "customer-service-complaint-classification",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Classify complaints, obligations, sensitivity, and routing requirements. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Escalation and Complaint Management Capability Director."
+    },
+    {
+      "slug": "customer-service-cross-team-handoff-readiness",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Assess cross-team handoff completeness, ownership, dependencies, and customer commitments. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Service Delivery Coordination Capability Director."
+    },
+    {
+      "slug": "customer-service-entitlement-validation",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Validate service entitlement against contract, product, and account evidence. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Entitlement and Remedy Operations Capability Director."
+    },
+    {
+      "slug": "customer-service-field-service-dispatch-readiness",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Assess field-service dispatch readiness, safety, parts, skills, and customer access dependencies. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Service Delivery Coordination Capability Director."
+    },
+    {
+      "slug": "customer-service-major-incident-customer-update",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Draft a reviewed major-incident customer update from approved incident facts. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Escalation and Complaint Management Capability Director."
+    },
+    {
+      "slug": "customer-service-qa-sample-selection",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Select quality-assurance samples using approved risk, coverage, and privacy rules. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Contact Center Operations Capability Director."
+    },
+    {
+      "slug": "customer-service-refund-exception-preparation",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Prepare a refund exception packet without executing a financial remedy. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Entitlement and Remedy Operations Capability Director."
+    },
+    {
+      "slug": "customer-service-root-cause-evidence-compilation",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Compile root-cause evidence and unresolved hypothesis gaps for reviewer analysis. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Service Quality and Improvement Capability Director."
+    },
+    {
+      "slug": "customer-service-service-consent-check",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Check consent and preference conditions before proposed customer outreach. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Entitlement and Remedy Operations Capability Director."
+    },
+    {
+      "slug": "customer-service-service-quality-scorecard",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Produce a service-quality scorecard with definitions, evidence, and coaching areas. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Service Quality and Improvement Capability Director."
+    },
+    {
+      "slug": "customer-service-support-analytics-pack",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Prepare support-analytics evidence pack with metric definitions and limitations. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Service Quality and Improvement Capability Director."
+    },
+    {
+      "slug": "customer-service-survey-insight-synthesis",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Synthesize survey insights with sample limits, source notes, and action hypotheses. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Service Quality and Improvement Capability Director."
+    },
+    {
+      "slug": "customer-service-workforce-schedule-exception",
+      "score": 90,
+      "domain": "customer-success",
+      "description": "Prepare contact-center workforce schedule exception evidence for owner approval. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Contact Center Operations Capability Director."
+    },
+    {
+      "slug": "customer-success-voice-of-customer-analyst",
+      "score": 88,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Voice-of-Customer Analyst role: voice-of-customer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-adoption-strategist",
+      "score": 87,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Adoption Strategist role: adoption; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-customer-experience-strategist",
+      "score": 87,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Customer Experience Strategist role: customer experience; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-customer-onboarding-specialist",
+      "score": 87,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Customer Onboarding Specialist role: customer onboarding; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-customer-support-agent",
+      "score": 87,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Customer Support Agent role: customer support; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-renewal-specialist",
+      "score": 87,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Renewal Specialist role: renewal; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-support-knowledge-specialist",
+      "score": 87,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Support Knowledge Specialist role: support knowledge; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-customer-health-analyst",
+      "score": 79,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Customer Health Analyst role: customer health; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-expansion-specialist",
+      "score": 79,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Expansion Specialist role: expansion; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-service-quality-reviewer",
+      "score": 79,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Service Quality Reviewer role: service quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "revenue-renewal-risk-assessment",
+      "score": 78,
+      "domain": "shared-execution",
+      "description": "Assess renewal risk using adoption, service, commercial, and stakeholder evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "customer-success-churn-risk-analyst",
+      "score": 76,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Churn Risk Analyst role: churn risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-customer-journey-analyst",
+      "score": 76,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Customer Journey Analyst role: customer journey; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-escalation-manager",
+      "score": 76,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Escalation Manager role: escalation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-implementation-success-planner",
+      "score": 76,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Implementation Success Planner role: implementation success; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-manager",
+      "score": 76,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Customer Success Manager role: customer success; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-orchestrator",
+      "score": 76,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Customer Success Orchestrator role: customer success; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-success-technical-account-manager",
+      "score": 76,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Technical Account Manager role: technical account; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-exp-csm-003",
+      "score": 71,
+      "domain": "shared-execution",
+      "description": "Activate this mode for customer health score analysis within IBM BOB's expansion and renewal lane. Use it when the seller needs the work product of renewal manager, customer success manager, expansion seller, especially when the task should reduce manual research, analysis, writing, coordination,..."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-health-signal-intake",
+      "score": 70,
+      "domain": "shared-execution",
+      "description": "Normalize permitted customer health, adoption, support, usage, and relationship signals into attributed internal observations with freshness and access controls. Use when the IBM Sales control mode selects capability `customer-success.health-signal-intake` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-068",
+      "score": 67,
+      "domain": "shared-execution",
+      "description": "Draft a customer-onboarding plan with stakeholder roles, setup prerequisites, adoption objectives, communication boundaries, support route, and milestone evidence. Use when IBM Sales selects `close.customer-onboarding` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "product-product-analytics",
+      "score": 67,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Analytics** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-analytics`, `product-analytics`, or the corresponding professional workflow: measure-product-performance-and-learning | decide whether outcomes, adoption, retention, value, cost, and risk justify iteration, investment, remediation, or retirement | handoff to analytics, finance, customer success, engineering, operations, and portfolio governance"
+    },
+    {
+      "slug": "revenue-adoption-analysis",
+      "score": 64,
+      "domain": "shared-execution",
+      "description": "Analyze customer adoption evidence and route accountable enablement actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "ibm-ado-001",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Activate this mode for training curriculum builder within IBM BOB's adoption and value realization lane. Use it when the seller needs the work product of customer success manager, adoption lead, enablement designer, especially when the task should reduce manual research, analysis, writing, coordi..."
+    },
+    {
+      "slug": "ibm-ado-002",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Activate this mode for training materials generator within IBM BOB's adoption and value realization lane. Use it when the seller needs the work product of customer success manager, adoption lead, enablement designer, especially when the task should reduce manual research, analysis, writing, coord..."
+    },
+    {
+      "slug": "ibm-ado-csm-001",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Activate this mode for adoption tracking framework within IBM BOB's adoption and value realization lane. Use it when the seller needs the work product of customer success manager, adoption lead, enablement designer, especially when the task should reduce manual research, analysis, writing, coordi..."
+    },
+    {
+      "slug": "ibm-ado-csm-002",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Activate this mode for quarterly business review (qbr) deck within IBM BOB's adoption and value realization lane. Use it when the seller needs the work product of customer success manager, adoption lead, enablement designer, especially when the task should reduce manual research, analysis, writin..."
+    },
+    {
+      "slug": "ibm-ado-csm-003",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Activate this mode for value realization report within IBM BOB's adoption and value realization lane. Use it when the seller needs the work product of customer success manager, adoption lead, enablement designer, especially when the task should reduce manual research, analysis, writing, coordinat..."
+    },
+    {
+      "slug": "ibm-ado-csm-004",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Activate this mode for training curriculum builder (csm) within IBM BOB's adoption and value realization lane. Use it when the seller needs the work product of customer success manager, adoption lead, enablement designer, especially when the task should reduce manual research, analysis, writing, ..."
+    },
+    {
+      "slug": "sales-close-to-delivery-transition",
+      "score": 59,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Close To Delivery Transition** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-close-to-delivery-transition`, `close-to-delivery-transition`, or the corresponding professional workflow: close-to-delivery-transition-and-expansion | decide whether exit criteria, success metrics, governance, funding, and delivery readiness support signature and later expansion | hand off signed scope, assumptions, risks, success plan, and relationship context to delivery, customer success, support, and account management"
+    },
+    {
+      "slug": "tls-customer-success-expansion-agent",
+      "score": 59,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires customer retention, expansion, and lifetime value optimization for TLS account growth, especially when the user expects the work product of a customer success manager or account expansion specialist."
+    },
+    {
+      "slug": "ibm-dep-csm-001",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for customer onboarding plan within IBM BOB's deployment and onboarding handoff lane. Use it when the seller needs the work product of implementation lead, customer success transition manager, solution architect, especially when the task should reduce manual research, analysis,..."
+    },
+    {
+      "slug": "ibm-dep-sa-001",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for implementation plan within IBM BOB's deployment and onboarding handoff lane. Use it when the seller needs the work product of implementation lead, customer success transition manager, solution architect, especially when the task should reduce manual research, analysis, writ..."
+    },
+    {
+      "slug": "ibm-exp-001",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for renewal proposal generator within IBM BOB's expansion and renewal lane. Use it when the seller needs the work product of renewal manager, customer success manager, expansion seller, especially when the task should reduce manual research, analysis, writing, coordination, rev..."
+    },
+    {
+      "slug": "ibm-exp-002",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for upsell opportunity brief within IBM BOB's expansion and renewal lane. Use it when the seller needs the work product of renewal manager, customer success manager, expansion seller, especially when the task should reduce manual research, analysis, writing, coordination, revie..."
+    },
+    {
+      "slug": "ibm-exp-csm-002",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for upsell opportunity brief (csm) within IBM BOB's expansion and renewal lane. Use it when the seller needs the work product of renewal manager, customer success manager, expansion seller, especially when the task should reduce manual research, analysis, writing, coordination,..."
+    },
+    {
+      "slug": "ibm-exp-tss-001",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for renewal pipeline forecasting within IBM BOB's expansion and renewal lane. Use it when the seller needs the work product of renewal manager, customer success manager, expansion seller, especially when the task should reduce manual research, analysis, writing, coordination, r..."
+    },
+    {
+      "slug": "ibm-exp-tss-002",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Activate this mode for personalized renewal email (tss) within IBM BOB's expansion and renewal lane. Use it when the seller needs the work product of renewal manager, customer success manager, expansion seller, especially when the task should reduce manual research, analysis, writing, coordinatio..."
+    },
+    {
+      "slug": "revenue-account-health-scorecard",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Produce an account-health scorecard with evidence, uncertainty, and owner actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "revenue-churn-root-cause-analysis",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "Analyze churn drivers using validated customer, product, service, and commercial evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "ecommerce-customer-journey-analyst",
+      "score": 53,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Customer Journey Analyst role: customer journey; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-retention-specialist",
+      "score": 53,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Retention Specialist role: retention; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "engineering-developer-environment-readiness",
+      "score": 53,
+      "domain": "engineering",
+      "description": "Assess developer-environment readiness, onboarding gaps, and platform support needs. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Developer Experience Capability Director."
+    },
+    {
+      "slug": "eos-customer-onboarding",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Eos Customer Onboarding for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-adoption",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Eos Product Adoption for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-renewal-risk",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Eos Renewal Risk for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-dep-001",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for customer handoff document within IBM BOB's deployment and onboarding handoff lane. Use it when the seller needs the work product of implementation lead, customer success transition manager, solution architect, especially when the task should reduce manual research, analysis..."
+    },
+    {
+      "slug": "ibm-dep-002",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for implementation kickoff deck within IBM BOB's deployment and onboarding handoff lane. Use it when the seller needs the work product of implementation lead, customer success transition manager, solution architect, especially when the task should reduce manual research, analys..."
+    },
+    {
+      "slug": "ibm-dep-csm-002",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for success metrics definition within IBM BOB's deployment and onboarding handoff lane. Use it when the seller needs the work product of implementation lead, customer success transition manager, solution architect, especially when the task should reduce manual research, analysi..."
+    },
+    {
+      "slug": "ibm-dep-sa-002",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for technical runbook within IBM BOB's deployment and onboarding handoff lane. Use it when the seller needs the work product of implementation lead, customer success transition manager, solution architect, especially when the task should reduce manual research, analysis, writin..."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-renewal-risk-route",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Route validated renewal risk signals to the accountable account/CSM team with evidence, owner, timing, and permitted mitigation planning. Use when the IBM Sales control mode selects capability `customer-success.renewal-risk-route` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-role-workflow-cartographer",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Interactively map a seller, sales leader, operations, technical-sales, partner, or customer-success role into real workflows, decisions, systems, data, bottlenecks, and automation opportunities. Use during onboarding, role changes, unclear process discovery, workflow redesign, or before recommending IBM Sales automation."
+    },
+    {
+      "slug": "process-customer-to-adoption-to-renewal",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Process Customer To Adoption To Renewal for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "product-lifecycle-retirement",
+      "score": 53,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Lifecycle Retirement** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-lifecycle-retirement`, `lifecycle-retirement`, or the corresponding professional workflow: manage-product-lifecycle-and-retirement | decide continuation, migration, deprecation, sunsetting, data retention, customer communications, and resource reallocation | handoff to operations, support, legal/privacy, finance, communications, customers, and executive governance"
+    },
+    {
+      "slug": "revenue-customer-onboarding-readiness",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Assess customer onboarding prerequisites, commitments, and unresolved dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-qbr-pack-preparation",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Prepare a quarterly business review packet with agreed metrics and source references. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "ibm-sales-scale-071",
+      "score": 51,
+      "domain": "shared-execution",
+      "description": "Prepare a renewal-readiness plan with contract facts, value evidence, adoption/health context, stakeholder map, risks, commercial dependencies, and owner actions. Use when IBM Sales selects `close.renewal-prepare` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "engineering-observability-incident-response",
+      "score": 48,
+      "domain": "engineering",
+      "description": "Perform the bounded professional capability **Observability Incident Response** for the **Engineering and Software Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `engineering-observability-incident-response`, `observability-incident-response`, or the corresponding professional workflow: Operate, observe, and respond | define service objectives, monitor health and business signals, triage incidents, and decide mitigation or rollback | SRE/operations, developers, incident commander, support, and customer communications"
+    },
+    {
+      "slug": "eos-value-realization",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Value Realization for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-value-realization-evidence",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Assemble evidence for realized or in-progress customer value while preserving measurement assumptions, owner validation, and claim boundaries. Use when the IBM Sales control mode selects capability `customer-success.value-realization-evidence` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "eos-case-resolution",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Case Resolution for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-customer-advocacy",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Customer Advocacy for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-customer-expansion",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Customer Expansion for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-customer-health",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Customer Health for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-support-intake",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Support Intake for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-success-plan-govern",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Prepare a shared success-plan draft with customer goals, owner roles, milestones, dependencies, risk, measurement, and review cadence. Use when the IBM Sales control mode selects capability `customer-success.success-plan-govern` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "ibm-sales-scale-069",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Track adoption milestones against approved success-plan definitions, evidence sources, owner actions, dependencies, and exceptions. Use when IBM Sales selects `close.adoption-milestone` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "revenue-account-plan-preparation",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Prepare evidence-backed account plans, stakeholder hypotheses, and growth priorities. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "revenue-customer-escalation-coordination",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Coordinate a customer escalation case, evidence set, action owners, and communications draft. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Escalation Management Capability Director."
+    },
+    {
+      "slug": "revenue-expansion-signal-qualification",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Qualify expansion signals and draft accountable account follow-up. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "revenue-lead-routing-quality-check",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Validate lead-routing records against territory, consent, and service-level rules. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-reference-candidate-qualification",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Qualify customer reference candidates against consent, relationship, and eligibility criteria. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Advocacy Capability Director."
+    },
+    {
+      "slug": "sales-stakeholder-mapping",
+      "score": 45,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Stakeholder Mapping** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-stakeholder-mapping`, `stakeholder-mapping`, or the corresponding professional workflow: stakeholder-and-power-mapping | decide economic buyer, technical buyer, users, procurement, legal, security, champion, detractor, and influence paths | hand off stakeholder map and engagement plan to account team, executives, partners, and customer success"
+    },
+    {
+      "slug": "ecommerce-cart-optimization-specialist",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Cart Optimization Specialist role: cart optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-catalog-management-specialist",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Catalog Management Specialist role: catalog management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-conversion-specialist",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Conversion Specialist role: conversion; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-analytics-specialist",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Analytics Specialist role: e-commerce analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-orchestrator",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Orchestrator role: e-commerce; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-seo-specialist",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce SEO Specialist role: e-commerce seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-e-commerce-strategist",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Strategist role: e-commerce; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-marketplace-analyst",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Marketplace Analyst role: marketplace; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-marketplace-operations-specialist",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Marketplace Operations Specialist role: marketplace operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-merchandising-specialist",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Merchandising Specialist role: merchandising; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-orchestrator",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the E-Commerce Orchestrator role: e-commerce; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-pricing-analyst",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Pricing Analyst role: pricing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-product-description-writer",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Product Description Writer role: product description; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ecommerce-product-listing-specialist",
+      "score": 42,
+      "domain": "ecommerce",
+      "description": "Use for ecommerce work requiring the Product Listing Specialist role: product listing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "eos-case-classification",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Case Classification for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-churn-prevention",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Churn Prevention for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-customer-support-communication",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Customer Support Communication for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-executive-business-review",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Executive Business Review for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-support-analytics",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Support Analytics for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-support-escalation",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Support Escalation for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-support-knowledge-management",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Support Knowledge Management for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-support-root-cause-analysis",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Support Root Cause Analysis for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-support-routing",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Support Routing for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-support-sla-management",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Eos Support SLA Management for Customer Support. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "revenue-contract-handoff-readiness",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Assess contract handoff completeness for delivery, billing, and customer success teams. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-customer-commitment-tracker",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Track material customer commitments, owners, due dates, and escalation risk. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal to Delivery Capability Director."
+    },
+    {
+      "slug": "revenue-deal-desk-review-pack",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Compile deal-desk review evidence for pricing, terms, risk, and approvals. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "revenue-forecast-rollup-exception",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Analyze forecast rollup exceptions, missing evidence, and confidence gaps. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-incentive-exception-review",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Review sales-incentive exception evidence for authorized compensation processing. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-opportunity-qualification",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Qualify opportunities against approved stages, evidence, and next-step standards. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "revenue-pipeline-hygiene-review",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Identify pipeline record quality gaps and draft owner remediation actions. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-pricing-exception-preparation",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Prepare a pricing exception case with policy, economics, and approver evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "revenue-quote-policy-compliance",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Check quote configuration against approved pricing and commercial policy. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Pipeline and Deal Operations Capability Director."
+    },
+    {
+      "slug": "revenue-rfp-response-evidence",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Compile RFP response evidence, source citations, and review dependencies. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Deal Enablement Capability Director."
+    },
+    {
+      "slug": "revenue-sales-activity-capture-review",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Review sales activity capture completeness and data-quality remediation needs. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "revenue-stakeholder-map-preparation",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Prepare stakeholder maps from approved relationship and interaction evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Strategic Account Growth Capability Director."
+    },
+    {
+      "slug": "revenue-territory-coverage-analysis",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Analyze account and rep coverage gaps against approved territory design. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Revenue Operations Capability Director."
+    },
+    {
+      "slug": "sales-procurement-onboarding",
+      "score": 42,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Procurement Onboarding** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-procurement-onboarding`, `procurement-onboarding`, or the corresponding professional workflow: procurement-and-vendor-onboarding | decide how the customer\u2019s tender, evaluation, due diligence, supplier onboarding, and purchase-order process will be satisfied | hand off required evidence and negotiated commitments to customer procurement, vendor management, finance, and delivery"
+    },
+    {
+      "slug": "cios-customer-entity-resolution",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Cios Customer Entity Resolution for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "customers-win-suppliers-win-strategist",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "A strategic framework for achieving win-win outcomes in key account management, based on the book \"Customers Win, Suppliers Win\" by Noel Capon and Gus Maikish. Use when developing strategic account plans, managing key customer relationships, or seeking to create mutual value with strategic partners."
+    },
+    {
+      "slug": "cio-data-retention-governance",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Data Retention Governance for Data. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-developer-experience",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Developer Experience for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-contracting-support",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Contracting Support for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-renewal-management",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "CIO Technology Renewal Management for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-continuous-customer-analysis-loop",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Continuous Customer Analysis Loop for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-agent-challenge-loop",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Agent Challenge Loop for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-contradiction-engine",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Contradiction Engine for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-convergence-check",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Convergence Check for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-data-ingestion",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Data Ingestion for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-delta-propagation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Delta Propagation for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-evidence-normalization",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Evidence Normalization for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-insight-dashboard",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Insight Dashboard for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-knowledge-graph",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Knowledge Graph for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-next-best-action",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Next Best Action for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-opportunity-graph",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Opportunity Graph for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-role-coverage-audit",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Role Coverage Audit for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-skill-relevance-planning",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Skill Relevance Planning for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-strategy-generation",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Strategy Generation for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-unknown-question-engine",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer Unknown Question Engine for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cios-customer-what-changed-digest",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Cios Customer What Changed Digest for Customer Intelligence OS. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "engineering-backlog-refinement-support",
+      "score": 31,
+      "domain": "engineering",
+      "description": "Prepare backlog refinement packet with scope, dependencies, risks, and acceptance evidence. Use when a Software Engineering, Platform Engineering, DevSecOps, Testing, and Release Management case needs this bounded procedure under the Product Delivery Planning Capability Director."
+    },
+    {
+      "slug": "people-succession-mobility-planning",
+      "score": 31,
+      "domain": "people",
+      "description": "Perform the bounded professional capability **Succession Mobility Planning** for the **People and Human Resources** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `people-succession-mobility-planning`, `succession-mobility-planning`, or the corresponding professional workflow: succession, mobility, and retention planning | identify critical roles and talent risks, evaluate readiness and potential with validated criteria, and approve development or movement plans | business leadership, HRBP, talent review panel, employee, diversity/equity reviewers"
+    }
+  ],
+  "primary_accountable": [
+    "customer-service-accessibility-accommodation-handoff",
+    "customer-service-agent-coaching-preparation",
+    "customer-service-backlog-prioritization-support",
+    "customer-service-case-closure-quality-check",
+    "customer-service-case-escalation-preparation",
+    "customer-service-case-intake-classification",
+    "customer-service-complaint-classification",
+    "customer-service-cross-team-handoff-readiness",
+    "customer-service-customer-save-case-preparation",
+    "customer-service-digital-channel-health-review",
+    "customer-service-entitlement-validation",
+    "customer-service-field-service-dispatch-readiness",
+    "customer-service-knowledge-evidence-retrieval",
+    "customer-service-major-incident-customer-update",
+    "customer-service-qa-sample-selection",
+    "customer-service-refund-exception-preparation",
+    "customer-service-root-cause-evidence-compilation",
+    "customer-service-self-service-gap-analysis",
+    "customer-service-service-consent-check",
+    "customer-service-service-level-risk-monitoring",
+    "customer-service-service-quality-scorecard",
+    "customer-service-support-analytics-pack",
+    "customer-service-survey-insight-synthesis",
+    "customer-service-troubleshooting-plan-draft",
+    "customer-service-workforce-schedule-exception",
+    "customer-success-adoption-strategist",
+    "customer-success-churn-risk-analyst",
+    "customer-success-customer-experience-strategist",
+    "customer-success-customer-health-analyst",
+    "customer-success-customer-journey-analyst",
+    "customer-success-customer-onboarding-specialist",
+    "customer-success-customer-support-agent",
+    "customer-success-escalation-manager",
+    "customer-success-expansion-specialist",
+    "customer-success-implementation-success-planner",
+    "customer-success-manager",
+    "customer-success-orchestrator",
+    "customer-success-renewal-specialist",
+    "customer-success-service-quality-reviewer",
+    "customer-success-support-knowledge-specialist",
+    "customer-success-technical-account-manager",
+    "customer-success-voice-of-customer-analyst",
+    "customers-win-suppliers-win-strategist",
+    "eos-case-classification",
+    "eos-case-resolution",
+    "eos-churn-prevention",
+    "eos-customer-advocacy",
+    "eos-customer-health",
+    "eos-customer-onboarding",
+    "eos-customer-support-communication",
+    "eos-product-adoption",
+    "eos-renewal-risk",
+    "eos-support-analytics",
+    "eos-support-escalation",
+    "eos-support-intake",
+    "eos-support-knowledge-management",
+    "eos-support-root-cause-analysis",
+    "eos-support-routing",
+    "eos-support-sla-management",
+    "eos-value-realization",
+    "ibm-ado-001",
+    "ibm-ado-002",
+    "ibm-ado-csm-001",
+    "ibm-ado-csm-002",
+    "ibm-ado-csm-003",
+    "ibm-ado-csm-004",
+    "ibm-dep-001",
+    "ibm-dep-002",
+    "ibm-dep-csm-001",
+    "ibm-dep-csm-002",
+    "ibm-dep-sa-001",
+    "ibm-dep-sa-002",
+    "ibm-exp-001",
+    "ibm-exp-002",
+    "ibm-exp-csm-002",
+    "ibm-exp-csm-003",
+    "ibm-exp-tss-002",
+    "ibm-sales-ext-customer-health-signal-intake",
+    "ibm-sales-role-workflow-cartographer",
+    "ibm-sales-scale-068",
+    "ibm-sales-scale-069",
+    "tsc-ets-frontend-mfe-engineer"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

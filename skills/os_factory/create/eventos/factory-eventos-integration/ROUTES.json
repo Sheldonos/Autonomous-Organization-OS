@@ -1,0 +1,27 @@
+{
+  "pocket": "eventos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "demo-guide-architect",
+    "ibm-eng-006",
+    "ibm-eng-iss-001",
+    "ibm-sales-scale-029",
+    "ibm-bob-ads-landing",
+    "ibm-bob-ads-server-side-tracking",
+    "ibm-sales-ext-workflow-event-schema-gate",
+    "character-architecture",
+    "production_feasibility_audit",
+    "production_status_report",
+    "marketing-event-strategy-operations",
+    "automation-event-driven-automation-specialist",
+    "enterprise-event-ledger",
+    "eos-event-marketing",
+    "marketing-event-marketing-strategist",
+    "sales-trigger-event-analyst",
+    "enterprise-domain-observability-engineer",
+    "marketing-event-readiness-checklist",
+    "marketing-webinar-follow-up-preparation",
+    "healthcare-patient-safety-event-management"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "commerceos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ecommerce-merchandising-specialist",
+    "ecommerce-retention-specialist",
+    "ibm-sales-ext-data-source-catalog",
+    "product-lifecycle-retirement",
+    "tls-customer-success-expansion-agent",
+    "ecommerce-conversion-specialist",
+    "ecommerce-e-commerce-analytics-specialist",
+    "ecommerce-e-commerce-orchestrator",
+    "ecommerce-e-commerce-seo-specialist",
+    "ecommerce-e-commerce-strategist",
+    "ecommerce-orchestrator",
+    "ecommerce-product-description-writer",
+    "ecommerce-product-listing-specialist",
+    "product-product-analytics",
+    "anime-series-production",
+    "ecommerce-cart-optimization-specialist",
+    "ecommerce-catalog-management-specialist",
+    "ecommerce-pricing-analyst",
+    "ecommerce-customer-journey-analyst",
+    "ecommerce-marketplace-analyst"
+  ]
+}

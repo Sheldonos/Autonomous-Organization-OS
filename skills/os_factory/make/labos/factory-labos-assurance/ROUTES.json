@@ -1,0 +1,27 @@
+{
+  "pocket": "labos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-bob-ads-test",
+    "eos-technical-evaluation",
+    "cio-agent-evaluation",
+    "cio-ai-evaluation",
+    "benchmark_evaluation",
+    "keyframe-evaluation",
+    "keyframe_evaluation",
+    "ibm-sales-scale-026",
+    "math-science-problem-coach",
+    "scene_pacing_evaluation",
+    "enterprise-adapter-contract-engineer",
+    "engineering-automated-testing",
+    "engineering-open-source-compliance-prep",
+    "quantum-research-evidence-ledger",
+    "cio-technology-vendor-evaluation",
+    "enterprise-evaluation-control-plane",
+    "research-living-review-monitoring",
+    "engineering-test-failure-triage",
+    "engineering-delivery-performance-improvement",
+    "engineering-configuration-change-management"
+  ]
+}

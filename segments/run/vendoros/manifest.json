@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "id": "vendoros",
+  "title": "VendorOS",
+  "segment": "run",
+  "mission": "Manage third-party vendors from onboarding and risk through performance, obligations, renewal, and exit.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 26,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Vendor intake",
+    "Due diligence",
+    "Onboarding",
+    "Obligation & SLA setup",
+    "Performance monitoring",
+    "Risk review",
+    "Renewal decision",
+    "Exit & knowledge transfer"
+  ],
+  "handoffs": [
+    "procureos",
+    "legalos",
+    "riskos"
+  ],
+  "connectors": [
+    "vendor_mgmt",
+    "erp",
+    "contract_repository",
+    "risk_platform"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

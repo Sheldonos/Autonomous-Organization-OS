@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Opportunity",
+  "type": "object",
+  "required": [
+    "source",
+    "external_id",
+    "title"
+  ],
+  "properties": {
+    "source": {
+      "type": "string"
+    },
+    "external_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "response_deadline": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "estimated_value_usd": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "raw": {
+      "type": "object"
+    }
+  }
+}

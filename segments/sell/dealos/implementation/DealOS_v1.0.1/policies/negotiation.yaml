@@ -1,0 +1,35 @@
+version: 1
+# Replace REQUIRED_* values before autonomous commercial negotiation is enabled.
+offers:
+  federal_intelligence_subscription:
+    enabled: false
+    target_monthly_usd: REQUIRED_USER_CONFIG
+    floor_monthly_usd: REQUIRED_USER_CONFIG
+    target_term_months: 12
+  ai_transformation_managed_service:
+    enabled: false
+    target_setup_usd: REQUIRED_USER_CONFIG
+    floor_setup_usd: REQUIRED_USER_CONFIG
+    target_monthly_usd: REQUIRED_USER_CONFIG
+    floor_monthly_usd: REQUIRED_USER_CONFIG
+    target_term_months: 12
+  modernization_origination_or_service:
+    enabled: false
+    target_monthly_usd: REQUIRED_USER_CONFIG
+    floor_monthly_usd: REQUIRED_USER_CONFIG
+
+standard_terms:
+  payment: [prepaid, net_15, net_30]
+  maximum_autonomous_discount_pct: 10
+  maximum_reversible_discount_pct: 20
+  governing_law: REQUIRED_USER_CONFIG
+
+always_escalate:
+  - exclusivity
+  - uncapped_liability
+  - ip_assignment
+  - personal_guarantee
+  - nonstandard_indemnification
+  - unusual_data_rights
+  - regulatory_representation
+  - bank_account_change

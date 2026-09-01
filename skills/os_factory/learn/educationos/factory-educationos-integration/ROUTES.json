@@ -1,0 +1,27 @@
+{
+  "pocket": "educationos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-facilitate-instruction",
+    "education-classroom-workflow-specialist",
+    "learner-simulation-audit",
+    "marketing-event-strategy-operations",
+    "product-roadmap-management",
+    "qisbob-quantum-mentor",
+    "education-coordinate-accommodations",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "education-manage-credentials-records",
+    "education-monitor-learner-progress",
+    "education-manage-learner-intake",
+    "education-analyze-learning-needs",
+    "education-assure-program-quality",
+    "education-develop-learning-content",
+    "education-support-career-transition",
+    "education-evaluate-learning-impact",
+    "education-govern-learning-analytics",
+    "education-map-occupational-competencies",
+    "automation-secrets-credential-reviewer"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "executiveos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "chief-of-staff-escalation-triage",
+    "chief-of-staff-decision-rights-mapping",
+    "chief-of-staff-organizational-sensing",
+    "chief-of-staff-risk-escalation-coordinator",
+    "cross-team-continuous-routing-controller",
+    "strategy-strategic-risk-analyst",
+    "accounting-audit-preparation-specialist",
+    "accounting-policy-researcher",
+    "accounting-quality-reviewer",
+    "chief-of-staff-board-materials-governance",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "chief-of-staff-risk-crisis-coordination",
+    "healthcare-breach-response-coordination",
+    "healthcare-downtime-continuity-planning",
+    "legal-risk-board-governance-pack",
+    "agency-operations-stakeholder-communications-governance",
+    "engineering-delivery-performance-improvement",
+    "finance-financial-close-support",
+    "finance-management-reporting"
+  ]
+}

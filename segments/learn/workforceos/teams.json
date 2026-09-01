@@ -1,0 +1,74 @@
+{
+  "pocket": "workforceos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Role/capability graph Team",
+      "stage": 1,
+      "responsibility": "Role/capability graph",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Employee skill evidence Team",
+      "stage": 2,
+      "responsibility": "Employee skill evidence",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Gap analysis Team",
+      "stage": 3,
+      "responsibility": "Gap analysis",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Learning plan Team",
+      "stage": 4,
+      "responsibility": "Learning plan",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Practice/project placement Team",
+      "stage": 5,
+      "responsibility": "Practice/project placement",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Assessment Team",
+      "stage": 6,
+      "responsibility": "Assessment",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Credential Team",
+      "stage": 7,
+      "responsibility": "Credential",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Mobility & workforce feedback Team",
+      "stage": 8,
+      "responsibility": "Mobility & workforce feedback",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

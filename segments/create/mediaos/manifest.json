@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "id": "mediaos",
+  "title": "MediaOS",
+  "segment": "create",
+  "mission": "Operate a publication from signal detection and reporting through multi-format distribution, audience learning, and monetization.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 94,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Signal detection",
+    "Editorial prioritization",
+    "Research & fact check",
+    "Story construction",
+    "Format adaptation",
+    "Publishing",
+    "Distribution",
+    "Audience analytics",
+    "Monetization learning"
+  ],
+  "handoffs": [
+    "researchos",
+    "brandos",
+    "creatoros",
+    "revenueos"
+  ],
+  "connectors": [
+    "news_feeds",
+    "cms",
+    "social",
+    "newsletter",
+    "analytics",
+    "ad_platform"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

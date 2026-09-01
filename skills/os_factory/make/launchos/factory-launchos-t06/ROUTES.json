@@ -1,0 +1,27 @@
+{
+  "pocket": "launchos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "product-release-readiness-assessment",
+    "ibm-sales-ext-marketing-attribution-review",
+    "ibm-sales-ext-marketing-campaign-event",
+    "program-management-release-coordinator",
+    "automation-manage-release-and-change",
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "ibm-sales-ext-commercial-proposal-release-qa",
+    "it-change-review-readiness",
+    "tsc-release-readiness-manager",
+    "ibm-sales-ext-platform-model-release",
+    "engineering-database-migration-readiness",
+    "engineering-developer-environment-readiness",
+    "engineering-feature-flag-readiness",
+    "engineering-mobile-quality-readiness",
+    "engineering-release-readiness-gate",
+    "product-go-to-market-planning",
+    "customer-service-cross-team-handoff-readiness",
+    "customer-service-field-service-dispatch-readiness",
+    "engineering-release-deployment-management",
+    "media-release-management"
+  ]
+}

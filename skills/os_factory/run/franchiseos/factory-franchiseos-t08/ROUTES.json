@@ -1,0 +1,27 @@
+{
+  "pocket": "franchiseos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-met-sm-004",
+    "business-development-alliance-management",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "marketing-budget-pacing-analysis",
+    "construction-commissioning-turnover",
+    "healthcare-cms-quality-measure-reporting",
+    "healthcare-vendor-business-associate-governance",
+    "legal-contract-performance-monitoring",
+    "procurement-monitor-supplier-performance",
+    "revenue-expansion-signal-qualification",
+    "tls-ai-drift-detection-escalation-agent",
+    "agent-operations-and-learning",
+    "agentic-systems-architect",
+    "automation-baseline-process-performance",
+    "automation-improve-process-performance",
+    "ibm-met-sm-009",
+    "media-media-asset-management",
+    "media-release-management",
+    "media-rights-clearance"
+  ]
+}

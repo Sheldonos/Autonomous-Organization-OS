@@ -1,0 +1,1017 @@
+{
+  "schema_version": "2.0",
+  "pocket": "ventureos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 44,
+  "skills": [
+    {
+      "slug": "product-go-to-market-planning",
+      "score": 82,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Go To Market Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-go-to-market-planning`, `go-to-market-planning`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-roadmap-planning",
+      "score": 82,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Roadmap Planning** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-roadmap-planning`, `roadmap-planning`, or the corresponding professional workflow: prioritize-product-portfolio-and-roadmap | decide sequencing and funding across products, capabilities, risks, dependencies, capacity, and expected outcomes | handoff to executive portfolio boards, engineering, architecture, security, finance, and go-to-market"
+    },
+    {
+      "slug": "startups-business-model-specialist",
+      "score": 80,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Business Model Specialist role: business model; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-startup-gtm-strategist",
+      "score": 79,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Startup GTM Strategist role: startup gtm; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-customer-problem-discovery",
+      "score": 77,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Customer Problem Discovery** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-customer-problem-discovery`, `customer-problem-discovery`, or the corresponding professional workflow: discover-customer-problems-and-opportunities | decide which validated problems merit investment based on customer value, strategic fit, feasibility, and evidence | handoff to research/design, engineering, sales, service, and executive sponsors"
+    },
+    {
+      "slug": "startups-founder-market-fit-analyst",
+      "score": 76,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Founder-Market-Fit Analyst role: founder-market-fit; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-fundraising-strategist",
+      "score": 76,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Fundraising Strategist role: fundraising; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-market-validation-specialist",
+      "score": 76,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Market Validation Specialist role: market validation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-orchestrator",
+      "score": 76,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Startup Orchestrator role: startup; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-startup-financial-modeler",
+      "score": 76,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Startup Financial Modeler role: startup financial modeler; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-startup-growth-strategist",
+      "score": 76,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Startup Growth Strategist role: startup growth; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-startup-orchestrator",
+      "score": 76,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Startup Orchestrator role: startup; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-venture-risk-critic",
+      "score": 76,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Venture Risk Critic role: venture risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-venture-strategist",
+      "score": 76,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Venture Strategist role: venture; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-customer-interview-specialist",
+      "score": 73,
+      "domain": "product",
+      "description": "Use for product work requiring the Customer Interview Specialist role: customer interview; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-discovery-specialist",
+      "score": 73,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Discovery Specialist role: product discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-launch-architect",
+      "score": 73,
+      "domain": "product",
+      "description": "Use for strategy work requiring the product-launch-architect specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "product-launch-manager",
+      "score": 73,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Launch Manager role: product launch; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-opportunity-analyst",
+      "score": 73,
+      "domain": "product",
+      "description": "Use for product work requiring the Opportunity Analyst role: opportunity; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-problem-definition-specialist",
+      "score": 73,
+      "domain": "product",
+      "description": "Use for product work requiring the Problem Definition Specialist role: problem definition; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-prototype-validation",
+      "score": 73,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Prototype Validation** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-prototype-validation`, `prototype-validation`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "product-roadmap-management",
+      "score": 73,
+      "domain": "product",
+      "description": "Translate product strategy and evidence into an outcome-oriented roadmap with dependencies, risks and measurable learning. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "startups-opportunity-discovery-analyst",
+      "score": 71,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Opportunity Discovery Analyst role: opportunity discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-acceptance-criteria-specialist",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Acceptance Criteria Specialist role: acceptance criteria; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-ai-product-manager",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the AI Product Manager role: ai product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-analytics-specialist",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Analytics Specialist role: product analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-chief-product-officer-advisor",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Chief Product Officer Advisor role: chief product officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-critic",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Critic role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-experiment-designer",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Experiment Designer role: product experiment; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-feature-strategist",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Feature Strategist role: feature; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-growth-product-manager",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Growth Product Manager role: growth product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-jobs-to-be-done-analyst",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Jobs-to-Be-Done Analyst role: jobs-to-be-done; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-manager",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Manager role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-operations-specialist",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Operations Specialist role: product operations; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-orchestrator",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Orchestrator role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-platform-product-manager",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Platform Product Manager role: platform product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-prd-writer",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the PRD Writer role: prd; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-prioritization-analyst",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Prioritization Analyst role: prioritization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-quality-reviewer",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Quality Reviewer role: product quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-requirements-analyst",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Requirements Analyst role: requirements; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-roadmap-strategist",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Roadmap Strategist role: roadmap; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-strategist",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Product Strategist role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-technical-product-manager",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the Technical Product Manager role: technical product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-user-researcher",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the User Researcher role: user; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-user-story-specialist",
+      "score": 70,
+      "domain": "product",
+      "description": "Use for product work requiring the User Story Specialist role: user story; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-problem-discovery-specialist",
+      "score": 68,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Problem Discovery Specialist role: problem discovery; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-business-model-designer",
+      "score": 67,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Business Model Designer role: business model; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-category-creation-strategist",
+      "score": 65,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Category Creation Strategist role: category creation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-founder-advisor",
+      "score": 65,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Founder Advisor role: founder; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-idea-validation-specialist",
+      "score": 65,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Idea Validation Specialist role: idea validation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-investor-research-specialist",
+      "score": 65,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Investor Research Specialist role: investor research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-mvp-strategist",
+      "score": 65,
+      "domain": "startups",
+      "description": "Use for startups work requiring the MVP Strategist role: mvp; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-pitch-deck-reviewer",
+      "score": 65,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Pitch Deck Reviewer role: pitch deck; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-pitch-strategist",
+      "score": 65,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Pitch Strategist role: pitch; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-pricing-strategist",
+      "score": 65,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Pricing Strategist role: pricing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "startups-zero-to-one-strategist",
+      "score": 65,
+      "domain": "startups",
+      "description": "Use for startups work requiring the Zero-to-One Strategist role: zero-to-one; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-market-entry-strategist",
+      "score": 63,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Market Entry Strategist role: market entry; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "product-experiment-design",
+      "score": 62,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Experiment Design** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-experiment-design`, `experiment-design`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "product-lifecycle-retirement",
+      "score": 62,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Lifecycle Retirement** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-lifecycle-retirement`, `lifecycle-retirement`, or the corresponding professional workflow: manage-product-lifecycle-and-retirement | decide continuation, migration, deprecation, sunsetting, data retention, customer communications, and resource reallocation | handoff to operations, support, legal/privacy, finance, communications, customers, and executive governance"
+    },
+    {
+      "slug": "product-privacy-by-design-review",
+      "score": 62,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Privacy By Design Review** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-privacy-by-design-review`, `privacy-by-design-review`, or the corresponding professional workflow: run-experiments-and-prototypes | decide the smallest credible test, hypothesis, success/failure thresholds, sampling, and whether to persevere, pivot, or stop | handoff to research participants, data/analytics, design, engineering, legal/privacy, and decision sponsors"
+    },
+    {
+      "slug": "product-product-analytics",
+      "score": 62,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Analytics** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-analytics`, `product-analytics`, or the corresponding professional workflow: measure-product-performance-and-learning | decide whether outcomes, adoption, retention, value, cost, and risk justify iteration, investment, remediation, or retirement | handoff to analytics, finance, customer success, engineering, operations, and portfolio governance"
+    },
+    {
+      "slug": "product-product-vision-definition",
+      "score": 62,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Product Vision Definition** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-product-vision-definition`, `product-vision-definition`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-requirements-traceability",
+      "score": 62,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Requirements Traceability** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-requirements-traceability`, `requirements-traceability`, or the corresponding professional workflow: translate-needs-into-product-requirements | decide scope, acceptance criteria, non-functional requirements, assumptions, constraints, and traceability to outcomes | handoff to UX, architecture, engineering, QA, security, compliance, and customer representatives"
+    },
+    {
+      "slug": "product-backlog-governance",
+      "score": 59,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Backlog Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-backlog-governance`, `backlog-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-innovation-funnel-management",
+      "score": 59,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Innovation Funnel Management** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-innovation-funnel-management`, `innovation-funnel-management`, or the corresponding professional workflow: manage-idea-intake-and-innovation-funnel | decide whether ideas are captured, screened, combined, incubated, deferred, or rejected using explicit criteria | handoff to domain experts, innovation sponsors, legal, finance, and delivery teams"
+    },
+    {
+      "slug": "product-portfolio-prioritization",
+      "score": 59,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Portfolio Prioritization** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-portfolio-prioritization`, `portfolio-prioritization`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "product-release-readiness-assessment",
+      "score": 59,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Release Readiness Assessment** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-release-readiness-assessment`, `release-readiness-assessment`, or the corresponding professional workflow: govern-agile-delivery-and-backlog | decide backlog ordering, release scope, trade-offs, readiness, and changes using transparent inspection and adaptation | handoff to product owner/team, Scrum or delivery partners, QA, operations, and stakeholders"
+    },
+    {
+      "slug": "product-responsible-ai-product-governance",
+      "score": 59,
+      "domain": "product",
+      "description": "Perform the bounded professional capability **Responsible Ai Product Governance** for the **Product Management and Innovation** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `product-responsible-ai-product-governance`, `responsible-ai-product-governance`, or the corresponding professional workflow: define-product-vision-and-outcomes | decide target users, value proposition, product goals, outcome metrics, and strategic boundaries | handoff to portfolio governance, engineering, design, marketing, operations, and finance"
+    },
+    {
+      "slug": "data-strategy-model-risk-assessment-prep",
+      "score": 56,
+      "domain": "data",
+      "description": "Prepare model-risk assessment evidence, validation needs, and human review route. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the AI Governance Capability Director."
+    },
+    {
+      "slug": "demand-architect",
+      "score": 56,
+      "domain": "shared-execution",
+      "description": "A strategic framework for engineering demand by creating the cultural, behavioral, and infrastructural conditions that make a product necessary. This skill, reverse-engineered from the Michelin Guide's marketing strategy, provides a playbook for building long-term, defensible moats around a product by creating a Trojan Horse of value. Use when launching a new product, entering a commoditized market, or seeking to build a brand with lasting cultural relevance."
+    },
+    {
+      "slug": "strategy-business-strategy-analyst",
+      "score": 55,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Business Strategy Analyst role: business strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-pre-atl-004",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Activate this mode for complex deal strategy & orchestration plan within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordina..."
+    },
+    {
+      "slug": "lemos-strategy-playbook",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Execute the complete LemosOS marketing strategy from 'Fall of the House of Usher.' This skill provides a playbook for creating artificial scarcity, manufacturing desire, and weaponizing intellectual property to achieve market dominance. It now includes a detailed framework for structuring celebrity equity partnerships to amplify the narrative. Use when launching a new product, seeking to disrupt an existing market, or building a brand with a celebrity partner."
+    },
+    {
+      "slug": "tls-competitive-intelligence-battlecard-agent",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Use this mode when a request requires competitive analysis, market intelligence, and win/loss strategy for TLS competitive positioning, especially when the user expects the work product of a competitive intelligence analyst or product marketing specialist."
+    },
+    {
+      "slug": "strategy-board-strategy-advisor",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Board Strategy Advisor role: board strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-competitive-strategy-analyst",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Competitive Strategy Analyst role: competitive strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-corporate-strategist",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Corporate Strategist role: corporate; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-growth-strategist",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Growth Strategist role: growth; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-moat-analyst",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Moat Analyst role: moat; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-monopoly-category-strategy-analyst",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Monopoly / Category Strategy Analyst role: monopoly / category strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-portfolio-strategist",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Portfolio Strategist role: portfolio; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-scenario-strategist",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Scenario Strategist role: scenario; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-strategic-initiative-designer",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Strategic Initiative Designer role: strategic initiative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-strategic-planning-specialist",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Strategic Planning Specialist role: strategic planning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "strategy-strategic-risk-analyst",
+      "score": 52,
+      "domain": "strategy",
+      "description": "Use for strategy work requiring the Strategic Risk Analyst role: strategic risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "executive-okr-operating-system",
+      "score": 50,
+      "domain": "strategy",
+      "description": "Convert strategic priorities into measurable objectives, key results, ownership, evidence and review cadence. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "eos-product-customer-discovery",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "Eos Product Customer Discovery for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-market-discovery",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Eos Product Market Discovery for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-pre-003",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Activate this mode for buying opportunity detector within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, review, q..."
+    },
+    {
+      "slug": "ibm-pre-atl-003",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Activate this mode for cross-brand opportunity identifier within IBM BOB's pre-sales intelligence lane. Use it when the seller needs the work product of account researcher, market analyst, account planner, especially when the task should reduce manual research, analysis, writing, coordination, re..."
+    },
+    {
+      "slug": "business-development-channel-strategy-specialist",
+      "score": 45,
+      "domain": "business-development",
+      "description": "Use for business development work requiring the Channel Strategy Specialist role: channel strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "customer-service-entitlement-validation",
+      "score": 45,
+      "domain": "customer-success",
+      "description": "Validate service entitlement against contract, product, and account evidence. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Entitlement and Remedy Operations Capability Director."
+    },
+    {
+      "slug": "data-strategy-ai-use-case-qualification",
+      "score": 45,
+      "domain": "data",
+      "description": "Qualify AI use cases against value, risk, data, governance, and operating readiness. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the AI Governance Capability Director."
+    },
+    {
+      "slug": "data-strategy-business-case-preparation",
+      "score": 45,
+      "domain": "data",
+      "description": "Prepare business-case evidence, assumptions, benefits, costs, risks, and owners. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy and Portfolio Management Capability Director."
+    },
+    {
+      "slug": "eos-product-strategy",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Product Strategy for Product Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "procurement-develop-sourcing-strategy",
+      "score": 45,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Develop Sourcing Strategy** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-develop-sourcing-strategy`, `develop-sourcing-strategy`, or the corresponding professional workflow: market-and-make-buy-analysis | decide internal delivery versus external sourcing, market maturity, category strategy, and delivery model | handoff to procurement/category lead, finance, legal, and delivery stakeholders"
+    },
+    {
+      "slug": "agency-strategy-consultant",
+      "score": 42,
+      "domain": "agency",
+      "description": "Use for agency work requiring the Strategy Consultant role: strategy consultant; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cybersecurity-product-security-specialist",
+      "score": 42,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Product Security Specialist role: product security; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-product-analyst",
+      "score": 42,
+      "domain": "data",
+      "description": "Use for data work requiring the Product Analyst role: product; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "data-strategy-analytics-insight-synthesis",
+      "score": 42,
+      "domain": "data",
+      "description": "Synthesize analytics evidence into transparent insights, assumptions, and next questions. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Analytics and Decision Support Capability Director."
+    },
+    {
+      "slug": "data-strategy-benefits-realization-evidence",
+      "score": 42,
+      "domain": "data",
+      "description": "Compile benefits-realization evidence, baseline, owner, and measurement limitations. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Strategy Execution Capability Director."
+    },
+    {
+      "slug": "data-strategy-data-product-assessment",
+      "score": 42,
+      "domain": "data",
+      "description": "Assess data-product readiness, ownership, quality, SLA, and consumer expectations. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the Data Product Management Capability Director."
+    },
+    {
+      "slug": "finance-market-research-analyst",
+      "score": 42,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-market-research-analyst",
+      "score": 42,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Market Research Analyst role: market research; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-product-marketing-manager",
+      "score": 42,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Product Marketing Manager role: product marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-commercial-strategy-analyst",
+      "score": 42,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Commercial Strategy Analyst role: commercial strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "sales-competitive-strategy",
+      "score": 42,
+      "domain": "sales",
+      "description": "Perform the bounded professional capability **Competitive Strategy** for the **Enterprise Sales** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `sales-competitive-strategy`, `competitive-strategy`, or the corresponding professional workflow: competitive-and-risk-strategy | decide differentiation, competitive posture, red-team risks, win themes, and claims that can be substantiated | hand off battlecard and risk register to account leadership, product marketing, executives, and bid team"
+    },
+    {
+      "slug": "sales-discount-strategy-analyst",
+      "score": 42,
+      "domain": "sales",
+      "description": "Use for sales work requiring the Discount Strategy Analyst role: discount strategy; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "eos-content-strategy",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Content Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-messaging-strategy",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Messaging Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-positioning-strategy",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Positioning Strategy for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-product-marketing",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Product Marketing for Marketing. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "marketing-campaign-launch-readiness",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Assess campaign launch readiness, approvals, tracking, assets, and rollback steps. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-customer-researcher",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Customer Researcher role: customer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-event-strategy-operations",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Design and operate business events from objectives through attendee experience, pipeline/value capture and post-event learning. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "marketing-launch-marketing-strategist",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Launch Marketing Strategist role: launch marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-account-based-marketing-specialist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Account-Based Marketing Specialist role: account-based marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-ad-copywriter",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Ad Copywriter role: ad copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-ad-creative-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Ad Creative Strategist role: ad creative; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-advertising-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Advertising Strategist role: advertising; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-analytics-specialist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Analytics Specialist role: marketing analytics; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-audience-segmentation-analyst",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Audience Segmentation Analyst role: audience segmentation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-automation-specialist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Automation Specialist role: marketing automation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-b2b-copywriter",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the B2B Copywriter role: b2b copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-brand-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Brand Strategist role: brand; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-brand-voice-specialist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Brand Voice Specialist role: brand voice; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-budget-pacing-analysis",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Analyze campaign budget pacing against approved plan and performance evidence. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-campaign-analyst",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Campaign Analyst role: campaign; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-campaign-brief-preparation",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Prepare a campaign brief with audience, objective, constraints, and measurement plan. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Campaign Strategy and Operations Capability Director."
+    },
+    {
+      "slug": "marketing-campaign-planner",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Campaign Planner role: campaign; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-chief-marketing-officer-advisor",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Chief Marketing Officer Advisor role: chief marketing officer; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-competitive-marketing-analyst",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Competitive Marketing Analyst role: competitive marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-planner",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content Planner role: content; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-seo-specialist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content SEO Specialist role: content seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-content-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Content Strategist role: content; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-conversion-optimization-specialist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Conversion Optimization Specialist role: conversion optimization; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-copywriter",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Copywriter role: copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-demand-generation-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Demand Generation Strategist role: demand generation; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-distribution-strategy",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Develop audience, positioning, publicity, festival, sales and delivery strategies tied to rights, evidence and project maturity."
+    },
+    {
+      "slug": "marketing-editorial-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Editorial Strategist role: editorial; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-email-marketing-specialist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Email Marketing Specialist role: email marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-event-marketing-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Event Marketing Strategist role: event marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-growth-marketing-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Growth Marketing Strategist role: growth marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-keyword-researcher",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Keyword Researcher role: keyword; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-landing-page-copywriter",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Landing Page Copywriter role: landing page copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-lifecycle-marketing-specialist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Lifecycle Marketing Specialist role: lifecycle marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-messaging-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Messaging Strategist role: messaging; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-orchestrator",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Orchestrator role: marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-paid-search-specialist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Paid Search Specialist role: paid search; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-paid-social-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Paid Social Strategist role: paid social; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-performance-marketing-analyst",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Performance Marketing Analyst role: performance marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-persona-researcher",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Persona Researcher role: persona; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-positioning-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Positioning Strategist role: positioning; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-quality-reviewer",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Quality Reviewer role: marketing quality; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-seo-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the SEO Strategist role: seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-strategist",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Marketing Strategist role: marketing; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-technical-copywriter",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Technical Copywriter role: technical copywriter; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "marketing-technical-seo-analyst",
+      "score": 31,
+      "domain": "marketing",
+      "description": "Use for marketing work requiring the Technical SEO Analyst role: technical seo; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "production_strategy_selection",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Production Strategy Selection specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "supply-chain-production-planning-analyst",
+      "score": 31,
+      "domain": "supply-chain",
+      "description": "Use for supply chain work requiring the Production Planning Analyst role: production planning; produces evidence-backed artifacts with validation and structured handoffs."
+    }
+  ],
+  "primary_accountable": [
+    "eos-product-customer-discovery",
+    "product-acceptance-criteria-specialist",
+    "product-ai-product-manager",
+    "product-analytics-specialist",
+    "product-chief-product-officer-advisor",
+    "product-critic",
+    "product-customer-interview-specialist",
+    "product-discovery-specialist",
+    "product-experiment-designer",
+    "product-feature-strategist",
+    "product-growth-product-manager",
+    "product-jobs-to-be-done-analyst",
+    "product-launch-architect",
+    "product-launch-manager",
+    "product-lifecycle-retirement",
+    "product-manager",
+    "product-operations-specialist",
+    "product-opportunity-analyst",
+    "product-orchestrator",
+    "product-platform-product-manager",
+    "product-prd-writer",
+    "product-prioritization-analyst",
+    "product-problem-definition-specialist",
+    "product-quality-reviewer",
+    "product-roadmap-management",
+    "product-roadmap-strategist",
+    "product-strategist",
+    "product-technical-product-manager",
+    "product-user-researcher",
+    "product-user-story-specialist",
+    "shared-execution-build-specialist",
+    "startups-business-model-specialist",
+    "startups-category-creation-strategist",
+    "startups-market-validation-specialist",
+    "startups-opportunity-discovery-analyst",
+    "startups-orchestrator",
+    "startups-problem-discovery-specialist",
+    "startups-startup-financial-modeler",
+    "startups-startup-growth-strategist",
+    "startups-startup-gtm-strategist",
+    "startups-startup-orchestrator",
+    "startups-venture-risk-critic",
+    "startups-venture-strategist",
+    "strategy-business-model-designer"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

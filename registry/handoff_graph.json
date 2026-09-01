@@ -1,0 +1,1279 @@
+{
+  "nodes": [
+    "acceleratoros",
+    "agencyos",
+    "bidos",
+    "boardos",
+    "brandos",
+    "buildos",
+    "capitalos",
+    "commerceos",
+    "complianceos",
+    "consultingos",
+    "corpdevos",
+    "creatoros",
+    "customeros",
+    "dealos",
+    "educationos",
+    "enterpriseos",
+    "eventos",
+    "executiveos",
+    "franchiseos",
+    "fundos",
+    "fundraiseos",
+    "grantos",
+    "innovationos",
+    "labos",
+    "launchos",
+    "learningos",
+    "legalos",
+    "mandaos",
+    "mediaos",
+    "partnershipos",
+    "patentos",
+    "patenttoproductos",
+    "pmoos",
+    "pricingos",
+    "procureos",
+    "propertyos",
+    "recruitos",
+    "researchos",
+    "revenueos",
+    "riskos",
+    "securityos",
+    "studioos",
+    "supplyos",
+    "talentos",
+    "universityos",
+    "vendoros",
+    "ventureos",
+    "workforceos"
+  ],
+  "edges": [
+    {
+      "from": "ventureos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "ventureos",
+      "to": "buildos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "ventureos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "ventureos",
+      "to": "capitalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "ventureos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "ventureos",
+      "to": "launchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "researchos",
+      "to": "capitalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "researchos",
+      "to": "ventureos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "researchos",
+      "to": "consultingos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "buildos",
+      "to": "securityos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "buildos",
+      "to": "launchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "buildos",
+      "to": "pmoos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "buildos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "innovationos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "innovationos",
+      "to": "ventureos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "innovationos",
+      "to": "buildos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "innovationos",
+      "to": "capitalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "launchos",
+      "to": "buildos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "launchos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "launchos",
+      "to": "brandos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "launchos",
+      "to": "customeros",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "consultingos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "consultingos",
+      "to": "pmoos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "consultingos",
+      "to": "buildos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "consultingos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "patenttoproductos",
+      "to": "patentos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "patenttoproductos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "patenttoproductos",
+      "to": "ventureos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "patenttoproductos",
+      "to": "partnershipos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "patenttoproductos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "labos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "labos",
+      "to": "innovationos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "labos",
+      "to": "patentos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "dealos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "dealos",
+      "to": "bidos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "dealos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "dealos",
+      "to": "consultingos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "dealos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "dealos",
+      "to": "executiveos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "revenueos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "revenueos",
+      "to": "pricingos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "revenueos",
+      "to": "customeros",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "revenueos",
+      "to": "brandos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "revenueos",
+      "to": "creatoros",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "bidos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "bidos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "bidos",
+      "to": "pricingos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "bidos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "bidos",
+      "to": "grantos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "commerceos",
+      "to": "supplyos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "commerceos",
+      "to": "pricingos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "commerceos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "commerceos",
+      "to": "creatoros",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "commerceos",
+      "to": "brandos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "partnershipos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "partnershipos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "partnershipos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "partnershipos",
+      "to": "corpdevos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "pricingos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "pricingos",
+      "to": "commerceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "pricingos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "pricingos",
+      "to": "capitalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "customeros",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "customeros",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "customeros",
+      "to": "buildos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "grantos",
+      "to": "bidos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "grantos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "grantos",
+      "to": "fundraiseos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "grantos",
+      "to": "complianceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "ventureos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "buildos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "innovationos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "launchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "consultingos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "patenttoproductos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "labos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "bidos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "commerceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "partnershipos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "pricingos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "customeros",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "grantos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "executiveos",
+      "to": "enterpriseos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "executiveos",
+      "to": "boardos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "executiveos",
+      "to": "pmoos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "executiveos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "procureos",
+      "to": "vendoros",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "procureos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "procureos",
+      "to": "riskos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "procureos",
+      "to": "supplyos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "talentos",
+      "to": "recruitos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "talentos",
+      "to": "workforceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "talentos",
+      "to": "enterpriseos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "pmoos",
+      "to": "enterpriseos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "pmoos",
+      "to": "executiveos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "pmoos",
+      "to": "buildos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "vendoros",
+      "to": "procureos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "vendoros",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "vendoros",
+      "to": "riskos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "supplyos",
+      "to": "procureos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "supplyos",
+      "to": "vendoros",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "supplyos",
+      "to": "commerceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "supplyos",
+      "to": "riskos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "propertyos",
+      "to": "capitalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "propertyos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "propertyos",
+      "to": "procureos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "propertyos",
+      "to": "riskos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "franchiseos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "franchiseos",
+      "to": "brandos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "franchiseos",
+      "to": "propertyos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "franchiseos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "franchiseos",
+      "to": "commerceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "boardos",
+      "to": "executiveos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "boardos",
+      "to": "enterpriseos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "boardos",
+      "to": "riskos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "boardos",
+      "to": "capitalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "recruitos",
+      "to": "talentos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "recruitos",
+      "to": "workforceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "securityos",
+      "to": "riskos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "securityos",
+      "to": "complianceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "securityos",
+      "to": "buildos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "legalos",
+      "to": "complianceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "legalos",
+      "to": "riskos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "legalos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "legalos",
+      "to": "procureos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "complianceos",
+      "to": "riskos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "complianceos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "complianceos",
+      "to": "securityos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "riskos",
+      "to": "complianceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "riskos",
+      "to": "securityos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "riskos",
+      "to": "enterpriseos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "patentos",
+      "to": "patenttoproductos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "patentos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "patentos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "capitalos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "capitalos",
+      "to": "riskos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "capitalos",
+      "to": "corpdevos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "capitalos",
+      "to": "fundos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "corpdevos",
+      "to": "mandaos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "corpdevos",
+      "to": "capitalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "corpdevos",
+      "to": "partnershipos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "corpdevos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "mandaos",
+      "to": "corpdevos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "mandaos",
+      "to": "capitalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "mandaos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "mandaos",
+      "to": "pmoos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "fundos",
+      "to": "capitalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "fundos",
+      "to": "complianceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "fundos",
+      "to": "fundraiseos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "fundraiseos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "fundraiseos",
+      "to": "capitalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "fundraiseos",
+      "to": "legalos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "mediaos",
+      "to": "researchos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "mediaos",
+      "to": "brandos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "mediaos",
+      "to": "creatoros",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "mediaos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "studioos",
+      "to": "mediaos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "studioos",
+      "to": "creatoros",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "studioos",
+      "to": "brandos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "studioos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "creatoros",
+      "to": "mediaos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "creatoros",
+      "to": "brandos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "creatoros",
+      "to": "commerceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "creatoros",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "creatoros",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "brandos",
+      "to": "mediaos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "brandos",
+      "to": "creatoros",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "brandos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "brandos",
+      "to": "agencyos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "eventos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "eventos",
+      "to": "brandos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "eventos",
+      "to": "mediaos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "eventos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "agencyos",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "agencyos",
+      "to": "consultingos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "agencyos",
+      "to": "pmoos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "agencyos",
+      "to": "brandos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "agencyos",
+      "to": "revenueos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "educationos",
+      "to": "learningos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "educationos",
+      "to": "universityos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "educationos",
+      "to": "workforceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "learningos",
+      "to": "educationos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "learningos",
+      "to": "universityos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "learningos",
+      "to": "workforceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "learningos",
+      "to": "talentos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "universityos",
+      "to": "learningos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "universityos",
+      "to": "educationos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "universityos",
+      "to": "workforceos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "workforceos",
+      "to": "talentos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "workforceos",
+      "to": "learningos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "workforceos",
+      "to": "recruitos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "acceleratoros",
+      "to": "ventureos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "acceleratoros",
+      "to": "learningos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "acceleratoros",
+      "to": "dealos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "acceleratoros",
+      "to": "fundraiseos",
+      "type": "declared_handoff"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "ventureos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "researchos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "buildos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "innovationos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "launchos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "consultingos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "patenttoproductos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "labos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "dealos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "revenueos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "bidos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "commerceos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "partnershipos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "pricingos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "customeros",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "grantos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "executiveos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "procureos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "talentos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "pmoos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "vendoros",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "supplyos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "propertyos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "franchiseos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "boardos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "recruitos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "securityos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "legalos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "complianceos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "riskos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "patentos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "capitalos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "corpdevos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "mandaos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "fundos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "fundraiseos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "mediaos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "studioos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "creatoros",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "brandos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "eventos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "agencyos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "educationos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "learningos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "universityos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "workforceos",
+      "type": "control_plane_route"
+    },
+    {
+      "from": "enterpriseos",
+      "to": "acceleratoros",
+      "type": "control_plane_route"
+    }
+  ]
+}

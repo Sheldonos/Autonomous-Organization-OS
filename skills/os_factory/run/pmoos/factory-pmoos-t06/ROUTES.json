@@ -1,0 +1,27 @@
+{
+  "pocket": "pmoos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "construction-capital-project-intake",
+    "construction-project-closeout",
+    "program-management-program-governance",
+    "construction-construction-safety-escalation",
+    "construction-preconstruction-mobilization",
+    "data-strategy-dependency-risk-analysis",
+    "program-management-risk-manager",
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "agency-operations-delivery-status-control",
+    "cio-delivery-risk-management",
+    "automation-assess-automation-opportunity",
+    "automation-prioritize-automation-portfolio",
+    "construction-risk-analyst",
+    "ibm-sales-scale-055",
+    "operations-ehs-incident-evidence",
+    "operations-inventory-health-review",
+    "operations-operational-risk-analyst",
+    "operations-safety-observation-triage",
+    "operations-stockout-risk-monitoring",
+    "automation-assure-business-continuity"
+  ]
+}

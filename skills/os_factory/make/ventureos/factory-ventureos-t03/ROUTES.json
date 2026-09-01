@@ -1,0 +1,27 @@
+{
+  "pocket": "ventureos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "startups-business-model-specialist",
+    "strategy-business-model-designer",
+    "data-strategy-model-risk-assessment-prep",
+    "strategy-business-strategy-analyst",
+    "business-development-channel-strategy-specialist",
+    "data-strategy-business-case-preparation",
+    "procurement-develop-sourcing-strategy",
+    "product-go-to-market-planning",
+    "product-roadmap-planning",
+    "startups-startup-gtm-strategist",
+    "product-customer-problem-discovery",
+    "startups-founder-market-fit-analyst",
+    "startups-fundraising-strategist",
+    "startups-market-validation-specialist",
+    "startups-orchestrator",
+    "startups-startup-financial-modeler",
+    "startups-startup-growth-strategist",
+    "startups-startup-orchestrator",
+    "startups-venture-risk-critic",
+    "startups-venture-strategist"
+  ]
+}

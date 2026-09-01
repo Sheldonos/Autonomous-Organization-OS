@@ -1,0 +1,75 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:fffc3079-f6e4-4990-9821-036a75a8365d",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-09-01T19:10:25.897565+00:00",
+    "component": {
+      "type": "application",
+      "name": "Federated Autonomous Organization OS",
+      "version": "1.2.0"
+    }
+  },
+  "components": [
+    {
+      "type": "framework",
+      "name": "OS Factory federation/runtime/wrapper layer",
+      "version": "1.2.0",
+      "properties": [
+        {
+          "name": "factory.wrapper_skills",
+          "value": "540"
+        },
+        {
+          "name": "factory.pockets",
+          "value": "48"
+        },
+        {
+          "name": "resilience.event_driven",
+          "value": "true"
+        },
+        {
+          "name": "resilience.airgap_profile",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "name": "IBM Enterprise Autonomous Operations OS canonical substrate",
+      "version": "2.0.0-rc1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "bf1cbdad213c6ec2f9e6d87c3294ef2a1da95694bea5ce4939f6ad5ec84c93fc"
+        }
+      ],
+      "properties": [
+        {
+          "name": "canonical.skills",
+          "value": "3212"
+        },
+        {
+          "name": "canonical.roles",
+          "value": "1244"
+        },
+        {
+          "name": "provenance.review",
+          "value": "required before broad public redistribution"
+        }
+      ]
+    },
+    {
+      "type": "application",
+      "name": "DealOS embedded distribution",
+      "version": "1.0.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2df0829e8dbb1b4a1e8704acd0b3973534024604948f4566c91eb2fab31759bf"
+        }
+      ]
+    }
+  ]
+}

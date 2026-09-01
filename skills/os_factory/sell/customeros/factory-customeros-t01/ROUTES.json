@@ -1,0 +1,27 @@
+{
+  "pocket": "customeros",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "customer-success-voice-of-customer-analyst",
+    "customer-success-adoption-strategist",
+    "customer-success-customer-experience-strategist",
+    "customer-success-customer-onboarding-specialist",
+    "customer-success-customer-support-agent",
+    "customer-success-renewal-specialist",
+    "customer-success-support-knowledge-specialist",
+    "customer-success-customer-health-analyst",
+    "customer-success-expansion-specialist",
+    "customer-success-customer-journey-analyst",
+    "customer-success-escalation-manager",
+    "customer-success-implementation-success-planner",
+    "customer-success-manager",
+    "customer-success-orchestrator",
+    "customer-success-technical-account-manager",
+    "ibm-exp-csm-003",
+    "ibm-sales-ext-customer-health-signal-intake",
+    "ibm-dep-csm-001",
+    "ibm-dep-sa-001",
+    "ibm-exp-001"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "id": "ventureos",
+  "title": "VentureOS",
+  "segment": "make",
+  "mission": "Turn an opportunity or thesis into a validated, launched, measurable company or business line.",
+  "status": "production_ready_pocket_contract",
+  "substrate": {
+    "version": "2.0.0-rc1",
+    "skills_available": 3212,
+    "routing_strategy": "progressive_disclosure",
+    "route_candidates": 160,
+    "primary_accountable_skills": 44,
+    "full_accountability": "../../../../registry/skill_accountability.json"
+  },
+  "workflow": [
+    "Thesis & opportunity framing",
+    "Market and customer discovery",
+    "Business model & economics",
+    "Validation experiments",
+    "Product definition",
+    "Build coordination",
+    "Launch & GTM",
+    "Capital and operating cadence"
+  ],
+  "handoffs": [
+    "researchos",
+    "buildos",
+    "revenueos",
+    "capitalos",
+    "legalos",
+    "launchos"
+  ],
+  "connectors": [
+    "web_research",
+    "crm",
+    "analytics",
+    "code_host",
+    "payments",
+    "document_store"
+  ],
+  "action_mode_default": "plan",
+  "global_policy": "../../../../policies/global_autonomy.yaml",
+  "teams_file": "teams.json",
+  "skill_routes_file": "skill_routes.json",
+  "implementation": "compiled_from_shared_substrate",
+  "adaptive_capability_ingestion": true
+}

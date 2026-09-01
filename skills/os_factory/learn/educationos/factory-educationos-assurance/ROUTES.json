@@ -1,0 +1,27 @@
+{
+  "pocket": "educationos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "education-develop-learning-content",
+    "education-evaluate-learning-impact",
+    "education-govern-learning-analytics",
+    "accessibility-coverage-audit",
+    "lesson-builder",
+    "course-depth-builder",
+    "mastery-review",
+    "progression-audit",
+    "education-assure-program-quality",
+    "education-coordinate-accommodations",
+    "education-design-validate-assessments",
+    "education-monitor-learner-progress",
+    "education-manage-learner-intake",
+    "engineering-delivery-performance-improvement",
+    "people-contingent-worker-compliance",
+    "agency-operations-change-impact-assessment",
+    "healthcare-ephi-security-risk-assessment",
+    "healthcare-healthcare-compliance-risk-assessment",
+    "legal-risk-enterprise-risk-assessment-prep",
+    "legal-third-party-risk-assessment"
+  ]
+}

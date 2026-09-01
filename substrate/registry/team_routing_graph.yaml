@@ -1,0 +1,49 @@
+version: 3.0.0
+as_of: '2026-08-23'
+preservation_policy: never automatically remove a role; refine/expand additively
+entry: ibm-chief-of-staff
+continuous_loop:
+- INGEST
+- NORMALIZE
+- VALIDATE
+- DETECT
+- PLAN
+- ROUTE
+- EXECUTE_OR_DRAFT
+- CHALLENGE
+- SYNTHESIZE
+- VERIFY_OUTCOME
+- MEASURE
+- LEARN
+- EVOLVE_CAPABILITY
+- CHECK_CONVERGENCE
+- WAIT_OR_REENTER
+routing_principles:
+- route to smallest competent specialist
+- keep system-of-record state outside chat
+- parallelize independent evidence work
+- serialize conflicting writes
+- review consequential outputs independently
+- return multi-domain conflicts to chief of staff
+- open follow-on tasks from material deltas
+special_routes:
+- trigger: new_or_changed_ibm_role
+  target_skill: ibm-open-position-role-sync
+- trigger: cross_team_dependency_or_conflict
+  target_skill: cross-team-continuous-routing-controller
+- trigger: loop_architecture_failure_or_stall
+  target_skill: enterprise-autonomous-loop-engineer
+- trigger: recurring_quality_failure_or_capability_gap
+  target_skill: continuous-capability-evolution
+- trigger: role_responsibility_coverage_gap
+  target_skill: role-responsibility-coverage-auditor
+- trigger: multi_team_outcome_unverified
+  target_skill: cross-domain-outcome-verifier
+- trigger: material_source_or_outcome_delta
+  target_skill: enterprise-delta-impact-propagator
+- trigger: cross_system_side_effects_required
+  target_skill: enterprise-saga-transaction-coordinator
+- trigger: continuous_loop_budget_or_no_progress_threshold
+  target_skill: enterprise-loop-budget-controller
+- trigger: domain_use_case_runtime_gap
+  target_skill: enterprise-use-case-satisfaction-auditor

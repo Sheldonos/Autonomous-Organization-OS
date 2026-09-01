@@ -1,0 +1,27 @@
+{
+  "pocket": "complianceos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "legal-risk-obligation-extraction",
+    "legal-obligation-management",
+    "legal-obligation-milestone-management",
+    "legal-risk-litigation-evidence-compilation",
+    "legal-obligation-extraction-specialist",
+    "procurement-contract-obligation-extraction",
+    "eos-contract-obligation-management",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-identity-access-governance",
+    "legal-risk-audit-finding-remediation",
+    "grc-audit-specialist",
+    "grc-compliance-analyst",
+    "grc-internal-audit-analyst",
+    "grc-policy-management-specialist",
+    "grc-regulatory-compliance-specialist",
+    "government-measure-benefits-and-performance",
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering"
+  ]
+}

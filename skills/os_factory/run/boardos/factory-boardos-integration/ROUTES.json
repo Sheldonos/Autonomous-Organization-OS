@@ -1,0 +1,27 @@
+{
+  "pocket": "boardos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cio-board-technology-materials",
+    "cio-workload-placement-decision",
+    "cios-customer-entity-resolution",
+    "enterprise-decision-ledger",
+    "eos-board-support",
+    "eos-executive-decision-support",
+    "decision_logging",
+    "chief-of-staff-board-materials-governance",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "chief-of-staff-risk-crisis-coordination",
+    "healthcare-patient-safety-event-management",
+    "procurement-sourcing-event-design",
+    "chief-of-staff-decision-rights-mapping",
+    "chief-of-staff-escalation-triage",
+    "cio-architecture-review-board",
+    "cio-board-technology-advisory",
+    "cio-build-buy-partner-decision",
+    "cio-innovation-scale-stop-decision",
+    "cio-outsourcing-decision"
+  ]
+}

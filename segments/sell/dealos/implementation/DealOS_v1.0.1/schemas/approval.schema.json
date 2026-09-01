@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Approval",
+  "type": "object",
+  "required": [
+    "action_type",
+    "summary",
+    "risk_level"
+  ],
+  "properties": {
+    "action_type": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "risk_level": {
+      "enum": [
+        "orange",
+        "red"
+      ]
+    },
+    "expires_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "payload": {
+      "type": "object"
+    }
+  }
+}

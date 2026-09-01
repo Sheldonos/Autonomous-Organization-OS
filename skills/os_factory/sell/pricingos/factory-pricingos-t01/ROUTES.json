@@ -1,0 +1,27 @@
+{
+  "pocket": "pricingos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "business-affairs-packaging",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "business-development-alliance-management",
+    "ibm-des-pri-001",
+    "ibm-sales-scale-063",
+    "ibm-pro-008",
+    "ibm-pro-cp-002",
+    "ibm-sales-000",
+    "bob-executive-competitive-deck-builder",
+    "ecommerce-pricing-analyst",
+    "ecommerce-catalog-management-specialist",
+    "revenue-pricing-exception-preparation",
+    "ecommerce-cart-optimization-specialist",
+    "ecommerce-conversion-specialist",
+    "ecommerce-customer-journey-analyst",
+    "ecommerce-e-commerce-analytics-specialist",
+    "ecommerce-e-commerce-orchestrator",
+    "ecommerce-e-commerce-seo-specialist"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "talentos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "people-offboarding-workforce-transition",
+    "people-learning-development",
+    "people-performance-management",
+    "people-absence-accommodation-management",
+    "people-compensation-benefits-operations",
+    "people-onboarding-administration",
+    "people-payroll-time-validation",
+    "people-employee-engagement-analyst",
+    "people-employee-experience-specialist",
+    "people-employee-relations-support-specialist",
+    "people-analytics-specialist",
+    "people-benefits-analyst",
+    "people-chro-advisor",
+    "people-compensation-analyst",
+    "people-orchestrator",
+    "people-organizational-design-specialist",
+    "people-recruiter",
+    "people-retention-analyst",
+    "people-training-designer",
+    "cio-technology-succession-planning"
+  ]
+}

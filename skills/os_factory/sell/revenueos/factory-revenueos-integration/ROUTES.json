@@ -1,0 +1,27 @@
+{
+  "pocket": "revenueos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "marketing-event-strategy-operations",
+    "marketing-event-readiness-checklist",
+    "marketing-webinar-follow-up-preparation",
+    "marketing-growth-marketing-strategist",
+    "sales-renewal-strategist",
+    "marketing-ad-copywriter",
+    "marketing-ad-creative-strategist",
+    "marketing-advertising-strategist",
+    "marketing-analytics-specialist",
+    "marketing-audience-segmentation-analyst",
+    "marketing-automation-specialist",
+    "marketing-b2b-copywriter",
+    "marketing-brand-strategist",
+    "marketing-brand-voice-specialist",
+    "marketing-campaign-analyst",
+    "marketing-campaign-planner",
+    "marketing-chief-marketing-officer-advisor",
+    "marketing-competitive-marketing-analyst",
+    "marketing-content-planner",
+    "marketing-content-seo-specialist"
+  ]
+}

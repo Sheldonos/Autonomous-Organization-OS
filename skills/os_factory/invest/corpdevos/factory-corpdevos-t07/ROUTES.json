@@ -1,0 +1,27 @@
+{
+  "pocket": "corpdevos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "product-customer-problem-discovery",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "bob-executive-competitive-deck-builder",
+    "finance-driver-based-budgeting",
+    "finance-executive-decision-support",
+    "sales-account-intelligence",
+    "sales-bid-no-bid",
+    "sales-icp-segmentation",
+    "agency-operations-stakeholder-communications-governance",
+    "automation-assure-business-continuity",
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "chief-of-staff-principal-transition-handoff",
+    "chief-of-staff-strategic-operating-cadence",
+    "eos-executive-decision-support",
+    "cio-build-buy-partner-decision",
+    "finance-business-case-appraisal",
+    "product-backlog-governance",
+    "product-go-to-market-planning",
+    "product-portfolio-prioritization"
+  ]
+}

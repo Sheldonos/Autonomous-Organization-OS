@@ -1,0 +1,81 @@
+{
+  "pocket": "bidos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Opportunity intake Team",
+      "stage": 1,
+      "responsibility": "Opportunity intake",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Eligibility & fit Team",
+      "stage": 2,
+      "responsibility": "Eligibility & fit",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Requirement extraction Team",
+      "stage": 3,
+      "responsibility": "Requirement extraction",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Compliance matrix Team",
+      "stage": 4,
+      "responsibility": "Compliance matrix",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Solution & win strategy Team",
+      "stage": 5,
+      "responsibility": "Solution & win strategy",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Pricing & approvals Team",
+      "stage": 6,
+      "responsibility": "Pricing & approvals",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Submission assembly Team",
+      "stage": 7,
+      "responsibility": "Submission assembly",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Submission & follow-up Team",
+      "stage": 8,
+      "responsibility": "Submission & follow-up",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t09",
+      "name": "Award transition Team",
+      "stage": 9,
+      "responsibility": "Award transition",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

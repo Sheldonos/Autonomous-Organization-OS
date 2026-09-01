@@ -1,0 +1,27 @@
+{
+  "pocket": "learningos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "adaptive-pathway-builder",
+    "education-adaptive-learning-specialist",
+    "education-learning-path-architect",
+    "qisbob-quantum-mentor",
+    "education-monitor-learner-progress",
+    "education-facilitate-instruction",
+    "adaptive-content-delivery",
+    "education-analyze-learning-needs",
+    "education-assure-program-quality",
+    "education-coordinate-accommodations",
+    "education-manage-credentials-records",
+    "education-manage-learner-intake",
+    "education-support-career-transition",
+    "ibm-sales-adaptive-orchestrator",
+    "education-personalized-learning-specialist",
+    "education-map-occupational-competencies",
+    "education-design-curriculum",
+    "education-design-validate-assessments",
+    "education-develop-learning-content",
+    "education-evaluate-learning-impact"
+  ]
+}

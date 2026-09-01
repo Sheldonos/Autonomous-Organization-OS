@@ -1,0 +1,27 @@
+{
+  "pocket": "fundraiseos",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-billing-dispute-analysis",
+    "ibm-sales-scale-043",
+    "sales-commercial-negotiation",
+    "finance-covenant-compliance-check",
+    "revenue-customer-commitment-tracker",
+    "sales-procurement-onboarding",
+    "revenue-customer-onboarding-readiness",
+    "chief-of-staff-principal-transition-handoff",
+    "customer-service-cross-team-handoff-readiness",
+    "finance-ar-collections-prioritization",
+    "startups-fundraising-strategist",
+    "startups-investor-research-specialist",
+    "startups-pitch-deck-reviewer",
+    "startups-pitch-strategist",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "ibm-sales-000",
+    "finance-working-capital-action-plan",
+    "chief-of-staff-executive-communications-control",
+    "finance-balance-sheet-analyst"
+  ]
+}

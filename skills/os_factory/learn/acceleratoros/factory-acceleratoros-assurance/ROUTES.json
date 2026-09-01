@@ -1,0 +1,27 @@
+{
+  "pocket": "acceleratoros",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "bob-for-z-builder",
+    "government-evaluate-policy-interventions",
+    "healthcare-cms-quality-measure-reporting",
+    "cio-agent-evaluation",
+    "cio-ai-evaluation",
+    "government-control-delivery-baselines",
+    "supply-chain-transportation-management",
+    "casting-performance-development",
+    "cio-ai-risk-management",
+    "startups-venture-risk-critic",
+    "program-management-milestone-management",
+    "education-design-validate-assessments",
+    "project-lab",
+    "accessibility-coverage-audit",
+    "curriculum-gap-audit",
+    "ibm-met-se-002",
+    "legal-obligation-milestone-management",
+    "legal-renewal-exit-management",
+    "publication-readiness-audit",
+    "construction-capital-project-intake"
+  ]
+}

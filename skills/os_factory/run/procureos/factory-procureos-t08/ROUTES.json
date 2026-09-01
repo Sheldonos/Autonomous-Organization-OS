@@ -1,0 +1,27 @@
+{
+  "pocket": "procureos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "procurement-supplier-performance-analyst",
+    "procurement-manage-contract-change",
+    "procurement-manage-procurement-dispute",
+    "procurement-manage-renewal",
+    "procurement-monitor-supplier-performance",
+    "procurement-supplier-performance-scorecard",
+    "procurement-contract-renewal-readiness",
+    "procurement-price-variance-investigation",
+    "procurement-lead-time-exception-triage",
+    "procurement-manage-purchase-orders",
+    "supply-chain-supplier-performance-management",
+    "procurement-purchase-order-change-triage",
+    "procurement-three-way-match-resolution",
+    "procurement-off-contract-spend-analysis",
+    "procurement-demand-intake-qualification",
+    "procurement-invoice-exception-analysis",
+    "procurement-assess-supply-chain-risk",
+    "procurement-manage-solicitation",
+    "procurement-onboard-supplier",
+    "procurement-perform-supplier-due-diligence"
+  ]
+}

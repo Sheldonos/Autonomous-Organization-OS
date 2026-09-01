@@ -1,0 +1,12 @@
+{
+  "pocket": "grantos",
+  "required_or_optional_classes": [
+    "grant_feeds",
+    "document_store",
+    "calendar",
+    "finance",
+    "e_signature"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

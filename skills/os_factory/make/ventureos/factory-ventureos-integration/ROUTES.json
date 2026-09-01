@@ -1,0 +1,27 @@
+{
+  "pocket": "ventureos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "product-launch-architect",
+    "product-roadmap-management",
+    "product-lifecycle-retirement",
+    "eos-product-customer-discovery",
+    "marketing-event-strategy-operations",
+    "executive-okr-operating-system",
+    "marketing-event-marketing-strategist",
+    "eos-product-market-discovery",
+    "eos-product-strategy",
+    "product-go-to-market-planning",
+    "product-roadmap-planning",
+    "product-customer-problem-discovery",
+    "eos-content-strategy",
+    "eos-messaging-strategy",
+    "eos-positioning-strategy",
+    "eos-product-marketing",
+    "product-prototype-validation",
+    "marketing-automation-specialist",
+    "product-experiment-design",
+    "product-privacy-by-design-review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "ventureos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "startups-startup-gtm-strategist",
+    "startups-orchestrator",
+    "startups-startup-financial-modeler",
+    "startups-startup-growth-strategist",
+    "startups-startup-orchestrator",
+    "startups-venture-strategist",
+    "product-launch-manager",
+    "product-acceptance-criteria-specialist",
+    "product-ai-product-manager",
+    "product-analytics-specialist",
+    "product-chief-product-officer-advisor",
+    "product-critic",
+    "product-experiment-designer",
+    "product-feature-strategist",
+    "product-growth-product-manager",
+    "product-jobs-to-be-done-analyst",
+    "product-manager",
+    "product-operations-specialist",
+    "product-orchestrator",
+    "product-platform-product-manager"
+  ]
+}

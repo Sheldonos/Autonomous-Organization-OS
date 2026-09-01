@@ -1,0 +1,27 @@
+{
+  "pocket": "boardos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "chief-of-staff-board-materials-governance",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "legal-risk-board-governance-pack",
+    "automation-improve-process-performance",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "chief-of-staff-principal-transition-handoff",
+    "cybersecurity-zero-trust-architecture-review",
+    "government-control-delivery-baselines",
+    "agency-operations-stakeholder-communications-governance",
+    "chief-of-staff-executive-meeting-orchestration",
+    "data-strategy-metric-definition-governance",
+    "government-conduct-stage-gate-assurance",
+    "government-preserve-audit-evidence",
+    "data-strategy-analytics-insight-synthesis",
+    "data-strategy-portfolio-roadmap-synthesis",
+    "healthcare-vendor-business-associate-governance",
+    "legal-contract-template-governance",
+    "procurement-monitor-supplier-performance"
+  ]
+}

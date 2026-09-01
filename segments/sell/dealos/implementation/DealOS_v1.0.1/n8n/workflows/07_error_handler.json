@@ -1,0 +1,56 @@
+{
+  "name": "DealOS 07 - Error Handler",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "err",
+      "name": "Error Trigger",
+      "type": "n8n-nodes-base.errorTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "send",
+        "sendTo": "={{$env.OWNER_EMAIL}}",
+        "subject": "DealOS workflow error",
+        "message": "={{ JSON.stringify($json, null, 2) }}",
+        "options": {}
+      },
+      "id": "mail",
+      "name": "Email Owner",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [
+        280,
+        0
+      ]
+    }
+  ],
+  "connections": {
+    "Error Trigger": {
+      "main": [
+        [
+          {
+            "node": "Email Owner",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "versionId": "00000000-0000-0000-0000-000000000001",
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "tags": []
+}

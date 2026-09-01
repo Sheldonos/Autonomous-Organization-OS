@@ -1,0 +1,74 @@
+{
+  "pocket": "universityos",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Program architecture Team",
+      "stage": 1,
+      "responsibility": "Program architecture",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t02",
+      "name": "Admissions/intake handoff Team",
+      "stage": 2,
+      "responsibility": "Admissions/intake handoff",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t03",
+      "name": "Course & faculty planning Team",
+      "stage": 3,
+      "responsibility": "Course & faculty planning",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t04",
+      "name": "Learning delivery Team",
+      "stage": 4,
+      "responsibility": "Learning delivery",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t05",
+      "name": "Assessment & advising Team",
+      "stage": 5,
+      "responsibility": "Assessment & advising",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t06",
+      "name": "Projects/research Team",
+      "stage": 6,
+      "responsibility": "Projects/research",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t07",
+      "name": "Credentialing Team",
+      "stage": 7,
+      "responsibility": "Credentialing",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "t08",
+      "name": "Career/outcomes Team",
+      "stage": 8,
+      "responsibility": "Career/outcomes",
+      "authority": "plan_and_execute_within_policy"
+    },
+    {
+      "id": "assurance",
+      "name": "Assurance & Evaluation Team",
+      "responsibility": "Evaluate outputs, policy compliance, evidence, quality gates, and read-back verification.",
+      "authority": "block_or_escalate"
+    },
+    {
+      "id": "integration",
+      "name": "Integration & State Team",
+      "responsibility": "Maintain connectors, authoritative state, handoffs, event history, and idempotency.",
+      "authority": "system_state_within_policy"
+    }
+  ],
+  "handoff_contract": "../../../../schemas/handoff_packet.schema.json"
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "customeros",
+  "team": "t07",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "customer-success-renewal-specialist",
+    "revenue-renewal-risk-assessment",
+    "ibm-exp-csm-003",
+    "customer-service-customer-save-case-preparation",
+    "customer-service-case-closure-quality-check",
+    "customer-service-service-level-risk-monitoring",
+    "customer-service-troubleshooting-plan-draft",
+    "ibm-exp-001",
+    "ibm-exp-002",
+    "ibm-exp-csm-002",
+    "ibm-exp-tss-001",
+    "ibm-exp-tss-002",
+    "customer-service-backlog-prioritization-support",
+    "customer-service-case-intake-classification",
+    "customer-service-digital-channel-health-review",
+    "customer-service-knowledge-evidence-retrieval",
+    "customer-service-self-service-gap-analysis",
+    "eos-renewal-risk",
+    "ibm-sales-ext-customer-renewal-risk-route",
+    "process-customer-to-adoption-to-renewal"
+  ]
+}

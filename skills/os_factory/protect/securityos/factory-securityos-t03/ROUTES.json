@@ -1,0 +1,27 @@
+{
+  "pocket": "securityos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-incident-response-coordination",
+    "cybersecurity-security-detection-engineering",
+    "cybersecurity-security-detection-engineer",
+    "cybersecurity-detection-rule-analyst",
+    "cybersecurity-siem-engineering-specialist",
+    "cyber-resilience-threat-intelligence-synthesis",
+    "cybersecurity-zero-trust-architecture-review",
+    "cybersecurity-cyber-crisis-management",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "cybersecurity-supply-chain-cyber-risk",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "design-assess-privacy-by-design",
+    "engineering-delivery-performance-improvement",
+    "engineering-observability-incident-response",
+    "ibm-career-software-engineering-front-end-developer",
+    "ibm-career-software-engineering-full-stack-developer",
+    "ibm-career-software-engineering-software-engineer",
+    "ibm-career-software-engineering-test-engineer"
+  ]
+}

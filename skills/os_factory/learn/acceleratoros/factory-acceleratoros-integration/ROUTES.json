@@ -1,0 +1,27 @@
+{
+  "pocket": "acceleratoros",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "startups-founder-advisor",
+    "startups-founder-market-fit-analyst",
+    "startups-idea-validation-specialist",
+    "startups-investor-research-specialist",
+    "startups-mvp-strategist",
+    "startups-pitch-deck-reviewer",
+    "startups-pitch-strategist",
+    "startups-pricing-strategist",
+    "startups-zero-to-one-strategist",
+    "ibm-solution-accelerator",
+    "wxo-adk-mentor",
+    "causal_chain_construction",
+    "character_arc_audit",
+    "character_bible_creation",
+    "marketing-event-strategy-operations",
+    "program-management-milestone-management",
+    "enterprise-delta-impact-propagator",
+    "program-management-project-governance",
+    "qisbob-quantum-mentor",
+    "cio-milestone-tracking"
+  ]
+}

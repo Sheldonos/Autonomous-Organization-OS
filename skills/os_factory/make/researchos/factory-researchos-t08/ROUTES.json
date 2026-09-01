@@ -1,0 +1,27 @@
+{
+  "pocket": "researchos",
+  "team": "t08",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "intelligence-preserve-data-provenance",
+    "intelligence-analyze-patterns-and-trends",
+    "intelligence-build-decision-dashboards",
+    "intelligence-define-intelligence-requirements",
+    "intelligence-produce-intelligence-briefings",
+    "research-protocol-preregistration",
+    "research-question-framing",
+    "intelligence-map-entities-and-relationships",
+    "intelligence-normalize-and-resolve-entities",
+    "intelligence-quantify-analytic-confidence",
+    "research-data-extraction",
+    "research-evidence-mapping",
+    "research-evidence-retrieval",
+    "research-meta-analysis",
+    "research-qualitative-synthesis",
+    "research-screening-and-selection",
+    "research-synthesis-method-selection",
+    "design-conduct-user-research",
+    "design-synthesize-research-evidence",
+    "shared-source-provenance"
+  ]
+}

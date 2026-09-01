@@ -1,0 +1,27 @@
+{
+  "pocket": "acceleratoros",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "program-management-milestone-management",
+    "ibm-sales-scale-069",
+    "mission-builder",
+    "chief-of-staff-executive-priority-shaping",
+    "data-strategy-program-plan-readiness",
+    "mission-delivery",
+    "agency-operations-delivery-status-control",
+    "government-control-delivery-baselines",
+    "ibm-sales-ext-customer-success-plan-govern",
+    "ibm-sales-scale-043",
+    "ibm-sales-scale-064",
+    "media-production-scheduling",
+    "people-onboarding-administration",
+    "supply-chain-transportation-management",
+    "startups-founder-advisor",
+    "startups-founder-market-fit-analyst",
+    "startups-orchestrator",
+    "startups-startup-financial-modeler",
+    "startups-startup-growth-strategist",
+    "startups-startup-gtm-strategist"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "brandos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "creative-visual-identity-specialist",
+    "color-finishing",
+    "continuity-qc",
+    "cio-identity-foundation-strategy",
+    "cybersecurity-identity-access-governance",
+    "enterprise-identity-authority-model",
+    "marketing-brand-compliance-review",
+    "marketing-content-claims-review",
+    "marketing-content-reuse-eligibility",
+    "design-define-service-measures",
+    "design-monitor-service-improvement",
+    "rspkt-web-designer",
+    "agency-operations-stakeholder-communications-governance",
+    "design-assess-privacy-by-design",
+    "agency-operations-engagement-closeout",
+    "ibm-bob-ads-plan",
+    "marketing-channel-performance-synthesis",
+    "marketing-attribution-explanation-pack",
+    "marketing-budget-pacing-analysis",
+    "marketing-campaign-brief-preparation"
+  ]
+}

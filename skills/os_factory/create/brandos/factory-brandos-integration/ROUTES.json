@@ -1,0 +1,27 @@
+{
+  "pocket": "brandos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "communications-reputation-analyst",
+    "communications-community-communications-specialist",
+    "communications-corporate-communications-strategist",
+    "communications-crisis-communications-specialist",
+    "communications-executive-communications-writer",
+    "communications-internal-communications-specialist",
+    "communications-investor-communications-specialist",
+    "communications-media-relations-specialist",
+    "communications-narrative-strategist",
+    "communications-orchestrator",
+    "communications-press-release-writer",
+    "communications-public-relations-strategist",
+    "communications-social-media-strategist",
+    "communications-speechwriter",
+    "communications-thought-leadership-strategist",
+    "design-accessibility-auditor",
+    "design-accessibility-specialist",
+    "design-color-contrast-reviewer",
+    "design-component-design-specialist",
+    "design-content-designer"
+  ]
+}

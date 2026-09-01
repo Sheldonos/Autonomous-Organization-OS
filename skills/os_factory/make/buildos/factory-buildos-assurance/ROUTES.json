@@ -1,0 +1,27 @@
+{
+  "pocket": "buildos",
+  "team": "assurance",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "engineering-documentation-coverage-review",
+    "product-requirements-traceability",
+    "engineering-code-review-preparation",
+    "engineering-observability-instrumentation-review",
+    "engineering-open-source-compliance-prep",
+    "engineering-accessibility-quality-review",
+    "engineering-mobile-quality-readiness",
+    "engineering-release-deployment-management",
+    "engineering-performance-regression-analysis",
+    "engineering-technical-debt-prioritization",
+    "engineering-test-failure-triage",
+    "engineering-test-plan-design",
+    "engineering-secure-sdlc-assurance",
+    "engineering-software-supply-chain-governance",
+    "engineering-automated-testing",
+    "engineering-delivery-performance-improvement",
+    "engineering-configuration-change-management",
+    "design-evaluate-accessibility",
+    "product-privacy-by-design-review",
+    "ibm-career-software-engineering-test-engineer"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pocket": "riskos",
+  "team": "t01",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-security-control-assessment",
+    "cybersecurity-audit-evidence-management",
+    "cybersecurity-vulnerability-exposure-management",
+    "cybersecurity-cybersecurity-governance",
+    "cybersecurity-security-policy-management",
+    "cybersecurity-supply-chain-cyber-risk",
+    "cybersecurity-control-selection",
+    "cybersecurity-risk-treatment-planning",
+    "cybersecurity-security-awareness-management",
+    "automation-assure-business-continuity",
+    "agency-operations-change-impact-assessment",
+    "automation-monitor-automation-runs",
+    "grc-enterprise-risk-analyst",
+    "supply-chain-supplier-performance-management",
+    "supply-chain-supply-chain-performance-improvement",
+    "supply-chain-supply-chain-risk-management",
+    "legal-dispute-claims-management",
+    "grc-ai-risk-analyst",
+    "grc-model-risk-analyst"
+  ]
+}

@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "pocket": "riskos",
+  "routing_strategy": "progressive_disclosure_exact_token_domain_affinity",
+  "canonical_substrate_count": 3212,
+  "active_route_count": 160,
+  "primary_accountable_count": 20,
+  "skills": [
+    {
+      "slug": "cybersecurity-cyber-risk-assessment",
+      "score": 91,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cyber Risk Assessment** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cyber-risk-assessment`, `cyber-risk-assessment`, or the corresponding professional workflow: Cyber-risk identification and assessment | inventory assets, data, services, dependencies, threats, vulnerabilities, likelihood, impact, and control gaps, then prioritize treatment | asset owners, risk owners, security architecture, business continuity, and finance"
+    },
+    {
+      "slug": "cybersecurity-security-control-assessment",
+      "score": 91,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Control Assessment** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-control-assessment`, `security-control-assessment`, or the corresponding professional workflow: Cyber-risk identification and assessment | inventory assets, data, services, dependencies, threats, vulnerabilities, likelihood, impact, and control gaps, then prioritize treatment | asset owners, risk owners, security architecture, business continuity, and finance"
+    },
+    {
+      "slug": "cybersecurity-audit-evidence-management",
+      "score": 88,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Audit Evidence Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-audit-evidence-management`, `audit-evidence-management`, or the corresponding professional workflow: Vulnerability and exposure management | collect scan and threat-intelligence evidence, validate severity and exploitability, prioritize remediation, compensate where needed, and verify closure | infrastructure/application owners, SOC, threat intelligence, patch/change management, and risk owners"
+    },
+    {
+      "slug": "cybersecurity-vulnerability-exposure-management",
+      "score": 88,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Vulnerability Exposure Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-vulnerability-exposure-management`, `vulnerability-exposure-management`, or the corresponding professional workflow: Vulnerability and exposure management | collect scan and threat-intelligence evidence, validate severity and exploitability, prioritize remediation, compensate where needed, and verify closure | infrastructure/application owners, SOC, threat intelligence, patch/change management, and risk owners"
+    },
+    {
+      "slug": "cybersecurity-cybersecurity-governance",
+      "score": 80,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cybersecurity Governance** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cybersecurity-governance`, `cybersecurity-governance`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "cybersecurity-resilience-recovery-validation",
+      "score": 80,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Resilience Recovery Validation** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-resilience-recovery-validation`, `resilience-recovery-validation`, or the corresponding professional workflow: Resilience, recovery, and continuity validation | map critical services and recovery objectives, test backups/failover/tabletops, assess dependencies, and update continuity plans | business continuity, disaster recovery, infrastructure, application owners, suppliers, executives, and emergency management"
+    },
+    {
+      "slug": "cybersecurity-security-policy-management",
+      "score": 80,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Policy Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-policy-management`, `security-policy-management`, or the corresponding professional workflow: Cybersecurity governance and strategy | set mission-aligned risk objectives, risk appetite, policy ownership, and target-state outcomes using CSF Profiles/Tiers | board or executive risk committee, enterprise risk management, legal, privacy, and business owners"
+    },
+    {
+      "slug": "cybersecurity-supply-chain-cyber-risk",
+      "score": 77,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Supply Chain Cyber Risk** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-supply-chain-cyber-risk`, `supply-chain-cyber-risk`, or the corresponding professional workflow: Third-party and supply-chain cyber-risk management | tier suppliers, perform due diligence, set security requirements and incident clauses, monitor material changes, and manage exit/contingency plans | procurement, vendor management, legal, privacy, business owners, architecture, and suppliers"
+    },
+    {
+      "slug": "cybersecurity-control-selection",
+      "score": 73,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Control Selection** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-control-selection`, `control-selection`, or the corresponding professional workflow: Control selection and risk treatment planning | select proportionate administrative, technical, and physical safeguards"
+    },
+    {
+      "slug": "cybersecurity-risk-treatment-planning",
+      "score": 73,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Risk Treatment Planning** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-risk-treatment-planning`, `risk-treatment-planning`, or the corresponding professional workflow: Control selection and risk treatment planning | select proportionate administrative, technical, and physical safeguards"
+    },
+    {
+      "slug": "cybersecurity-security-awareness-management",
+      "score": 71,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Awareness Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-awareness-management`, `security-awareness-management`, or the corresponding professional workflow: Security awareness and workforce risk management | identify role-based training and insider-risk safeguards, measure completion and behavior, and escalate material noncompliance | HR, learning teams, legal, privacy, managers, insider-risk, and security operations"
+    },
+    {
+      "slug": "automation-assure-business-continuity",
+      "score": 64,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Assure Business Continuity** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-assure-business-continuity`, `assure-business-continuity`, or the corresponding professional workflow: incident-problem-and-continuity-management | decide incident severity, containment, business workaround, problem root cause, recovery priority, and continuity invocation | handoff to service management, security incident response, business continuity, vendors, and executive risk owners"
+    },
+    {
+      "slug": "agency-operations-change-impact-assessment",
+      "score": 63,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Change Impact Assessment** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-change-impact-assessment`, `change-impact-assessment`, or the corresponding professional workflow: change-control-and-variance-management | decide whether a requested change is in scope, its impact on cost, time, quality, risk, and contract, and whether to approve, reject, or rebaseline | handoff from client/requestor to change authority, delivery lead, finance, legal, and affected workstream owners"
+    },
+    {
+      "slug": "automation-monitor-automation-runs",
+      "score": 63,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Monitor Automation Runs** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-monitor-automation-runs`, `monitor-automation-runs`, or the corresponding professional workflow: run-monitor-and-exception-management | decide whether runs are healthy, retryable, quarantined, routed for manual work, or escalated based on SLAs and risk thresholds | handoff to operations control room, exception owners, service management, and process SMEs"
+    },
+    {
+      "slug": "grc-enterprise-risk-analyst",
+      "score": 62,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Enterprise Risk Analyst role: enterprise risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "supply-chain-supplier-performance-management",
+      "score": 61,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supplier Performance Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supplier-performance-management`, `supplier-performance-management`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "supply-chain-supply-chain-performance-improvement",
+      "score": 61,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Chain Performance Improvement** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-chain-performance-improvement`, `supply-chain-performance-improvement`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "supply-chain-supply-chain-risk-management",
+      "score": 61,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supply Chain Risk Management** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supply-chain-risk-management`, `supply-chain-risk-management`, or the corresponding professional workflow: Supply-chain risk and continuity management | identify critical nodes and dependencies, assess disruption scenarios, define mitigations and continuity playbooks, test escalation paths | Enterprise risk, security, legal, suppliers, executives"
+    },
+    {
+      "slug": "cybersecurity-incident-response-coordination",
+      "score": 60,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Incident Response Coordination** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-incident-response-coordination`, `incident-response-coordination`, or the corresponding professional workflow: Security monitoring and detection engineering | define telemetry requirements, detection logic, alert triage, escalation thresholds, and tuning based on validated threat scenarios | SOC, platform/logging teams, incident response, threat intelligence, privacy, and service owners"
+    },
+    {
+      "slug": "cybersecurity-security-detection-engineering",
+      "score": 60,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Security Detection Engineering** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-security-detection-engineering`, `security-detection-engineering`, or the corresponding professional workflow: Security monitoring and detection engineering | define telemetry requirements, detection logic, alert triage, escalation thresholds, and tuning based on validated threat scenarios | SOC, platform/logging teams, incident response, threat intelligence, privacy, and service owners"
+    },
+    {
+      "slug": "legal-dispute-claims-management",
+      "score": 60,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Dispute Claims Management** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-dispute-claims-management`, `dispute-claims-management`, or the corresponding professional workflow: dispute-and-claims-management | preserve facts and notices, assess entitlement/exposure, select negotiation, mediation, arbitration, litigation, or cure strategy | handoff to in-house litigation counsel, outside counsel, insurer, executive sponsor, and records/eDiscovery team"
+    },
+    {
+      "slug": "grc-ai-risk-analyst",
+      "score": 59,
+      "domain": "grc",
+      "description": "Use for grc work requiring the AI Risk Analyst role: ai risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-model-risk-analyst",
+      "score": 59,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Model Risk Analyst role: model risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-operational-risk-analyst",
+      "score": 59,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Operational Risk Analyst role: operational risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-technology-risk-analyst",
+      "score": 59,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Technology Risk Analyst role: technology risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-third-party-risk-analyst",
+      "score": 59,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Third-Party Risk Analyst role: third-party risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-risk-crisis-coordination",
+      "score": 58,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Risk Crisis Coordination** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-risk-crisis-coordination`, `risk-crisis-coordination`, or the corresponding professional workflow: Risk, crisis, and reputational coordination | maintain risk/issues register, define thresholds, convene the right experts, preserve an auditable timeline, and escalate incidents | executive sponsor, enterprise risk, legal, security, communications, business continuity"
+    },
+    {
+      "slug": "eos-control-management",
+      "score": 57,
+      "domain": "shared-execution",
+      "description": "Eos Control Management for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "procurement-supplier-concentration-exposure",
+      "score": 57,
+      "domain": "procurement",
+      "description": "Assess supplier concentration exposure and dependency risks for category owner review. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "sales-renewal-management",
+      "score": 57,
+      "domain": "sales",
+      "description": "Own evidence-backed renewal planning from value realization through commercial close and risk mitigation. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "automation-baseline-process-performance",
+      "score": 54,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Baseline Process Performance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-baseline-process-performance`, `baseline-process-performance`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-discover-process",
+      "score": 54,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Discover Process** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-discover-process`, `discover-process`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-manage-automation-incidents",
+      "score": 54,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Manage Automation Incidents** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-manage-automation-incidents`, `manage-automation-incidents`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-measure-process-conformance",
+      "score": 54,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Measure Process Conformance** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-measure-process-conformance`, `measure-process-conformance`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-specify-automation-requirements",
+      "score": 54,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Specify Automation Requirements** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-specify-automation-requirements`, `specify-automation-requirements`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-standardize-process",
+      "score": 54,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Standardize Process** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-standardize-process`, `standardize-process`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "automation-validate-automation-solution",
+      "score": 54,
+      "domain": "automation",
+      "description": "Perform the bounded professional capability **Validate Automation Solution** for the **Automation and Business Process Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `automation-validate-automation-solution`, `validate-automation-solution`, or the corresponding professional workflow: process-discovery-and-baselining | decide process scope, owners, variants, volumes, SLAs, controls, and baseline measures before automation | handoff to process owner, business analyst, operations SMEs, risk/control owners, and data owners"
+    },
+    {
+      "slug": "cybersecurity-zero-trust-architecture-review",
+      "score": 54,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Zero Trust Architecture Review** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-zero-trust-architecture-review`, `zero-trust-architecture-review`, or the corresponding professional workflow: Security architecture and zero-trust design review | define trust boundaries, identity/device/data enforcement points, segmentation, and secure access patterns for a proposed system or change | enterprise architects, IAM, network/platform engineering, privacy, application owners, and change advisory board"
+    },
+    {
+      "slug": "enterprise-loop-budget-controller",
+      "score": 54,
+      "domain": "grc",
+      "description": "Bound continuous agent loops by iteration, time, token, tool-call, cost and no-progress thresholds. Use when this bounded capability is required directly or by an orchestrator; preserves durable state, evidence, execution truth, review and structured handoffs."
+    },
+    {
+      "slug": "procurement-supplier-exit-readiness",
+      "score": 54,
+      "domain": "procurement",
+      "description": "Assess supplier exit readiness, downstream dependencies, and control obligations. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "cybersecurity-security-risk-analyst",
+      "score": 53,
+      "domain": "cybersecurity",
+      "description": "Use for cybersecurity work requiring the Security Risk Analyst role: security risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "ibm-sales-ext-customer-renewal-risk-route",
+      "score": 53,
+      "domain": "shared-execution",
+      "description": "Route validated renewal risk signals to the accountable account/CSM team with evidence, owner, timing, and permitted mitigation planning. Use when the IBM Sales control mode selects capability `customer-success.renewal-risk-route` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "sustainability-climate-risk-analyst",
+      "score": 53,
+      "domain": "sustainability",
+      "description": "Use for sustainability work requiring the Climate Risk Analyst role: climate risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "chief-of-staff-decision-rights-mapping",
+      "score": 52,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Decision Rights Mapping** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-decision-rights-mapping`, `decision-rights-mapping`, or the corresponding professional workflow: Decision-rights and escalation management | determine accountable owner, consultation threshold, escalation trigger, and whether the COS is advisor, coordinator, or delegated proxy | principal, functional executive, legal/risk, board secretary"
+    },
+    {
+      "slug": "chief-of-staff-escalation-triage",
+      "score": 52,
+      "domain": "chief-of-staff",
+      "description": "Perform the bounded professional capability **Escalation Triage** for the **Chief of Staff and Executive Orchestration** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `chief-of-staff-escalation-triage`, `escalation-triage`, or the corresponding professional workflow: Decision-rights and escalation management | determine accountable owner, consultation threshold, escalation trigger, and whether the COS is advisor, coordinator, or delegated proxy | principal, functional executive, legal/risk, board secretary"
+    },
+    {
+      "slug": "it-integration-interface-assessment",
+      "score": 52,
+      "domain": "shared-execution",
+      "description": "Assess integration interface health, ownership, dependency, and change risk. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "legal-contract-closeout-records",
+      "score": 52,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Closeout Records** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-closeout-records`, `contract-closeout-records`, or the corresponding professional workflow: contract-closeout-and-records-management | confirm completion, final acceptance/payment, unresolved claims, retention schedule, access restrictions, and authoritative record location | handoff to contract administrator, finance, records management, audit, legal, and business owner"
+    },
+    {
+      "slug": "procurement-assess-supply-chain-risk",
+      "score": 52,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Assess Supply Chain Risk** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-assess-supply-chain-risk`, `assess-supply-chain-risk`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-monitor-supplier-performance",
+      "score": 52,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Monitor Supplier Performance** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-monitor-supplier-performance`, `monitor-supplier-performance`, or the corresponding professional workflow: supplier-performance-and-relationship-management | set governance cadence, KPIs, service reviews, corrective actions, collaboration model, and escalation path proportional to supplier criticality | handoff to contract manager, service owner, supplier account team, risk/compliance, and executive sponsor"
+    },
+    {
+      "slug": "procurement-onboard-supplier",
+      "score": 52,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Onboard Supplier** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-onboard-supplier`, `onboard-supplier`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "procurement-perform-supplier-due-diligence",
+      "score": 52,
+      "domain": "procurement",
+      "description": "Perform the bounded professional capability **Perform Supplier Due Diligence** for the **Procurement and Vendor Management** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `procurement-perform-supplier-due-diligence`, `perform-supplier-due-diligence`, or the corresponding professional workflow: supplier-due-diligence-and-onboarding | assess legal identity, beneficial ownership, financial stability, sanctions/eligibility, security, privacy, provenance, subcontractors, ethics, and sustainability before activation | handoff to risk, compliance, information security, privacy, finance, master-data, and accounts-payable teams"
+    },
+    {
+      "slug": "cybersecurity-cyber-crisis-management",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Cyber Crisis Management** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-cyber-crisis-management`, `cyber-crisis-management`, or the corresponding professional workflow: Incident response and cyber-crisis management | prepare and exercise playbooks, classify incidents, preserve evidence, contain/eradicate/recover, coordinate notifications, and conduct lessons learned | incident commander, SOC, IT operations, legal, privacy, communications, executives, regulators, law enforcement, and affected customers"
+    },
+    {
+      "slug": "cybersecurity-identity-access-governance",
+      "score": 51,
+      "domain": "cybersecurity",
+      "description": "Perform the bounded professional capability **Identity Access Governance** for the **Cybersecurity and Security Governance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `cybersecurity-identity-access-governance`, `identity-access-governance`, or the corresponding professional workflow: Identity and access governance | establish joiner-mover-leaver, authentication, privileged access, entitlement review, and segregation-of-duties processes | HR, IAM operations, application/data owners, internal audit, and legal/compliance"
+    },
+    {
+      "slug": "finance-covenant-monitoring",
+      "score": 51,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Covenant Monitoring** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-covenant-monitoring`, `covenant-monitoring`, or the corresponding professional workflow: Financial risk and covenant monitoring | track exposure, liquidity, leverage, debt covenants, FX/rates, and counterparty assumptions"
+    },
+    {
+      "slug": "grc-controls-designer",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Controls Designer role: controls; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-controls-tester",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Controls Tester role: controls tester; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "grc-policy-management-specialist",
+      "score": 51,
+      "domain": "grc",
+      "description": "Use for grc work requiring the Policy Management Specialist role: policy management; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "legal-approval-signature-routing",
+      "score": 51,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Approval Signature Routing** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-approval-signature-routing`, `approval-signature-routing`, or the corresponding professional workflow: approval-and-signature-routing | verify authority matrix, budget/funding, required legal and control approvals, version integrity, and signature formalities | handoff to delegated business approver, legal approver, procurement, finance, and authorized signatory"
+    },
+    {
+      "slug": "legal-third-party-risk-assessment",
+      "score": 51,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Third Party Risk Assessment** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-third-party-risk-assessment`, `third-party-risk-assessment`, or the corresponding professional workflow: third-party-due-diligence-and-risk-assessment | assess supplier identity, sanctions/integrity, financial and operational resilience, subcontracting, security, privacy, and concentration risk | handoff to procurement, information security, privacy, finance, compliance, and risk acceptance authority"
+    },
+    {
+      "slug": "media-mastering-quality-control",
+      "score": 51,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Mastering Quality Control** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-mastering-quality-control`, `mastering-quality-control`, or the corresponding professional workflow: Prepare risk and safety plan | identify hazards, determine controls, appoint competent safety leads, and stop or modify work when risk is unacceptable | handoff to safety advisor, production manager, crew, insurers, and relevant authorities"
+    },
+    {
+      "slug": "supply-chain-supplier-due-diligence",
+      "score": 51,
+      "domain": "supply-chain",
+      "description": "Perform the bounded professional capability **Supplier Due Diligence** for the **Supply Chain Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `supply-chain-supplier-due-diligence`, `supplier-due-diligence`, or the corresponding professional workflow: Supplier onboarding and due diligence | verify identity, capabilities, financial/operational resilience, sanctions/compliance posture, cybersecurity and responsible-business evidence | Procurement, legal, information security, risk, quality"
+    },
+    {
+      "slug": "cio-business-continuity-planning",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "CIO Business Continuity Planning for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "healthcare-patient-safety-event-management",
+      "score": 49,
+      "domain": "healthcare",
+      "description": "Perform the bounded professional capability **Patient Safety Event Management** for the **Healthcare Operations and Compliance** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `healthcare-patient-safety-event-management`, `patient-safety-event-management`, or the corresponding professional workflow: patient-safety-event-management | capture adverse events and near misses, classify severity, conduct structured causal analysis, and implement/track corrective actions | patient-safety office, risk management, clinical leadership, quality committee, affected patients/families"
+    },
+    {
+      "slug": "it-application-portfolio-assessment",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "Assess application portfolio health, lifecycle, cost, risk, and modernization dependencies. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Enterprise Architecture and Portfolio Capability Director."
+    },
+    {
+      "slug": "it-capacity-risk-monitoring",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "Monitor capacity-risk signals and route controlled operational cases. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Cloud and Platform Operations Capability Director."
+    },
+    {
+      "slug": "it-technology-vendor-risk-review",
+      "score": 49,
+      "domain": "shared-execution",
+      "description": "Compile technology vendor risk, obligations, and renewal evidence. Use when a IT Service Management, Enterprise Architecture, Cloud, Application Portfolio, and FinOps case needs this bounded procedure under the Technology Asset and Vendor Management Capability Director."
+    },
+    {
+      "slug": "legal-risk-enterprise-risk-assessment-prep",
+      "score": 49,
+      "domain": "legal",
+      "description": "Prepare risk-assessment evidence, drivers, inherent/residual assumptions, and owners. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Enterprise Risk Management Capability Director."
+    },
+    {
+      "slug": "procurement-off-contract-spend-analysis",
+      "score": 49,
+      "domain": "procurement",
+      "description": "Identify off-contract spend patterns and prepare compliant remediation options. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-purchase-requisition-compliance",
+      "score": 49,
+      "domain": "procurement",
+      "description": "Review purchase requisitions for policy, budget, category, and approval exceptions. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "cio-technology-concentration-risk",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "CIO Technology Concentration Risk for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cyber-resilience-threat-intelligence-synthesis",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Synthesize approved threat intelligence into a scoped risk and detection review packet. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Threat Intelligence Capability Director."
+    },
+    {
+      "slug": "ibm-sales-scale-045",
+      "score": 48,
+      "domain": "shared-execution",
+      "description": "Create a deal-risk register that records evidence, probability/impact rationale, owner, mitigation option, dependency, and escalation threshold. Use when IBM Sales selects `discover.deal-risk` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "legal-amendment-change-control",
+      "score": 48,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Amendment Change Control** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-amendment-change-control`, `amendment-change-control`, or the corresponding professional workflow: change-order-and-amendment-control | determine whether a requested change is within scope, affects price/schedule/risk, or requires formal amendment and reapproval | handoff to contract owner, legal, procurement, finance, technical/security reviewers, and authorized signatory"
+    },
+    {
+      "slug": "cio-ai-risk-management",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "CIO AI Risk Management for AI. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-delivery-risk-management",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "CIO Delivery Risk Management for Portfolio & PMO. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-enterprise-risk-management",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Risk Management for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-risk-evidence-management",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "Eos Risk Evidence Management for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-risk-exception-management",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "Eos Risk Exception Management for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supplier-risk-management",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "Eos Supplier Risk Management for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "operations-stockout-risk-monitoring",
+      "score": 46,
+      "domain": "operations",
+      "description": "Monitor qualified stockout-risk signals and route controlled owner alerts. Use when a Supply Chain, Manufacturing, Quality, Field Operations, and Asset Management case needs this bounded procedure under the Inventory and Warehouse Operations Capability Director."
+    },
+    {
+      "slug": "procurement-certificate-expiry-monitoring",
+      "score": 46,
+      "domain": "procurement",
+      "description": "Monitor approved supplier certificate expiry and create controlled follow-up cases. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "procurement-purchase-approval-routing",
+      "score": 46,
+      "domain": "procurement",
+      "description": "Route purchase approvals with complete policy, budget, and evidence packets. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-purchase-order-change-triage",
+      "score": 46,
+      "domain": "procurement",
+      "description": "Classify purchase-order change requests and prepare an approval-ready exception packet. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Purchasing Controls Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-onboarding-readiness",
+      "score": 46,
+      "domain": "procurement",
+      "description": "Assess supplier onboarding readiness, required evidence, and missing controls. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Supplier Lifecycle Management Capability Director."
+    },
+    {
+      "slug": "revenue-renewal-risk-assessment",
+      "score": 46,
+      "domain": "shared-execution",
+      "description": "Assess renewal risk using adoption, service, commercial, and stakeholder evidence. Use when a Sales, Account Management, Customer Success, and Revenue Operations case needs this bounded procedure under the Customer Retention Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-compliance-evidence-compilation",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Compile security compliance evidence, gaps, and control-owner review tasks. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Governance Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-security-risk-register-update",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Prepare security risk-register update evidence, treatment options, and owners. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Governance Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-third-party-cyber-risk",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Compile third-party cyber-risk evidence, obligations, and review priorities. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Third-Party Cyber Risk Capability Director."
+    },
+    {
+      "slug": "data-strategy-dependency-risk-analysis",
+      "score": 45,
+      "domain": "data",
+      "description": "Analyze cross-program dependency risk and prepare accountable mitigation options. Use when a Data, Analytics, AI Governance, Product, Strategy, PMO, and Sustainability case needs this bounded procedure under the PMO and Delivery Governance Capability Director."
+    },
+    {
+      "slug": "eos-control-testing",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Eos Control Testing for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "ibm-sales-ext-solution-demo-poc-risk",
+      "score": 45,
+      "domain": "shared-execution",
+      "description": "Define demo or POC objectives, success criteria, data/security constraints, dependencies, risks, owners, and closure evidence. Use when the IBM Sales control mode selects capability `solution-assurance.demo-poc-risk` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "legal-risk-control-test-evidence",
+      "score": 45,
+      "domain": "legal",
+      "description": "Compile control-test evidence, population, exceptions, and reviewer traceability. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Assurance Capability Director."
+    },
+    {
+      "slug": "procurement-supplier-risk-signal-validation",
+      "score": 43,
+      "domain": "procurement",
+      "description": "Validate supplier-risk signals before case creation or owner notification. Use when a Procurement, Supplier Management, and Third-Party Risk case needs this bounded procedure under the Third-Party Risk Capability Director."
+    },
+    {
+      "slug": "program-management-risk-manager",
+      "score": 43,
+      "domain": "program-management",
+      "description": "Use for program management work requiring the Risk Manager role: risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cyber-resilience-disaster-recovery-exercise-pack",
+      "score": 42,
+      "domain": "shared-execution",
+      "description": "Prepare disaster-recovery exercise evidence, scenario, outcomes, and follow-up actions. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Resilience and Recovery Capability Director."
+    },
+    {
+      "slug": "cio-resilience-exercise-management",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "CIO Resilience Exercise Management for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "finance-scenario-modeling",
+      "score": 40,
+      "domain": "finance",
+      "description": "Perform the bounded professional capability **Scenario Modeling** for the **Corporate Finance and FP&A** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `finance-scenario-modeling`, `scenario-modeling`, or the corresponding professional workflow: Strategic planning and long-range modeling | translate corporate strategy into multi-year revenue, cost, cash-flow, and KPI scenarios"
+    },
+    {
+      "slug": "ibm-sales-scale-073",
+      "score": 40,
+      "domain": "shared-execution",
+      "description": "Create an internal churn-prevention assessment from validated risk signals, contract/adoption facts, owners, mitigations, and escalation thresholds. Use when IBM Sales selects `close.churn-prevention` for an authorized work item with the necessary source, policy, and owner controls."
+    },
+    {
+      "slug": "legal-contract-risk-issue-spotting",
+      "score": 40,
+      "domain": "legal",
+      "description": "Perform the bounded professional capability **Contract Risk Issue Spotting** for the **Legal Operations and Contract Risk** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `legal-contract-risk-issue-spotting`, `contract-risk-issue-spotting`, or the corresponding professional workflow: contract-risk-issue-spotting | extract obligations, dependencies, liability, indemnity, IP, confidentiality, data-use, audit, termination, insurance, and governing-law risks | handoff to responsible legal specialist and accountable business risk owner"
+    },
+    {
+      "slug": "legal-risk-policy-change-impact-analysis",
+      "score": 40,
+      "domain": "legal",
+      "description": "Analyze policy change impact, affected controls, training, systems, and owners. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Governance Capability Director."
+    },
+    {
+      "slug": "media-safety-risk-planning",
+      "score": 40,
+      "domain": "media",
+      "description": "Perform the bounded professional capability **Safety Risk Planning** for the **Media and Content Production** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `media-safety-risk-planning`, `safety-risk-planning`, or the corresponding professional workflow: Prepare risk and safety plan | identify hazards, determine controls, appoint competent safety leads, and stop or modify work when risk is unacceptable | handoff to safety advisor, production manager, crew, insurers, and relevant authorities"
+    },
+    {
+      "slug": "agency-operations-delivery-status-control",
+      "score": 37,
+      "domain": "agency",
+      "description": "Perform the bounded professional capability **Delivery Status Control** for the **Agency and Professional Services Operations** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `agency-operations-delivery-status-control`, `delivery-status-control`, or the corresponding professional workflow: delivery-planning-and-status-control | decide work breakdown, milestones, dependencies, risks, issues, reporting cadence, and forecast method | handoff among engagement manager, workstream leads, client product owner/sponsor, PMO, and executives"
+    },
+    {
+      "slug": "cio-cio-risk-summary",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO CIO Risk Summary for Executive Intelligence. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-resilience-strategy",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "CIO Technology Resilience Strategy for Resilience / Continuity. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cyber-resilience-crisis-coordination-case",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Coordinate crisis case evidence, decision log, roles, and communication dependencies. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Crisis Management Capability Director."
+    },
+    {
+      "slug": "eos-enterprise-scenario-planning",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Enterprise Scenario Planning for Executive Management. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-legal-risk-review",
+      "score": 37,
+      "domain": "shared-execution",
+      "description": "Eos Legal Risk Review for Legal. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "finance-credit-exposure-monitoring",
+      "score": 37,
+      "domain": "finance",
+      "description": "Monitor credit exposure against approved limits and route a review packet. Use when a Finance, Treasury, Accounting, and Tax case needs this bounded procedure under the Receivables and Credit Operations Capability Director."
+    },
+    {
+      "slug": "legal-risk-aml-case-evidence-prep",
+      "score": 37,
+      "domain": "legal",
+      "description": "Compile AML case evidence and escalation packet without determining suspicious activity. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Financial Crime Compliance Capability Director."
+    },
+    {
+      "slug": "legal-risk-board-governance-pack",
+      "score": 37,
+      "domain": "legal",
+      "description": "Prepare board-governance evidence pack, decision log, and action-tracking status. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Corporate Governance Capability Director."
+    },
+    {
+      "slug": "legal-risk-clause-variance-analysis",
+      "score": 37,
+      "domain": "legal",
+      "description": "Identify clause variance against approved playbook and prepare reviewer evidence. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Contract Operations Capability Director."
+    },
+    {
+      "slug": "cio-application-lifecycle-risk",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Application Lifecycle Risk for Applications. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-cloud-resilience-architecture",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Cloud Resilience Architecture for Infrastructure / Cloud / Platform. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-control-mapping",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Technology Control Mapping for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-risk-register",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Technology Risk Register for Governance / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-scenario-planning",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Technology Scenario Planning for CIO Strategy & Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-technology-vendor-risk",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Technology Vendor Risk for Vendor / Procurement. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "cio-third-party-cyber-risk",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "CIO Third Party Cyber Risk for Cybersecurity & Risk. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "continuity-control",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Extract, inherit, compare and report authoritative continuity state across scenes, shots, props, geography, knowledge and screen direction."
+    },
+    {
+      "slug": "customer-service-service-level-risk-monitoring",
+      "score": 34,
+      "domain": "customer-success",
+      "description": "Monitor case service-level risk and route controlled owner notifications. Use when a Customer Service, Support Operations, and Contact Center Quality case needs this bounded procedure under the Case Intake and Routing Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-badge-access-exception",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Review badge-access exceptions without granting or revoking access. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Physical Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-certificate-lifecycle-monitoring",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Monitor certificate lifecycle signals and create controlled renewal cases. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Identity Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-cloud-configuration-review",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Review cloud configuration evidence against approved policy and route exceptions. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Cloud Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-cyber-resilience-assessment",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Assess cyber-resilience readiness, recovery dependencies, and test evidence. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Resilience and Recovery Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-data-loss-case-preparation",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Prepare data-loss prevention case evidence, classification, and owner escalation. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Data Protection Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-encryption-coverage-review",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Assess encryption coverage evidence and remediation gaps. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Data Protection Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-endpoint-health-assessment",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Assess endpoint security health evidence, coverage, and remediation exceptions. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Endpoint Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-identity-access-anomaly",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Analyze identity-access anomalies and prepare controlled review cases. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Identity Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-security-alert-triage",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Triage security alerts with source, scope, confidence, and escalation evidence. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Operations Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-security-awareness-exception",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Review security-awareness completion exceptions and follow-up routing. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Governance Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-visitor-access-anomaly",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Prepare visitor-access anomaly evidence for authorized security review. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Physical Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-vulnerability-validation",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Validate vulnerability evidence, affected assets, exploit context, and owner routing. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Vulnerability Management Capability Director."
+    },
+    {
+      "slug": "enterprise-control-plane-orchestrator",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Enterprise Control Plane Orchestrator for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-evaluation-control-plane",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Enterprise Evaluation Control Plane for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "enterprise-observability-control-plane",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Enterprise Observability Control Plane for Enterprise Core. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-audit-control-traceability",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Audit Control Traceability for Internal Audit. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-delivery-risk",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Delivery Risk for Professional Services. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-renewal-risk",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Renewal Risk for Customer Success. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-risk-remediation",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Risk Remediation for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-risk-reporting",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Risk Reporting for Risk / Compliance. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-supply-chain-resilience",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Supply Chain Resilience for Supply Chain. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "eos-transformation-risk",
+      "score": 34,
+      "domain": "shared-execution",
+      "description": "Eos Transformation Risk for PMO / Transformation. Use when the enterprise operating system must execute, evaluate, or route this capability with durable state, evidence, governance, and watsonx deployment mappings."
+    },
+    {
+      "slug": "legal-risk-audit-finding-remediation",
+      "score": 34,
+      "domain": "legal",
+      "description": "Track audit-finding remediation evidence, due dates, and unresolved risk. Use when a Legal Operations, Privacy, Ethics, Regulatory Compliance, and Enterprise Risk case needs this bounded procedure under the Compliance Assurance Capability Director."
+    },
+    {
+      "slug": "marketing-social-risk-monitoring",
+      "score": 34,
+      "domain": "marketing",
+      "description": "Monitor approved social signals and open controlled reputational-risk cases. Use when a Marketing, Demand Generation, Brand, and Communications case needs this bounded procedure under the Brand and Communications Risk Capability Director."
+    },
+    {
+      "slug": "construction-project-controls-reporting",
+      "score": 32,
+      "domain": "construction",
+      "description": "Perform the bounded professional capability **Project Controls Reporting** for the **Construction and Capital Projects** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `construction-project-controls-reporting`, `project-controls-reporting`, or the corresponding professional workflow: project controls and performance reporting | maintain a common data set for scope, cost, schedule, progress, forecasts, risks, decisions, and stakeholder-specific reporting cadence | project manager, project controls, finance, sponsor, contractors, resource managers"
+    },
+    {
+      "slug": "customer-success-churn-risk-analyst",
+      "score": 31,
+      "domain": "customer-success",
+      "description": "Use for customer success work requiring the Churn Risk Analyst role: churn risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "cyber-resilience-forensics-preservation-readiness",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Assess digital-forensics preservation readiness and chain-of-custody requirements. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Incident Response Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-fraud-security-collaboration",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Prepare cross-functional fraud and security evidence packet for accountable investigators. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Operations Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-phishing-evidence-triage",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Compile phishing evidence, impacted users, and safe response routing. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Operations Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-physical-security-event-triage",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Triage physical-security events with safety, privacy, and command routing requirements. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Physical Security Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-privacy-breach-intake",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Classify potential privacy breach intake and route evidence to qualified privacy and security owners. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Data Protection Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-security-incident-case",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Create a controlled security incident case with timeline, evidence, and command routing. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Incident Response Capability Director."
+    },
+    {
+      "slug": "cyber-resilience-soar-action-draft",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Draft a SOAR response action for authorized approval; do not execute containment. Use when a Cybersecurity, Incident Response, Resilience, EHS, and Physical Security case needs this bounded procedure under the Security Operations Capability Director."
+    },
+    {
+      "slug": "finance-risk-analyst",
+      "score": 31,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Risk Analyst role: risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "finance-scenario-modeling-specialist",
+      "score": 31,
+      "domain": "finance",
+      "description": "Use for finance work requiring the Scenario Modeling Specialist role: scenario modeling; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "generation_risk_previs",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Generation Risk Previsualization specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "ibm-sales-ext-platform-workflow-change-control",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Evaluate requested changes to workflow routing, policy configuration, action adapters, dashboard projections, schemas, or notification behavior. Use when the IBM Sales control mode selects capability `platform-governance.workflow-change-control` for an authorized work item and the required policy, owner, and release conditions are satisfied."
+    },
+    {
+      "slug": "imitation_risk_audit",
+      "score": 31,
+      "domain": "shared-execution",
+      "description": "Use for media work requiring the Originality / Imitation Risk Audit specialist workflow; imported from a user-provided IBM Bob prototype and governed by QisBob-depth execution contracts."
+    },
+    {
+      "slug": "legal-contract-risk-reviewer",
+      "score": 31,
+      "domain": "legal",
+      "description": "Use for legal work requiring the Contract Risk Reviewer role: contract risk; produces evidence-backed artifacts with validation and structured handoffs."
+    },
+    {
+      "slug": "government-manage-public-sector-risks",
+      "score": 29,
+      "domain": "government",
+      "description": "Perform the bounded professional capability **Manage Public Sector Risks** for the **Government and Public Sector Delivery** domain. Prepare evidence-backed analysis and a reviewable artifact; do not make or represent an external, regulated, or human-reserved decision as completed. Activation guidance: Use when the work packet explicitly requests `government-manage-public-sector-risks`, `manage-public-sector-risks`, or the corresponding professional workflow: requirements and user-needs management | elicit, prioritize, baseline, and trace user, stakeholder, statutory, and operational requirements | service users, policy teams, delivery teams, accessibility specialists, solution architects"
+    }
+  ],
+  "primary_accountable": [
+    "cio-ai-risk-management",
+    "cio-cio-risk-summary",
+    "cio-resilience-exercise-management",
+    "cio-technology-concentration-risk",
+    "continuity-control",
+    "cybersecurity-cyber-risk-assessment",
+    "cybersecurity-resilience-recovery-validation",
+    "cybersecurity-security-control-assessment",
+    "eos-control-management",
+    "eos-enterprise-risk-management",
+    "eos-enterprise-scenario-planning",
+    "eos-legal-risk-review",
+    "eos-risk-evidence-management",
+    "eos-risk-exception-management",
+    "generation_risk_previs",
+    "ibm-sales-ext-solution-demo-poc-risk",
+    "imitation_risk_audit",
+    "it-application-portfolio-assessment",
+    "it-capacity-risk-monitoring",
+    "sustainability-climate-risk-analyst"
+  ],
+  "full_accountability_registry": "../../../../registry/skill_accountability.json"
+}

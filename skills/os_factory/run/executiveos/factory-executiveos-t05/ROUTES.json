@@ -1,0 +1,27 @@
+{
+  "pocket": "executiveos",
+  "team": "t05",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "ibm-sales-ext-identity-offboarding-revoke",
+    "chief-of-staff-board-materials-governance",
+    "chief-of-staff-escalation-triage",
+    "chief-of-staff-decision-rights-mapping",
+    "chief-of-staff-organizational-sensing",
+    "chief-of-staff-decision-record-management",
+    "chief-of-staff-executive-meeting-orchestration",
+    "chief-of-staff-executive-priority-shaping",
+    "chief-of-staff-privacy-aware-information-handling",
+    "chief-of-staff-risk-crisis-coordination",
+    "chief-of-staff-strategic-operating-cadence",
+    "chief-of-staff-executive-communications-control",
+    "chief-of-staff-cross-functional-initiative-coordination",
+    "chief-of-staff-executive-briefing-specialist",
+    "chief-of-staff-executive-decision-analyst",
+    "chief-of-staff-principal-transition-handoff",
+    "chief-of-staff-stakeholder-engagement-planning",
+    "chief-of-staff-decision-intelligence-specialist",
+    "chief-of-staff-executive-chief-of-staff",
+    "executive-okr-operating-system"
+  ]
+}

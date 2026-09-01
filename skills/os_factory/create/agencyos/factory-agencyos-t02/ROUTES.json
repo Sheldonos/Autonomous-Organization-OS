@@ -1,0 +1,27 @@
+{
+  "pocket": "agencyos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "agency-discovery-consultant",
+    "agency-operations-change-impact-assessment",
+    "agency-operations-time-cost-margin-control",
+    "agency-operations-engagement-qualification",
+    "agency-operations-contract-handoff",
+    "agency-operations-delivery-status-control",
+    "agency-operations-human-approval-gating",
+    "agency-operations-scope-baselining",
+    "agency-operations-conflict-of-interest-screening",
+    "agency-operations-engagement-closeout",
+    "agency-operations-records-retention-management",
+    "design-conduct-user-research",
+    "design-synthesize-research-evidence",
+    "ibm-qua-010",
+    "agency-operations-invoice-readiness-review",
+    "agency-operations-quality-review-orchestration",
+    "agency-operations-privacy-data-handling",
+    "agency-operations-resource-capacity-planning",
+    "agency-client-services-director",
+    "agency-operations-stakeholder-communications-governance"
+  ]
+}

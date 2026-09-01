@@ -1,0 +1,27 @@
+{
+  "pocket": "agencyos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "agency-operations-contract-handoff",
+    "agency-operations-human-approval-gating",
+    "agency-operations-scope-baselining",
+    "agency-scope-manager",
+    "agency-operations-change-impact-assessment",
+    "agency-operations-engagement-qualification",
+    "agency-operations-conflict-of-interest-screening",
+    "design-frame-design-challenge",
+    "sales-close-to-delivery-transition",
+    "agency-operations-time-cost-margin-control",
+    "agency-operations-delivery-status-control",
+    "design-prototype-service-interactions",
+    "program-management-project-governance",
+    "agency-operations-engagement-closeout",
+    "engineering-backlog-refinement-support",
+    "engineering-requirements-traceability",
+    "product-release-readiness-assessment",
+    "agency-operations-records-retention-management",
+    "engineering-dependency-update-assessment",
+    "sales-solution-alignment"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pocket": "studioos",
+  "required_or_optional_classes": [
+    "asset_store",
+    "production_mgmt",
+    "editing_pipeline",
+    "distribution",
+    "analytics"
+  ],
+  "credentials_included": false,
+  "write_rule": "writes require verified adapter + authority + policy + read-back"
+}

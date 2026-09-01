@@ -1,0 +1,27 @@
+{
+  "pocket": "supplyos",
+  "team": "t02",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "supply-chain-supply-demand-planning",
+    "supply-chain-inventory-optimization-specialist",
+    "supply-chain-inventory-analyst",
+    "supply-chain-logistics-analyst",
+    "supply-chain-supplier-dependency-analyst",
+    "supply-chain-transportation-analyst",
+    "supply-chain-warehouse-operations-analyst",
+    "supply-chain-capacity-planning-specialist",
+    "supply-chain-manufacturing-planning-specialist",
+    "supply-chain-network-optimization-specialist",
+    "supply-chain-production-planning-analyst",
+    "supply-chain-sourcing-analyst",
+    "supply-chain-distribution-network-analyst",
+    "supply-chain-kpi-analyst",
+    "supply-chain-lead-time-analyst",
+    "supply-chain-orchestrator",
+    "supply-chain-resilience-strategist",
+    "supply-chain-s-and-op-specialist",
+    "supply-chain-scenario-modeler",
+    "supply-chain-strategist"
+  ]
+}

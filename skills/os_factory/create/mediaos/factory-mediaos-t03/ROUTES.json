@@ -1,0 +1,27 @@
+{
+  "pocket": "mediaos",
+  "team": "t03",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "media-casting-research-specialist",
+    "writing-fact-checking-editor",
+    "writing-research-writer",
+    "media-editorial-fact-checking",
+    "media-accessibility-localization",
+    "media-creative-briefing",
+    "media-provenance-tracking",
+    "marketing-consent-eligibility-check",
+    "marketing-nurture-journey-quality-check",
+    "media-content-capture",
+    "media-content-performance-review",
+    "media-correction-takedown-governance",
+    "media-distribution-packaging",
+    "media-post-production-editing",
+    "curriculum-architect",
+    "media-distribution-preparation-specialist",
+    "media-mastering-quality-control",
+    "media-media-asset-management",
+    "media-production-scheduling",
+    "media-release-management"
+  ]
+}

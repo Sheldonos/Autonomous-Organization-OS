@@ -1,0 +1,27 @@
+{
+  "pocket": "researchos",
+  "team": "t06",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "simulation-scenario-modeler",
+    "quantum-research-orchestrator",
+    "simulation-decision-tree-analyst",
+    "intelligence-collect-source-metadata",
+    "intelligence-discover-public-sources",
+    "intelligence-evaluate-source-credibility",
+    "intelligence-preserve-data-provenance",
+    "research-search-strategy-design",
+    "simulation-competitive-response-simulator",
+    "simulation-market-simulation-specialist",
+    "simulation-sensitivity-analyst",
+    "simulation-uncertainty-analyst",
+    "intelligence-analyze-patterns-and-trends",
+    "intelligence-build-decision-dashboards",
+    "intelligence-conduct-peer-review",
+    "intelligence-define-intelligence-requirements",
+    "intelligence-produce-intelligence-briefings",
+    "research-living-review-monitoring",
+    "research-protocol-preregistration",
+    "research-question-framing"
+  ]
+}

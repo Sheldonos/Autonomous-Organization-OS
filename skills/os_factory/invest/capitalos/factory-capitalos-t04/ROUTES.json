@@ -1,0 +1,27 @@
+{
+  "pocket": "capitalos",
+  "team": "t04",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "finance-financial-analyst",
+    "finance-financial-modeling-specialist",
+    "finance-financial-policy-query-triage",
+    "finance-financial-statement-analyst",
+    "investment-financial-due-diligence-analyst",
+    "finance-covenant-monitoring",
+    "real-estate-facilities-financial-reporting",
+    "finance-executive-decision-support",
+    "finance-financial-close-support",
+    "finance-management-reporting",
+    "finance-financial-quality-reviewer",
+    "intelligence-triangulate-and-test-hypotheses",
+    "intelligence-validate-data-quality",
+    "investment-market-due-diligence-analyst",
+    "finance-capital-allocation",
+    "institutional-investment-playbook",
+    "real-estate-portfolio-strategy",
+    "investment-committee-analyst",
+    "investment-committee-critic",
+    "investment-commercial-due-diligence-analyst"
+  ]
+}

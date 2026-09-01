@@ -1,0 +1,27 @@
+{
+  "pocket": "legalos",
+  "team": "integration",
+  "type": "team_wrapper",
+  "canonical_children": [
+    "legal-obligation-management",
+    "legal-contract-clause-extractor",
+    "legal-clause-classification-specialist",
+    "legal-clause-comparison-analyst",
+    "legal-contract-lifecycle-specialist",
+    "legal-contract-parser",
+    "legal-employment-agreement-reviewer",
+    "legal-general-counsel-advisor",
+    "legal-ip-contract-specialist",
+    "legal-privacy-contract-specialist",
+    "legal-procurement-contract-specialist",
+    "legal-case-law-researcher",
+    "legal-citation-reviewer",
+    "legal-escalation-coordinator",
+    "legal-memorandum-writer",
+    "legal-orchestrator",
+    "legal-statutory-researcher",
+    "eos-contract-obligation-management",
+    "eos-contract-intake",
+    "eos-legal-research-support"
+  ]
+}
