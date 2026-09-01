@@ -1,279 +1,208 @@
-# Federated Autonomous Organization OS · v1.2.0
+# Federated Autonomous Organization OS
 
-> **Production-ready software release** — a single autonomous operating system that routes durable enterprise goals through a governed federation of 7 sectors, 48 specialist pockets, 492 execution teams, 3,212 canonical skills, and 540 factory wrapper skills. DealOS v1.0.1 is embedded as the deepest vertical implementation.
+> **FAOS v1.2.0** — A production-ready autonomous organization operating system built on a pinned 3,212-skill / 1,244-role enterprise capability substrate. Seven sectors, 48 specialist OS pockets, 492 execution teams, and 540 factory wrapper skills — with DealOS v1.0.1 embedded as its deepest vertical.
 
-[![Release](https://img.shields.io/badge/release-v1.2.0-blue)](RELEASE_NOTES.md)
-[![Status](https://img.shields.io/badge/status-production--ready-brightgreen)](manifest.yaml)
-[![Audit](https://img.shields.io/badge/audit-passed-brightgreen)](release/)
-[![Skills](https://img.shields.io/badge/canonical%20skills-3212-blue)](registry/skill_accountability.json)
-[![Pockets](https://img.shields.io/badge/pockets-48-blue)](registry/pockets.json)
+[![Version](https://img.shields.io/badge/version-1.2.0-0F62FE?style=flat-square)](https://github.com/Sheldonos/Autonomous-Organization-OS)
+[![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen?style=flat-square)](https://github.com/Sheldonos/Autonomous-Organization-OS)
+[![Skills](https://img.shields.io/badge/canonical%20skills-3%2C212-blueviolet?style=flat-square)](./registry)
+[![Pockets](https://img.shields.io/badge/OS%20pockets-48-orange?style=flat-square)](./registry)
 
 ---
 
-## What is FAOS?
+## What This Is
 
-The **Federated Autonomous Organization OS** is an autonomous enterprise execution engine. It does not require a human to type "continue" — active goals live in durable state, and a bounded autonomy loop advances work within governed authority boundaries whenever a goal has progress available.
-
-Every canonical skill has exactly one accountable segment/pocket/team in the registry. Skills are hydrated on demand; the 3,212 skills are a shared capability kernel, not 3,212 always-on agents.
+FAOS is an **OS factory for autonomous enterprise operations**. It turns a structured goal into a governed execution chain without requiring a human to repeatedly say "continue."
 
 ```
-GOAL
-  └─► EnterpriseOS
-        └─► sector / pocket (48 specialists)
-              └─► team (492 execution / assurance / integration)
-                    └─► canonical or dynamic skill
-                          └─► certified connector
-                                └─► policy check
-                                      └─► action / draft
-                                            └─► read-back + evidence
-                                                  └─► next bounded job
+GOAL → EnterpriseOS → sector/pocket → team → canonical/dynamic skills
+     → connector → policy → action/draft → read-back → evidence → next bounded job
 ```
 
----
-
-## Architecture at a glance
-
-| Layer | Technology / Pattern | Key Files |
-|-------|---------------------|-----------|
-| **Federation control plane** | Python 3.x, `aos.py` CLI | `aos.py`, `manifest.yaml` |
-| **Sector / Pocket registry** | JSON manifests, 7 sectors / 48 pockets | `registry/pockets.json`, `registry/segments.json` |
-| **Skill accountability ledger** | SHA-256-verified, every skill has one owner | `registry/skill_accountability.json` |
-| **Router** | Intent → pocket scoring | `runtime/router.py` |
-| **Job runner** | Bounded worker execution, executor handoff | `runtime/job_runner.py` |
-| **Durable eventing** | SQLite outbox, dedupe, retry, dead-letter | `runtime/eventing.py` |
-| **Proactivity engine** | Autonomy tick, bounded self-start | `runtime/proactivity.py` |
-| **MCP assimilator** | Capability discovery, dynamic skill gen | `runtime/mcp_assimilator.py` |
-| **Policy plane** | DENY / ALLOW / APPROVAL rules | `runtime/policy.py`, `policies/` |
-| **State store** | SQLite mission store | `runtime/state.py` |
-| **Capability registry** | SQLite capability DB | `runtime/capability_registry.py` |
-| **Control API** | ThreadingHTTPServer REST | `scripts/control_api.py` |
-| **Durable self-improvement** | Quarantined proposals | `runtime/self_improvement.py` |
-| **Disaster recovery** | Backup/restore, 3-2-1-1-0 DR | `scripts/backup_state.py`, `scripts/restore_state.py` |
-| **Deployment** | Docker, docker-compose, Kubernetes, air-gap | `Dockerfile`, `docker-compose.yml`, `deployment/` |
-| **Test suite** | pytest (10 tests, all green) | `tests/test_factory.py` |
+The 3,212 skills are a **shared capability kernel**, not 3,212 always-on agents. Every canonical skill has one accountable segment/pocket/team in `registry/skill_accountability.json`, may have secondary routes, and is hydrated only when a bounded job needs it.
 
 ---
 
-## Segments (7 sectors, 48 pockets)
+## Architecture
 
-| Segment | Purpose |
-|---------|---------|
-| **create** | Product / content / IP generation |
-| **sell** | Revenue, GTM, DealOS embedded vertical |
-| **make** | Engineering, delivery, SDLC |
-| **run** | Operations, infrastructure, SRE |
-| **protect** | Security, compliance, GRC |
-| **invest** | Finance, portfolio, capital allocation |
-| **learn** | Enablement, knowledge, training |
+| Layer | What It Does |
+|---|---|
+| **Federation Control Plane** | Routes durable goals through the smallest sufficient pocket/team bundle |
+| **7 Sectors / 48 Pockets** | Domain-organized OS pockets owning bounded capability surfaces |
+| **492 Execution Teams** | Execution, assurance, and integration teams within each pocket |
+| **540 Wrapper Skills** | First-party OS factory skills wrapping the canonical substrate |
+| **Adaptive MCP Assimilation** | Discovers, hashes, classifies, and maps new tools/connectors at runtime |
+| **Goal-Directed Proactivity** | Bounded autonomy tick advances durable goals without human "continue" prompts |
+| **Global Policy Plane** | Connector certification, read-back contracts, and consequential-action governance |
+| **Resilience / Continuity Plane** | Durable event queue, blue/green rollout, DR, air-gap, and OCI supply chain |
+
+### Embedded Products
+
+| Product | Version | Description |
+|---|---|---|
+| **DealOS** | v1.0.1 | Full enterprise deal execution vertical — 505 source skills, 12 wrappers, 13 n8n workflows |
 
 ---
 
-## Quick Start
+## Key Capabilities
 
-### Prerequisites
+### 🔄 Adaptive Capability Assimilation
+When a new MCP/tool connects, FAOS discovers its advertised tools/resources/prompts, hashes and diffs the capability surface, classifies side effects, maps capabilities to pockets, generates quarantined dynamic skills, and re-evaluates blocked goals. This is **capability learning** — not model retraining.
 
-- Python 3.10+ (`python3`)
-- Docker (optional, for containerized deployment)
+### ⚡ Bounded Self-Starting Job Loop
+Active goals live in durable state. A bounded autonomy tick queues the next job when:
+- A goal has pending work
+- A blocker changes or a connector surface changes
+- An evaluation fails
+- An approved schedule/condition becomes due
 
-### Installation
+Every cycle enforces budgets, deduplication, retries, and stop conditions.
 
+### 🔒 Production Governance
+Tool availability is never authorization. External messages, production deployments, purchases, permission changes, and legal filings remain gated by the policy plane and connector certification read-back rules.
+
+### 🏗️ Resilience Plane (v1.2.0)
+- Durable event queue with dedupe, retry, exponential backoff, and dead-letter state
+- Zero-downtime blue/green/canary deployment with schema expand-migrate-contract
+- Data-safe rollback preserving queued work and evidence
+- 3-2-1-1-0 DR model with off-site/immutable copies
+- Air-gapped/cold-room profile with internal-only container networking
+- OCI image versioning and egress-cost controls
+
+---
+
+## Quickstart
+
+### 1. Validate the release
 ```bash
-git clone https://github.com/Sheldonos/Federated_Autonomous_Organization_OS_v1.2.0.git
-cd Federated_Autonomous_Organization_OS_v1.2.0
+python scripts/validate_release.py
+python scripts/smoke_test.py
+python scripts/audit_package.py
 ```
 
-No external Python dependencies are required for the core runtime — the OS uses the standard library only. The optional DealOS sub-package has its own `requirements.txt` inside `segments/sell/dealos/`.
-
-### Validate the release
-
+### 2. Explore and route
 ```bash
-python3 scripts/validate_release.py   # SHA-256 integrity + structure check
-python3 scripts/smoke_test.py         # 10-check functional smoke test
-python3 scripts/audit_package.py      # Secret scan + compile check
+python aos.py list
+python aos.py route "Find an RFP, build the winning submission, and pursue the deal"
+python aos.py accountability accounting-accounts-payable-analyst
 ```
 
-### Run the CLI
-
+### 3. Create a durable goal and let the proactivity loop advance it
 ```bash
-# List all pockets and their routing weights
-python3 aos.py list
-
-# Route a natural-language goal to the best-fit pocket
-python3 aos.py route "research the market, build the product and sell it"
-
-# Create a durable goal
-python3 aos.py goal "Grow revenue from qualified enterprise opportunities"
-
-# Advance all active goals one bounded tick
-python3 aos.py tick
-
-# Assimilate a new MCP connector surface
-python3 aos.py assimilate-mcp \
-  --snapshot tests/sample_mcp_snapshot.json \
-  --connector-id sample-crm
+python aos.py goal "Build and sell a new AI product" --priority 80
+python aos.py tick
 ```
-
-### Start the Control API
-
+Run the daemon workers to schedule and execute bounded jobs automatically:
 ```bash
-python3 scripts/control_api.py --host 127.0.0.1 --port 8080
+python scripts/autonomy_tick.py --daemon --seconds 300
+python scripts/run_worker.py --daemon --seconds 10
 ```
+Review `policies/autonomy_budget.yaml` before enabling daemon execution.
 
-Authenticated endpoints (Bearer token required):
-
-| Method | Path | Description |
-|--------|------|-------------|
-| `GET` | `/health` | Liveness check |
-| `GET` | `/pockets` | List all registered pockets |
-| `POST` | `/route` | Score a goal against pockets |
-| `POST` | `/goal` | Create a durable goal |
-| `POST` | `/tick` | Run one autonomy tick |
-
-### Docker
-
+### 4. Connect a new MCP/tool
 ```bash
-docker build -t faos:1.2.0 .
-docker-compose up
+# From a normalized capability snapshot
+python aos.py assimilate-mcp --snapshot capability_snapshot.json --connector-id my-mcp
+
+# From a live MCP 2026-07-28 HTTP endpoint
+python aos.py assimilate-mcp --url https://example.com/mcp --connector-id my-mcp --token-env MY_MCP_TOKEN
+
+# Certify after testing
+python aos.py certify-connector my-mcp
+python aos.py certify-connector my-mcp --write --readback
 ```
 
-Air-gapped / offline deployment: see `deployment/airgap/` and `docker-compose.airgap.yml`.
+### 5. Hydrate only the team you need
+```bash
+python aos.py hydrate dealos --team t01 --max-skills 12 --dest /tmp/deal-discovery
+```
+
+### 6. Production deploy
+```bash
+cp config/production.example.json config/production.json
+export FAOS_API_KEY=$(python -c 'import secrets; print(secrets.token_hex(32))')
+docker compose up -d
+```
+`/ready` fails until all required connector classes are bound and certified.
 
 ---
 
-## Key concepts
-
-### Adaptive MCP assimilation
-
-When a new MCP/tool connector is reported, FAOS:
-1. Discovers the full capability surface (tools, resources, prompts)
-2. Hashes and diffs against the prior capability state
-3. Classifies side effects (read-only vs. write vs. consequential)
-4. Maps capabilities to their owning pockets
-5. Generates quarantined dynamic wrapper skills
-6. Re-evaluates previously blocked goals
-
-This is **capability learning** — not hidden weight retraining. See [`docs/MCP_ADAPTIVE_AUTONOMY.md`](docs/MCP_ADAPTIVE_AUTONOMY.md).
-
-### Governed proactivity
-
-FAOS does not require a human to prompt every step. The autonomy tick advances active goals within hard authority boundaries:
-
-- Every cycle has token/cost/action budgets
-- Dedupe prevents duplicate job queuing
-- Consequential side effects (money movement, external messages, production deploys) require explicit connector certification + policy approval
-- Stop conditions prevent infinite loops
-
-See [`docs/PROACTIVITY_MODEL.md`](docs/PROACTIVITY_MODEL.md).
-
-### Policy plane
-
-Three rule classes govern every action:
-
-| Rule | Effect |
-|------|--------|
-| `DENY` | Hard block — action is rejected regardless of intent |
-| `ALLOW` | Permitted within stated scope |
-| `APPROVAL` | Queued for human confirmation before execution |
-
-See [`policies/global_autonomy.yaml`](policies/global_autonomy.yaml) and [`policies/autonomy_budget.yaml`](policies/autonomy_budget.yaml).
-
-### Durable eventing
-
-All inter-component signals travel through a SQLite transactional outbox:
-- Exactly-once delivery with deduplication keys
-- Exponential-backoff retry
-- Dead-letter state for un-retryable failures
-- Crash recovery for stale `RUNNING` events
-
-See [`docs/EVENTING_AND_BACKPRESSURE.md`](docs/EVENTING_AND_BACKPRESSURE.md).
-
----
-
-## Resilience & operations
-
-| Capability | Reference |
-|-----------|-----------|
-| Zero-downtime blue/green/canary upgrade | [`docs/ZERO_DOWNTIME_UPGRADES_AND_BACKOUT.md`](docs/ZERO_DOWNTIME_UPGRADES_AND_BACKOUT.md) |
-| 3-2-1-1-0 disaster recovery | [`docs/DISASTER_RECOVERY_AND_SITE_RESILIENCE.md`](docs/DISASTER_RECOVERY_AND_SITE_RESILIENCE.md) |
-| Hybrid / on-prem / air-gap profiles | [`docs/HYBRID_ON_PREM_AND_AIR_GAPPED.md`](docs/HYBRID_ON_PREM_AND_AIR_GAPPED.md) |
-| Backup and restore | `scripts/backup_state.py`, `scripts/restore_state.py` |
-| Deployment acceptance checklist | [`deployment/ACCEPTANCE_CHECKLIST.md`](deployment/ACCEPTANCE_CHECKLIST.md) |
-| Production architecture | [`docs/PRODUCTION_ARCHITECTURE.md`](docs/PRODUCTION_ARCHITECTURE.md) |
-| Storage, versioning, egress controls | [`docs/STORAGE_VERSIONING_AND_EGRESS.md`](docs/STORAGE_VERSIONING_AND_EGRESS.md) |
-
----
-
-## Release & audit
-
-This release was produced under a full 9-stage engineering audit:
-
-| Stage | Result |
-|-------|--------|
-| Repository Discovery | ✅ |
-| Technical Audit | ✅ 0 Critical · 0 High · 1 Medium · 3 Low |
-| Product Decision Gate | ✅ Auth-by-default applied to all API endpoints |
-| Remediation | ✅ All findings fixed — commit `72c0cc9` |
-| Independent Verification | ✅ All fixes source-verified |
-| Validation | ✅ All 5 test suites green |
-| User Journey Audit | ✅ No broken flows |
-| Beta Readiness Triage | ✅ No must-fix items |
-| Release Report | ✅ **GO** |
-
-Audit evidence: [`release/`](release/)
-
----
-
-## Market and deployment packaging
-
-| Document | Description |
-|---------|-------------|
-| [`market/PRODUCT_CATALOG.md`](market/PRODUCT_CATALOG.md) | Full federation and per-pocket product offerings |
-| [`market/DEPLOYMENT_OFFERINGS.md`](market/DEPLOYMENT_OFFERINGS.md) | Deployment tiers and SLA profiles |
-| [`market/MARKET_READINESS.md`](market/MARKET_READINESS.md) | Market readiness checklist |
-| [`market/BUYER_SECURITY_AND_GOVERNANCE.md`](market/BUYER_SECURITY_AND_GOVERNANCE.md) | Security and governance posture for buyers |
-
----
-
-## Provenance and licensing
-
-The pinned 3,212-skill capability substrate is preserved as a SHA-256-verified source archive. Every canonical `SKILL.md` is checked against its registered hash at release validation.
-
-User-provided and upstream-origin content retains its original provenance and licensing obligations. Do not invent a blanket license for material whose upstream rights have not been independently verified. See [`market/DISTRIBUTION_RIGHTS_CHECKLIST.md`](market/DISTRIBUTION_RIGHTS_CHECKLIST.md).
-
----
-
-## Repository structure
+## Repository Structure
 
 ```
-.
-├── aos.py                          # Main CLI entrypoint
-├── manifest.yaml                   # Release manifest (version, architecture, substrate hashes)
-├── Dockerfile / docker-compose.yml # Container deployment
-├── runtime/                        # Core OS runtime modules
-│   ├── router.py                   # Intent → pocket scorer
-│   ├── job_runner.py               # Bounded job execution
-│   ├── eventing.py                 # Durable event queue
-│   ├── proactivity.py              # Autonomy tick engine
-│   ├── mcp_assimilator.py          # MCP capability ingestion
-│   ├── policy.py                   # Policy enforcement
-│   ├── state.py                    # Mission state store
-│   └── capability_registry.py      # Capability DB
-├── segments/                       # 7 sectors, 48 specialist pockets
-│   ├── create/ invest/ learn/
-│   ├── make/ protect/ run/ sell/
-├── registry/                       # Skill accountability ledger + pocket/segment registries
-├── policies/                       # Global autonomy and budget policies
-├── scripts/                        # Operational scripts (validate, smoke, control API, DR)
-├── tests/                          # pytest test suite
-├── docs/                           # 16 architecture and operations docs
-├── deployment/                     # Acceptance checklist, runbooks, air-gap profiles
-├── schemas/                        # JSON schemas for registry + manifests
-├── market/                         # Product catalog, deployment offerings, licensing
-├── storage/                        # Storage class definitions
-├── config/                         # Production config examples
-└── release/                        # Audit evidence and release artifacts
+Autonomous-Organization-OS/
+├── aos.py                      ← Primary CLI entrypoint
+├── manifest.yaml               ← System manifest (versions, substrate SHA-256)
+├── AGENTS.md                   ← Federation agent operating contract
+├── QUICKSTART.md               ← Quickstart guide
+├── RELEASE_NOTES.md            ← v1.2.0 release notes
+├── Dockerfile / docker-compose.yml
+├── compiler/                   ← Goal compilation and routing logic
+├── config/                     ← Environment and production configuration
+├── connectors/                 ← Connector certification and adapter layer
+├── deployment/                 ← Acceptance checklist and deployment tooling
+├── docs/                       ← Architecture docs, MCP assimilation, resilience
+├── market/                     ← Product catalog, deployment offerings, market readiness
+├── policies/                   ← Global autonomy, budget, and governance policies
+├── registry/                   ← Segments, pockets, skill accountability ledger
+├── release/                    ← Release gates and validation artifacts
+├── runtime/                    ← MCP assimilator, worker, tick engine
+├── schemas/                    ← Data contracts and output schemas
+├── scripts/                    ← Validate, audit, smoke test, control API
+├── segments/                   ← 7-sector factory segment definitions
+├── skills/                     ← 540 OS factory wrapper skills
+├── storage/                    ← Durable state, event queue, backup/restore
+├── substrate/                  ← 3,212-skill / 1,244-role canonical capability substrate
+├── teams/                      ← 492 execution/assurance/integration team definitions
+└── tests/                      ← Test suite and sample MCP snapshots
 ```
 
 ---
 
-<sub>FAOS v1.2.0 · Audited release · IBM Enterprise Autonomous Operations OS substrate v2.0.0-rc1 · DealOS v1.0.1 embedded</sub>
+## Capability Substrate
+
+| Metric | Value |
+|---|---|
+| Canonical Skills | 3,212 |
+| Roles | 1,244 |
+| OS Factory Wrapper Skills | 540 |
+| Sectors | 7 |
+| OS Pockets | 48 |
+| Execution Teams | 492 |
+| Substrate SHA-256 | `bf1cbdad213c6ec2f9e6d87c3294ef2a1da95694bea5ce4939f6ad5ec84c93fc` |
+
+---
+
+## Production Boundary
+
+The software distribution is **production-ready**. A live tenant is separately production-certified after its actual identity, credentials, connectors, permissions, write read-back, data contracts, recovery procedures, and decision rights pass `deployment/ACCEPTANCE_CHECKLIST.md`.
+
+Completion truth: a tool call is not proof of a business outcome. FAOS records identifiers, timestamps, partial failures, authoritative read-back, evidence, and residual risk at every consequential step.
+
+---
+
+## Market / Product Packaging
+
+The full federation or any individual pocket can be deployed as a standalone product. See:
+- `market/PRODUCT_CATALOG.md`
+- `market/DEPLOYMENT_OFFERINGS.md`
+- `market/MARKET_READINESS.md`
+
+---
+
+## What's New in v1.2.0
+
+See [`RELEASE_NOTES.md`](./RELEASE_NOTES.md) for the full changelog. Highlights:
+- Durable event-driven execution with transactional outbox
+- Event-triggered goal advancement (bite-sized model work, no continuous reasoning loop)
+- Deployment drain/kill switch for executor handoffs
+- Idempotent consequential-action receipt contract
+- Zero-downtime blue/green/canary rollout
+- 3-2-1-1-0 DR with restore/failover drills
+- Air-gapped/cold-room runtime profile
+- OCI immutable container supply chain
+
+---
+
+<div align="center">
+  <sub>Federated Autonomous Organization OS · v1.2.0 · Production Ready Software Release</sub>
+</div>
